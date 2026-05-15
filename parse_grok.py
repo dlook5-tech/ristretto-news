@@ -7,16 +7,13 @@ import sys, json, re, datetime
 import curation
 
 def load_previous_stories():
-    """Safely load previous stories for velocity hold"""
+    """Load previous stories keyed BY TAB so tabs don't bleed into each other."""
     try:
         with open('stories.json', 'r') as f:
             data = json.load(f)
-            all_stories = []
-            for tab_data in data.get('stories', {}).values():
-                all_stories.extend(tab_data.get('stories', []))
-            return all_stories
+            return {tab: t.get('stories', []) for tab, t in data.get('stories', {}).items()}
     except:
-        return []
+        return {}
 
 raw = sys.stdin.read().strip()
 
@@ -49,7 +46,8 @@ for tab in tabs:
                 cleaned.append(item)
 
     # Core curation call - this is the only decision logic
-    chosen = curation.curate(tab, previous, cleaned, top_n=3)
+    # Only consider previous stories from THIS tab (no cross-tab bleed).
+    chosen = curation.curate(tab, previous.get(tab, []), cleaned, top_n=3)
     output[tab] = {'stories': chosen}
 
 final = {
