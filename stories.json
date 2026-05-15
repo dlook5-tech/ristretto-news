@@ -1,47 +1,397 @@
 {
   "stories": {
     "world": {
-      "stories": []
+      "stories": [
+        {
+          "handle": "BBCWorld",
+          "url": "https://x.com/BBCWorld/status/2055032684586406102",
+          "headline": "Trump and Xi hold talks but no trade deal agreed",
+          "body": "Trump and Xi hold talks but no trade deal agreed https://www.bbc.com/news/articles/clypj01189lo?xtor=AL-71-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_link_type=web_link&at_medium=social&at_campaign=Social_Flow&at_ptr_name=twitter&at_bbc_team=editorial&at_link_origin=BBCWorld&at_campaign_type=owned&at_link_id=1F8F3C76-4FD9-11F1-8AA3-C433276C10E7&at_format=link",
+          "engagement": "57K views",
+          "views": 56597
+        },
+        {
+          "handle": "BBCWorld",
+          "url": "https://x.com/BBCWorld/status/2054891123382862331",
+          "headline": "Former Nigerian minister sentenced to 75 years in rare corruption verdict",
+          "body": "Former Nigerian minister sentenced to 75 years in rare corruption verdict https://www.bbc.com/news/articles/c0j296392j1o?xtor=AL-71-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_campaign=Social_Flow&at_link_id=8A3A3B56-4F8A-11F1-A244-ED0D888DB855&at_campaign_type=owned&at_medium=social&at_link_origin=BBCWorld&at_link_type=web_link&at_ptr_name=twitter&at_format=link&at_bbc_team=editorial",
+          "engagement": "89K views",
+          "views": 89339
+        },
+        {
+          "handle": "TIME",
+          "url": "https://x.com/TIME/status/2055016572574638208",
+          "headline": "Trump states Xi Jinping wants to help resolve Strait of Hormuz conflict",
+          "body": "Following their summit meeting in Beijing, Trump told Fox News that Xi Jinping would like to help resolve the conflict and reopen the narrow waterway through which roughly a fifth of the world\u2019s oil and gas supplies pass https://time.com/article/2026/05/14/trump-xi-china-iran-strait-hormuz/?utm_source=twitter&utm_medium=social&utm_campaign=editorial&utm_content=140526",
+          "engagement": "12K views",
+          "views": 11592
+        }
+      ]
     },
     "usa": {
-      "stories": []
+      "stories": [
+        {
+          "handle": "TuiteroSismico",
+          "url": "https://x.com/TuiteroSismico/status/2055017485234315635",
+          "headline": "Post alleges President Trump pleaded with Chinese President Xi Jinping for reciprocal trade investments from top US business leaders.",
+          "body": "\ud83d\udea8 \u00a1BOMBAZO QUE DUELE! \ud83d\ude33\nTrump mir\u00f3 a Xi Jinping con ojos casi suplicantes y solt\u00f3 esto que dej\u00f3 la sala en completo silencio\u2026 como si estuviera rogando:\n\u00abTraje conmigo a los 30 l\u00edderes empresariales m\u00e1s poderosos del mundo\u2026 y todos aceptaron venir.\nNo mand\u00e9 al segundo de a bordo ni al vicepresidente\u2026\nQuer\u00eda al n\u00famero uno de cada imperio: Jensen Huang, Tim Cook, Elon Musk\u2026 los mejores del planeta est\u00e1n aqu\u00ed, justo delante de ti\u2026\u00bb\nLuego, con voz casi temblorosa y esa sonrisa forzada, remat\u00f3 casi rogando:\n\u00abHoy est\u00e1n aqu\u00ed para rendirle respeto a ti y a China\u2026 Vienen con ganas de hacer negocios, invertir y construir.\nDe nuestra parte\u2026 te pido que sea 100% rec\u00edproco\u2026 por favor.\u00bb\nEsto no es dominio.\nEsto es un presidente rogando por un s\u00ed de China. \ud83d\udcbc\ud83c\udde8\ud83c\uddf3\n\u00bfViste eso? El \u201cart of the deal\u201d convertido en s\u00faplica en vivo.\nRT si est\u00e1s viendo c\u00f3mo cae el mito.",
+          "engagement": "2M views",
+          "views": 2046182
+        },
+        {
+          "handle": "WhiteHouse",
+          "url": "https://x.com/WhiteHouse/status/2054986537775911168",
+          "headline": "White House post highlights renewed American strength in international relations with China.",
+          "body": "American strength back on the world stage. \ud83c\uddfa\ud83c\uddf8\ud83c\udde8\ud83c\uddf3",
+          "engagement": "1.2M views",
+          "views": 1259128
+        },
+        {
+          "handle": "mattvanswol",
+          "url": "https://x.com/mattvanswol/status/2055070060738228463",
+          "headline": "User expresses frustration with Republican Party's priorities amid Trump administration actions.",
+          "body": "I HAVE ABSOLUTELY HAD IT WITH THE GOP!!!!!!!!\n\nJD VANCE IS OUT THERE FINDING FRAUD EVERYWHERE...\n\nPRESIDENT TRUMP IS CUTTING DEALS IN CHINA...\n\nMARCO RUBIO IS PULLING ALL NIGHTERS...\n\n...AND THE GOP CAN'T EVEN VOTE ON THE SAVE ACT?!!!!!!\n\nWHAT ARE THE GOP DOING?!!!!!!!!",
+          "engagement": "250K views",
+          "views": 250048
+        }
+      ]
     },
     "business": {
-      "stories": []
+      "stories": [
+        {
+          "handle": "StockSavvyShay",
+          "url": "https://x.com/StockSavvyShay/status/2055021689747231109",
+          "headline": "Thrive Capital invests $100 million in Shopify, connected to the president's family.",
+          "body": "Joshua Kushner\u2019s firm Thrive Capital just made a new $100M investment in $SHOP.\n\nAlways interesting when the president\u2019s son-in-law\u2019s brother decides to write a nine-figure check.",
+          "engagement": "129K views",
+          "views": 129840
+        },
+        {
+          "handle": "nejatian",
+          "url": "https://x.com/nejatian/status/2055112439184699741",
+          "headline": "Opendoor reports influx of high-caliber talent comparable to leading tech companies.",
+          "body": "The talent coming into Opendoor these days is just insane.  \n\nI'd put us up against any company in tech.",
+          "engagement": "26K views",
+          "views": 25934
+        },
+        {
+          "handle": "BAI_AGI",
+          "url": "https://x.com/BAI_AGI/status/2055124422630289860",
+          "headline": "B.AI graduates from EASY Residency S3, advancing Agentic Finance for AI agents.",
+          "body": "Graduated from @EASYResidency S3! \ud83c\udf93\n\nhttps://b.ai/ joined by @bankofai_io, is representing the \u201cAgentic Finance\u201d frontier alongside an incredible group of builders.\n\nWe\u2019re building the infrastructure layer for autonomous AI Agents: Identity, Payments, and Token Fuel for true on chain autonomy.\n\nThe autonomous economy is just getting started. \ud83d\ude80",
+          "engagement": "8.7K views",
+          "views": 8743
+        }
+      ]
     },
     "top": {
-      "stories": []
+      "stories": [
+        {
+          "handle": "YahooNewsTopics",
+          "url": "https://x.com/YahooNewsTopics/status/2055049767584231883",
+          "headline": "News report on a police officer arresting a suspect while on the way to work.",
+          "body": "\u3010\u51fa\u52e4\u9014\u4e2d\u306e\u8b66\u5b98\u304c\u8ffd\u8de1 \u5bb9\u7591\u8005\u902e\u6355\u3011 https://news.yahoo.co.jp/pickup/6580189",
+          "engagement": "3.3M views",
+          "views": 3317002
+        },
+        {
+          "handle": "WhiteHouse",
+          "url": "https://x.com/WhiteHouse/status/2055049458530877831",
+          "headline": "President Trump comments on the United States' current global standing.",
+          "body": "\"When President Xi very elegantly referred to the United States as perhaps being a declining nation, he was referring to the tremendous damage we suffered during the four years of Sleepy Joe Biden... But now, the United States is the hottest Nation anywhere in the world\" - President Donald J. Trump \ud83c\uddfa\ud83c\uddf8",
+          "engagement": "1.5M views",
+          "views": 1480454
+        },
+        {
+          "handle": "TheDunkCentral",
+          "url": "https://x.com/TheDunkCentral/status/2055067247970803967",
+          "headline": "Utah Jazz reportedly contacting Washington Wizards to trade up for draft pick AJ Dybantsa.",
+          "body": "The Jazz have reportedly reached out to the Wizards about trading up to draft AJ Dybantsa, per @MarcJSpears",
+          "engagement": "476K views",
+          "views": 476485
+        }
+      ]
     },
     "msm": {
-      "stories": []
+      "stories": [
+        {
+          "handle": "CNN",
+          "url": "https://x.com/CNN/status/2055083764930294202",
+          "headline": "Trump Phone begins shipping after months of delays and deposits.",
+          "body": "Nearly a year after Trump Mobile started taking $100 deposits and a few days after its website updated to say delivery was \u201cconditional,\u201d the gold-plated Trump Phone will begin shipping this week, the company announced. https://www.cnn.com/2026/05/14/business/the-trump-phone-will-start-shipping-following-months-of-delays?Date=20260515&Profile=CNN&utm_content=1778804499&utm_medium=social&utm_source=twitter",
+          "engagement": "77K views",
+          "views": 76753
+        },
+        {
+          "handle": "AP",
+          "url": "https://x.com/AP/status/2055025277416190391",
+          "headline": "Parents in Pennsylvania school district petition to opt children out of digital devices amid curriculum changes.",
+          "body": "Kids in Lower Merion school district in Pennsylvania get iPads starting in kindergarten, switch to Chromebooks in second grade and get their own MacBooks in eighth grade. Hundreds of parents signed a petition asking to preserve their ability to opt their children out of using digital devices during the school day. The school district has pushed back, saying it\u2019s not feasible to let hundreds of students opt out of technology that is essential to the curriculum.",
+          "engagement": "105K views",
+          "views": 105291
+        },
+        {
+          "handle": "AP",
+          "url": "https://x.com/AP/status/2054959358530764804",
+          "headline": "U.S. Senate unanimously approves resolution to withhold pay during government shutdowns.",
+          "body": "BREAKING: Senators unanimously approve a resolution to withhold their own pay during future government shutdowns. https://apnews.com/article/senate-pay-shutdown-withhold-government-face16eac3196ad4c3bedf3d699be87f?taid=6a05f5a8717bd400015f1b2a&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
+          "engagement": "117K views",
+          "views": 117038
+        }
+      ]
     },
     "sports": {
-      "stories": []
+      "stories": [
+        {
+          "handle": "brfootball",
+          "url": "https://x.com/brfootball/status/2054998420457127960",
+          "headline": "France reveals its official roster for the 2026 FIFA World Cup.",
+          "body": "France's official squad for the 2026 World Cup \ud83c\uddeb\ud83c\uddf7",
+          "engagement": "1.3M views",
+          "views": 1294881
+        },
+        {
+          "handle": "TheDunkCentral",
+          "url": "https://x.com/TheDunkCentral/status/2055067247970803967",
+          "headline": "Utah Jazz reportedly contact Washington Wizards to trade up in draft for AJ Dybantsa.",
+          "body": "The Jazz have reportedly reached out to the Wizards about trading up to draft AJ Dybantsa, per @MarcJSpears",
+          "engagement": "476K views",
+          "views": 476125
+        },
+        {
+          "handle": "Underdog",
+          "url": "https://x.com/Underdog/status/2055100278089884007",
+          "headline": "Miami Dolphins are out of playoff contention.",
+          "body": "The Dolphins have been eliminated from playoff contention",
+          "engagement": "168K views",
+          "views": 168233
+        }
+      ]
     },
     "elon": {
-      "stories": []
+      "stories": [
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2055007595359039742",
+          "headline": "Elon Musk recommends a book critical for the survival of civilization.",
+          "body": "Read this book and give it to all your friends. \n\nSurvival of civilization depends on it!",
+          "engagement": "25M views",
+          "views": 24962211
+        },
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2055008501722943750",
+          "headline": "Elon Musk promotes the early beta of Grok Build and seeks improvement suggestions.",
+          "body": "Try this early Grok Build (anything) beta and let us know what to improve. \n\nMuch appreciated!",
+          "engagement": "16M views",
+          "views": 16517120
+        },
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2054979419736035680",
+          "headline": "Elon Musk comments on a proposed bill to pause AI data center construction.",
+          "body": "Hmm",
+          "engagement": "16M views",
+          "views": 15506790
+        }
+      ]
     },
     "pods": {
-      "stories": []
+      "stories": [
+        {
+          "handle": "overton_news",
+          "url": "https://x.com/overton_news/status/2055019579815211468",
+          "headline": "Joe Rogan expresses concern for Theo Von's mental health and recent behavior on SSRIs during podcast.",
+          "body": "Joe Rogan just took time out of his podcast to express genuine concern for his friend Theo Von. He admitted that some of Von\u2019s recent behavior after getting on SSRIs \u201cfreaks me out\u201d \u2014 especially his comments about suicide. ROGAN: \u201cTheo Von\u2019s going through the exact same thing and last time he was on the podcast he was explaining it to me.\u201d \u201cIt freaks me out because I know Theo has had conversations before...like even publicly.\u201d \u201cHe had a Netflix taping and it didn\u2019t go well. It was like they actually never...they shelved it. They never used it.\u201d \u201cAnd you know there was all these stories from people that were there saying he bombed. I think he just had a kind of a breakdown.\u201d \u201cAnd when he was talking to the crowd and there\u2019s a video of it, he said, you know, the people were saying, hey, we still love you.\u201d \u201cHe goes, thank you. Look, I\u2019m just I\u2019m trying not to take my own life.\u201d \u201cAnd like you hear stuff like that and you just go like, oh, Jesus Christ.\u201d \u201cI\u2019ve known too many people that I didn\u2019t think were going to kill themselves and then did.\u201d \u201cAnd then he goes down these spirals where he starts talking about world events and freaking out. I\u2019m like, oh, Jesus Christ! Like, I got to help this dude.\u201d",
+          "engagement": "1.4M views",
+          "views": 1402912
+        },
+        {
+          "handle": "ExxAlerts",
+          "url": "https://x.com/ExxAlerts/status/2055037350724751799",
+          "headline": "Joe Rogan opposes Palantir CEO's call for mandatory national service, suggesting focus on preventing wars instead.",
+          "body": "ALERT: Joe Rogan says \u201cF*ck you, you go\u201d to Palantir after CEO Alex Karp argued that national service should be mandatory. \u201cI don\u2019t understand why anybody would wanna support that\u2026 That sounds crazy. Especially after this Iran war, where everybody\u2019s like why the f*ck are we in Iran?\u201d \u201cHow \u2019bout let\u2019s figure out a way to use your technology so there\u2019s no more wars? Wouldn\u2019t that be a better goal?\u201d",
+          "engagement": "587K views",
+          "views": 586803
+        },
+        {
+          "handle": "Timcast",
+          "url": "https://x.com/Timcast/status/2054942013368233992",
+          "headline": "Tim Pool shares his struggle with drinking black coffee and preference for cream.",
+          "body": "how do you people drink black coffee im trying but man i need some cream",
+          "engagement": "1M views",
+          "views": 1008988
+        }
+      ]
     },
     "pg6": {
-      "stories": []
+      "stories": [
+        {
+          "handle": "TMZ",
+          "url": "https://x.com/TMZ/status/2055015086008250837",
+          "headline": "Bianca Censori spotted in revealing attire during a movie date with Kanye West",
+          "body": "Bianca Censori bares all on a movie date with Kanye West \ud83d\udc40 \n\n\ud83d\udcf8: X17",
+          "engagement": "2.3M views",
+          "views": 2328065
+        },
+        {
+          "handle": "TMZ",
+          "url": "https://x.com/TMZ/status/2055004025003688346",
+          "headline": "Taylor Swift reportedly personally calling celebrities to invite them to her wedding",
+          "body": "\ud83d\udcde Exclusive: Taylor Swift is inviting celebs to her wedding by personally making calls.\n\nDetails: https://www.tmz.com/2026/05/14/taylor-swift-calling-guests-for-wedding/",
+          "engagement": "776K views",
+          "views": 776159
+        },
+        {
+          "handle": "POPin4k",
+          "url": "https://x.com/POPin4k/status/2055050600618827881",
+          "headline": "Viral post comments on a celebrity's transformation from young to mature appearance",
+          "body": "the twink to daddy pipeline won here",
+          "engagement": "111K views",
+          "views": 111186
+        }
+      ]
     },
     "recipe": {
-      "stories": []
+      "stories": [
+        {
+          "handle": "FoodPleaser",
+          "url": "https://x.com/FoodPleaser/status/2054971501799993367",
+          "headline": "Interactive post asking users to select only three food items from a display.",
+          "body": "You can only keep 3 \ud83e\uddd0",
+          "engagement": "13.9K views",
+          "views": 13861
+        },
+        {
+          "handle": "FoodPleaser",
+          "url": "https://x.com/FoodPleaser/status/2055016800329347121",
+          "headline": "Inquiry about preferred ice cream flavor choice.",
+          "body": "Which one are you picking? \ud83c\udf66",
+          "engagement": "9.5K views",
+          "views": 9540
+        },
+        {
+          "handle": "FoodPleaser",
+          "url": "https://x.com/FoodPleaser/status/2054931574739611794",
+          "headline": "Prompt for users to eliminate one option from a food selection.",
+          "body": "Remove one\u2026\u2026.",
+          "engagement": "11.9K views",
+          "views": 11905
+        }
+      ]
     },
     "science": {
-      "stories": []
+      "stories": [
+        {
+          "handle": "xai",
+          "url": "https://x.com/xai/status/2054993285152989373",
+          "headline": "xAI launches early beta of Grok Build, an agentic CLI for coding, building apps, and automating workflows.",
+          "body": "An early beta of Grok Build, an agentic CLI for coding, building apps, and automating workflows is now available for SuperGrok Heavy subscribers.  \n  \nThrough this early beta, we will improve the model and product based on your feedback.  \n  \nTry it at https://x.ai/cli",
+          "engagement": "29M views",
+          "views": 29079841
+        },
+        {
+          "handle": "AnthropicAI",
+          "url": "https://x.com/AnthropicAI/status/2054987444664377374",
+          "headline": "Anthropic releases research paper on AI competition between the US and China.",
+          "body": "We've published a paper that explains our views on AI competition between the US and China.\n\nThe US and democratic allies hold the lead in frontier AI today. Read more on what it\u2019ll take to keep that lead: https://www.anthropic.com/research/2028-ai-leadership",
+          "engagement": "1.6M views",
+          "views": 1626028
+        },
+        {
+          "handle": "github",
+          "url": "https://x.com/github/status/2054959324485628120",
+          "headline": "GitHub announces waitlist for technical preview of the Copilot app.",
+          "body": "Cooking up something new \ud83e\uddd1\u200d\ud83c\udf73\n\nJoin the waitlist for early access to technical preview of the GitHub Copilot app \ud83d\udc47\nhttps://github.com/features/preview/github-app?utm_source=social-github-copilot-app&utm_medium=social&utm_campaign=github-copilot-app-tech-preview-2026",
+          "engagement": "1.5M views",
+          "views": 1552799
+        }
+      ]
     },
     "local": {
-      "stories": []
+      "stories": [
+        {
+          "handle": "Aku_700",
+          "url": "https://x.com/Aku_700/status/2054940995893006669",
+          "headline": "New Zealand tourist killed in Newport Beach mall robbery",
+          "body": "Black Men Slaughter Tourist in Rich California Mall Three vicious black men from LA hunted down and murdered a defenseless 68-year-old New Zealand woman in broad daylight at upscale Newport Beach. They robbed her, ran her over, and dragged her body 65 feet like garbage. California\u2019s soft policies let these repeat black thugs loose, turning paradise into a bloody third-world hell.",
+          "engagement": "345K views",
+          "views": 345653
+        },
+        {
+          "handle": "WallStreetApes",
+          "url": "https://x.com/WallStreetApes/status/2054995728796430804",
+          "headline": "Newport Beach profits from oil production despite environmental opposition",
+          "body": "The City of Newport Beach in California owns 16 oil wells They produce over 21,000 barrels per year. The city makes about $1.2 million per year f California says we have to get rid of fossil fuels to fight change change, but California cities are profiting from oil production Ironically the city of Newport has opposed new offshore drilling but keeps pumping from their own wells and making money The hypocrisy of Democrats never ends",
+          "engagement": "163K views",
+          "views": 163484
+        },
+        {
+          "handle": "NBCNews",
+          "url": "https://x.com/NBCNews/status/2055050537641345286",
+          "headline": "Backlash follows Southern California mayor's guilty plea for acting as Chinese agent",
+          "body": "The resignation of a Southern California mayor who pleaded guilty to acting as a foreign agent for China has sparked backlash and reignited fears of anti-Asian discrimination. https://www.nbcnews.com/news/us-news/backlash-erupts-online-california-mayor-admits-foreign-agent-china-rcna344745?cid=sm_npd_nn_tw_ma&taid=6a064a9332982f000154aafa&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+          "engagement": "13K views",
+          "views": 13370
+        }
+      ]
     },
     "conspiracy": {
-      "stories": []
+      "stories": [
+        {
+          "handle": "mattvanswol",
+          "url": "https://x.com/mattvanswol/status/2055070060738228463",
+          "headline": "Frustration expressed over GOP's inaction on SAVE Act despite anti-fraud efforts by key figures.",
+          "body": "I HAVE ABSOLUTELY HAD IT WITH THE GOP!!!!!!!!\n\nJD VANCE IS OUT THERE FINDING FRAUD EVERYWHERE...\n\nPRESIDENT TRUMP IS CUTTING DEALS IN CHINA...\n\nMARCO RUBIO IS PULLING ALL NIGHTERS...\n\n...AND THE GOP CAN'T EVEN VOTE ON THE SAVE ACT?!!!!!!\n\nWHAT ARE THE GOP DOING?!!!!!",
+          "engagement": "250K views",
+          "views": 250048
+        },
+        {
+          "handle": "BasedMikeLee",
+          "url": "https://x.com/BasedMikeLee/status/2055117501827273023",
+          "headline": "Declaration that the Deep State is real and poses a danger.",
+          "body": "The Deep State:\n\nIt\u2019s real\n\nAnd dangerous",
+          "engagement": "17K views",
+          "views": 16974
+        },
+        {
+          "handle": "WallStreetMav",
+          "url": "https://x.com/WallStreetMav/status/2055098338429812804",
+          "headline": "Assertion that the Director of National Intelligence can declassify any information ordered by the President, labeling agencies as an unelected branch.",
+          "body": "The Director of National Intelligence has full legal authority to declassify WHATEVER the President orders declassified. The CIA can\u2019t overrule that.\n\nOur federal agencies are still operating as an unelected fourth branch of government.",
+          "engagement": "31K views",
+          "views": 31209
+        }
+      ]
     },
     "comedy": {
-      "stories": []
+      "stories": [
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2055017088272744630",
+          "headline": "Elon Musk reacts to a meme about Christopher Nolan directing The Odyssey",
+          "body": "He actually did the meme \ud83e\udd23\ud83e\udd23",
+          "engagement": "25M views",
+          "views": 25558875
+        },
+        {
+          "handle": "dogeofficialceo",
+          "url": "https://x.com/dogeofficialceo/status/2054994019030319558",
+          "headline": "Meme showing Christopher Nolan directing The Odyssey",
+          "body": "Christopher Nolan directing The Odyssey",
+          "engagement": "25M views",
+          "views": 25630420
+        },
+        {
+          "handle": "redditbutfunny",
+          "url": "https://x.com/redditbutfunny/status/2055028628165935158",
+          "headline": "Humorous image from Reddit",
+          "body": "",
+          "engagement": "46K views",
+          "views": 46691
+        }
+      ]
     }
   },
-  "last_updated": "2026-05-15T04:03:51.931534"
+  "last_updated": "2026-05-15T04:14:07.587843"
 }
