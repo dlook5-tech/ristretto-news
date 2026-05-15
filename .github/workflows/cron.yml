@@ -15,16 +15,22 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Run update.sh
+      - name: Run update.sh (fetch stories from Grok)
         env:
           XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
         run: bash update.sh
+
+      - name: Deploy to Netlify
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+        run: bash deploy.sh
 
       - name: Commit stories.json
         run: |
           git config user.email "ristretto-cron@noreply.local"
           git config user.name  "ristretto-cron"
-          git add stories.json
+          git add stories.json version.txt sw.js
           if git diff --cached --quiet; then
             echo "no changes to commit"
           else
