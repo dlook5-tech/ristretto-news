@@ -11,6 +11,7 @@
     .story:hover { background:#2a2a2a; }
     .headline { font-size:1.2em; font-weight:500; }
     .meta { color:#888; font-size:0.9em; margin-top:8px; }
+    .age { color:#555; margin-left:6px; }
   </style>
 </head>
 <body>
@@ -18,6 +19,18 @@
   <div id="content"></div>
 
   <script>
+    // Snowflake ID → hours since posted (Twitter epoch = 2010-11-04 01:42:54.657 UTC = 1288834974657).
+    function ageFromUrl(url) {
+      const m = (url || '').match(/\/status\/(\d+)/);
+      if (!m) return '';
+      const id = BigInt(m[1]);
+      const ts = Number(id >> 22n) + 1288834974657;
+      const hours = (Date.now() - ts) / 3600000;
+      if (hours < 1)   return Math.round(hours * 60) + 'm';
+      if (hours < 24)  return Math.round(hours) + 'h';
+      return Math.round(hours / 24) + 'd';
+    }
+
     async function loadStories() {
       try {
         const res = await fetch('stories.json?' + Date.now());
@@ -26,10 +39,12 @@
         for (let [tab, sec] of Object.entries(data.stories || {})) {
           html += `<h2 style="margin:30px 0 10px;">${tab.toUpperCase()}</h2>`;
           for (let s of sec.stories || []) {
+            const age = ageFromUrl(s.url);
+            const ageHtml = age ? `<span class="age">${age}</span>` : '';
             html += `
               <div class="story" onclick="window.open('${s.url}','_blank')">
                 <div class="headline">${s.headline || s.body || 'No title'}</div>
-                <div class="meta">@${s.handle || '?'} • ${s.engagement || ''}</div>
+                <div class="meta">@${s.handle || '?'} • ${s.engagement || ''}${ageHtml}</div>
               </div>`;
           }
         }
