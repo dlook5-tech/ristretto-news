@@ -197,25 +197,17 @@
           "views": 12304
         },
         {
-          "handle": "TheEconomist",
-          "url": "https://x.com/TheEconomist/status/2055146163339203016",
-          "headline": "The job market for graduates is deteriorating significantly.",
-          "body": "The bottom has fallen out of the job market  https://www.economist.com/finance-and-economics/2025/06/16/why-todays-graduates-are-screwed?taid=6a06a3a232982f000154ae2a&utm_campaign=editorial-social&utm_content=discovery.content&utm_medium=social-media.content.np&utm_source=twitter",
-          "engagement": "5K views",
-          "views": 5026
+          "handle": "cryptorover",
+          "url": "https://x.com/cryptorover/status/2055136484043194556",
+          "headline": "President Trump announces fantastic trade deals with China potentially valued over $1 trillion, positive for markets.",
+          "body": "HUGE: \ud83c\uddfa\ud83c\uddf8 \ud83c\udde8\ud83c\uddf3 PRESIDENT TRUMP SAYS US MADE FANTASTIC TRADE DEALS WITH CHINA. INSIDERS REPORT THESE DEALS COULD BE VALUED OVER $1,000,000,000,000. GOOD FOR MARKETS!",
+          "engagement": "14K views",
+          "views": 13921
         }
       ]
     },
     "top": {
       "stories": [
-        {
-          "handle": "YahooNewsTopics",
-          "url": "https://x.com/YahooNewsTopics/status/2055122496886800871",
-          "headline": "Announcement of the passing of voice actress Kazana Yamazaki, known for voicing Ran Mouri.",
-          "body": "\u3010\u6bdb\u5229\u862d\u306e\u58f0\u512a \u5c71\u5d0e\u548c\u4f73\u5948\u3055\u3093\u6b7b\u53bb\u3011\nhttps://news.yahoo.co.jp/pickup/6580226",
-          "engagement": "8.1M views",
-          "views": 8125783
-        },
         {
           "handle": "xai",
           "url": "https://x.com/xai/status/2054993285152989373",
@@ -231,6 +223,14 @@
           "body": "Christopher Nolan directing The Odyssey",
           "engagement": "27M views",
           "views": 27147537
+        },
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2055008501722943750",
+          "headline": "Elon Musk invites feedback on the early beta version of Grok Build AI tool.",
+          "body": "Try this early Grok Build (anything) beta and let us know what to improve. \n\nMuch appreciated!",
+          "engagement": "17M views",
+          "views": 17404598
         }
       ]
     },
@@ -515,5 +515,5 @@
       ]
     }
   },
-  "last_updated": "2026-05-14T22:00:14.836867"
+  "last_updated": "2026-05-14T22:04:30.212532"
 }

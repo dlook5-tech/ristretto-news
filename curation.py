@@ -70,7 +70,10 @@ def story_velocity(s: Dict) -> float:
         return (float(views) / age) * 4.0
     return -1.0
 
-def apply_velocity_hold(current: List[Dict], candidates: List[Dict], top_n=DEFAULT_TOP_N) -> List[Dict]:
+def apply_hold(current: List[Dict], candidates: List[Dict], top_n=DEFAULT_TOP_N, sort_key=None) -> List[Dict]:
+    """Generic hold-and-rank. sort_key defaults to velocity; pass story_views for raw-views ranking."""
+    if sort_key is None:
+        sort_key = story_velocity
     seen = {}
     for s in (candidates or []):
         if story_age_hours(s) > 24: continue
@@ -79,13 +82,21 @@ def apply_velocity_hold(current: List[Dict], candidates: List[Dict], top_n=DEFAU
     for s in (current or []):
         if story_age_hours(s) > MAX_HOLD_HOURS: continue
         key = s.get('url') or s.get('headline', str(id(s)))
-        if key not in seen or story_velocity(s) > story_velocity(seen[key]):
+        if key not in seen or sort_key(s) > sort_key(seen[key]):
             seen[key] = s
     pool = list(seen.values())
-    return sorted(pool, key=story_velocity, reverse=True)[:top_n]
+    return sorted(pool, key=sort_key, reverse=True)[:top_n]
+
+# Back-compat alias.
+def apply_velocity_hold(current, candidates, top_n=DEFAULT_TOP_N):
+    return apply_hold(current, candidates, top_n, sort_key=story_velocity)
 
 def curate(tab: str, current: List, fresh: List, top_n=DEFAULT_TOP_N) -> List:
-    return apply_velocity_hold(current, fresh, top_n)
+    # Top tab = absolute most-viewed, period (memes welcome). Raw views, not velocity.
+    # Every other tab keeps velocity sort so fresh-but-rising content can beat stale leaders.
+    if tab == 'top':
+        return apply_hold(current, fresh, top_n, sort_key=story_views)
+    return apply_hold(current, fresh, top_n, sort_key=story_velocity)
 
 def stamp_view_history(stories: List) -> List:
     for s in stories or []:
