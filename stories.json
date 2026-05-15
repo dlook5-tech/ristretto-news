@@ -26,6 +26,37 @@
           ]
         },
         {
+          "headline": "US President Donald Trump holds summit with Chinese President Xi Jinping in Beijing to discuss trade, technology, and global cooperation.",
+          "url": "https://x.com/business/status/2054802402608345089",
+          "handle": "business",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "EricLDaugh",
+              "url": "https://x.com/EricLDaugh/status/2055037559483367586",
+              "body": "\ud83d\udea8 LMAO! Leftist media is now melting down because there were no women at the grand meeting table with the TOP BRASS of the world \u2014 China and America plus the most powerful CEOs\n\n\"Where Are the Women at the Trump-Xi Summit?\" \u2014 NYT\n\n\"Nearly all the business leaders and officials accompanying President Trump in China are men. There are few women on the Chinese side, too.\"\n\nThe NYT is also whining that on Trump's side, the women are in \"communications\" roles, such as Margo Martin, Monica Crowley and Anna Kelly \u2014 all of which are important roles\n\nThey will find anything to complain about, pathetic! \ud83e\udd21",
+              "engagement": "3571 likes, 505 reposts",
+              "views": 150750
+            },
+            {
+              "label": "Independent",
+              "handle": "NotHoodlum",
+              "url": "https://x.com/NotHoodlum/status/2055057190981976134",
+              "body": "China abruptly revoked export licenses for more than 400 US beef plants, affecting major processors. The sudden reversal came during the high-profile Trump-Xi summit in Beijing.\nhttps://www.msn.com/en-us/news/insight/china-halts-u-s-beef-licenses-hours-after-renewals-at-trump-xi-summit/gm-GM1C0308E9?gemSnapshotKey=GM1C0308E9-snapshot-16&ocid=fblike",
+              "engagement": "2450 likes, 1381 reposts",
+              "views": 81719
+            },
+            {
+              "label": "Democrat",
+              "handle": "McFaul",
+              "url": "https://x.com/McFaul/status/2055110442700439777",
+              "body": "Republican pundits are all over the board on the Xi-Putin summit.\n\nMost praise Trump for befriending Xi.\n\nBut some didn\u2019t get the memo on the new official talking points and still refer to Xi as the enemy and the CCP as an \u201cexistential threat \u201c the US.",
+              "engagement": "150 likes, 26 reposts",
+              "views": 9235
+            }
+          ]
+        },
+        {
           "headline": "Chinese President Xi Jinping warns US President Trump of potential conflicts over Taiwan relations during Beijing summit",
           "url": "https://x.com/Reuters/status/2054962726867189760",
           "handle": "Reuters",
@@ -55,42 +86,42 @@
               "views": 125
             }
           ]
-        },
-        {
-          "headline": "Labour government plans permanent ban on new oil and gas fields in the North Sea",
-          "url": "https://x.com/Telegraph/status/2054645454105633057",
-          "handle": "Telegraph",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "TiceRichard",
-              "url": "https://x.com/TiceRichard/status/2054842010775748633",
-              "body": "Miliband vows permanent shutdown of the North Sea A Reform Govt will urgently repeal this negligent stupidity  https://www.telegraph.co.uk/business/2026/05/13/miliband-vows-permanent-shutdown-of-the-north-sea/",
-              "engagement": "8K likes",
-              "views": 112806
-            },
-            {
-              "label": "Independent",
-              "handle": "JamesMelville",
-              "url": "https://x.com/JamesMelville/status/2054610469327888400",
-              "body": "The King\u2019s Speech mentioned Ed Miliband\u2019s \"Energy Independence Bill\". This proposed legislation formally fulfills the Labour government\u2019s commitment to ban new North Sea oil and gas licences for exploration. Net zero insanity. And fundamentally wrong on so many levels.",
-              "engagement": "319 likes",
-              "views": 5015
-            },
-            {
-              "label": "Democrat",
-              "handle": "pritipatel",
-              "url": "https://x.com/pritipatel/status/2054894838089130453",
-              "body": "Under Labour we are losing 1000 jobs per month in the North Sea because of their terrible Net Zero policies. We are calling on the government to end their ridiculous ban on new exploration & drilling licences in the North Sea, to unlock billions more barrels of oil & gas for extraction, safeguarding our energy security & to create new jobs. https://t.co/g51T99uy3y",
-              "engagement": "829 likes",
-              "views": 11177
-            }
-          ]
         }
       ]
     },
     "usa": {
       "stories": [
+        {
+          "headline": "President Trump concludes summit with Chinese President Xi Jinping in Beijing, announcing significant new trade deals worth over $1 trillion.",
+          "url": "https://x.com/WhiteHouse/status/2054859596938785204",
+          "handle": "WhiteHouse",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "JDVance",
+              "url": "https://x.com/JDVance/status/2054957513351495920",
+              "body": "Every American should be proud of President Trump\u2019s historic and consequential trip to China. Glad we finally have a leader who fights for American interests across the globe.",
+              "engagement": "31K likes",
+              "views": 1881138
+            },
+            {
+              "label": "Independent",
+              "handle": "Investingcom",
+              "url": "https://x.com/Investingcom/status/2054980967618564314",
+              "body": "*TRUMP: XI SAID HE WON'T GIVE MILITARY EQUIPMENT TO IRAN",
+              "engagement": "200 likes",
+              "views": 12925
+            },
+            {
+              "label": "Democrat",
+              "handle": "NotHoodlum",
+              "url": "https://x.com/NotHoodlum/status/2055057190981976134",
+              "body": "China abruptly revoked export licenses for more than 400 US beef plants, affecting major processors. The sudden reversal came during the high-profile Trump-Xi summit in Beijing.",
+              "engagement": "2.4K likes",
+              "views": 81719
+            }
+          ]
+        },
         {
           "headline": "US House vote on Democratic resolution to limit presidential military powers regarding Iran ends in a 212-212 tie",
           "url": "https://x.com/connorobrienNH/status/2055029362399883317",
@@ -123,56 +154,33 @@
           ]
         },
         {
-          "headline": "Trump administration reports record low murder rate and sharp decline in violent crime",
-          "url": "https://x.com/WhiteHouse/status/2055022490066317353",
+          "headline": "Trump administration's anti-fraud task force withholds billions in federal funding from states failing to combat Medicaid fraud effectively.",
+          "url": "https://x.com/WhiteHouse/status/2054714752018858170",
           "handle": "WhiteHouse",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "WhiteHouse",
-              "url": "https://x.com/WhiteHouse/status/2055022490066317353",
-              "body": "All we needed was a new President. Record low murder rate, sharp decline in violent crime, safer American streets. President Trump will always put America's law enforcement first, and the results are showing. \ud83c\uddfa\ud83c\uddf8",
-              "engagement": "173K views",
-              "views": 173581
+              "handle": "JDVance",
+              "url": "https://x.com/JDVance/status/2055019328131449113",
+              "body": "Fraudsters have been fleecing Americans for too long. That ends now.",
+              "engagement": "19K likes",
+              "views": 474559
             },
             {
               "label": "Independent",
-              "handle": "thehill",
-              "url": "https://x.com/thehill/status/2054367522032386514",
-              "body": "South Carolina Republicans decline to consider redistricting in blow to Trump https://thehill.com/homenews/campaign/5875039-south-carolina-senate-redistricting/",
-              "engagement": "7K views",
-              "views": 7023
-            }
-          ]
-        },
-        {
-          "headline": "US President Donald Trump holds high-stakes summit with Chinese President Xi Jinping in Beijing discussing trade, Taiwan, and Iran.",
-          "url": "https://x.com/business/status/2054827437851087307",
-          "handle": "business",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "MarioNawfal",
-              "url": "https://x.com/MarioNawfal/status/2055051365064257601",
-              "body": "\ud83d\ude02NYT is in full meltdown mode: \u201cWhere Are The Women at the Trump-Xi Summit?!\u201d Top brass from America, China, and the world\u2019s biggest CEOs sit down\u2026 and it\u2019s basically a sausage fest on both sides. The few women on the U.S. team? Stuck in communications roles. We\u2019re watching two nuclear powers and the global economy try to hash out serious deals, and the hottest take is still \u201cnot enough ladies at the big boy table.\u201d",
-              "engagement": "98K views",
-              "views": 98503
-            },
-            {
-              "label": "Independent",
-              "handle": "business",
-              "url": "https://x.com/business/status/2054749659025870849",
-              "body": "\ud83d\udea8 BREAKING: Trump and Xi meet in a closely watched summit, where they're expected to discuss the Iran war, tariffs and more. Follow our live blog for the latest news and analysis: https://www.bloomberg.com/news/live-blog/2026-05-13/trump-xi-us-china-summit",
-              "engagement": "20K views",
-              "views": 20924
+              "handle": "MerlijnTrader",
+              "url": "https://x.com/MerlijnTrader/status/2054932244863840624",
+              "body": "HUGE STATEMENT: \ud83c\uddfa\ud83c\uddf8 JD Vance just made the most aggressive anti-fraud promise in American history. ... Sounds great. But let's be honest. The U.S. government has $36 trillion in debt. ... Now the government is fighting fraud. With the same government that enabled it. Make of that what you will.",
+              "engagement": "226 likes",
+              "views": 27461
             },
             {
               "label": "Democrat",
-              "handle": "CNN",
-              "url": "https://x.com/CNN/status/2054884943956730111",
-              "body": "Talks between US President Donald Trump and Chinese leader Xi Jinping have been largely positive, though the future of Taiwan threatens to strain the relationship. Follow live updates: https://www.cnn.com/politics/live-news/trump-china-visit-xi-meeting-hnk?Date=20260514&Profile=CNN&utm_content=1778757696&utm_medium=social&utm_source=twitter",
-              "engagement": "130K views",
-              "views": 130900
+              "handle": "RBReich",
+              "url": "https://x.com/RBReich/status/2054962542066196648",
+              "body": "JD Vance announced the suspension of $1.3 billion in Medicaid payments to California as part of his new role as \"fraud czar\" for the Trump Regime. Meanwhile, Trump has pardoned multiple convicted fraudsters, including several who gave money to his campaign and Super PAC. Remember this.",
+              "engagement": "2.8K likes",
+              "views": 31440
             }
           ]
         }
@@ -183,26 +191,26 @@
         {
           "handle": "nikkei",
           "url": "https://x.com/nikkei/status/2055063923879969135",
-          "headline": "Twenty percent of new graduates plan to invest their first salary in NISA due to global stock market highs and fear of missing out.",
-          "body": "\u65b0\u4eba\u306e2\u5272\u300c\u521d\u4efb\u7d66\u306fNISA\u3078\u300d\u3000\u4e16\u754c\u682a\u9ad8\u3001\u82e5\u8005\u3092\u8986\u3046\u4e57\u308a\u9045\u308c\u306e\u6050\u6016 https://www.nikkei.com/article/DGXZQOUB014MN0R00C26A5000000/?n_cid=SNSTW006&n_tw=1778800219",
-          "engagement": "937K views",
-          "views": 937147
+          "headline": "20% of new hires in Japan plan to invest their first salary in NISA amid global stock market highs and fear of missing out.",
+          "body": "\u65b0\u4eba\u306e2\u5272\u300c\u521d\u4efb\u7d66\u306fNISA\u3078\u300d\u3000\u4e16\u754c\u682a\u9ad8\u3001\u82e5\u8005\u3092\u8986\u3046\u4e57\u308a\u9045\u308c\u306e\u6050\u6016\nhttps://www.nikkei.com/article/DGXZQOUB014MN0R00C26A5000000/?n_cid=SNSTW006&n_tw=1778800219",
+          "engagement": "1M views",
+          "views": 1042787
         },
         {
-          "handle": "Borsarehberi34",
-          "url": "https://x.com/Borsarehberi34/status/2055187401006309740",
-          "headline": "Stock analysis on GEDIK showing breakout from downtrend and potential for gains.",
-          "body": "#GEDIK En dipten yaz\u0131lan bir hissemiz daha.\n\u015eimdi ise tavan serisinde\n\nTekni\u011fi uygulayan para kazan\u0131r.\n\nDo\u011fru konum para kazand\u0131r\u0131r.\n\nEn \u00f6nemlisi Borsa Rehberinde kazan\u00e7 her zaman vard\u0131r \ud83d\udc99\ud83d\udc9a\ud83c\uddf9\ud83c\uddff\ud83e\udd47",
-          "engagement": "1.6K views",
-          "views": 1618
+          "handle": "shiho_312",
+          "url": "https://x.com/shiho_312/status/2055218284115693877",
+          "headline": "Regret over missing the opportunity to invest in Kioxia stock.",
+          "body": "\u30ad\u30aa\u30af\u30b7\u30a2\u8de8\u304e\u305f\u304b\u3063\u305f\u3001\u3001\n\u3053\u308c\u306f\u4f55\u5e74\u7d4c\u3063\u3066\u3082\u5f8c\u6094\u3059\u308b\u3068\u601d\u3046\ud83d\ude2d",
+          "engagement": "53K views",
+          "views": 52847
         },
         {
-          "handle": "KojoForex",
-          "url": "https://x.com/KojoForex/status/2055159243095855325",
-          "headline": "Forex trader discusses making a living by trading candlestick patterns.",
-          "body": "I Trade Candles \ud83d\udd6f\ufe0f for a living. What about you? Lol",
-          "engagement": "13K views",
-          "views": 13483
+          "handle": "jimcramer",
+          "url": "https://x.com/jimcramer/status/2055219541299335505",
+          "headline": "Markets reacting as if Xi Jinping will overlook oil issues and lack of trade commitments from Trump.",
+          "body": "Markets acting like Xi will look the other way and accept oil issues from Trump... no trade commitments...",
+          "engagement": "36K views",
+          "views": 35796
         }
       ]
     },
@@ -226,11 +234,11 @@
         },
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2055008501722943750",
-          "headline": "Elon Musk invites feedback on Grok Build beta release",
-          "body": "Try this early Grok Build (anything) beta and let us know what to improve. Much appreciated!",
-          "engagement": "19.4M views",
-          "views": 19420804
+          "url": "https://x.com/elonmusk/status/2055155949242114463",
+          "headline": "Elon Musk shares a promotional video clip.",
+          "body": "https://t.co/QMgqquoGkS",
+          "engagement": "25.5M views",
+          "views": 25498263
         }
       ]
     },
@@ -239,10 +247,10 @@
         {
           "handle": "nytimes",
           "url": "https://x.com/nytimes/status/2054959205564457078",
-          "headline": "Justice Department plans to drop charges against Indian billionaire Gautam Adani after investment offer from his lawyer.",
+          "headline": "U.S. Justice Department plans to drop charges against Indian billionaire Gautam Adani after an investment offer from his lawyer.",
           "body": "Breaking News: The Justice Dept. is planning to drop charges against India\u2019s richest man, Gautam Adani, after a lawyer for the billionaire made an unusual investment offer. https://www.nytimes.com/2026/05/14/nyregion/gautam-adani-billionaire-doj-trump.html?smtyp=cur&smid=tw-nytimes",
-          "engagement": "1.5M views",
-          "views": 1493292
+          "engagement": "1.7M views",
+          "views": 1668725
         },
         {
           "handle": "washingtonpost",
@@ -265,14 +273,6 @@
     "sports": {
       "stories": [
         {
-          "handle": "FabrizioRomano",
-          "url": "https://x.com/FabrizioRomano/status/2055167543728300281",
-          "headline": "Bernardo Silva confirms he will not return to Benfica this summer.",
-          "body": "\ud83d\udea8 Bernardo Silva will NOT return to Benfica this summer, as reported. \u274c\n\n\u201cI\u2019d love to return but in another moment\u2026 I don\u2019t know if Benfica will still want me by then\u201d, told Canal 11.",
-          "engagement": "307K views",
-          "views": 306676
-        },
-        {
           "handle": "Hali",
           "url": "https://x.com/Hali/status/2055114765005967821",
           "headline": "Tyrese Haliburton jokes that no NBA playoff games are scheduled due to Drake's album release",
@@ -281,12 +281,20 @@
           "views": 1038513
         },
         {
-          "handle": "premierleague",
-          "url": "https://x.com/premierleague/status/2054864547370983530",
-          "headline": "Eight stars defined the 2025/26 Premier League season; vote for Player of the Season.",
-          "body": "Eight stars who made 2025/26 their own \ud83c\udf1f\n\nIt's time to get voting for your @EASPORTSFC Player of the Season \ud83d\uddf3\ufe0f",
-          "engagement": "2.9M views",
-          "views": 2861116
+          "handle": "BleacherReport",
+          "url": "https://x.com/BleacherReport/status/2055059791631045014",
+          "headline": "Isaiah Thomas hired by Boston Celtics as a scout.",
+          "body": "Isaiah Thomas has been hired by the Celtics as a pro and college scout, per @AdamHimmelsbach \ud83d\ude4c He's been with the team this week at the NBA Scouting Combine \u2618\ufe0f",
+          "engagement": "1.5M views",
+          "views": 1464139
+        },
+        {
+          "handle": "FabrizioRomano",
+          "url": "https://x.com/FabrizioRomano/status/2055167543728300281",
+          "headline": "Bernardo Silva confirms he will not return to Benfica this summer.",
+          "body": "\ud83d\udea8 Bernardo Silva will NOT return to Benfica this summer, as reported. \u274c\n\n\u201cI\u2019d love to return but in another moment\u2026 I don\u2019t know if Benfica will still want me by then\u201d, told Canal 11.",
+          "engagement": "307K views",
+          "views": 306676
         }
       ]
     },
@@ -295,10 +303,18 @@
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2055155949242114463",
-          "headline": "Elon Musk shares another video.",
+          "headline": "Elon Musk shares a video link.",
           "body": "https://t.co/QMgqquoGkS",
-          "engagement": "12M views",
-          "views": 12742912
+          "engagement": "25M views",
+          "views": 25498263
+        },
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2055155618055635364",
+          "headline": "Elon Musk affirms the importance of true friends.",
+          "body": "True",
+          "engagement": "15M views",
+          "views": 15458193
         },
         {
           "handle": "xai",
@@ -307,14 +323,6 @@
           "body": "An early beta of Grok Build, an agentic CLI for coding, building apps, and automating workflows is now available for SuperGrok Heavy subscribers.\n\nThrough this early beta, we will improve the model and product based on your feedback.\n\nTry it at https://x.ai/cli",
           "engagement": "30M views",
           "views": 30656553
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2055008501722943750",
-          "headline": "Elon Musk promotes the early beta of Grok Build from xAI.",
-          "body": "Try this early Grok Build (anything) beta and let us know what to improve. \n\nMuch appreciated!",
-          "engagement": "19M views",
-          "views": 19384903
         }
       ]
     },
@@ -323,18 +331,18 @@
         {
           "handle": "overton_news",
           "url": "https://x.com/overton_news/status/2055019579815211468",
-          "headline": "Joe Rogan voices concern for Theo Von's well-being amid mental health struggles discussed on podcast.",
+          "headline": "Joe Rogan shares concerns about Theo Von's mental health struggles and suicidal thoughts",
           "body": "Joe Rogan just took time out of his podcast to express genuine concern for his friend Theo Von.\n\nHe admitted that some of Von\u2019s recent behavior after getting on SSRIs \u201cfreaks me out\u201d \u2014 especially his comments about suicide.\n\nROGAN: \u201cTheo Von\u2019s going through the exact same thing and last time he was on the podcast he was explaining it to me.\u201d\n\n\u201cIt freaks me out because I know Theo has had conversations before...like even publicly.\u201d\n\n\u201cHe had a Netflix taping and it didn\u2019t go well. It was like they actually never...they shelved it. They never used it.\u201d\n\n\u201cAnd you know there was all these stories from people that were there saying he bombed. I think he just had a kind of a breakdown.\u201d\n\n\u201cAnd when he was talking to the crowd and there\u2019s a video of it, he said, you know, the people were saying, hey, we still love you.\u201d\n\n\u201cHe goes, thank you. Look, I\u2019m just I\u2019m trying not to take my own life.\u201d\n\n\u201cAnd like you hear stuff like that and you just go like, oh, Jesus Christ.\u201d\n\n\u201cI\u2019ve known too many people that I didn\u2019t think were going to kill themselves and then did.\u201d\n\n\u201cAnd then he goes down these spirals where he starts talking about world events and freaking out. I\u2019m like, oh, Jesus Christ! Like, I got to help this dude.\u201d",
-          "engagement": "1.5M views",
-          "views": 1498964
+          "engagement": "1.9M views",
+          "views": 1863602
         },
         {
           "handle": "lexfridman",
           "url": "https://x.com/lexfridman/status/2054989115163136051",
-          "headline": "Lex Fridman shares plans for a spontaneous worldwide backpacking trip starting in China to meet diverse people.",
+          "headline": "Lex Fridman announces backpacking world travel starting in China for AI discussions and adventures",
           "body": "I'm traveling the world for a bit, starting with China but then hopping around the globe, anywhere. Open to any adventure. No plans, only a backpack. Hoping to meet & get to know humans from all walks of life. The pic is from a long hike on the Great Wall. For me, as a fan of history, this was an epic experience.\n\nIn China, first I'm visiting a few big cities & talking to engineers at the heart of China's AI revolution. After that, if feeling crazy enough, I'm hitchhiking (first time) across rural China for a few weeks. Hitchhiking because I think it's the best way to meet rural folks who I would otherwise never get the chance to meet. I hope to do the same in US and other places.\n\nI have a request, if you have a travel recommendation, fill out the form(s) below if you feel like it. Or share with folks who might have advice about such travel.\n\nForm 1 - travel recommendation:\nIf you can, recommend to me an interesting place I should visit anywhere in the world. For this, fill out form 1. Not touristy stuff, but something off the beaten path, that tourists may not know about, but is legendary. It could be as remote as meeting a herder in the mountains who is a local legend. Asia, Middle East, Europe, India, South/North America, Africa, Australia, anywhere. In China, I'm hoping to visit maybe Heibei, Shanxi, Shaanxi, Gansu, Sichuan, Yunnan, etc, so recommendations for spots to visit are helpful.\n\nForm 2 - coffee:\nIf you want to grab a coffee with me anywhere in the world, fill out form 2 (please don't use form 1 for that).\n\nAnyway, I hectically tossed stuff in backpack. Realizing I don't have a clear plan of any kind, which is probably the only way to do it. LFG.\n\nLove you all \u2764\ufe0f",
-          "engagement": "862K views",
-          "views": 861645
+          "engagement": "953K views",
+          "views": 953165
         },
         {
           "handle": "ExxAlerts",
@@ -365,24 +373,24 @@
           "views": 1309707
         },
         {
-          "handle": "THR",
-          "url": "https://x.com/THR/status/2055096162567459202",
-          "headline": "'Star Wars: The Acolyte' star Manny Jacinto attends 'The Mandalorian and Grogu' premiere.",
-          "body": "#StarWars: The Acolyte star Manny Jacinto poses on the red carpet for #TheMandalorian and Grogu premiere",
-          "engagement": "127K views",
-          "views": 126542
+          "handle": "PopBase",
+          "url": "https://x.com/PopBase/status/2055142126011162637",
+          "headline": "The Disney Channel movie The Thirteenth Year marks its 24th premiere anniversary.",
+          "body": "\u2018The Thirteenth Year\u2019 premiered 24 years ago today.",
+          "engagement": "325K views",
+          "views": 324877
         }
       ]
     },
     "recipe": {
       "stories": [
         {
-          "handle": "baypinar35",
-          "url": "https://x.com/baypinar35/status/2055174898243481727",
-          "headline": "User discovers an issue with storing grated garlic in the fridge.",
-          "body": "\u6628\u65e5\u3082\u4eca\u65e5\u3082\u4f7f\u3044\u305f\u3044\u304b\u3089\u591a\u3081\u306b\u64e6\u3063\u305f\u30cb\u30f3\u30cb\u30af\u3092\u51b7\u8535\u5eab\u306b\u5165\u308c\u3066\u304a\u3044\u305f\u3089\u30b3\u30ec\ud83e\uddc4 \u306a\u3093\u3067\uff1f\u98df\u3079\u308c\u3093\u306e\uff1f\u3053\u308c",
-          "engagement": "42K views",
-          "views": 41914
+          "handle": "Rnyrg",
+          "url": "https://x.com/Rnyrg/status/2055123966931734766",
+          "headline": "Izakaya lunch featuring yakitori set meal.",
+          "body": "\u5c45\u9152\u5c4b\u30e9\u30f3\u30c1\u3067\u3057\u3087\u3046\u304c\u713c\u304d\u5b9a\u98df\u306a\u306e\u3060\u3088\u3002",
+          "engagement": "90K views",
+          "views": 90283
         },
         {
           "handle": "fashionpressnet",
@@ -393,12 +401,12 @@
           "views": 92186
         },
         {
-          "handle": "Rnyrg",
-          "url": "https://x.com/Rnyrg/status/2055123966931734766",
-          "headline": "User enjoys a yakiniku fixed meal for lunch at an izakaya.",
-          "body": "\u5c45\u9152\u5c4b\u30e9\u30f3\u30c1\u3067\u3057\u3087\u3046\u304c\u713c\u304d\u5b9a\u98df\u306a\u306e\u3060\u3088\u3002",
-          "engagement": "52K views",
-          "views": 51884
+          "handle": "baypinar35",
+          "url": "https://x.com/baypinar35/status/2055174898243481727",
+          "headline": "User discovers an issue with storing grated garlic in the fridge.",
+          "body": "\u6628\u65e5\u3082\u4eca\u65e5\u3082\u4f7f\u3044\u305f\u3044\u304b\u3089\u591a\u3081\u306b\u64e6\u3063\u305f\u30cb\u30f3\u30cb\u30af\u3092\u51b7\u8535\u5eab\u306b\u5165\u308c\u3066\u304a\u3044\u305f\u3089\u30b3\u30ec\ud83e\uddc4 \u306a\u3093\u3067\uff1f\u98df\u3079\u308c\u3093\u306e\uff1f\u3053\u308c",
+          "engagement": "42K views",
+          "views": 41914
         }
       ]
     },
@@ -423,10 +431,10 @@
         {
           "handle": "RoundtableSpace",
           "url": "https://x.com/RoundtableSpace/status/2055056813977141557",
-          "headline": "Anthropic offers high-paying fellowships for learning AI safety without requiring prior experience.",
+          "headline": "Anthropic offers high-paying fellowships for learning AI safety without prior experience.",
           "body": "ANTHROPIC IS PAYING PEOPLE $3,850/WEEK TO LEARN AI SAFETY\n\n* No PhD or prior AI research experience required for the Fellows Program  \n* Fellows work directly with Anthropic researchers on frontier AI problems  \n* 80% published papers and 40% reportedly converted into full-time hires\n\nDevote the time to learning.",
-          "engagement": "87K views",
-          "views": 87381
+          "engagement": "104K views",
+          "views": 103507
         }
       ]
     },
@@ -441,32 +449,40 @@
           "views": 26138
         },
         {
-          "handle": "KTLA",
-          "url": "https://x.com/KTLA/status/2055060313863823424",
-          "headline": "Southern California centenarian couple celebrates their 80th wedding anniversary with loved ones.",
-          "body": "Loved ones celebrated a Southern California centenarian couple as they marked their 80th wedding anniversary. The happy couple reminisced on a lifetime of love and laughter together. \nDetails: https://ktla.com/news/local-news/centarian-wwii-couple-celebrates-80-year-love-story-southern-california/",
-          "engagement": "3K views",
-          "views": 3028
+          "handle": "NBCNews",
+          "url": "https://x.com/NBCNews/status/2055050537641345286",
+          "headline": "Southern California mayor's resignation after pleading guilty to acting as foreign agent for China sparks online backlash and anti-Asian discrimination fears.",
+          "body": "The resignation of a Southern California mayor who pleaded guilty to acting as a foreign agent for China has sparked backlash and reignited fears of anti-Asian discrimination. https://www.nbcnews.com/news/us-news/backlash-erupts-online-california-mayor-admits-foreign-agent-china-rcna344745?cid=sm_npd_nn_tw_ma&taid=6a064a9332982f000154aafa&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+          "engagement": "14K views",
+          "views": 14254
         },
         {
-          "handle": "KTLA",
-          "url": "https://x.com/KTLA/status/2054953883877728319",
-          "headline": "Experts puzzled by unusual number of dead seabirds washing up on Southern California beaches including Orange County.",
-          "body": "Residents and wildlife experts are searching for answers after an unusual number of dead seabirds have been found washing up along beaches across Southern California, from Orange County to Ventura County. https://ktla.com/news/local-news/dead-birds-washing-up-on-southern-california-beaches-puzzle-experts/",
-          "engagement": "2K views",
-          "views": 2348
+          "handle": "ABC7",
+          "url": "https://x.com/ABC7/status/2054941260134445293",
+          "headline": "Orange County authorities cracking down on illegal e-bikes and e-motorcycles, with three parents facing criminal charges.",
+          "body": "OC cracking down on illegal e-bikes, e-motorcycles; 3 parents facing criminal charges https://abc7.com/post/orange-county-cracking-down-illegal-bikes-motorcycles-parents-face-charges/19099804/",
+          "engagement": "6.8K views",
+          "views": 6775
         }
       ]
     },
     "conspiracy": {
       "stories": [
         {
-          "handle": "WSJ",
-          "url": "https://x.com/WSJ/status/2055080897645265094",
-          "headline": "Wall Street Journal analysis of Trump's Truth Social activity showing spread of conspiracy theories",
-          "body": "A WSJ analysis of thousands of posts found that President Trump uses Truth Social to spread conspiracy theories and attack his adversaries. \ud83d\udd17 https://www.wsj.com/politics/trump-truth-social-late-night-posts-167cb47a?mod=e2tw",
-          "engagement": "31K views",
-          "views": 31232
+          "handle": "aravind",
+          "url": "https://x.com/aravind/status/2054956174420902036",
+          "headline": "Alleged deep state plans to use media propaganda to destabilize Indian government through fake news and protests.",
+          "body": "It's very clear seeing the leading signals on social media: Every news, and more fake news, are going to be used by the DS to instigate Indians against the PM and GoI in the coming months. It's going to be a barrage, no a deluge, of negative news (mainly Reuters, Bloomberg, WSJ, FT) and propaganda to try disillusion the most hardcore supporters. To prepare the base for protests and anarchy to try create govt instability in India. But they will fail in the end. Because these losers, the communists and islamists, don't get India.",
+          "engagement": "343K views",
+          "views": 343235
+        },
+        {
+          "handle": "timcast",
+          "url": "https://x.com/timcast/status/2054910468943135084",
+          "headline": "Conspiracy theory claims an 83-year-old House Democrat has died without public acknowledgment.",
+          "body": "There's a conspiracy theory that she died and Dems dont want to say anything https://www.mediaite.com/politics/83-year-old-house-democrat-is-mia-with-no-explanation/",
+          "engagement": "78.6K views",
+          "views": 78598
         },
         {
           "handle": "ericweinstein",
@@ -475,14 +491,6 @@
           "body": "This I Believe:  \n\nThe \u201cNational Security Community\u201d is making science & scientists dumber.  \n\nNatSec is destroying  the scientific foundation of U.S. National Security.  \n\nThe directive to protect 85 IQ narratives is taking out the world\u2019s most elite minds.  \n\nhttps://www.youtube.com/watch?si=94erVuP1kvZSUEF4&v=8oTOxiu2-HA&feature=youtu.be",
           "engagement": "60K views",
           "views": 59794
-        },
-        {
-          "handle": "iluminatibot",
-          "url": "https://x.com/iluminatibot/status/2055075751909904878",
-          "headline": "Statement highlighting the high success rate of conspiracy theories",
-          "body": "Conspiracy theorists are like 68-0 right now.",
-          "engagement": "25K views",
-          "views": 24801
         }
       ]
     },
@@ -491,29 +499,29 @@
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2055017088272744630",
-          "headline": "Elon Musk reacts humorously to a Christopher Nolan meme",
+          "headline": "Elon Musk reacts to a Christopher Nolan meme",
           "body": "He actually did the meme \ud83e\udd23\ud83e\udd23",
-          "engagement": "26M views",
-          "views": 26448508
+          "engagement": "34M views",
+          "views": 33934590
         },
         {
           "handle": "dogeofficialceo",
           "url": "https://x.com/dogeofficialceo/status/2054994019030319558",
-          "headline": "Viral meme showing Christopher Nolan directing The Odyssey",
+          "headline": "Meme showing Christopher Nolan directing The Odyssey",
           "body": "Christopher Nolan directing The Odyssey",
-          "engagement": "26M views",
-          "views": 26504561
+          "engagement": "34M views",
+          "views": 34000543
         },
         {
           "handle": "XFreeze",
           "url": "https://x.com/XFreeze/status/2054906460308672707",
-          "headline": "Elon Musk poses with funny expressions alongside Xiaomi and Apple CEOs at a banquet.",
+          "headline": "Elon Musk hilariously poses for selfies with CEOs at a banquet",
           "body": "Elon completely stole the banquet \ud83d\ude02 \n\nHe was already posing for someone else when Xiaomi CEO Lei Jun walked up to his idol asking for a selfie\n\nElon instantly poses with the funniest face\n\ndoes the same funny expression with Apple CEO Tim Cook too\n\nNow Elon became the MAIN attraction across Chinese media and the entire world \ud83e\udd23",
-          "engagement": "5.5M views",
-          "views": 5457110
+          "engagement": "5.6M views",
+          "views": 5592678
         }
       ]
     }
   },
-  "last_updated": "2026-05-15T07:32:58.021307"
+  "last_updated": "2026-05-15T10:25:46.690704"
 }
