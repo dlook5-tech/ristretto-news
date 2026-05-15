@@ -34,6 +34,37 @@
           ]
         },
         {
+          "headline": "US President Trump holds summit with Chinese President Xi Jinping in Beijing to discuss trade, Taiwan, Hormuz Strait, and Iran.",
+          "url": "https://x.com/zerohedge/status/2055298436082123136",
+          "handle": "zerohedge",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "TrumpTruthOnX",
+              "url": "https://x.com/TrumpTruthOnX/status/2055013089863733650",
+              "body": "\ud83c\uddfa\ud83c\uddf8\ud83c\udde8\ud83c\uddf3 The White House issued a statement regarding Trump-Xi talks. - White House called it a \"good meeting\" - Talks covered expanded economic cooperation and US market access in China - China to increase purchases of American agricultural products - Both sides agree Strait of Hormuz must stay open for global energy - Xi opposed militarization of the Strait; signaled interest in buying more US oil - Joint position: Iran must not obtain a nuclear weapon",
+              "engagement": "158 likes, 41 reposts, 68K views",
+              "views": 68829
+            },
+            {
+              "label": "Independent",
+              "handle": "nypost",
+              "url": "https://x.com/nypost/status/2055212214726877197",
+              "body": "6 key takeaways from historic Trump-Xi China summit https://nypost.com/2026/05/15/us-news/trump-xi-china-summit-key-takeaways/?utm_source=twitter&utm_campaign=nypost&utm_medium=social",
+              "engagement": "39 likes, 16 reposts, 8K views",
+              "views": 8407
+            },
+            {
+              "label": "Democrat",
+              "handle": "axios",
+              "url": "https://x.com/axios/status/2055154255619649972",
+              "body": "Trump tries to defy gravity with Beijing friendship summit https://www.axios.com/2026/05/15/trump-xi-china-summit?utm_campaign=mrf-utm_campaign=editorial&utm_source=x&utm_medium=owned_social&mrfcid=2026051569fc0e424c77262e8806fa32",
+              "engagement": "35 likes, 6 reposts, 12K views",
+              "views": 12235
+            }
+          ]
+        },
+        {
           "headline": "US President Donald Trump holds summit with Chinese President Xi Jinping in Beijing to discuss trade, technology, and global cooperation.",
           "url": "https://x.com/business/status/2054802402608345089",
           "handle": "business",
@@ -63,42 +94,42 @@
               "views": 9235
             }
           ]
-        },
-        {
-          "headline": "Chinese President Xi Jinping warns US President Trump of potential conflicts over Taiwan relations during Beijing summit",
-          "url": "https://x.com/Reuters/status/2054962726867189760",
-          "handle": "Reuters",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "RapidResponse47",
-              "url": "https://x.com/RapidResponse47/status/2055123735338696995",
-              "body": "WATCH IN FULL: President Donald J. Trump's interview with @FoxNews amid his historic state visit to China",
-              "engagement": "983 likes, 293 reposts",
-              "views": 36165
-            },
-            {
-              "label": "Independent",
-              "handle": "NBCNews",
-              "url": "https://x.com/NBCNews/status/2054909852397277679",
-              "body": "Chinese President Xi Jinping warns of \u201cclashes and even conflicts\u201d with the U.S. over Taiwan, cautioning President Trump that tensions over the Beijing-claimed island could jeopardize ties between the world\u2019s two biggest economies. https://www.nbcnews.com/world/china/xi-warns-trump-taiwan-conflict-summit-beijing-china-us-rcna345069?cid=sm_npd_nn_tw_ma&taid=6a05c78d9139890001baaed9&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
-              "engagement": "66 likes, 33 reposts",
-              "views": 57605
-            },
-            {
-              "label": "Democrat",
-              "handle": "Fernand46357857",
-              "url": "https://x.com/Fernand46357857/status/2055022017100017964",
-              "body": "According to Trump: China has committed to withholding military equipment from Iran \u2014 This doesn\u2019t seem believable for Iran is a strong China ally.  https://thehill.com/homenews/administration/5878305-trump-xi-iran-military-equipment/",
-              "engagement": "6 likes, 0 reposts",
-              "views": 125
-            }
-          ]
         }
       ]
     },
     "usa": {
       "stories": [
+        {
+          "headline": "White House announces list of prominent business leaders joining President Trump on his state visit to China for the US-China summit.",
+          "url": "https://x.com/KobeissiLetter/status/2054551038632292610",
+          "handle": "KobeissiLetter",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "aj_inapi",
+              "url": "https://x.com/aj_inapi/status/2054549193080095084",
+              "body": "Most Americans still think geopolitics is politicians giving speeches at podiums. That\u2019s the old world. What President Trump is doing in Beijing right now is something entirely different: Using CORPORATE POWER as a geopolitical weapon. Look at the delegation he assembled for China: \u2022 Elon Musk - Tesla / SpaceX \u2022 Tim Cook - Apple ... MAKE AMERICA GREAT AGAIN!!! God bless President Trump! God bless America!",
+              "engagement": "849K views",
+              "views": 849353
+            },
+            {
+              "label": "Independent",
+              "handle": "DeItaone",
+              "url": "https://x.com/DeItaone/status/2055255449507598362",
+              "body": "$NVDA  - TRUMP: CHINA HASN\u2019T BOUGHT NVIDIA H200 CHIPS President Donald Trump said China has not purchased Nvidia\u2019s H200 chips, despite U.S. approval for sales. He said China \u201cchose not to\u201d and is aiming to develop its own technology. Chip stocks fell after the summit ended without a major tech deal.",
+              "engagement": "450K views",
+              "views": 449967
+            },
+            {
+              "label": "Democrat",
+              "handle": "CNN",
+              "url": "https://x.com/CNN/status/2055219268363440268",
+              "body": "President Donald Trump departed Beijing without any immediate sign that the US and China have resolved thorny challenges dogging their fractious relationship, but with a freshly stabilized relationship with Chinese leader Xi Jinping \u2013 for now.",
+              "engagement": "107K views",
+              "views": 107479
+            }
+          ]
+        },
         {
           "headline": "President Trump concludes summit with Chinese President Xi Jinping in Beijing, announcing significant new trade deals worth over $1 trillion.",
           "url": "https://x.com/WhiteHouse/status/2054859596938785204",
@@ -131,64 +162,33 @@
           ]
         },
         {
-          "headline": "US House vote on Democratic resolution to limit presidential military powers regarding Iran ends in a 212-212 tie",
-          "url": "https://x.com/connorobrienNH/status/2055029362399883317",
-          "handle": "connorobrienNH",
+          "headline": "US 30-Year Treasury Yield surges to 5.12%, the highest level since the lead-up to the Global Financial Crisis.",
+          "url": "https://x.com/Barchart/status/2055285135852077074",
+          "handle": "Barchart",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "OpenSourceZone",
-              "url": "https://x.com/OpenSourceZone/status/2055058794153988482",
-              "body": "US House defeats Iran war powers resolution \ud83d\udfe2 Yes: 212 \ud83d\udd34 No: 213 GOP Yes Votes: \ud83d\udd34 Thomas Massie (KY) \ud83d\udd34 Tom Barrett (MI) \ud83d\udd34 Brian Fitzpatrick (PA) Democrat No Vote: \ud83d\udd35 Jared Golden (ME)",
-              "engagement": "73K views",
-              "views": 72885
+              "handle": "PeterSchiff",
+              "url": "https://x.com/PeterSchiff/status/2055263728648548708",
+              "body": "The yield on the 30-year Treasury is now 5.1%, the highest since 2007. The 10-year Treasury yield is 4.55%, the highest since the Liberation Day selloff. This may set off a major bond market collapse that will send yields soaring unless the Fed sends inflation soaring instead.",
+              "engagement": "92K views",
+              "views": 92467
             },
             {
               "label": "Independent",
-              "handle": "PollTracker2024",
-              "url": "https://x.com/PollTracker2024/status/2055030980486762965",
-              "body": "US House defeats Iran war powers resolution in tied 212-212 vote Three Republicans voted in favor \ud83d\udfe5Tom Barrett (MI) \ud83d\udfe5Brian Fitzpatrick (PA) \ud83d\udfe5Thomas Massie (KY) \u2014 One Democrat voted against \ud83d\udfe6Jared Golden (ME)",
-              "engagement": "612K views",
-              "views": 611628
+              "handle": "GlobalMktObserv",
+              "url": "https://x.com/GlobalMktObserv/status/2055253612280840278",
+              "body": "\u203c\ufe0fUS government bond SELL-OFF is accelerating: The 30-year Treasury yield is up to 5.09%, the 3rd-highest level since the Great Financial Crisis. It is just 8 basis points away from its 19-year high. US public debt is becoming more expensive.",
+              "engagement": "16K views",
+              "views": 15895
             },
             {
               "label": "Democrat",
-              "handle": "ErikSperling",
-              "url": "https://x.com/ErikSperling/status/2055034726683983927",
-              "body": "Vulnerable GOP members of both chambers are starting to turn against Iran war House joins Senate with narrowest defeat since war began (49-50, 212-212) House WPR nearly passed but pro-war @HouseGOP pressured someone to change their vote last second to protect the war effort \u2b07\ufe0f",
-              "engagement": "28K views",
-              "views": 28147
-            }
-          ]
-        },
-        {
-          "headline": "Trump and Xi conclude Beijing summit with commitments on US farm purchases and persistence of tariffs amid discussions on Iran and trade",
-          "url": "https://x.com/business/status/2055225050391818508",
-          "handle": "business",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "foxnewspolitics",
-              "url": "https://x.com/foxnewspolitics/status/2054998266300047630",
-              "body": "Chinese security allegedly blocked an armed Secret Service agent from entering Trump-Xi event in Beijing, triggering a standoff that delayed entry for over 30 minutes, according to reports.",
-              "engagement": "60K views",
-              "views": 60422
-            },
-            {
-              "label": "Independent",
-              "handle": "Reuters",
-              "url": "https://x.com/Reuters/status/2054784098200145966",
-              "body": "US President Donald Trump met with China's Xi Jinping in Beijing, aiming to secure economic wins, maintain a fragile trade truce and navigate thorny issues such as the Iran war and arms sales to Taiwan https://www.reuters.com/world/trump-xi-summit-live-talks-beijing-include-iran-trade-taiwan-2026-05-14/?utm_source=Facebook&utm_medium=Social",
-              "engagement": "35K views",
-              "views": 35564
-            },
-            {
-              "label": "Democrat",
-              "handle": "CNN",
-              "url": "https://x.com/CNN/status/2054884943956730111",
-              "body": "Talks between US President Donald Trump and Chinese leader Xi Jinping have been largely positive, though the future of Taiwan threatens to strain the relationship. Follow live updates: https://www.cnn.com/politics/live-news/trump-china-visit-xi-meeting-hnk?Date=20260514&Profile=CNN&utm_content=1778757696&utm_medium=social&utm_source=twitter",
-              "engagement": "147K views",
-              "views": 147244
+              "handle": "YahooFinance",
+              "url": "https://x.com/YahooFinance/status/2055309133268562293",
+              "body": "The 30-year Treasury yield is at its highest level since June 2007",
+              "engagement": "12K views",
+              "views": 11607
             }
           ]
         }
@@ -196,14 +196,6 @@
     },
     "business": {
       "stories": [
-        {
-          "handle": "DeItaone",
-          "url": "https://x.com/DeItaone/status/2055272182008201672",
-          "headline": "Markets are pricing in over 50% chance of a Fed rate hike by January due to tightening risks.",
-          "body": "RATE HIKE BETS SURGE IN MARKETS\n\nUS interest rate futures now show more than a 50% chance of a Fed rate hike by January, according to Kalshi pricing.\n\nMarkets have shifted sharply from near-zero odds to actively pricing in tightening risk as early as 2026, with a 34% probability of a hike before 2027.",
-          "engagement": "102K views",
-          "views": 102304
-        },
         {
           "handle": "nikkei",
           "url": "https://x.com/nikkei/status/2055063923879969135",
@@ -213,12 +205,20 @@
           "views": 1042787
         },
         {
-          "handle": "financialjuice",
-          "url": "https://x.com/financialjuice/status/2055270532329754803",
-          "headline": "US interest rate futures indicate over 50% probability of a Fed rate hike by January.",
-          "body": "\ud83d\udd34 US interest rate futures now reflect more than 50% probability of a Fed rate hike by January.",
-          "engagement": "43K views",
-          "views": 42932
+          "handle": "DeItaone",
+          "url": "https://x.com/DeItaone/status/2055272182008201672",
+          "headline": "Markets now show over 50% chance of Fed rate hike by January 2027 due to shifting odds.",
+          "body": "RATE HIKE BETS SURGE IN MARKETS\n\nUS interest rate futures now show more than a 50% chance of a Fed rate hike by January, according to Kalshi pricing.\n\nMarkets have shifted sharply from near-zero odds to actively pricing in tightening risk as early as 2026, with a 34% probability of a hike before 2027.",
+          "engagement": "146K views",
+          "views": 146516
+        },
+        {
+          "handle": "X_TokenPromoo",
+          "url": "https://x.com/X_TokenPromoo/status/2055287306840313943",
+          "headline": "Presale for $X Token stage 5 nears end with official listing scheduled for May 16.",
+          "body": "The $X Token will be launched. Stage 5 of the token sale will end soon. The listing date has been officially announced for May 16 \ud83d\ude80\n\n\ud83d\udc49 https://XPLATFORM-PRESALE.COM\n\nOnce the presale ends, the official listing is scheduled, and the token price will be determined by the market ~12.6 USD",
+          "engagement": "98K views",
+          "views": 97926
         }
       ]
     },
@@ -253,14 +253,6 @@
     "msm": {
       "stories": [
         {
-          "handle": "nytimes",
-          "url": "https://x.com/nytimes/status/2054959205564457078",
-          "headline": "Justice Department plans to drop charges against Indian billionaire Gautam Adani after an investment offer from his lawyer.",
-          "body": "Breaking News: The Justice Dept. is planning to drop charges against India\u2019s richest man, Gautam Adani, after a lawyer for the billionaire made an unusual investment offer. https://www.nytimes.com/2026/05/14/nyregion/gautam-adani-billionaire-doj-trump.html?smtyp=cur&smid=tw-nytimes",
-          "engagement": "1.9M views",
-          "views": 1857535
-        },
-        {
           "handle": "washingtonpost",
           "url": "https://x.com/washingtonpost/status/2055003060619952265",
           "headline": "Justice Department concludes Yale Medical School discriminated in admissions based on race.",
@@ -269,17 +261,41 @@
           "views": 647907
         },
         {
-          "handle": "AP",
-          "url": "https://x.com/AP/status/2054959358530764804",
-          "headline": "Senate unanimously passes resolution to withhold senators' pay during future government shutdowns.",
-          "body": "BREAKING: Senators unanimously approve a resolution to withhold their own pay during future government shutdowns. https://apnews.com/article/senate-pay-shutdown-withhold-government-face16eac3196ad4c3bedf3d699be87f?taid=6a05f5a8717bd400015f1b2a&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
-          "engagement": "134K views",
-          "views": 134481
+          "handle": "ABC",
+          "url": "https://x.com/ABC/status/2055051302317560290",
+          "headline": "President Trump expected to drop $10 billion IRS lawsuit in exchange for $1.7 billion fund for victims of government weaponization.",
+          "body": "President Trump is expected to drop his $10 billion IRS suit in exchange for the creation of a $1.7 billion fund for victims of governmental \"weaponization,\" sources say. https://abcnews.com/US/trump-poised-drop-irs-suit-launch-17b-weaponization/story?id=132962661&cid=social_twitter_abcn",
+          "engagement": "478K views",
+          "views": 477582
+        },
+        {
+          "handle": "CNN",
+          "url": "https://x.com/CNN/status/2055219268363440268",
+          "headline": "Trump departs Beijing with stabilized US-China relations under Xi Jinping but unresolved challenges.",
+          "body": "President Donald Trump departed Beijing without any immediate sign that the US and China have resolved thorny challenges dogging their fractious relationship, but with a freshly stabilized relationship with Chinese leader Xi Jinping \u2013 for now. https://www.cnn.com/2026/05/15/politics/takeaways-trump-china-visit-xi-intl-hnk?Date=20260515&Profile=CNN&utm_content=1778837398&utm_medium=social&utm_source=twitter",
+          "engagement": "107K views",
+          "views": 107445
         }
       ]
     },
     "sports": {
       "stories": [
+        {
+          "handle": "Arsenal",
+          "url": "https://x.com/Arsenal/status/2055333285455450458",
+          "headline": "Arsenal fans appreciate Wilfried Zaha's celebration from recent match.",
+          "body": "A lot of love for Wilo's celebration \ud83e\udd23\n\nWatch back the Sunday scenes with our Gunners \ud83c\udf7f",
+          "engagement": "41K views",
+          "views": 41262
+        },
+        {
+          "handle": "SportsCenter",
+          "url": "https://x.com/SportsCenter/status/2055328231704715645",
+          "headline": "Philadelphia Eagles quarterback Jalen Hurts shows interest in throwback uniforms.",
+          "body": "Jalen Hurts put these throwbacks on his wish list \ud83d\udc40 \n\n(via @philadelphiaeagles)",
+          "engagement": "62K views",
+          "views": 62926
+        },
         {
           "handle": "BleacherReport",
           "url": "https://x.com/BleacherReport/status/2055059791631045014",
@@ -287,22 +303,6 @@
           "body": "Isaiah Thomas has been hired by the Celtics as a pro and college scout, per @AdamHimmelsbach \ud83d\ude4c He's been with the team this week at the NBA Scouting Combine \u2618\ufe0f",
           "engagement": "1.5M views",
           "views": 1464139
-        },
-        {
-          "handle": "Hali",
-          "url": "https://x.com/Hali/status/2055114765005967821",
-          "headline": "Tyrese Haliburton jokes that no NBA playoff games are scheduled due to Drake's album release",
-          "body": "No playoff games cuz Iceman here, respect @NBA",
-          "engagement": "1M views",
-          "views": 1038513
-        },
-        {
-          "handle": "Amuludun_fyp",
-          "url": "https://x.com/Amuludun_fyp/status/2055215867147718830",
-          "headline": "Basketball betting picks offered for today's games with high odds.",
-          "body": "Todays basketball \ud83c\udfc0 \n70k odds\n25/25",
-          "engagement": "370K views",
-          "views": 370347
         }
       ]
     },
@@ -311,10 +311,10 @@
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2055277918633562153",
-          "headline": "Elon Musk shares the latest X algorithm on GitHub for public access",
-          "body": "The latest \ud835\udd4f algorithm has been published to GitHub https://github.com/xai-org/x-algorithm",
-          "engagement": "3.3M views",
-          "views": 3309768
+          "headline": "Elon Musk publishes the latest X algorithm on GitHub.",
+          "body": "The latest \ud835\udd4f algorithm has been published to GitHub\nhttps://github.com/xai-org/x-algorithm",
+          "engagement": "16.8M views",
+          "views": 16840310
         },
         {
           "handle": "elonmusk",
@@ -337,40 +337,48 @@
     "pods": {
       "stories": [
         {
+          "handle": "KillaKreww",
+          "url": "https://x.com/KillaKreww/status/2055291583746945259",
+          "headline": "Mike Tyson laughs uncontrollably after provoking Theo Von to scream about being a 'n*gga lover' on podcast.",
+          "body": "Mike Tyson couldn\u2019t stop LAUGHING after he made Theo Von SCREAM that he\u2019s a \u201cn*gga lover\u201d mid podcast \ud83e\udd23\ud83e\udd23\ud83d\udd25",
+          "engagement": "753K views",
+          "views": 752908
+        },
+        {
+          "handle": "AutismCapital",
+          "url": "https://x.com/AutismCapital/status/2055314230199583008",
+          "headline": "Mike Tyson tricks Theo Von into calling him a 'n***er lover' during their podcast conversation.",
+          "body": "Mike Tyson baits Theo Von into saying that he is a \u201cn***er lover.\u201d \ud83d\udc80 \ud83d\udc80 \ud83d\udc80 \n\nLegitimate chance that Theo is going to freak out about this for the next two weeks once a single person gets offended lmao \ud83d\ude02",
+          "engagement": "186K views",
+          "views": 185878
+        },
+        {
           "handle": "overton_news",
           "url": "https://x.com/overton_news/status/2055019579815211468",
-          "headline": "Joe Rogan expresses deep concern for Theo Von's mental health struggles on his podcast.",
+          "headline": "Joe Rogan voices concern over Theo Von's mental health struggles and SSRI medication effects on his podcast.",
           "body": "Joe Rogan just took time out of his podcast to express genuine concern for his friend Theo Von.\n\nHe admitted that some of Von\u2019s recent behavior after getting on SSRIs \u201cfreaks me out\u201d \u2014 especially his comments about suicide.\n\nROGAN: \u201cTheo Von\u2019s going through the exact same thing and last time he was on the podcast he was explaining it to me.\u201d\n\n\u201cIt freaks me out because I know Theo has had conversations before...like even publicly.\u201d\n\n\u201cHe had a Netflix taping and it didn\u2019t go well. It was like they actually never...they shelved it. They never used it.\u201d\n\n\u201cAnd you know there was all these stories from people that were there saying he bombed. I think he just had a kind of a breakdown.\u201d\n\n\u201cAnd when he was talking to the crowd and there\u2019s a video of it, he said, you know, the people were saying, hey, we still love you.\u201d\n\n\u201cHe goes, thank you. Look, I\u2019m just I\u2019m trying not to take my own life.\u201d\n\n\u201cAnd like you hear stuff like that and you just go like, oh, Jesus Christ.\u201d\n\n\u201cI\u2019ve known too many people that I didn\u2019t think were going to kill themselves and then did.\u201d\n\n\u201cAnd then he goes down these spirals where he starts talking about world events and freaking out. I\u2019m like, oh, Jesus Christ! Like, I got to help this dude.\u201d",
-          "engagement": "2.1M views",
-          "views": 2128486
-        },
-        {
-          "handle": "lexfridman",
-          "url": "https://x.com/lexfridman/status/2054989115163136051",
-          "headline": "Lex Fridman announces a spontaneous worldwide backpacking adventure starting in China.",
-          "body": "I'm traveling the world for a bit, starting with China but then hopping around the globe, anywhere. Open to any adventure. No plans, only a backpack. Hoping to meet & get to know humans from all walks of life. The pic is from a long hike on the Great Wall. For me, as a fan of history, this was an epic experience.\n\nIn China, first I'm visiting a few big cities & talking to engineers at the heart of China's AI revolution. After that, if feeling crazy enough, I'm hitchhiking (first time) across rural China for a few weeks. Hitchhiking because I think it's the best way to meet rural folks who I would otherwise never get the chance to meet. I hope to do the same in US and other places.\n\nI have a request, if you have a travel recommendation, fill out the form(s) below if you feel like it. Or share with folks who might have advice about such travel.\n\nForm 1 - travel recommendation:\nIf you can, recommend to me an interesting place I should visit anywhere in the world. For this, fill out form 1. Not touristy stuff, but something off the beaten path, that tourists may not know about, but is legendary. It could be as remote as meeting a herder in the mountains who is a local legend. Asia, Middle East, Europe, India, South/North America, Africa, Australia, anywhere. In China, I'm hoping to visit maybe Heibei, Shanxi, Shaanxi, Gansu, Sichuan, Yunnan, etc, so recommendations for spots to visit are helpful.\n\nForm 2 - coffee:\nIf you want to grab a coffee with me anywhere in the world, fill out form 2 (please don't use form 1 for that).\n\nAnyway, I hectically tossed stuff in backpack. Realizing I don't have a clear plan of any kind, which is probably the only way to do it. LFG.\n\nLove you all \u2764\ufe0f",
-          "engagement": "1M views",
-          "views": 1064171
-        },
-        {
-          "handle": "ExxAlerts",
-          "url": "https://x.com/ExxAlerts/status/2055037350724751799",
-          "headline": "Joe Rogan challenges Palantir CEO Alex Karp's support for mandatory national service post-Iran war.",
-          "body": "ALERT: Joe Rogan says \u201cF*ck you, you go\u201d to Palantir after CEO Alex Karp argued that national service should be mandatory.\n\n\u201cI don\u2019t understand why anybody would wanna support that\u2026 That sounds crazy. Especially after this Iran war, where everybody\u2019s like why the f*ck are we in Iran?\u201d\n\n\u201cHow \u2019bout let\u2019s figure out a way to use your technology so there\u2019s no more wars? Wouldn\u2019t that be a better goal?\u201d",
-          "engagement": "614K views",
-          "views": 614873
+          "engagement": "2.3M views",
+          "views": 2264085
         }
       ]
     },
     "pg6": {
       "stories": [
         {
-          "handle": "FrenchRapUS",
-          "url": "https://x.com/FrenchRapUS/status/2055252295076532315",
-          "headline": "Drake mentions Paris Saint-Germain in his new album lyrics.",
-          "body": "\ud83d\udea8 LE BUZZ DU PSG EST MONDIAL ! \n\nLE RAPPEUR DRAKE A D\u00c9DICAC\u00c9 LE CLUB FRAN\u00c7AIS DANS SON NOUVEL ALBUM \ud83c\uddeb\ud83c\uddf7 \n\n\u00ab Mon fils tire des corners au Paris Saint-Germain devant Mr Luis Enrique\u00a0\u00bb",
-          "engagement": "213K views",
-          "views": 212574
+          "handle": "TaraBull",
+          "url": "https://x.com/TaraBull/status/2055309731963756723",
+          "headline": "Video shows Jennifer Lopez waiting for crowd to clear before staging a paparazzi exit.",
+          "body": "This is peak celebrity nonsense: Jennifer Lopez literally waiting for the crowd to clear before doing a 20 foot walk to her car, just to stage her paparazzi exit. \n\nI'm so over celebrity culture",
+          "engagement": "954K views",
+          "views": 953937
+        },
+        {
+          "handle": "TMZ",
+          "url": "https://x.com/TMZ/status/2055282019345551747",
+          "headline": "Jermaine Jackson ordered to pay $6.5 million to a rape accuser in exclusive report.",
+          "body": "\ud83d\udea8 EXCLUSIVE: Jermaine Jackson has been ordered to pay a rape accuser $6.5 million.\n\nRead more: https://www.tmz.com/2026/05/15/jermaine-jackson-forced-to-pay-rape-accuser-millions/",
+          "engagement": "1.1M views",
+          "views": 1065410
         },
         {
           "handle": "DiscussingFilm",
@@ -379,14 +387,6 @@
           "body": "Droids dancing at \u2018THE MANDALORIAN & GROGU\u2019 world premiere in Hollywood.",
           "engagement": "864K views",
           "views": 864201
-        },
-        {
-          "handle": "PopCulture2000s",
-          "url": "https://x.com/PopCulture2000s/status/2054983178540986836",
-          "headline": "Barbara Palvin and Dylan Sprouse announce they are expecting their first child.",
-          "body": "barbara palvin and dylan sprouse are expecting their first child !!",
-          "engagement": "1.3M views",
-          "views": 1309707
         }
       ]
     },
@@ -421,28 +421,28 @@
     "science": {
       "stories": [
         {
-          "handle": "AnthropicAI",
-          "url": "https://x.com/AnthropicAI/status/2054987444664377374",
-          "headline": "Anthropic releases paper detailing views on US-China AI competition and measures to sustain US leadership in frontier AI.",
-          "body": "We've published a paper that explains our views on AI competition between the US and China.\n  \nThe US and democratic allies hold the lead in frontier AI today. Read more on what it\u2019ll take to keep that lead: https://www.anthropic.com/research/2028-ai-leadership",
-          "engagement": "3.2M views",
-          "views": 3173815
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2055277918633562153",
+          "headline": "The latest X algorithm is now publicly available on GitHub.",
+          "body": "The latest \ud835\udd4f algorithm has been published to GitHub https://github.com/xai-org/x-algorithm",
+          "engagement": "16.8M views",
+          "views": 16840310
         },
         {
           "handle": "NASA",
-          "url": "https://x.com/NASA/status/2054931766754906203",
-          "headline": "NASA develops cryocooler technology to simulate extreme lunar conditions for testing construction materials.",
-          "body": "To build on the Moon, we need construction materials that can withstand bitter cold \u2013 so @NASAglenn invented a machine that can recreate that environment for testing!\n\nThis high-powered refrigerator, or cryocooler, removes heat without using any liquid. https://www.nasa.gov/general/nasa-technology-mimics-extreme-lunar-night/?utm_source=TWITTER&utm_medium=NASA&utm_campaign=NASASocial&linkId=942672932",
-          "engagement": "477K views",
-          "views": 477017
+          "url": "https://x.com/NASA/status/2055326306758238332",
+          "headline": "NASA provides live updates on the Psyche mission's Mars slingshot maneuver.",
+          "body": "Follow @NASASolarSystem for live updates as our Psyche mission slingshots around Mars!\n\nLearn more about the asteroid explorer: https://science.nasa.gov/mission/psyche/",
+          "engagement": "131K views",
+          "views": 131435
         },
         {
-          "handle": "XFreeze",
-          "url": "https://x.com/XFreeze/status/2055022277629190341",
-          "headline": "xAI introduces discounted SuperGrok Heavy plan with enhanced AI capabilities and early access to new features.",
-          "body": "xAI just dropped a massive new offer for SuperGrok Heavy plan\n\n67% off for 6 months - now $99/month instead of $300/month\n\nIncludes:\n\u2022 Near-unlimited usage  \n\u2022 16x AI agents in Expert Mode  \n\u2022 Early access to new features  \n\u2022 Dedicated support  \n\u2022 Access to Grok Build Early Beta  \n\u2022 xAI\u2019s most powerful reasoning tools\n\nAnd this is just the beginning\n\nThere are a lot of new Grok models and features coming very soon\n\nxAI is moving insanely fast right now\n\nSubscribe while the offer is still available",
-          "engagement": "143K views",
-          "views": 143184
+          "handle": "NASASolarSystem",
+          "url": "https://x.com/NASASolarSystem/status/2055324888437788871",
+          "headline": "NASA's Psyche mission is approaching Mars for a trajectory adjustment.",
+          "body": "Right now, NASA's #MissionToPsyche is approaching Mars. \n\nCurrent distance: 29,780 miles\nCurrent speed relative to Mars: 10,340 mph\n\nThis simulated view, based on actual trajectory data, comes from our Eyes on the Solar System experience. \n\nRide along: http://eyes.nasa.gov/apps/solar-system/#/sc_psyche",
+          "engagement": "141K views",
+          "views": 140980
         }
       ]
     },
@@ -457,14 +457,6 @@
           "views": 182980
         },
         {
-          "handle": "CBSNewsPress",
-          "url": "https://x.com/CBSNewsPress/status/2054962225115484663",
-          "headline": "CBS Los Angeles announces multi-year partnership with the Rams as official hometown TV partner for preseason games and coverage in Southern California.",
-          "body": "The Rams are back on CBS LA!\n\n.@CBSLosAngeles and the @RamsNFL announced a new multi-year partnership as official hometown television partner, bringing exclusive preseason games, original programming, and expanded year-round coverage to fans across Southern California.\n\nPress Release here: https://t.co/7TpvkNPKQr\n\n#NFL #Football #Rams #LosAngeles #CBSLA",
-          "engagement": "26K views",
-          "views": 26138
-        },
-        {
           "handle": "NBCNews",
           "url": "https://x.com/NBCNews/status/2055050537641345286",
           "headline": "Southern California mayor's resignation after pleading guilty to acting as foreign agent for China sparks online backlash and anti-Asian discrimination fears.",
@@ -477,28 +469,20 @@
     "conspiracy": {
       "stories": [
         {
-          "handle": "aravind",
-          "url": "https://x.com/aravind/status/2054956174420902036",
-          "headline": "Alleged deep state plans to use media propaganda to destabilize Indian government through fake news and protests.",
-          "body": "It's very clear seeing the leading signals on social media: Every news, and more fake news, are going to be used by the DS to instigate Indians against the PM and GoI in the coming months. It's going to be a barrage, no a deluge, of negative news (mainly Reuters, Bloomberg, WSJ, FT) and propaganda to try disillusion the most hardcore supporters. To prepare the base for protests and anarchy to try create govt instability in India. But they will fail in the end. Because these losers, the communists and islamists, don't get India.",
-          "engagement": "343K views",
-          "views": 343235
+          "handle": "WSJ",
+          "url": "https://x.com/WSJ/status/2055080897645265094",
+          "headline": "Analysis of Trump's late-night posts on Truth Social spreading conspiracy theories",
+          "body": "A WSJ analysis of thousands of posts found that President Trump uses Truth Social to spread conspiracy theories and attack his adversaries. \ud83d\udd17 https://www.wsj.com/politics/trump-truth-social-late-night-posts-167cb47a?mod=e2tw",
+          "engagement": "39K views",
+          "views": 39478
         },
         {
-          "handle": "YourAnonOne",
-          "url": "https://x.com/YourAnonOne/status/2054969228411686948",
-          "headline": "Anonymous reports over 9,000 mysterious underwater UFOs near US coastlines according to NY Post.",
-          "body": "JUST IN: More than 9,000 mysterious underwater UFOs have reportedly been spotted near U.S. coastlines, per NY Post.",
-          "engagement": "159K views",
-          "views": 159992
-        },
-        {
-          "handle": "theurigeller",
-          "url": "https://x.com/theurigeller/status/2054932533666549808",
-          "headline": "Uri Geller speculates that UFO disclosures may reveal humanity's extraterrestrial origins.",
-          "body": "\ud83d\udea8 THE UFO FILES MAY REVEAL SOMETHING FAR BIGGER THAN ALIENS\u2026 THEY MAY REVEAL THE TRUE STORY OF HUMANITY \ud83d\udc7d\ud83d\udcdc\n\nFriends\u2026 I want you to prepare yourselves psychologically for what may be coming next.\n\nBecause I do NOT believe the future UFO/UAP disclosures that the Pentagon are in the process of releasing are simply about videos and sightings of advanced craft.\n\nI believe they may ultimately force humanity to confront a terrifying & beautiful possibility:\n\nThat WE may not be entirely \u201cfrom Earth.\u201d\n\nNow before sceptics laugh \u2014 understand this:\n\nScientists are already openly discussing PANSPERMIA \u2014 the theory that life itself may have arrived here via asteroids, comets or cosmic debris.\n\nAnd if life came from elsewhere then WE are part of that cosmic lineage.\n\nBut here's the thing: humans are an ANOMALY!\n\nWe are physically fragile compared to many animals.\n\nYet somehow we became dominant over the entire planet!\n\nWe create art, technology, religion, civilisations, AI & spacecraft.\n\nAnd unlike every other species, we also store information OUTSIDE our genetics - creating what some scientists call a \u201cdataome\u201d - which we pass on to future generations e.g. all our communications, art, scientific knowledge & cultural artifacts\n\nIt's almost as if humanity was designed to EVOLVE through consciousness itself.\n\nCould that be accidental?\n\nOr were we guided?\n\nModified?\n\nSEEDED?\n\nI believe there are people inside governments who already know the answers to some of these questions.\n\nAnd I believe this is one reason why disclosure has been delayed for DECADES.\n\nBecause the implications are not just scientific \u2014 they are spiritual, political & civilisational.\n\nThere are even persistent rumours that senior religious figures, including the VATICAN & the POPE, have quietly been briefed behind closed doors in preparation for future revelations.\n\nWhy would that happen unless world governments know the TRUTH will deeply affect our shared understanding of who we are?\n\nI believe we may discover that our true HOME is far beyond the stars & WE are ALIEN to earth.\n\nAnd that THEY have been watching, guiding and genetically ENGINEERING us from the very beginning!\n\n#Aliens #Disclosure #UFO",
-          "engagement": "129K views",
-          "views": 129087
+          "handle": "BrightInsight6",
+          "url": "https://x.com/BrightInsight6/status/2055015450409685232",
+          "headline": "Discovery of a major lie by Dr. Zahi Hawass regarding ancient history cover-up",
+          "body": "I caught Dr. Zahi Hawass in a lie so enormous during our debate on @piersmorgan yesterday, (which I only discovered was a lie after, through intense research) - and I\u2019m not exaggerating when I say that what I uncovered is truly explosive - a literal conspiracy/coverup with potentially massive implications.\n\nIn fact, the implications of this may lead to something BIG\u2026\n\n***In completely unrelated news, let me remind everyone that illegal antiquities trade is a multi-Billion dollar PER YEAR black market $$$\n\nI will be working around the clock to fire out a video expos\u00e9 on this ASAP - stay tuned \ud83d\udd25\n\nBtw, the debate on Piers Morgan goes live tomorrow, Friday, May 15th on \u2018Piers Morgan Uncensored\u2019 on YouTube",
+          "engagement": "32K views",
+          "views": 31891
         }
       ]
     },
@@ -521,15 +505,15 @@
           "views": 34000543
         },
         {
-          "handle": "tiadeeznuts",
-          "url": "https://x.com/tiadeeznuts/status/2055070008066077091",
-          "headline": "User expresses frustration with community notes interfering with humor.",
-          "body": "community notes ruin a joke so bad. like i KNOW the tweet i liked last week is a lie it's fucking funny",
-          "engagement": "428K views",
-          "views": 428278
+          "handle": "ItsAmahAdoma",
+          "url": "https://x.com/ItsAmahAdoma/status/2055238948419444896",
+          "headline": "Video clip of a man displaying humorous expressions",
+          "body": "This guy is effortlessly funny \ud83d\ude02\ud83d\ude2d\ud83d\ude2d",
+          "engagement": "743K views",
+          "views": 743262
         }
       ]
     }
   },
-  "last_updated": "2026-05-15T14:10:40.727740"
+  "last_updated": "2026-05-15T17:30:12.180333"
 }
