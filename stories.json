@@ -3,6 +3,29 @@
     "world": {
       "stories": [
         {
+          "headline": "5 dead in 160-foot scuba diving accident in the Maldives, marking the worst diving incident in the nation's history",
+          "url": "https://x.com/nypost/status/2055050818173157468",
+          "handle": "nypost",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "DonCamp29856335",
+              "url": "https://x.com/DonCamp29856335/status/2055074448240431440",
+              "body": "Diving in caves at a depth of 160 feet is very dangerous. Only highly trained & experienced divers should even consider such a dive. These people did not meet those criteria. Sad. Five tourists die during diving excursion in Maldives https://www.dailymail.com/news/article-15818615/Five-Italian-divers-killed-exploring-caves-160ft-surface-Maldives-paradise-islands.html via @DailyMail",
+              "engagement": "271 views",
+              "views": 271
+            },
+            {
+              "label": "Independent",
+              "handle": "DailyLoud",
+              "url": "https://x.com/DailyLoud/status/2055092845086736749",
+              "body": "5 dead in 160-foot Maldives scuba dive \ud83d\udc94",
+              "engagement": "1M views",
+              "views": 1031854
+            }
+          ]
+        },
+        {
           "headline": "Chinese President Xi Jinping warns US President Trump of potential conflicts over Taiwan relations during Beijing summit",
           "url": "https://x.com/Reuters/status/2054962726867189760",
           "handle": "Reuters",
@@ -30,37 +53,6 @@
               "body": "According to Trump: China has committed to withholding military equipment from Iran \u2014 This doesn\u2019t seem believable for Iran is a strong China ally.  https://thehill.com/homenews/administration/5878305-trump-xi-iran-military-equipment/",
               "engagement": "6 likes, 0 reposts",
               "views": 125
-            }
-          ]
-        },
-        {
-          "headline": "Parliamentary watchdog launches inquiry into Nigel Farage over undeclared \u00a35m gift",
-          "url": "https://x.com/BBCBreaking/status/2054528889255284820",
-          "handle": "BBCBreaking",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "GuidoFawkes",
-              "url": "https://x.com/GuidoFawkes/status/2054536406257557600",
-              "body": "Reform spokesman: \u201cMr Farage\u2019s office is in communications with the Parliamentary Commissioner for Standards. \"He has always been clear that this was a personal, unconditional gift and no rules were broken. \"We look forward to this being put to bed once and for all.\u201d",
-              "engagement": "889 likes",
-              "views": 49735
-            },
-            {
-              "label": "Independent",
-              "handle": "whitkitch",
-              "url": "https://x.com/whitkitch/status/2054596523514827244",
-              "body": "Farage says the gift was unconditional, received in 2024, and legally assessed as non-declarable. Whether he is right or wrong on the technicality, the enthusiasm for this investigation from a system that ignored grooming gangs, record small boat arrivals and ministerial conflicts for years tells its own story.",
-              "engagement": "2 likes",
-              "views": 2873
-            },
-            {
-              "label": "Democrat",
-              "handle": "markofbattersea",
-              "url": "https://x.com/markofbattersea/status/2055054387484008696",
-              "body": "#bbcqt That audience member is right. Reform UK Ltd are a party of billionaires who slip Nigel Farage 5 million pound bungs, and try to hide it from parliamentary authorities. Farage is a shyster. https://www.theguardian.com/politics/2026/may/13/nigel-farage-inquiry-gift-crypto-billionaire-reform-uk-christopher-harborne",
-              "engagement": "17 likes",
-              "views": 348
             }
           ]
         },
@@ -131,6 +123,29 @@
           ]
         },
         {
+          "headline": "Trump administration reports record low murder rate and sharp decline in violent crime",
+          "url": "https://x.com/WhiteHouse/status/2055022490066317353",
+          "handle": "WhiteHouse",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "WhiteHouse",
+              "url": "https://x.com/WhiteHouse/status/2055022490066317353",
+              "body": "All we needed was a new President. Record low murder rate, sharp decline in violent crime, safer American streets. President Trump will always put America's law enforcement first, and the results are showing. \ud83c\uddfa\ud83c\uddf8",
+              "engagement": "173K views",
+              "views": 173581
+            },
+            {
+              "label": "Independent",
+              "handle": "thehill",
+              "url": "https://x.com/thehill/status/2054367522032386514",
+              "body": "South Carolina Republicans decline to consider redistricting in blow to Trump https://thehill.com/homenews/campaign/5875039-south-carolina-senate-redistricting/",
+              "engagement": "7K views",
+              "views": 7023
+            }
+          ]
+        },
+        {
           "headline": "US President Donald Trump holds high-stakes summit with Chinese President Xi Jinping in Beijing discussing trade, Taiwan, and Iran.",
           "url": "https://x.com/business/status/2054827437851087307",
           "handle": "business",
@@ -160,21 +175,6 @@
               "views": 130900
             }
           ]
-        },
-        {
-          "headline": "Debate over Trump administration's plan to drop IRS lawsuit and launch $17B weaponization task force amid J6 convict discussions.",
-          "url": "https://x.com/RonFilipkowski/status/2055064039701512670",
-          "handle": "RonFilipkowski",
-          "perspectives": [
-            {
-              "label": "Democrat",
-              "handle": "RonFilipkowski",
-              "url": "https://x.com/RonFilipkowski/status/2055064039701512670",
-              "body": "This a disgusting abomination. Republicans are going to make hard-working, law abiding taxpayers pay off the thugs and criminals who beat cops on J6 and were convicted of various other crimes. Vote every Republican out of office this Nov. https://abcnews.com/US/trump-poised-drop-irs-suit-launch-17b-weaponization/story?id=132962661",
-              "engagement": "36K views",
-              "views": 36865
-            }
-          ]
         }
       ]
     },
@@ -183,26 +183,26 @@
         {
           "handle": "nikkei",
           "url": "https://x.com/nikkei/status/2055063923879969135",
-          "headline": "20% of new graduates plan to invest their first salary in NISA amid global stock market surge and fear of missing out.",
+          "headline": "Twenty percent of new graduates plan to invest their first salary in NISA due to global stock market highs and fear of missing out.",
           "body": "\u65b0\u4eba\u306e2\u5272\u300c\u521d\u4efb\u7d66\u306fNISA\u3078\u300d\u3000\u4e16\u754c\u682a\u9ad8\u3001\u82e5\u8005\u3092\u8986\u3046\u4e57\u308a\u9045\u308c\u306e\u6050\u6016 https://www.nikkei.com/article/DGXZQOUB014MN0R00C26A5000000/?n_cid=SNSTW006&n_tw=1778800219",
-          "engagement": "816K views",
-          "views": 816031
+          "engagement": "937K views",
+          "views": 937147
         },
         {
-          "handle": "nikkei",
-          "url": "https://x.com/nikkei/status/2055138917779657146",
-          "headline": "Uni-Charm and Daio Paper to raise diaper prices this summer due to rising material costs.",
-          "body": "\u30e6\u30cb\u30fb\u30c1\u30e3\u30fc\u30e0\u3084\u5927\u738b\u88fd\u7d19\u3001\u4eca\u590f\u306b\u7d19\u304a\u3080\u3064\u5024\u4e0a\u3052\u3000\u6750\u6599\u9ad8\u9a30\u53d7\u3051 https://www.nikkei.com/article/DGXZQOUC132VI0T10C26A5000000/?n_cid=SNSTW001&n_tw=1778818102",
-          "engagement": "12K views",
-          "views": 12304
+          "handle": "Borsarehberi34",
+          "url": "https://x.com/Borsarehberi34/status/2055187401006309740",
+          "headline": "Stock analysis on GEDIK showing breakout from downtrend and potential for gains.",
+          "body": "#GEDIK En dipten yaz\u0131lan bir hissemiz daha.\n\u015eimdi ise tavan serisinde\n\nTekni\u011fi uygulayan para kazan\u0131r.\n\nDo\u011fru konum para kazand\u0131r\u0131r.\n\nEn \u00f6nemlisi Borsa Rehberinde kazan\u00e7 her zaman vard\u0131r \ud83d\udc99\ud83d\udc9a\ud83c\uddf9\ud83c\uddff\ud83e\udd47",
+          "engagement": "1.6K views",
+          "views": 1618
         },
         {
-          "handle": "cryptorover",
-          "url": "https://x.com/cryptorover/status/2055136484043194556",
-          "headline": "President Trump announces fantastic trade deals with China potentially valued over $1 trillion, positive for markets.",
-          "body": "HUGE: \ud83c\uddfa\ud83c\uddf8 \ud83c\udde8\ud83c\uddf3 PRESIDENT TRUMP SAYS US MADE FANTASTIC TRADE DEALS WITH CHINA. INSIDERS REPORT THESE DEALS COULD BE VALUED OVER $1,000,000,000,000. GOOD FOR MARKETS!",
-          "engagement": "14K views",
-          "views": 13921
+          "handle": "KojoForex",
+          "url": "https://x.com/KojoForex/status/2055159243095855325",
+          "headline": "Forex trader discusses making a living by trading candlestick patterns.",
+          "body": "I Trade Candles \ud83d\udd6f\ufe0f for a living. What about you? Lol",
+          "engagement": "13K views",
+          "views": 13483
         }
       ]
     },
@@ -211,10 +211,10 @@
         {
           "handle": "xai",
           "url": "https://x.com/xai/status/2054993285152989373",
-          "headline": "xAI releases early beta of Grok Build, an agentic CLI tool for coding and workflow automation.",
-          "body": "An early beta of Grok Build, an agentic CLI for coding, building apps, and automating workflows is now available for SuperGrok Heavy subscribers.\n\nThrough this early beta, we will improve the model and product based on your feedback.\n\nTry it at https://x.ai/cli",
-          "engagement": "30M views",
-          "views": 30656553
+          "headline": "xAI launches early beta of Grok Build coding agent for subscribers",
+          "body": "An early beta of Grok Build, an agentic CLI for coding, building apps, and automating workflows is now available for SuperGrok Heavy subscribers. Through this early beta, we will improve the model and product based on your feedback. Try it at https://x.ai/cli",
+          "engagement": "34.3M views",
+          "views": 34311361
         },
         {
           "handle": "dogeofficialceo",
@@ -227,15 +227,23 @@
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2055008501722943750",
-          "headline": "Elon Musk invites feedback on the early beta version of Grok Build AI tool.",
-          "body": "Try this early Grok Build (anything) beta and let us know what to improve. \n\nMuch appreciated!",
-          "engagement": "17M views",
-          "views": 17404598
+          "headline": "Elon Musk invites feedback on Grok Build beta release",
+          "body": "Try this early Grok Build (anything) beta and let us know what to improve. Much appreciated!",
+          "engagement": "19.4M views",
+          "views": 19420804
         }
       ]
     },
     "msm": {
       "stories": [
+        {
+          "handle": "nytimes",
+          "url": "https://x.com/nytimes/status/2054959205564457078",
+          "headline": "Justice Department plans to drop charges against Indian billionaire Gautam Adani after investment offer from his lawyer.",
+          "body": "Breaking News: The Justice Dept. is planning to drop charges against India\u2019s richest man, Gautam Adani, after a lawyer for the billionaire made an unusual investment offer. https://www.nytimes.com/2026/05/14/nyregion/gautam-adani-billionaire-doj-trump.html?smtyp=cur&smid=tw-nytimes",
+          "engagement": "1.5M views",
+          "views": 1493292
+        },
         {
           "handle": "washingtonpost",
           "url": "https://x.com/washingtonpost/status/2055003060619952265",
@@ -251,19 +259,19 @@
           "body": "El Ni\u00f1o is emerging even faster than expected in the Pacific Ocean and odds are increasing that it could become historically strong \u2014 a rare \"Super\" El Ni\u00f1o \u2014 by fall or winter. https://www.cnn.com/2026/05/14/weather/super-el-nino-climate?Date=20260514&Profile=CNN&utm_content=1778765068&utm_medium=social&utm_source=twitter",
           "engagement": "780K views",
           "views": 779879
-        },
-        {
-          "handle": "AP",
-          "url": "https://x.com/AP/status/2055025277416190391",
-          "headline": "Parents in Pennsylvania school district petition to opt children out of using digital devices in curriculum.",
-          "body": "Kids in Lower Merion school district in Pennsylvania get iPads starting in kindergarten, switch to Chromebooks in second grade and get their own MacBooks in eighth grade. Hundreds of parents signed a petition asking to preserve their ability to opt their children out of using digital devices during the school day. The school district has pushed back, saying it\u2019s not feasible to let hundreds of students opt out of technology that is essential to the curriculum.",
-          "engagement": "107K views",
-          "views": 107423
         }
       ]
     },
     "sports": {
       "stories": [
+        {
+          "handle": "FabrizioRomano",
+          "url": "https://x.com/FabrizioRomano/status/2055167543728300281",
+          "headline": "Bernardo Silva confirms he will not return to Benfica this summer.",
+          "body": "\ud83d\udea8 Bernardo Silva will NOT return to Benfica this summer, as reported. \u274c\n\n\u201cI\u2019d love to return but in another moment\u2026 I don\u2019t know if Benfica will still want me by then\u201d, told Canal 11.",
+          "engagement": "307K views",
+          "views": 306676
+        },
         {
           "handle": "Hali",
           "url": "https://x.com/Hali/status/2055114765005967821",
@@ -275,23 +283,23 @@
         {
           "handle": "premierleague",
           "url": "https://x.com/premierleague/status/2054864547370983530",
-          "headline": "Premier League highlights eight stars who defined the 2025/26 season and opens voting for Player of the Season.",
+          "headline": "Eight stars defined the 2025/26 Premier League season; vote for Player of the Season.",
           "body": "Eight stars who made 2025/26 their own \ud83c\udf1f\n\nIt's time to get voting for your @EASPORTSFC Player of the Season \ud83d\uddf3\ufe0f",
-          "engagement": "2.7M views",
-          "views": 2743590
-        },
-        {
-          "handle": "TheDunkCentral",
-          "url": "https://x.com/TheDunkCentral/status/2055067247970803967",
-          "headline": "Utah Jazz reportedly contacting Washington Wizards to trade up for draft pick AJ Dybantsa.",
-          "body": "The Jazz have reportedly reached out to the Wizards about trading up to draft AJ Dybantsa, per @MarcJSpears",
-          "engagement": "498K views",
-          "views": 497974
+          "engagement": "2.9M views",
+          "views": 2861116
         }
       ]
     },
     "elon": {
       "stories": [
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2055155949242114463",
+          "headline": "Elon Musk shares another video.",
+          "body": "https://t.co/QMgqquoGkS",
+          "engagement": "12M views",
+          "views": 12742912
+        },
         {
           "handle": "xai",
           "url": "https://x.com/xai/status/2054993285152989373",
@@ -303,18 +311,10 @@
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2055008501722943750",
-          "headline": "Elon Musk encourages users to try the Grok Build beta and provide feedback.",
+          "headline": "Elon Musk promotes the early beta of Grok Build from xAI.",
           "body": "Try this early Grok Build (anything) beta and let us know what to improve. \n\nMuch appreciated!",
-          "engagement": "17M views",
-          "views": 17395209
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2055142313412948363",
-          "headline": "Elon Musk advises setting expectations for the beta version of Grok Build.",
-          "body": "Go in with expectations that Grok Build is still beta, but improving almost every day",
-          "engagement": "848K views",
-          "views": 848064
+          "engagement": "19M views",
+          "views": 19384903
         }
       ]
     },
@@ -329,53 +329,61 @@
           "views": 1498964
         },
         {
+          "handle": "lexfridman",
+          "url": "https://x.com/lexfridman/status/2054989115163136051",
+          "headline": "Lex Fridman shares plans for a spontaneous worldwide backpacking trip starting in China to meet diverse people.",
+          "body": "I'm traveling the world for a bit, starting with China but then hopping around the globe, anywhere. Open to any adventure. No plans, only a backpack. Hoping to meet & get to know humans from all walks of life. The pic is from a long hike on the Great Wall. For me, as a fan of history, this was an epic experience.\n\nIn China, first I'm visiting a few big cities & talking to engineers at the heart of China's AI revolution. After that, if feeling crazy enough, I'm hitchhiking (first time) across rural China for a few weeks. Hitchhiking because I think it's the best way to meet rural folks who I would otherwise never get the chance to meet. I hope to do the same in US and other places.\n\nI have a request, if you have a travel recommendation, fill out the form(s) below if you feel like it. Or share with folks who might have advice about such travel.\n\nForm 1 - travel recommendation:\nIf you can, recommend to me an interesting place I should visit anywhere in the world. For this, fill out form 1. Not touristy stuff, but something off the beaten path, that tourists may not know about, but is legendary. It could be as remote as meeting a herder in the mountains who is a local legend. Asia, Middle East, Europe, India, South/North America, Africa, Australia, anywhere. In China, I'm hoping to visit maybe Heibei, Shanxi, Shaanxi, Gansu, Sichuan, Yunnan, etc, so recommendations for spots to visit are helpful.\n\nForm 2 - coffee:\nIf you want to grab a coffee with me anywhere in the world, fill out form 2 (please don't use form 1 for that).\n\nAnyway, I hectically tossed stuff in backpack. Realizing I don't have a clear plan of any kind, which is probably the only way to do it. LFG.\n\nLove you all \u2764\ufe0f",
+          "engagement": "862K views",
+          "views": 861645
+        },
+        {
           "handle": "ExxAlerts",
           "url": "https://x.com/ExxAlerts/status/2055037350724751799",
           "headline": "Joe Rogan challenges Palantir CEO Alex Karp's support for mandatory national service post-Iran war.",
           "body": "ALERT: Joe Rogan says \u201cF*ck you, you go\u201d to Palantir after CEO Alex Karp argued that national service should be mandatory.\n\n\u201cI don\u2019t understand why anybody would wanna support that\u2026 That sounds crazy. Especially after this Iran war, where everybody\u2019s like why the f*ck are we in Iran?\u201d\n\n\u201cHow \u2019bout let\u2019s figure out a way to use your technology so there\u2019s no more wars? Wouldn\u2019t that be a better goal?\u201d",
           "engagement": "614K views",
           "views": 614873
-        },
-        {
-          "handle": "lexfridman",
-          "url": "https://x.com/lexfridman/status/2054989115163136051",
-          "headline": "Lex Fridman plans spontaneous global travel starting with AI discussions in China and hitchhiking in rural areas.",
-          "body": "I'm traveling the world for a bit, starting with China but then hopping around the globe, anywhere. Open to any adventure. No plans, only a backpack. Hoping to meet & get to know humans from all walks of life. The pic is from a long hike on the Great Wall. For me, as a fan of history, this was an epic experience.\n\nIn China, first I'm visiting a few big cities & talking to engineers at the heart of China's AI revolution. After that, if feeling crazy enough, I'm hitchhiking (first time) across rural China for a few weeks. Hitchhiking because I think it's the best way to meet rural folks who I would otherwise never get the chance to meet. I hope to do the same in US and other places.\n\nI have a request, if you have a travel recommendation, fill out the form(s) below if you feel like it. Or share with folks who might have advice about such travel.\n\nForm 1 - travel recommendation:\nIf you can, recommend to me an interesting place I should visit anywhere in the world. For this, fill out form 1. Not touristy stuff, but something off the beaten path, that tourists may not know about, but is legendary. It could be as remote as meeting a herder in the mountains who is a local legend. Asia, Middle East, Europe, India, South/North America, Africa, Australia, anywhere. In China, I'm hoping to visit maybe Heibei, Shanxi, Shaanxi, Gansu, Sichuan, Yunnan, etc, so recommendations for spots to visit are helpful.\n\nForm 2 - coffee:\nIf you want to grab a coffee with me anywhere in the world, fill out form 2 (please don't use form 1 for that).\n\nAnyway, I hectically tossed stuff in backpack. Realizing I don't have a clear plan of any kind, which is probably the only way to do it. LFG.\n\nLove you all \u2764\ufe0f",
-          "engagement": "757K views",
-          "views": 757292
         }
       ]
     },
     "pg6": {
       "stories": [
         {
-          "handle": "HollywoodHandle",
-          "url": "https://x.com/HollywoodHandle/status/2055008962580234447",
-          "headline": "Amazon initiates official auditions for the next James Bond.",
-          "body": "Amazon has officially begun James Bond auditions.\n\n(Via: https://variety.com/2026/film/news/james-bond-auditions-start-casting-director-nina-gold-1236749108/",
-          "engagement": "21K views",
-          "views": 21274
+          "handle": "DiscussingFilm",
+          "url": "https://x.com/DiscussingFilm/status/2055096364992954418",
+          "headline": "Droids perform a dance routine at the world premiere of 'The Mandalorian & Grogu' in Hollywood.",
+          "body": "Droids dancing at \u2018THE MANDALORIAN & GROGU\u2019 world premiere in Hollywood.",
+          "engagement": "864K views",
+          "views": 864201
         },
         {
-          "handle": "Variety",
-          "url": "https://x.com/Variety/status/2055019098401050959",
-          "headline": "Keith Cox, who brought Taylor Sheridan to Paramount, is exiting as chief of MTV Entertainment Studios.",
-          "body": "Keith Cox, Who First Brought Taylor Sheridan to Paramount, to Exit as Chief of MTV Entertainment Studios https://variety.com/2026/tv/news/paramount-keith-fox-exit-mtv-entertainment-studios-1236749124/",
-          "engagement": "12K views",
-          "views": 12205
+          "handle": "PopCulture2000s",
+          "url": "https://x.com/PopCulture2000s/status/2054983178540986836",
+          "headline": "Barbara Palvin and Dylan Sprouse announce they are expecting their first child.",
+          "body": "barbara palvin and dylan sprouse are expecting their first child !!",
+          "engagement": "1.3M views",
+          "views": 1309707
         },
         {
-          "handle": "EW",
-          "url": "https://x.com/EW/status/2055006330318967298",
-          "headline": "Dylan Sprouse and Barbara Palvin announce expectation of their first child at Cannes Film Festival.",
-          "body": "Former child star Dylan Sprouse and his supermodel wife Barbara Palvin announced they're expecting their first baby after debuting her pregnant belly at the Cannes Film Festival. https://ew.com/dylan-sprouse-barbara-palvin-expecting-first-baby-11975125?taid=6a062167e5e843000126f270&utm_campaign=trueAnthem%3A+New+Content+%28Feed%29&utm_medium=trueAnthem&utm_source=twitter",
-          "engagement": "8K views",
-          "views": 7990
+          "handle": "THR",
+          "url": "https://x.com/THR/status/2055096162567459202",
+          "headline": "'Star Wars: The Acolyte' star Manny Jacinto attends 'The Mandalorian and Grogu' premiere.",
+          "body": "#StarWars: The Acolyte star Manny Jacinto poses on the red carpet for #TheMandalorian and Grogu premiere",
+          "engagement": "127K views",
+          "views": 126542
         }
       ]
     },
     "recipe": {
       "stories": [
+        {
+          "handle": "baypinar35",
+          "url": "https://x.com/baypinar35/status/2055174898243481727",
+          "headline": "User discovers an issue with storing grated garlic in the fridge.",
+          "body": "\u6628\u65e5\u3082\u4eca\u65e5\u3082\u4f7f\u3044\u305f\u3044\u304b\u3089\u591a\u3081\u306b\u64e6\u3063\u305f\u30cb\u30f3\u30cb\u30af\u3092\u51b7\u8535\u5eab\u306b\u5165\u308c\u3066\u304a\u3044\u305f\u3089\u30b3\u30ec\ud83e\uddc4 \u306a\u3093\u3067\uff1f\u98df\u3079\u308c\u3093\u306e\uff1f\u3053\u308c",
+          "engagement": "42K views",
+          "views": 41914
+        },
         {
           "handle": "fashionpressnet",
           "url": "https://x.com/fashionpressnet/status/2055113461726871920",
@@ -385,20 +393,12 @@
           "views": 92186
         },
         {
-          "handle": "BAEG0PAY00",
-          "url": "https://x.com/BAEG0PAY00/status/2054918281581191189",
-          "headline": "Image of supreme tender chicken with tteokbokki addition.",
-          "body": "\uc288\ud504\ub9bc\uc21c\uc0b4 \ub5a1\uc0ac\ub9ac\ucd94\uac00",
-          "engagement": "111K views",
-          "views": 111089
-        },
-        {
-          "handle": "FoodPleaser",
-          "url": "https://x.com/FoodPleaser/status/2055122496773341372",
-          "headline": "Question about satisfaction with a dinner dish",
-          "body": "Would you be happy if this was your dinner tonight ? \ud83e\udd14",
-          "engagement": "2.7K views",
-          "views": 2719
+          "handle": "Rnyrg",
+          "url": "https://x.com/Rnyrg/status/2055123966931734766",
+          "headline": "User enjoys a yakiniku fixed meal for lunch at an izakaya.",
+          "body": "\u5c45\u9152\u5c4b\u30e9\u30f3\u30c1\u3067\u3057\u3087\u3046\u304c\u713c\u304d\u5b9a\u98df\u306a\u306e\u3060\u3088\u3002",
+          "engagement": "52K views",
+          "views": 51884
         }
       ]
     },
@@ -407,10 +407,10 @@
         {
           "handle": "AnthropicAI",
           "url": "https://x.com/AnthropicAI/status/2054987444664377374",
-          "headline": "Anthropic publishes paper on US-China AI competition and maintaining lead in frontier AI.",
-          "body": "We've published a paper that explains our views on AI competition between the US and China.\n\nThe US and democratic allies hold the lead in frontier AI today. Read more on what it\u2019ll take to keep that lead: https://www.anthropic.com/research/2028-ai-leadership",
-          "engagement": "1.7M views",
-          "views": 1746024
+          "headline": "Anthropic releases research paper on maintaining US lead in AI against China.",
+          "body": "We've published a paper that explains our views on AI competition between the US and China. The US and democratic allies hold the lead in frontier AI today. Read more on what it\u2019ll take to keep that lead: https://www.anthropic.com/research/2028-ai-leadership",
+          "engagement": "2.3M views",
+          "views": 2285929
         },
         {
           "handle": "XFreeze",
@@ -469,20 +469,20 @@
           "views": 31232
         },
         {
-          "handle": "iluminatibot",
-          "url": "https://x.com/iluminatibot/status/2055075751909904878",
-          "headline": "Assertion that conspiracy theorists have an undefeated record currently",
-          "body": "Conspiracy theorists are like 68-0 right now.",
-          "engagement": "21K views",
-          "views": 21160
+          "handle": "ericweinstein",
+          "url": "https://x.com/ericweinstein/status/2054967680948453711",
+          "headline": "Eric Weinstein lists false narratives promoted by policy types, including dismissing COVID lab leak as a conspiracy theory",
+          "body": "This I Believe:  \n\nThe \u201cNational Security Community\u201d is making science & scientists dumber.  \n\nNatSec is destroying  the scientific foundation of U.S. National Security.  \n\nThe directive to protect 85 IQ narratives is taking out the world\u2019s most elite minds.  \n\nhttps://www.youtube.com/watch?si=94erVuP1kvZSUEF4&v=8oTOxiu2-HA&feature=youtu.be",
+          "engagement": "60K views",
+          "views": 59794
         },
         {
-          "handle": "BGatesIsaPyscho",
-          "url": "https://x.com/BGatesIsaPyscho/status/2054827127204118721",
-          "headline": "Claim of US government confirmation on UN's role in deliberate migration to Europe, describing Great Replacement as reality",
-          "body": "This week the American Government confirmed the UN is in part responsible for mass deliberate migration across Europe. \n\nThe Great Replacement isn\u2019t a Conspiracy - it\u2019s happening in real time - you can see it.",
-          "engagement": "15K views",
-          "views": 15250
+          "handle": "iluminatibot",
+          "url": "https://x.com/iluminatibot/status/2055075751909904878",
+          "headline": "Statement highlighting the high success rate of conspiracy theories",
+          "body": "Conspiracy theorists are like 68-0 right now.",
+          "engagement": "25K views",
+          "views": 24801
         }
       ]
     },
@@ -505,15 +505,15 @@
           "views": 26504561
         },
         {
-          "handle": "Japan_lol_w",
-          "url": "https://x.com/Japan_lol_w/status/2054859964888600737",
-          "headline": "A comedic classroom anecdote about a girl's worry over accidentally fumigating her father.",
-          "body": "\u4e2d\u5b66\u6642\u4ee3\u3001\u6388\u696d\u4e2d\u306b\u3044\u304d\u306a\u308a\u6ce3\u304d\u3060\u3057\u305f\u5973\u5b50\u304c\u3044\u3066\u300e\u3069\u3046\u3057\u305f\u306e\u2026?!\u300f\u3063\u3066\u6559\u5ba4\u304c\u30b6\u30ef\u30b6\u30ef\u3057\u59cb\u3081\u3066\u3001\u5148\u751f\u304c\u300e\u3061\u3083\u3093\u3068\u8a00\u3063\u3066\u3054\u3089\u3093\u300f\u3063\u3066\u512a\u3057\u304f\u8aed\u3057\u3066\u305f\u3089\u300e\u5b66\u6821\u6765\u308b\u524d\u306b\u30d0\u30eb\u30b5\u30f3\u3057\u3066\u304d\u305f\u3093\u3060\u3051\u3069\u90e8\u5c4b\u306b\u304a\u7236\u3055\u3093\u3044\u305f\u304b\u3082\u3057\u308c\u306a\u3044\u300f\u3063\u3066\u4e00\u8a00\u3067\u6559\u5ba4\u304c\u9a12\u7136\u3068\u3057\u305f\u3053\u3068\u3042\u308bwww",
-          "engagement": "3.5M views",
-          "views": 3541717
+          "handle": "XFreeze",
+          "url": "https://x.com/XFreeze/status/2054906460308672707",
+          "headline": "Elon Musk poses with funny expressions alongside Xiaomi and Apple CEOs at a banquet.",
+          "body": "Elon completely stole the banquet \ud83d\ude02 \n\nHe was already posing for someone else when Xiaomi CEO Lei Jun walked up to his idol asking for a selfie\n\nElon instantly poses with the funniest face\n\ndoes the same funny expression with Apple CEO Tim Cook too\n\nNow Elon became the MAIN attraction across Chinese media and the entire world \ud83e\udd23",
+          "engagement": "5.5M views",
+          "views": 5457110
         }
       ]
     }
   },
-  "last_updated": "2026-05-14T22:04:30.212532"
+  "last_updated": "2026-05-15T07:32:58.021307"
 }
