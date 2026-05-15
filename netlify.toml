@@ -1,0 +1,6 @@
+[build]
+  publish = "."
+  functions = "netlify/functions"
+
+[functions."expresso-trigger"]
+  schedule = "0 */4 * * *"   # every 4 hours

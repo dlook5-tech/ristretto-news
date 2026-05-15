@@ -1,0 +1,33 @@
+name: Ristretto News Cron
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'   # every 4 hours, matching the original eXpressO cadence
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run update.sh
+        env:
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+        run: bash update.sh
+
+      - name: Commit stories.json
+        run: |
+          git config user.email "ristretto-cron@noreply.local"
+          git config user.name  "ristretto-cron"
+          git add stories.json
+          if git diff --cached --quiet; then
+            echo "no changes to commit"
+          else
+            git commit -m "Cron: refresh stories $(date -u +'%Y-%m-%dT%H:%MZ')"
+            git push
+          fi

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ristretto News — Pure Views</title>
+  <style>
+    body { font-family: system-ui, sans-serif; background:#0a0a0a; color:#ddd; margin:0; padding:20px; line-height:1.5; }
+    h1 { text-align:center; margin:30px 0; }
+    .story { background:#1f1f1f; padding:20px; margin:15px 0; border-radius:12px; cursor:pointer; }
+    .story:hover { background:#2a2a2a; }
+    .headline { font-size:1.2em; font-weight:500; }
+    .meta { color:#888; font-size:0.9em; margin-top:8px; }
+  </style>
+</head>
+<body>
+  <h1>Ristretto News — Pure Views</h1>
+  <div id="content"></div>
+
+  <script>
+    async function loadStories() {
+      try {
+        const res = await fetch('stories.json?' + Date.now());
+        const data = await res.json();
+        let html = '';
+        for (let [tab, sec] of Object.entries(data.stories || {})) {
+          html += `<h2 style="margin:30px 0 10px;">${tab.toUpperCase()}</h2>`;
+          for (let s of sec.stories || []) {
+            html += `
+              <div class="story" onclick="window.open('${s.url}','_blank')">
+                <div class="headline">${s.headline || s.body || 'No title'}</div>
+                <div class="meta">@${s.handle || '?'} • ${s.engagement || ''}</div>
+              </div>`;
+          }
+        }
+        document.getElementById('content').innerHTML = html;
+      } catch(e) { console.error(e); }
+    }
+    loadStories();
+    setInterval(loadStories, 300000); // 5 minutes
+  </script>
+</body>
+</html>
