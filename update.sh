@@ -45,7 +45,8 @@ prompt = sys.argv[1]
 print(json.dumps({
     "model": "grok-4-fast",
     "input": [{"role": "user", "content": prompt}],
-    "search_parameters": {"mode": "on", "sources": [{"type": "x"}]}
+    "tools": [{"type": "x_search"}],
+    "max_output_tokens": 4000
 }))
 ' "$user_prompt")
 
