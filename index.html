@@ -44,6 +44,30 @@
       return Math.round(hours / 24) + 'd';
     }
 
+    // Always show VIEWS, never likes. Read the integer `views` field; if missing,
+    // try to extract a "N views" string from engagement, else parse-metric-style fallback.
+    function fmtViews(post) {
+      let n = 0;
+      if (post && typeof post.views === 'number') n = post.views;
+      else if (post && typeof post.views === 'string') n = parseInt(post.views.replace(/[^\d]/g,''), 10) || 0;
+      if (!n && post && typeof post.engagement === 'string') {
+        const m = post.engagement.match(/([\d.,]+)\s*([KMB])?\s*views/i);
+        if (m) {
+          let x = parseFloat(m[1].replace(/,/g,''));
+          const sfx = (m[2]||'').toUpperCase();
+          if (sfx === 'K') x *= 1e3;
+          else if (sfx === 'M') x *= 1e6;
+          else if (sfx === 'B') x *= 1e9;
+          n = Math.round(x);
+        }
+      }
+      if (!n || !Number.isFinite(n)) return '';
+      if (n >= 1e9) return (n/1e9).toFixed(1).replace(/\.0$/,'') + 'B views';
+      if (n >= 1e6) return (n/1e6).toFixed(1).replace(/\.0$/,'') + 'M views';
+      if (n >= 1e3) return Math.round(n/1e3) + 'K views';
+      return n + ' views';
+    }
+
     async function loadStories() {
       try {
         const res = await fetch('stories.json?' + Date.now());
@@ -64,7 +88,7 @@
                 return `<div class="perspective ${cls}" onclick="event.stopPropagation(); window.open('${esc(p.url)}','_blank')">
                           <div class="label">${p.label || ''}</div>
                           <div class="body">${p.body || p.headline || ''}</div>
-                          <div class="meta">@${p.handle || '?'} • ${p.engagement || ''}${pAgeHtml}</div>
+                          <div class="meta">@${p.handle || '?'} • ${fmtViews(p)}${pAgeHtml}</div>
                         </div>`;
               }).join('');
               html += `
@@ -76,7 +100,7 @@
               html += `
                 <div class="story" onclick="window.open('${esc(s.url)}','_blank')">
                   <div class="headline">${s.headline || s.body || 'No title'}</div>
-                  <div class="meta">@${s.handle || '?'} • ${s.engagement || ''}${ageHtml}</div>
+                  <div class="meta">@${s.handle || '?'} • ${fmtViews(s)}${ageHtml}</div>
                 </div>`;
             }
           }
