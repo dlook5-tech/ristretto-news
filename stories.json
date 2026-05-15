@@ -3,25 +3,33 @@
     "world": {
       "stories": [
         {
-          "headline": "5 dead in 160-foot scuba diving accident in the Maldives, marking the worst diving incident in the nation's history",
+          "headline": "Five tourists die in scuba diving accident in Maldives caves",
           "url": "https://x.com/nypost/status/2055050818173157468",
           "handle": "nypost",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "DonCamp29856335",
-              "url": "https://x.com/DonCamp29856335/status/2055074448240431440",
-              "body": "Diving in caves at a depth of 160 feet is very dangerous. Only highly trained & experienced divers should even consider such a dive. These people did not meet those criteria. Sad. Five tourists die during diving excursion in Maldives https://www.dailymail.com/news/article-15818615/Five-Italian-divers-killed-exploring-caves-160ft-surface-Maldives-paradise-islands.html via @DailyMail",
-              "engagement": "271 views",
-              "views": 271
+              "handle": "nypost",
+              "url": "https://x.com/nypost/status/2055050818173157468",
+              "body": "5 dead in 160-foot Maldives scuba dive - worst diving accident nation has ever seen https://nypost.com/2026/05/14/world-news/5-dead-in-160-foot-maldives-scuba-dive/?utm_source=twitter&utm_campaign=nypost&utm_medium=social",
+              "engagement": "6K likes, 7.2M views",
+              "views": 7243800
             },
             {
               "label": "Independent",
-              "handle": "DailyLoud",
-              "url": "https://x.com/DailyLoud/status/2055092845086736749",
-              "body": "5 dead in 160-foot Maldives scuba dive \ud83d\udc94",
-              "engagement": "1M views",
-              "views": 1031854
+              "handle": "SkyNews",
+              "url": "https://x.com/SkyNews/status/2055220666278756373",
+              "body": "Five tourists, including a professor and her daughter, have died in a scuba diving accident in the Maldives https://news.sky.com/story/five-italians-die-while-exploring-underwater-caves-in-the-maldives-13544212?dcmp=snt-sf-twitter",
+              "engagement": "35 likes, 44K views",
+              "views": 44651
+            },
+            {
+              "label": "Democrat",
+              "handle": "BBCNews",
+              "url": "https://x.com/BBCNews/status/2055176943247503594",
+              "body": "Five Italians die during cave dive in Maldives https://www.bbc.com/news/articles/c62e0p7rd2ro?xtor=AL-71-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_ptr_name=twitter&at_campaign=Social_Flow&at_link_type=web_link&at_format=link&at_campaign_type=owned&at_medium=social&at_bbc_team=editorial&at_link_origin=BBCNews&at_link_id=48A41568-4FFD-11F1-950A-B58F09614810",
+              "engagement": "72 likes, 35K views",
+              "views": 35180
             }
           ]
         },
@@ -154,33 +162,33 @@
           ]
         },
         {
-          "headline": "Trump administration's anti-fraud task force withholds billions in federal funding from states failing to combat Medicaid fraud effectively.",
-          "url": "https://x.com/WhiteHouse/status/2054714752018858170",
-          "handle": "WhiteHouse",
+          "headline": "Trump and Xi conclude Beijing summit with commitments on US farm purchases and persistence of tariffs amid discussions on Iran and trade",
+          "url": "https://x.com/business/status/2055225050391818508",
+          "handle": "business",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "JDVance",
-              "url": "https://x.com/JDVance/status/2055019328131449113",
-              "body": "Fraudsters have been fleecing Americans for too long. That ends now.",
-              "engagement": "19K likes",
-              "views": 474559
+              "handle": "foxnewspolitics",
+              "url": "https://x.com/foxnewspolitics/status/2054998266300047630",
+              "body": "Chinese security allegedly blocked an armed Secret Service agent from entering Trump-Xi event in Beijing, triggering a standoff that delayed entry for over 30 minutes, according to reports.",
+              "engagement": "60K views",
+              "views": 60422
             },
             {
               "label": "Independent",
-              "handle": "MerlijnTrader",
-              "url": "https://x.com/MerlijnTrader/status/2054932244863840624",
-              "body": "HUGE STATEMENT: \ud83c\uddfa\ud83c\uddf8 JD Vance just made the most aggressive anti-fraud promise in American history. ... Sounds great. But let's be honest. The U.S. government has $36 trillion in debt. ... Now the government is fighting fraud. With the same government that enabled it. Make of that what you will.",
-              "engagement": "226 likes",
-              "views": 27461
+              "handle": "Reuters",
+              "url": "https://x.com/Reuters/status/2054784098200145966",
+              "body": "US President Donald Trump met with China's Xi Jinping in Beijing, aiming to secure economic wins, maintain a fragile trade truce and navigate thorny issues such as the Iran war and arms sales to Taiwan https://www.reuters.com/world/trump-xi-summit-live-talks-beijing-include-iran-trade-taiwan-2026-05-14/?utm_source=Facebook&utm_medium=Social",
+              "engagement": "35K views",
+              "views": 35564
             },
             {
               "label": "Democrat",
-              "handle": "RBReich",
-              "url": "https://x.com/RBReich/status/2054962542066196648",
-              "body": "JD Vance announced the suspension of $1.3 billion in Medicaid payments to California as part of his new role as \"fraud czar\" for the Trump Regime. Meanwhile, Trump has pardoned multiple convicted fraudsters, including several who gave money to his campaign and Super PAC. Remember this.",
-              "engagement": "2.8K likes",
-              "views": 31440
+              "handle": "CNN",
+              "url": "https://x.com/CNN/status/2054884943956730111",
+              "body": "Talks between US President Donald Trump and Chinese leader Xi Jinping have been largely positive, though the future of Taiwan threatens to strain the relationship. Follow live updates: https://www.cnn.com/politics/live-news/trump-china-visit-xi-meeting-hnk?Date=20260514&Profile=CNN&utm_content=1778757696&utm_medium=social&utm_source=twitter",
+              "engagement": "147K views",
+              "views": 147244
             }
           ]
         }
@@ -188,6 +196,14 @@
     },
     "business": {
       "stories": [
+        {
+          "handle": "DeItaone",
+          "url": "https://x.com/DeItaone/status/2055272182008201672",
+          "headline": "Markets are pricing in over 50% chance of a Fed rate hike by January due to tightening risks.",
+          "body": "RATE HIKE BETS SURGE IN MARKETS\n\nUS interest rate futures now show more than a 50% chance of a Fed rate hike by January, according to Kalshi pricing.\n\nMarkets have shifted sharply from near-zero odds to actively pricing in tightening risk as early as 2026, with a 34% probability of a hike before 2027.",
+          "engagement": "102K views",
+          "views": 102304
+        },
         {
           "handle": "nikkei",
           "url": "https://x.com/nikkei/status/2055063923879969135",
@@ -197,20 +213,12 @@
           "views": 1042787
         },
         {
-          "handle": "shiho_312",
-          "url": "https://x.com/shiho_312/status/2055218284115693877",
-          "headline": "Regret over missing the opportunity to invest in Kioxia stock.",
-          "body": "\u30ad\u30aa\u30af\u30b7\u30a2\u8de8\u304e\u305f\u304b\u3063\u305f\u3001\u3001\n\u3053\u308c\u306f\u4f55\u5e74\u7d4c\u3063\u3066\u3082\u5f8c\u6094\u3059\u308b\u3068\u601d\u3046\ud83d\ude2d",
-          "engagement": "53K views",
-          "views": 52847
-        },
-        {
-          "handle": "jimcramer",
-          "url": "https://x.com/jimcramer/status/2055219541299335505",
-          "headline": "Markets reacting as if Xi Jinping will overlook oil issues and lack of trade commitments from Trump.",
-          "body": "Markets acting like Xi will look the other way and accept oil issues from Trump... no trade commitments...",
-          "engagement": "36K views",
-          "views": 35796
+          "handle": "financialjuice",
+          "url": "https://x.com/financialjuice/status/2055270532329754803",
+          "headline": "US interest rate futures indicate over 50% probability of a Fed rate hike by January.",
+          "body": "\ud83d\udd34 US interest rate futures now reflect more than 50% probability of a Fed rate hike by January.",
+          "engagement": "43K views",
+          "views": 42932
         }
       ]
     },
@@ -233,12 +241,12 @@
           "views": 27147537
         },
         {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2055155949242114463",
-          "headline": "Elon Musk shares a promotional video clip.",
-          "body": "https://t.co/QMgqquoGkS",
-          "engagement": "25.5M views",
-          "views": 25498263
+          "handle": "cb_doge",
+          "url": "https://x.com/cb_doge/status/2055145711587741892",
+          "headline": "Reflection on the essential role of true friends in life.",
+          "body": "The most important thing in life is having true friends.",
+          "engagement": "26.9M views",
+          "views": 26903272
         }
       ]
     },
@@ -247,10 +255,10 @@
         {
           "handle": "nytimes",
           "url": "https://x.com/nytimes/status/2054959205564457078",
-          "headline": "U.S. Justice Department plans to drop charges against Indian billionaire Gautam Adani after an investment offer from his lawyer.",
+          "headline": "Justice Department plans to drop charges against Indian billionaire Gautam Adani after an investment offer from his lawyer.",
           "body": "Breaking News: The Justice Dept. is planning to drop charges against India\u2019s richest man, Gautam Adani, after a lawyer for the billionaire made an unusual investment offer. https://www.nytimes.com/2026/05/14/nyregion/gautam-adani-billionaire-doj-trump.html?smtyp=cur&smid=tw-nytimes",
-          "engagement": "1.7M views",
-          "views": 1668725
+          "engagement": "1.9M views",
+          "views": 1857535
         },
         {
           "handle": "washingtonpost",
@@ -261,25 +269,17 @@
           "views": 647907
         },
         {
-          "handle": "CNN",
-          "url": "https://x.com/CNN/status/2054939929830941008",
-          "headline": "El Ni\u00f1o emerging faster than expected, potentially becoming a historic Super El Ni\u00f1o by fall.",
-          "body": "El Ni\u00f1o is emerging even faster than expected in the Pacific Ocean and odds are increasing that it could become historically strong \u2014 a rare \"Super\" El Ni\u00f1o \u2014 by fall or winter. https://www.cnn.com/2026/05/14/weather/super-el-nino-climate?Date=20260514&Profile=CNN&utm_content=1778765068&utm_medium=social&utm_source=twitter",
-          "engagement": "780K views",
-          "views": 779879
+          "handle": "AP",
+          "url": "https://x.com/AP/status/2054959358530764804",
+          "headline": "Senate unanimously passes resolution to withhold senators' pay during future government shutdowns.",
+          "body": "BREAKING: Senators unanimously approve a resolution to withhold their own pay during future government shutdowns. https://apnews.com/article/senate-pay-shutdown-withhold-government-face16eac3196ad4c3bedf3d699be87f?taid=6a05f5a8717bd400015f1b2a&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
+          "engagement": "134K views",
+          "views": 134481
         }
       ]
     },
     "sports": {
       "stories": [
-        {
-          "handle": "Hali",
-          "url": "https://x.com/Hali/status/2055114765005967821",
-          "headline": "Tyrese Haliburton jokes that no NBA playoff games are scheduled due to Drake's album release",
-          "body": "No playoff games cuz Iceman here, respect @NBA",
-          "engagement": "1M views",
-          "views": 1038513
-        },
         {
           "handle": "BleacherReport",
           "url": "https://x.com/BleacherReport/status/2055059791631045014",
@@ -289,17 +289,33 @@
           "views": 1464139
         },
         {
-          "handle": "FabrizioRomano",
-          "url": "https://x.com/FabrizioRomano/status/2055167543728300281",
-          "headline": "Bernardo Silva confirms he will not return to Benfica this summer.",
-          "body": "\ud83d\udea8 Bernardo Silva will NOT return to Benfica this summer, as reported. \u274c\n\n\u201cI\u2019d love to return but in another moment\u2026 I don\u2019t know if Benfica will still want me by then\u201d, told Canal 11.",
-          "engagement": "307K views",
-          "views": 306676
+          "handle": "Hali",
+          "url": "https://x.com/Hali/status/2055114765005967821",
+          "headline": "Tyrese Haliburton jokes that no NBA playoff games are scheduled due to Drake's album release",
+          "body": "No playoff games cuz Iceman here, respect @NBA",
+          "engagement": "1M views",
+          "views": 1038513
+        },
+        {
+          "handle": "Amuludun_fyp",
+          "url": "https://x.com/Amuludun_fyp/status/2055215867147718830",
+          "headline": "Basketball betting picks offered for today's games with high odds.",
+          "body": "Todays basketball \ud83c\udfc0 \n70k odds\n25/25",
+          "engagement": "370K views",
+          "views": 370347
         }
       ]
     },
     "elon": {
       "stories": [
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2055277918633562153",
+          "headline": "Elon Musk shares the latest X algorithm on GitHub for public access",
+          "body": "The latest \ud835\udd4f algorithm has been published to GitHub https://github.com/xai-org/x-algorithm",
+          "engagement": "3.3M views",
+          "views": 3309768
+        },
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2055155949242114463",
@@ -309,20 +325,12 @@
           "views": 25498263
         },
         {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2055155618055635364",
-          "headline": "Elon Musk affirms the importance of true friends.",
-          "body": "True",
-          "engagement": "15M views",
-          "views": 15458193
-        },
-        {
           "handle": "xai",
           "url": "https://x.com/xai/status/2054993285152989373",
-          "headline": "xAI announces early beta release of Grok Build for SuperGrok Heavy subscribers.",
-          "body": "An early beta of Grok Build, an agentic CLI for coding, building apps, and automating workflows is now available for SuperGrok Heavy subscribers.\n\nThrough this early beta, we will improve the model and product based on your feedback.\n\nTry it at https://x.ai/cli",
-          "engagement": "30M views",
-          "views": 30656553
+          "headline": "xAI announces early beta release of Grok Build CLI tool for subscribers",
+          "body": "An early beta of Grok Build, an agentic CLI for coding, building apps, and automating workflows is now available for SuperGrok Heavy subscribers. Through this early beta, we will improve the model and product based on your feedback. Try it at https://x.ai/cli",
+          "engagement": "47M views",
+          "views": 47697346
         }
       ]
     },
@@ -331,18 +339,18 @@
         {
           "handle": "overton_news",
           "url": "https://x.com/overton_news/status/2055019579815211468",
-          "headline": "Joe Rogan shares concerns about Theo Von's mental health struggles and suicidal thoughts",
+          "headline": "Joe Rogan expresses deep concern for Theo Von's mental health struggles on his podcast.",
           "body": "Joe Rogan just took time out of his podcast to express genuine concern for his friend Theo Von.\n\nHe admitted that some of Von\u2019s recent behavior after getting on SSRIs \u201cfreaks me out\u201d \u2014 especially his comments about suicide.\n\nROGAN: \u201cTheo Von\u2019s going through the exact same thing and last time he was on the podcast he was explaining it to me.\u201d\n\n\u201cIt freaks me out because I know Theo has had conversations before...like even publicly.\u201d\n\n\u201cHe had a Netflix taping and it didn\u2019t go well. It was like they actually never...they shelved it. They never used it.\u201d\n\n\u201cAnd you know there was all these stories from people that were there saying he bombed. I think he just had a kind of a breakdown.\u201d\n\n\u201cAnd when he was talking to the crowd and there\u2019s a video of it, he said, you know, the people were saying, hey, we still love you.\u201d\n\n\u201cHe goes, thank you. Look, I\u2019m just I\u2019m trying not to take my own life.\u201d\n\n\u201cAnd like you hear stuff like that and you just go like, oh, Jesus Christ.\u201d\n\n\u201cI\u2019ve known too many people that I didn\u2019t think were going to kill themselves and then did.\u201d\n\n\u201cAnd then he goes down these spirals where he starts talking about world events and freaking out. I\u2019m like, oh, Jesus Christ! Like, I got to help this dude.\u201d",
-          "engagement": "1.9M views",
-          "views": 1863602
+          "engagement": "2.1M views",
+          "views": 2128486
         },
         {
           "handle": "lexfridman",
           "url": "https://x.com/lexfridman/status/2054989115163136051",
-          "headline": "Lex Fridman announces backpacking world travel starting in China for AI discussions and adventures",
+          "headline": "Lex Fridman announces a spontaneous worldwide backpacking adventure starting in China.",
           "body": "I'm traveling the world for a bit, starting with China but then hopping around the globe, anywhere. Open to any adventure. No plans, only a backpack. Hoping to meet & get to know humans from all walks of life. The pic is from a long hike on the Great Wall. For me, as a fan of history, this was an epic experience.\n\nIn China, first I'm visiting a few big cities & talking to engineers at the heart of China's AI revolution. After that, if feeling crazy enough, I'm hitchhiking (first time) across rural China for a few weeks. Hitchhiking because I think it's the best way to meet rural folks who I would otherwise never get the chance to meet. I hope to do the same in US and other places.\n\nI have a request, if you have a travel recommendation, fill out the form(s) below if you feel like it. Or share with folks who might have advice about such travel.\n\nForm 1 - travel recommendation:\nIf you can, recommend to me an interesting place I should visit anywhere in the world. For this, fill out form 1. Not touristy stuff, but something off the beaten path, that tourists may not know about, but is legendary. It could be as remote as meeting a herder in the mountains who is a local legend. Asia, Middle East, Europe, India, South/North America, Africa, Australia, anywhere. In China, I'm hoping to visit maybe Heibei, Shanxi, Shaanxi, Gansu, Sichuan, Yunnan, etc, so recommendations for spots to visit are helpful.\n\nForm 2 - coffee:\nIf you want to grab a coffee with me anywhere in the world, fill out form 2 (please don't use form 1 for that).\n\nAnyway, I hectically tossed stuff in backpack. Realizing I don't have a clear plan of any kind, which is probably the only way to do it. LFG.\n\nLove you all \u2764\ufe0f",
-          "engagement": "953K views",
-          "views": 953165
+          "engagement": "1M views",
+          "views": 1064171
         },
         {
           "handle": "ExxAlerts",
@@ -356,6 +364,14 @@
     },
     "pg6": {
       "stories": [
+        {
+          "handle": "FrenchRapUS",
+          "url": "https://x.com/FrenchRapUS/status/2055252295076532315",
+          "headline": "Drake mentions Paris Saint-Germain in his new album lyrics.",
+          "body": "\ud83d\udea8 LE BUZZ DU PSG EST MONDIAL ! \n\nLE RAPPEUR DRAKE A D\u00c9DICAC\u00c9 LE CLUB FRAN\u00c7AIS DANS SON NOUVEL ALBUM \ud83c\uddeb\ud83c\uddf7 \n\n\u00ab Mon fils tire des corners au Paris Saint-Germain devant Mr Luis Enrique\u00a0\u00bb",
+          "engagement": "213K views",
+          "views": 212574
+        },
         {
           "handle": "DiscussingFilm",
           "url": "https://x.com/DiscussingFilm/status/2055096364992954418",
@@ -371,14 +387,6 @@
           "body": "barbara palvin and dylan sprouse are expecting their first child !!",
           "engagement": "1.3M views",
           "views": 1309707
-        },
-        {
-          "handle": "PopBase",
-          "url": "https://x.com/PopBase/status/2055142126011162637",
-          "headline": "The Disney Channel movie The Thirteenth Year marks its 24th premiere anniversary.",
-          "body": "\u2018The Thirteenth Year\u2019 premiered 24 years ago today.",
-          "engagement": "325K views",
-          "views": 324877
         }
       ]
     },
@@ -415,10 +423,18 @@
         {
           "handle": "AnthropicAI",
           "url": "https://x.com/AnthropicAI/status/2054987444664377374",
-          "headline": "Anthropic releases research paper on maintaining US lead in AI against China.",
-          "body": "We've published a paper that explains our views on AI competition between the US and China. The US and democratic allies hold the lead in frontier AI today. Read more on what it\u2019ll take to keep that lead: https://www.anthropic.com/research/2028-ai-leadership",
-          "engagement": "2.3M views",
-          "views": 2285929
+          "headline": "Anthropic releases paper detailing views on US-China AI competition and measures to sustain US leadership in frontier AI.",
+          "body": "We've published a paper that explains our views on AI competition between the US and China.\n  \nThe US and democratic allies hold the lead in frontier AI today. Read more on what it\u2019ll take to keep that lead: https://www.anthropic.com/research/2028-ai-leadership",
+          "engagement": "3.2M views",
+          "views": 3173815
+        },
+        {
+          "handle": "NASA",
+          "url": "https://x.com/NASA/status/2054931766754906203",
+          "headline": "NASA develops cryocooler technology to simulate extreme lunar conditions for testing construction materials.",
+          "body": "To build on the Moon, we need construction materials that can withstand bitter cold \u2013 so @NASAglenn invented a machine that can recreate that environment for testing!\n\nThis high-powered refrigerator, or cryocooler, removes heat without using any liquid. https://www.nasa.gov/general/nasa-technology-mimics-extreme-lunar-night/?utm_source=TWITTER&utm_medium=NASA&utm_campaign=NASASocial&linkId=942672932",
+          "engagement": "477K views",
+          "views": 477017
         },
         {
           "handle": "XFreeze",
@@ -427,19 +443,19 @@
           "body": "xAI just dropped a massive new offer for SuperGrok Heavy plan\n\n67% off for 6 months - now $99/month instead of $300/month\n\nIncludes:\n\u2022 Near-unlimited usage  \n\u2022 16x AI agents in Expert Mode  \n\u2022 Early access to new features  \n\u2022 Dedicated support  \n\u2022 Access to Grok Build Early Beta  \n\u2022 xAI\u2019s most powerful reasoning tools\n\nAnd this is just the beginning\n\nThere are a lot of new Grok models and features coming very soon\n\nxAI is moving insanely fast right now\n\nSubscribe while the offer is still available",
           "engagement": "143K views",
           "views": 143184
-        },
-        {
-          "handle": "RoundtableSpace",
-          "url": "https://x.com/RoundtableSpace/status/2055056813977141557",
-          "headline": "Anthropic offers high-paying fellowships for learning AI safety without prior experience.",
-          "body": "ANTHROPIC IS PAYING PEOPLE $3,850/WEEK TO LEARN AI SAFETY\n\n* No PhD or prior AI research experience required for the Fellows Program  \n* Fellows work directly with Anthropic researchers on frontier AI problems  \n* 80% published papers and 40% reportedly converted into full-time hires\n\nDevote the time to learning.",
-          "engagement": "104K views",
-          "views": 103507
         }
       ]
     },
     "local": {
       "stories": [
+        {
+          "handle": "WallStreetApes",
+          "url": "https://x.com/WallStreetApes/status/2054995728796430804",
+          "headline": "Newport Beach operates 16 oil wells generating over $1.2 million annually while California pushes to eliminate fossil fuels.",
+          "body": "The City of Newport Beach in California owns 16 oil wells\n\nThey produce over 21,000 barrels per year. The city makes about $1.2 million per year f\n\nCalifornia says we have to get rid of fossil fuels to fight change change, but California cities are profiting from oil production\n\nIronically the city of Newport has opposed new offshore drilling but keeps pumping from their own wells and making money\n\nThe hypocrisy of Democrats never ends",
+          "engagement": "183K views",
+          "views": 182980
+        },
         {
           "handle": "CBSNewsPress",
           "url": "https://x.com/CBSNewsPress/status/2054962225115484663",
@@ -455,14 +471,6 @@
           "body": "The resignation of a Southern California mayor who pleaded guilty to acting as a foreign agent for China has sparked backlash and reignited fears of anti-Asian discrimination. https://www.nbcnews.com/news/us-news/backlash-erupts-online-california-mayor-admits-foreign-agent-china-rcna344745?cid=sm_npd_nn_tw_ma&taid=6a064a9332982f000154aafa&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
           "engagement": "14K views",
           "views": 14254
-        },
-        {
-          "handle": "ABC7",
-          "url": "https://x.com/ABC7/status/2054941260134445293",
-          "headline": "Orange County authorities cracking down on illegal e-bikes and e-motorcycles, with three parents facing criminal charges.",
-          "body": "OC cracking down on illegal e-bikes, e-motorcycles; 3 parents facing criminal charges https://abc7.com/post/orange-county-cracking-down-illegal-bikes-motorcycles-parents-face-charges/19099804/",
-          "engagement": "6.8K views",
-          "views": 6775
         }
       ]
     },
@@ -477,20 +485,20 @@
           "views": 343235
         },
         {
-          "handle": "timcast",
-          "url": "https://x.com/timcast/status/2054910468943135084",
-          "headline": "Conspiracy theory claims an 83-year-old House Democrat has died without public acknowledgment.",
-          "body": "There's a conspiracy theory that she died and Dems dont want to say anything https://www.mediaite.com/politics/83-year-old-house-democrat-is-mia-with-no-explanation/",
-          "engagement": "78.6K views",
-          "views": 78598
+          "handle": "YourAnonOne",
+          "url": "https://x.com/YourAnonOne/status/2054969228411686948",
+          "headline": "Anonymous reports over 9,000 mysterious underwater UFOs near US coastlines according to NY Post.",
+          "body": "JUST IN: More than 9,000 mysterious underwater UFOs have reportedly been spotted near U.S. coastlines, per NY Post.",
+          "engagement": "159K views",
+          "views": 159992
         },
         {
-          "handle": "ericweinstein",
-          "url": "https://x.com/ericweinstein/status/2054967680948453711",
-          "headline": "Eric Weinstein lists false narratives promoted by policy types, including dismissing COVID lab leak as a conspiracy theory",
-          "body": "This I Believe:  \n\nThe \u201cNational Security Community\u201d is making science & scientists dumber.  \n\nNatSec is destroying  the scientific foundation of U.S. National Security.  \n\nThe directive to protect 85 IQ narratives is taking out the world\u2019s most elite minds.  \n\nhttps://www.youtube.com/watch?si=94erVuP1kvZSUEF4&v=8oTOxiu2-HA&feature=youtu.be",
-          "engagement": "60K views",
-          "views": 59794
+          "handle": "theurigeller",
+          "url": "https://x.com/theurigeller/status/2054932533666549808",
+          "headline": "Uri Geller speculates that UFO disclosures may reveal humanity's extraterrestrial origins.",
+          "body": "\ud83d\udea8 THE UFO FILES MAY REVEAL SOMETHING FAR BIGGER THAN ALIENS\u2026 THEY MAY REVEAL THE TRUE STORY OF HUMANITY \ud83d\udc7d\ud83d\udcdc\n\nFriends\u2026 I want you to prepare yourselves psychologically for what may be coming next.\n\nBecause I do NOT believe the future UFO/UAP disclosures that the Pentagon are in the process of releasing are simply about videos and sightings of advanced craft.\n\nI believe they may ultimately force humanity to confront a terrifying & beautiful possibility:\n\nThat WE may not be entirely \u201cfrom Earth.\u201d\n\nNow before sceptics laugh \u2014 understand this:\n\nScientists are already openly discussing PANSPERMIA \u2014 the theory that life itself may have arrived here via asteroids, comets or cosmic debris.\n\nAnd if life came from elsewhere then WE are part of that cosmic lineage.\n\nBut here's the thing: humans are an ANOMALY!\n\nWe are physically fragile compared to many animals.\n\nYet somehow we became dominant over the entire planet!\n\nWe create art, technology, religion, civilisations, AI & spacecraft.\n\nAnd unlike every other species, we also store information OUTSIDE our genetics - creating what some scientists call a \u201cdataome\u201d - which we pass on to future generations e.g. all our communications, art, scientific knowledge & cultural artifacts\n\nIt's almost as if humanity was designed to EVOLVE through consciousness itself.\n\nCould that be accidental?\n\nOr were we guided?\n\nModified?\n\nSEEDED?\n\nI believe there are people inside governments who already know the answers to some of these questions.\n\nAnd I believe this is one reason why disclosure has been delayed for DECADES.\n\nBecause the implications are not just scientific \u2014 they are spiritual, political & civilisational.\n\nThere are even persistent rumours that senior religious figures, including the VATICAN & the POPE, have quietly been briefed behind closed doors in preparation for future revelations.\n\nWhy would that happen unless world governments know the TRUTH will deeply affect our shared understanding of who we are?\n\nI believe we may discover that our true HOME is far beyond the stars & WE are ALIEN to earth.\n\nAnd that THEY have been watching, guiding and genetically ENGINEERING us from the very beginning!\n\n#Aliens #Disclosure #UFO",
+          "engagement": "129K views",
+          "views": 129087
         }
       ]
     },
@@ -499,10 +507,10 @@
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2055017088272744630",
-          "headline": "Elon Musk reacts to a Christopher Nolan meme",
+          "headline": "Elon Musk reacts to a meme featuring Christopher Nolan directing The Odyssey.",
           "body": "He actually did the meme \ud83e\udd23\ud83e\udd23",
-          "engagement": "34M views",
-          "views": 33934590
+          "engagement": "38M views",
+          "views": 38108549
         },
         {
           "handle": "dogeofficialceo",
@@ -513,15 +521,15 @@
           "views": 34000543
         },
         {
-          "handle": "XFreeze",
-          "url": "https://x.com/XFreeze/status/2054906460308672707",
-          "headline": "Elon Musk hilariously poses for selfies with CEOs at a banquet",
-          "body": "Elon completely stole the banquet \ud83d\ude02 \n\nHe was already posing for someone else when Xiaomi CEO Lei Jun walked up to his idol asking for a selfie\n\nElon instantly poses with the funniest face\n\ndoes the same funny expression with Apple CEO Tim Cook too\n\nNow Elon became the MAIN attraction across Chinese media and the entire world \ud83e\udd23",
-          "engagement": "5.6M views",
-          "views": 5592678
+          "handle": "tiadeeznuts",
+          "url": "https://x.com/tiadeeznuts/status/2055070008066077091",
+          "headline": "User expresses frustration with community notes interfering with humor.",
+          "body": "community notes ruin a joke so bad. like i KNOW the tweet i liked last week is a lie it's fucking funny",
+          "engagement": "428K views",
+          "views": 428278
         }
       ]
     }
   },
-  "last_updated": "2026-05-15T10:25:46.690704"
+  "last_updated": "2026-05-15T14:10:40.727740"
 }
