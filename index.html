@@ -12,13 +12,12 @@
     .story.has-persp:hover { background:#1f1f1f; }
     .story:hover { background:#2a2a2a; }
     .headline { font-size:1.2em; font-weight:500; }
-    .meta { color:#888; font-size:0.9em; margin-top:8px; }
-    .age { color:#555; margin-left:6px; }
+    /* Matches eXpressO's existing time-ago badge style exactly. */
+    .badge { font-size:0.7rem; color:#aaa; margin-left:8px; font-weight:400; }
     .perspective { background:#262626; padding:12px 14px; margin:10px 0 0 0; border-radius:8px; cursor:pointer; border-left:3px solid #444; }
     .perspective:hover { background:#2e2e2e; }
     .perspective .label { font-size:0.75em; text-transform:uppercase; letter-spacing:0.8px; margin-bottom:4px; font-weight:600; }
     .perspective .body { color:#ddd; font-size:0.95em; }
-    .perspective .meta { margin-top:6px; }
     .perspective.conservative { border-left-color:#c1432e; }
     .perspective.conservative .label { color:#e07360; }
     .perspective.independent { border-left-color:#7a7a7a; }
@@ -32,40 +31,39 @@
   <div id="content"></div>
 
   <script>
-    // Snowflake ID → hours since posted (Twitter epoch = 2010-11-04 01:42:54.657 UTC = 1288834974657).
-    function ageFromUrl(url) {
-      const m = (url || '').match(/\/status\/(\d+)/);
-      if (!m) return '';
-      const id = BigInt(m[1]);
-      const ts = Number(id >> 22n) + 1288834974657;
-      const hours = (Date.now() - ts) / 3600000;
-      if (hours < 1)   return Math.round(hours * 60) + 'm';
-      if (hours < 24)  return Math.round(hours) + 'h';
-      return Math.round(hours / 24) + 'd';
-    }
-
-    // Always show VIEWS, never likes. Read the integer `views` field; if missing,
-    // try to extract a "N views" string from engagement, else parse-metric-style fallback.
-    function fmtViews(post) {
-      let n = 0;
-      if (post && typeof post.views === 'number') n = post.views;
-      else if (post && typeof post.views === 'string') n = parseInt(post.views.replace(/[^\d]/g,''), 10) || 0;
-      if (!n && post && typeof post.engagement === 'string') {
-        const m = post.engagement.match(/([\d.,]+)\s*([KMB])?\s*views/i);
-        if (m) {
-          let x = parseFloat(m[1].replace(/,/g,''));
-          const sfx = (m[2]||'').toUpperCase();
-          if (sfx === 'K') x *= 1e3;
-          else if (sfx === 'M') x *= 1e6;
-          else if (sfx === 'B') x *= 1e9;
-          n = Math.round(x);
+    // Build a "Xh ago • 4.2M views" badge in eXpressO's exact format.
+    // Same span style as eXpressO buildPostedTag — light grey, 0.7rem, subtle.
+    function buildBadge(post) {
+      // Time from snowflake ID
+      let label = '';
+      const m = ((post && post.url) || '').match(/\/status\/(\d+)/);
+      if (m) {
+        const ts = Number(BigInt(m[1]) >> 22n) + 1288834974657;
+        const min = Math.round((Date.now() - ts) / 60000);
+        if (min < 1) label = 'just now';
+        else if (min < 60) label = min + 'm ago';
+        else if (min < 60 * 24) label = Math.round(min / 60) + 'h ago';
+        else label = Math.round(min / (60 * 24)) + 'd ago';
+      }
+      // Views from integer field; take max across top-level + perspectives
+      let v = 0;
+      if (post && typeof post.views === 'number') v = Math.max(v, post.views);
+      if (post && Array.isArray(post.perspectives)) {
+        for (const p of post.perspectives) {
+          if (typeof p.views === 'number') v = Math.max(v, p.views);
         }
       }
-      if (!n || !Number.isFinite(n)) return '';
-      if (n >= 1e9) return (n/1e9).toFixed(1).replace(/\.0$/,'') + 'B views';
-      if (n >= 1e6) return (n/1e6).toFixed(1).replace(/\.0$/,'') + 'M views';
-      if (n >= 1e3) return Math.round(n/1e3) + 'K views';
-      return n + ' views';
+      let viewsStr = '';
+      if (v > 0) {
+        let vs;
+        if (v >= 1e9) vs = (v/1e9).toFixed(1).replace(/\.0$/,'') + 'B';
+        else if (v >= 1e6) vs = (v/1e6).toFixed(1).replace(/\.0$/,'') + 'M';
+        else if (v >= 1e3) vs = Math.round(v/1e3) + 'K';
+        else vs = String(v);
+        viewsStr = ' • ' + vs + ' views';
+      }
+      const text = label + viewsStr;
+      return text ? `<span class="badge">${text}</span>` : '';
     }
 
     async function loadStories() {
@@ -77,30 +75,24 @@
         for (let [tab, sec] of Object.entries(data.stories || {})) {
           html += `<h2 style="margin:30px 0 10px;">${tab.toUpperCase()}</h2>`;
           for (let s of sec.stories || []) {
-            const age = ageFromUrl(s.url);
-            const ageHtml = age ? `<span class="age">${age}</span>` : '';
             const persps = Array.isArray(s.perspectives) ? s.perspectives : [];
             if (persps.length) {
               const perspBlocks = persps.map(p => {
                 const cls = (p.label || '').toLowerCase();
-                const pAge = ageFromUrl(p.url);
-                const pAgeHtml = pAge ? `<span class="age">${pAge}</span>` : '';
                 return `<div class="perspective ${cls}" onclick="event.stopPropagation(); window.open('${esc(p.url)}','_blank')">
                           <div class="label">${p.label || ''}</div>
-                          <div class="body">${p.body || p.headline || ''}</div>
-                          <div class="meta">@${p.handle || '?'} • ${fmtViews(p)}${pAgeHtml}</div>
+                          <div class="body">${p.body || p.headline || ''}${buildBadge(p)}</div>
                         </div>`;
               }).join('');
               html += `
                 <div class="story has-persp">
-                  <div class="headline">${s.headline || 'No title'}</div>
+                  <div class="headline">${s.headline || 'No title'}${buildBadge(s)}</div>
                   ${perspBlocks}
                 </div>`;
             } else {
               html += `
                 <div class="story" onclick="window.open('${esc(s.url)}','_blank')">
-                  <div class="headline">${s.headline || s.body || 'No title'}</div>
-                  <div class="meta">@${s.handle || '?'} • ${fmtViews(s)}${ageHtml}</div>
+                  <div class="headline">${s.headline || s.body || 'No title'}${buildBadge(s)}</div>
                 </div>`;
             }
           }
