@@ -3,6 +3,37 @@
     "world": {
       "stories": [
         {
+          "headline": "Chinese President Xi Jinping warns US President Trump of potential conflicts over Taiwan relations during Beijing summit",
+          "url": "https://x.com/Reuters/status/2054962726867189760",
+          "handle": "Reuters",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "RapidResponse47",
+              "url": "https://x.com/RapidResponse47/status/2055123735338696995",
+              "body": "WATCH IN FULL: President Donald J. Trump's interview with @FoxNews amid his historic state visit to China",
+              "engagement": "983 likes, 293 reposts",
+              "views": 36165
+            },
+            {
+              "label": "Independent",
+              "handle": "NBCNews",
+              "url": "https://x.com/NBCNews/status/2054909852397277679",
+              "body": "Chinese President Xi Jinping warns of \u201cclashes and even conflicts\u201d with the U.S. over Taiwan, cautioning President Trump that tensions over the Beijing-claimed island could jeopardize ties between the world\u2019s two biggest economies. https://www.nbcnews.com/world/china/xi-warns-trump-taiwan-conflict-summit-beijing-china-us-rcna345069?cid=sm_npd_nn_tw_ma&taid=6a05c78d9139890001baaed9&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+              "engagement": "66 likes, 33 reposts",
+              "views": 57605
+            },
+            {
+              "label": "Democrat",
+              "handle": "Fernand46357857",
+              "url": "https://x.com/Fernand46357857/status/2055022017100017964",
+              "body": "According to Trump: China has committed to withholding military equipment from Iran \u2014 This doesn\u2019t seem believable for Iran is a strong China ally.  https://thehill.com/homenews/administration/5878305-trump-xi-iran-military-equipment/",
+              "engagement": "6 likes, 0 reposts",
+              "views": 125
+            }
+          ]
+        },
+        {
           "headline": "Parliamentary watchdog launches inquiry into Nigel Farage over undeclared \u00a35m gift",
           "url": "https://x.com/BBCBreaking/status/2054528889255284820",
           "handle": "BBCBreaking",
@@ -63,42 +94,42 @@
               "views": 11177
             }
           ]
-        },
-        {
-          "headline": "Plans for Australia's first Trump Tower scrapped due to 'toxic' brand",
-          "url": "https://x.com/cnni/status/2054415338985394370",
-          "handle": "cnni",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "DionisioGroup",
-              "url": "https://x.com/DionisioGroup/status/2054568930417541409",
-              "body": "Dionisio | USGG forecast the Trump Tower Australia \ud83c\udde6\ud83c\uddfa would (not) move forward b/c of abandonment of USA \ud83c\uddfa\ud83c\uddf8 President Trump from trade wars w/ military expansionism. An official announcement has been made, the project has been cancelled from an extreme (toxicity) level according to representatives from w/in Australia. Another of (hundreds) of U.S. deals terminated, w/ 1,000\u2019s more soon.",
-              "engagement": "0 likes",
-              "views": 23
-            },
-            {
-              "label": "Independent",
-              "handle": "FrankWAuthor",
-              "url": "https://x.com/FrankWAuthor/status/2054767840276963530",
-              "body": "No Surprise: Aussies have far better taste than this.\ud83c\udde6\ud83c\uddfa \ud83e\udd98 Plans for Australia's first Trump Tower scrapped due to 'toxic' brand, developer says.  \ud83e\udd21 \ud83d\udc48 https://www.bbc.com/news/articles/c4g08dlnd0vo",
-              "engagement": "2 likes",
-              "views": 75
-            },
-            {
-              "label": "Democrat",
-              "handle": "LAURATA32898200",
-              "url": "https://x.com/LAURATA32898200/status/2054950630251245920",
-              "body": "the World knows this GrifterPDFileGrapist is a POS.. when will America grow a spine and put this trash in Prison where it belongs.. Australia\u2019s Trump Tower plans scrapped as developer says brand has become \u2018toxic\u2019 | CNN https://www.cnn.com/2026/05/12/australia/australia-trump-tower-scrapped-intl-hnk",
-              "engagement": "0 likes",
-              "views": 8
-            }
-          ]
         }
       ]
     },
     "usa": {
       "stories": [
+        {
+          "headline": "US House vote on Democratic resolution to limit presidential military powers regarding Iran ends in a 212-212 tie",
+          "url": "https://x.com/connorobrienNH/status/2055029362399883317",
+          "handle": "connorobrienNH",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "OpenSourceZone",
+              "url": "https://x.com/OpenSourceZone/status/2055058794153988482",
+              "body": "US House defeats Iran war powers resolution \ud83d\udfe2 Yes: 212 \ud83d\udd34 No: 213 GOP Yes Votes: \ud83d\udd34 Thomas Massie (KY) \ud83d\udd34 Tom Barrett (MI) \ud83d\udd34 Brian Fitzpatrick (PA) Democrat No Vote: \ud83d\udd35 Jared Golden (ME)",
+              "engagement": "73K views",
+              "views": 72885
+            },
+            {
+              "label": "Independent",
+              "handle": "PollTracker2024",
+              "url": "https://x.com/PollTracker2024/status/2055030980486762965",
+              "body": "US House defeats Iran war powers resolution in tied 212-212 vote Three Republicans voted in favor \ud83d\udfe5Tom Barrett (MI) \ud83d\udfe5Brian Fitzpatrick (PA) \ud83d\udfe5Thomas Massie (KY) \u2014 One Democrat voted against \ud83d\udfe6Jared Golden (ME)",
+              "engagement": "612K views",
+              "views": 611628
+            },
+            {
+              "label": "Democrat",
+              "handle": "ErikSperling",
+              "url": "https://x.com/ErikSperling/status/2055034726683983927",
+              "body": "Vulnerable GOP members of both chambers are starting to turn against Iran war House joins Senate with narrowest defeat since war began (49-50, 212-212) House WPR nearly passed but pro-war @HouseGOP pressured someone to change their vote last second to protect the war effort \u2b07\ufe0f",
+              "engagement": "28K views",
+              "views": 28147
+            }
+          ]
+        },
         {
           "headline": "US President Donald Trump holds high-stakes summit with Chinese President Xi Jinping in Beijing discussing trade, Taiwan, and Iran.",
           "url": "https://x.com/business/status/2054827437851087307",
@@ -152,26 +183,26 @@
         {
           "handle": "nikkei",
           "url": "https://x.com/nikkei/status/2055063923879969135",
-          "headline": "20% of new hires plan to invest their initial salary in NISA due to global stock market highs and fear of missing out.",
-          "body": "\u65b0\u4eba\u306e2\u5272\u300c\u521d\u4efb\u7d66\u306fNISA\u3078\u300d\u3000\u4e16\u754c\u682a\u9ad8\u3001\u82e5\u8005\u3092\u8986\u3046\u4e57\u308a\u9045\u308c\u306e\u6050\u6016\nhttps://www.nikkei.com/article/DGXZQOUB014MN0R00C26A5000000/?n_cid=SNSTW006&n_tw=1778800219",
-          "engagement": "793K views",
-          "views": 793166
+          "headline": "20% of new graduates plan to invest their first salary in NISA amid global stock market surge and fear of missing out.",
+          "body": "\u65b0\u4eba\u306e2\u5272\u300c\u521d\u4efb\u7d66\u306fNISA\u3078\u300d\u3000\u4e16\u754c\u682a\u9ad8\u3001\u82e5\u8005\u3092\u8986\u3046\u4e57\u308a\u9045\u308c\u306e\u6050\u6016 https://www.nikkei.com/article/DGXZQOUB014MN0R00C26A5000000/?n_cid=SNSTW006&n_tw=1778800219",
+          "engagement": "816K views",
+          "views": 816031
         },
         {
-          "handle": "business",
-          "url": "https://x.com/business/status/2055121308262748464",
-          "headline": "Trump's latest financial disclosures show stock and bond purchases in major US companies worth tens of millions in Q1.",
-          "body": "President Donald Trump\u2019s latest financial disclosures show that he made a slew of stock and bond purchases with major American companies in the first quarter of the year totaling in the tens of millions of dollars, and possibly more. https://www.bloomberg.com/news/articles/2026-05-14/trump-bought-nvidia-boeing-microsoft-in-flurry-of-transactions\n\n\ud83d\udcf7: Graeme Sloan/Bloomberg",
-          "engagement": "20K views",
-          "views": 20421
+          "handle": "nikkei",
+          "url": "https://x.com/nikkei/status/2055138917779657146",
+          "headline": "Uni-Charm and Daio Paper to raise diaper prices this summer due to rising material costs.",
+          "body": "\u30e6\u30cb\u30fb\u30c1\u30e3\u30fc\u30e0\u3084\u5927\u738b\u88fd\u7d19\u3001\u4eca\u590f\u306b\u7d19\u304a\u3080\u3064\u5024\u4e0a\u3052\u3000\u6750\u6599\u9ad8\u9a30\u53d7\u3051 https://www.nikkei.com/article/DGXZQOUC132VI0T10C26A5000000/?n_cid=SNSTW001&n_tw=1778818102",
+          "engagement": "12K views",
+          "views": 12304
         },
         {
-          "handle": "cryptorover",
-          "url": "https://x.com/cryptorover/status/2055136484043194556",
-          "headline": "President Trump announces fantastic trade deals with China potentially valued over $1 trillion, positive for markets.",
-          "body": "HUGE: \ud83c\uddfa\ud83c\uddf8 \ud83c\udde8\ud83c\uddf3 PRESIDENT TRUMP SAYS US MADE FANTASTIC TRADE DEALS WITH CHINA.\n\nINSIDERS REPORT THESE DEALS COULD BE VALUED OVER $1,000,000,000,000. \n\nGOOD FOR MARKETS!",
-          "engagement": "8K views",
-          "views": 8049
+          "handle": "TheEconomist",
+          "url": "https://x.com/TheEconomist/status/2055146163339203016",
+          "headline": "The job market for graduates is deteriorating significantly.",
+          "body": "The bottom has fallen out of the job market  https://www.economist.com/finance-and-economics/2025/06/16/why-todays-graduates-are-screwed?taid=6a06a3a232982f000154ae2a&utm_campaign=editorial-social&utm_content=discovery.content&utm_medium=social-media.content.np&utm_source=twitter",
+          "engagement": "5K views",
+          "views": 5026
         }
       ]
     },
@@ -180,26 +211,26 @@
         {
           "handle": "YahooNewsTopics",
           "url": "https://x.com/YahooNewsTopics/status/2055122496886800871",
-          "headline": "Announcement of the passing of voice actress Yamazaki Kazkana, known for voicing Mori Ran in Detective Conan.",
-          "body": "\u3010\u6bdb\u5229\u862d\u306e\u58f0\u512a \u5c71\u5d0e\u548c\u4f73\u5948\u3055\u3093\u6b7b\u53bb\u3011 https://news.yahoo.co.jp/pickup/6580226",
-          "engagement": "7.3M views",
-          "views": 7291217
+          "headline": "Announcement of the passing of voice actress Kazana Yamazaki, known for voicing Ran Mouri.",
+          "body": "\u3010\u6bdb\u5229\u862d\u306e\u58f0\u512a \u5c71\u5d0e\u548c\u4f73\u5948\u3055\u3093\u6b7b\u53bb\u3011\nhttps://news.yahoo.co.jp/pickup/6580226",
+          "engagement": "8.1M views",
+          "views": 8125783
         },
         {
-          "handle": "syokumutaiman",
-          "url": "https://x.com/syokumutaiman/status/2055116162577608795",
-          "headline": "Manga artist announces update to chapter 136.",
-          "body": "136\u8a71\u304c\u66f4\u65b0\u3055\u308c\u307e\u3057\u305f",
-          "engagement": "1.2M views",
-          "views": 1217396
+          "handle": "xai",
+          "url": "https://x.com/xai/status/2054993285152989373",
+          "headline": "xAI releases early beta of Grok Build, an agentic CLI tool for coding and workflow automation.",
+          "body": "An early beta of Grok Build, an agentic CLI for coding, building apps, and automating workflows is now available for SuperGrok Heavy subscribers.\n\nThrough this early beta, we will improve the model and product based on your feedback.\n\nTry it at https://x.ai/cli",
+          "engagement": "30M views",
+          "views": 30656553
         },
         {
-          "handle": "famima_now",
-          "url": "https://x.com/famima_now/status/2055060595070689684",
-          "headline": "FamilyMart launches daily giveaway for free custard cream puff coupons until May 18.",
-          "body": "\ud83d\udc51\u5927\u4eba\u6c17\uff06\u65b0\u98df\u611f\ud83c\udd95 #\u7d76\u54c1\u30b7\u30e5\u30fc\u30af\u30ea\u30fc\u30e0\u5927\u96c6\u5408 \u30d0\u30cb\u30e9\u305f\u3063\u3077\u308a\uff01\u6fc3\u539a\u30ab\u30b9\u30bf\u30fc\u30c9\u30b7\u30e5\u30fc \u7121\u6599\u30af\u30fc\u30dd\u30f3\u304c10,000\u540d\u69d8\u306b\u5f53\u305f\u308b\ud83c\udfaf 5/18(\u6708)\u307e\u3067\u6bce\u65e5\u53c2\u52a0\u53ef\u80fd\uff01 \u25bc\u5fdc\u52df\u65b9\u6cd5 1\ufe0f\u20e3@famima_now \u3092\u30d5\u30a9\u30ed\u30fc 2\ufe0f\u20e3 \u3053\u306e\u6295\u7a3f\u3092\u30ea\u30dd\u30b9\u30c8 3\ufe0f\u20e3 TAP\u3057\u3066\u53c2\u52a0",
-          "engagement": "526K views",
-          "views": 525831
+          "handle": "dogeofficialceo",
+          "url": "https://x.com/dogeofficialceo/status/2054994019030319558",
+          "headline": "Humorous meme depicting Christopher Nolan directing the ancient epic The Odyssey.",
+          "body": "Christopher Nolan directing The Odyssey",
+          "engagement": "27M views",
+          "views": 27147537
         }
       ]
     },
@@ -220,6 +251,14 @@
           "body": "El Ni\u00f1o is emerging even faster than expected in the Pacific Ocean and odds are increasing that it could become historically strong \u2014 a rare \"Super\" El Ni\u00f1o \u2014 by fall or winter. https://www.cnn.com/2026/05/14/weather/super-el-nino-climate?Date=20260514&Profile=CNN&utm_content=1778765068&utm_medium=social&utm_source=twitter",
           "engagement": "780K views",
           "views": 779879
+        },
+        {
+          "handle": "AP",
+          "url": "https://x.com/AP/status/2055025277416190391",
+          "headline": "Parents in Pennsylvania school district petition to opt children out of using digital devices in curriculum.",
+          "body": "Kids in Lower Merion school district in Pennsylvania get iPads starting in kindergarten, switch to Chromebooks in second grade and get their own MacBooks in eighth grade. Hundreds of parents signed a petition asking to preserve their ability to opt their children out of using digital devices during the school day. The school district has pushed back, saying it\u2019s not feasible to let hundreds of students opt out of technology that is essential to the curriculum.",
+          "engagement": "107K views",
+          "views": 107423
         }
       ]
     },
@@ -234,20 +273,20 @@
           "views": 1038513
         },
         {
-          "handle": "FabrizioRomano",
-          "url": "https://x.com/FabrizioRomano/status/2055143384260739441",
-          "headline": "Kylian Mbapp\u00e9 responds to criticism regarding his willingness to play",
-          "body": "\ud83d\udea8\ud83e\udd37\ud83c\udffe\u200d\u2642\ufe0f Kylian Mbapp\u00e9: \u201cWhat hurts me is that people think I don\u2019t want to play. It\u2019s not the case\u201d. \u201cAt the beginning they said I was playing too much, I had to rest\u2026 now they say I don\u2019t want to play\u201d. \u201cWhat\u2019s the sense?\u201d. ",
-          "engagement": "34K views",
-          "views": 34357
+          "handle": "premierleague",
+          "url": "https://x.com/premierleague/status/2054864547370983530",
+          "headline": "Premier League highlights eight stars who defined the 2025/26 season and opens voting for Player of the Season.",
+          "body": "Eight stars who made 2025/26 their own \ud83c\udf1f\n\nIt's time to get voting for your @EASPORTSFC Player of the Season \ud83d\uddf3\ufe0f",
+          "engagement": "2.7M views",
+          "views": 2743590
         },
         {
           "handle": "TheDunkCentral",
           "url": "https://x.com/TheDunkCentral/status/2055067247970803967",
-          "headline": "Utah Jazz reportedly contacting Washington Wizards to trade up for AJ Dybantsa in the draft",
+          "headline": "Utah Jazz reportedly contacting Washington Wizards to trade up for draft pick AJ Dybantsa.",
           "body": "The Jazz have reportedly reached out to the Wizards about trading up to draft AJ Dybantsa, per @MarcJSpears",
-          "engagement": "489K views",
-          "views": 488912
+          "engagement": "498K views",
+          "views": 497974
         }
       ]
     },
@@ -258,24 +297,24 @@
           "url": "https://x.com/xai/status/2054993285152989373",
           "headline": "xAI announces early beta release of Grok Build for SuperGrok Heavy subscribers.",
           "body": "An early beta of Grok Build, an agentic CLI for coding, building apps, and automating workflows is now available for SuperGrok Heavy subscribers.\n\nThrough this early beta, we will improve the model and product based on your feedback.\n\nTry it at https://x.ai/cli",
-          "engagement": "29M views",
-          "views": 29929969
+          "engagement": "30M views",
+          "views": 30656553
         },
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2055008501722943750",
-          "headline": "Elon Musk encourages feedback on the Grok Build beta.",
+          "headline": "Elon Musk encourages users to try the Grok Build beta and provide feedback.",
           "body": "Try this early Grok Build (anything) beta and let us know what to improve. \n\nMuch appreciated!",
           "engagement": "17M views",
-          "views": 17011148
+          "views": 17395209
         },
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2055142313412948363",
-          "headline": "Elon Musk notes that Grok Build is in beta and rapidly improving.",
+          "headline": "Elon Musk advises setting expectations for the beta version of Grok Build.",
           "body": "Go in with expectations that Grok Build is still beta, but improving almost every day",
-          "engagement": "270K views",
-          "views": 270546
+          "engagement": "848K views",
+          "views": 848064
         }
       ]
     },
@@ -284,10 +323,10 @@
         {
           "handle": "overton_news",
           "url": "https://x.com/overton_news/status/2055019579815211468",
-          "headline": "Joe Rogan voices concern over Theo Von's mental health struggles following SSRIs and past suicidal comments.",
+          "headline": "Joe Rogan voices concern for Theo Von's well-being amid mental health struggles discussed on podcast.",
           "body": "Joe Rogan just took time out of his podcast to express genuine concern for his friend Theo Von.\n\nHe admitted that some of Von\u2019s recent behavior after getting on SSRIs \u201cfreaks me out\u201d \u2014 especially his comments about suicide.\n\nROGAN: \u201cTheo Von\u2019s going through the exact same thing and last time he was on the podcast he was explaining it to me.\u201d\n\n\u201cIt freaks me out because I know Theo has had conversations before...like even publicly.\u201d\n\n\u201cHe had a Netflix taping and it didn\u2019t go well. It was like they actually never...they shelved it. They never used it.\u201d\n\n\u201cAnd you know there was all these stories from people that were there saying he bombed. I think he just had a kind of a breakdown.\u201d\n\n\u201cAnd when he was talking to the crowd and there\u2019s a video of it, he said, you know, the people were saying, hey, we still love you.\u201d\n\n\u201cHe goes, thank you. Look, I\u2019m just I\u2019m trying not to take my own life.\u201d\n\n\u201cAnd like you hear stuff like that and you just go like, oh, Jesus Christ.\u201d\n\n\u201cI\u2019ve known too many people that I didn\u2019t think were going to kill themselves and then did.\u201d\n\n\u201cAnd then he goes down these spirals where he starts talking about world events and freaking out. I\u2019m like, oh, Jesus Christ! Like, I got to help this dude.\u201d",
-          "engagement": "1.4M views",
-          "views": 1455998
+          "engagement": "1.5M views",
+          "views": 1498964
         },
         {
           "handle": "ExxAlerts",
@@ -300,10 +339,10 @@
         {
           "handle": "lexfridman",
           "url": "https://x.com/lexfridman/status/2054989115163136051",
-          "headline": "Lex Fridman plans spontaneous global travel starting in China to connect with diverse people and seeks offbeat recommendations.",
+          "headline": "Lex Fridman plans spontaneous global travel starting with AI discussions in China and hitchhiking in rural areas.",
           "body": "I'm traveling the world for a bit, starting with China but then hopping around the globe, anywhere. Open to any adventure. No plans, only a backpack. Hoping to meet & get to know humans from all walks of life. The pic is from a long hike on the Great Wall. For me, as a fan of history, this was an epic experience.\n\nIn China, first I'm visiting a few big cities & talking to engineers at the heart of China's AI revolution. After that, if feeling crazy enough, I'm hitchhiking (first time) across rural China for a few weeks. Hitchhiking because I think it's the best way to meet rural folks who I would otherwise never get the chance to meet. I hope to do the same in US and other places.\n\nI have a request, if you have a travel recommendation, fill out the form(s) below if you feel like it. Or share with folks who might have advice about such travel.\n\nForm 1 - travel recommendation:\nIf you can, recommend to me an interesting place I should visit anywhere in the world. For this, fill out form 1. Not touristy stuff, but something off the beaten path, that tourists may not know about, but is legendary. It could be as remote as meeting a herder in the mountains who is a local legend. Asia, Middle East, Europe, India, South/North America, Africa, Australia, anywhere. In China, I'm hoping to visit maybe Heibei, Shanxi, Shaanxi, Gansu, Sichuan, Yunnan, etc, so recommendations for spots to visit are helpful.\n\nForm 2 - coffee:\nIf you want to grab a coffee with me anywhere in the world, fill out form 2 (please don't use form 1 for that).\n\nAnyway, I hectically tossed stuff in backpack. Realizing I don't have a clear plan of any kind, which is probably the only way to do it. LFG.\n\nLove you all \u2764\ufe0f",
-          "engagement": "728K views",
-          "views": 728340
+          "engagement": "757K views",
+          "views": 757292
         }
       ]
     },
@@ -316,6 +355,22 @@
           "body": "Amazon has officially begun James Bond auditions.\n\n(Via: https://variety.com/2026/film/news/james-bond-auditions-start-casting-director-nina-gold-1236749108/",
           "engagement": "21K views",
           "views": 21274
+        },
+        {
+          "handle": "Variety",
+          "url": "https://x.com/Variety/status/2055019098401050959",
+          "headline": "Keith Cox, who brought Taylor Sheridan to Paramount, is exiting as chief of MTV Entertainment Studios.",
+          "body": "Keith Cox, Who First Brought Taylor Sheridan to Paramount, to Exit as Chief of MTV Entertainment Studios https://variety.com/2026/tv/news/paramount-keith-fox-exit-mtv-entertainment-studios-1236749124/",
+          "engagement": "12K views",
+          "views": 12205
+        },
+        {
+          "handle": "EW",
+          "url": "https://x.com/EW/status/2055006330318967298",
+          "headline": "Dylan Sprouse and Barbara Palvin announce expectation of their first child at Cannes Film Festival.",
+          "body": "Former child star Dylan Sprouse and his supermodel wife Barbara Palvin announced they're expecting their first baby after debuting her pregnant belly at the Cannes Film Festival. https://ew.com/dylan-sprouse-barbara-palvin-expecting-first-baby-11975125?taid=6a062167e5e843000126f270&utm_campaign=trueAnthem%3A+New+Content+%28Feed%29&utm_medium=trueAnthem&utm_source=twitter",
+          "engagement": "8K views",
+          "views": 7990
         }
       ]
     },
@@ -324,10 +379,18 @@
         {
           "handle": "fashionpressnet",
           "url": "https://x.com/fashionpressnet/status/2055113461726871920",
-          "headline": "Godiva opens bakery 'Godipan' at LaLaport Toyosu with bear-shaped coronet and caramel bread",
+          "headline": "Godiva's bakery Godipan opens at Lalaport Toyosu with bear-shaped coronet and fluffy caramel bread.",
           "body": "\u30b4\u30c7\u30a3\u30d0\u306e\u30d9\u30fc\u30ab\u30ea\u30fc\u300c\u30b4\u30c7\u30a3\u30d1\u30f3\u300d\u3089\u3089\u307d\u30fc\u3068\u8c4a\u6d32\u306b\u3001\u201c\u304f\u307e\u578b\u201d\u30b3\u30ed\u30cd\u3084\u3075\u3093\u308f\u308a\u30ad\u30e3\u30e9\u30e1\u30eb\u30d1\u30f3\u306a\u3069 - https://www.fashion-press.net/news/146440",
-          "engagement": "87K views",
-          "views": 87552
+          "engagement": "92K views",
+          "views": 92186
+        },
+        {
+          "handle": "BAEG0PAY00",
+          "url": "https://x.com/BAEG0PAY00/status/2054918281581191189",
+          "headline": "Image of supreme tender chicken with tteokbokki addition.",
+          "body": "\uc288\ud504\ub9bc\uc21c\uc0b4 \ub5a1\uc0ac\ub9ac\ucd94\uac00",
+          "engagement": "111K views",
+          "views": 111089
         },
         {
           "handle": "FoodPleaser",
@@ -336,14 +399,6 @@
           "body": "Would you be happy if this was your dinner tonight ? \ud83e\udd14",
           "engagement": "2.7K views",
           "views": 2719
-        },
-        {
-          "handle": "FoodPleaser",
-          "url": "https://x.com/FoodPleaser/status/2055092297805815996",
-          "headline": "Image of a pizza burger prompting viewer reactions",
-          "body": "What\u2019s your first thought when you see this pizza burger?",
-          "engagement": "4K views",
-          "views": 4106
         }
       ]
     },
@@ -358,20 +413,20 @@
           "views": 1746024
         },
         {
-          "handle": "RoundtableSpace",
-          "url": "https://x.com/RoundtableSpace/status/2055056813977141557",
-          "headline": "Anthropic offers $3,850 per week fellowships for AI safety research without requiring PhD or prior experience.",
-          "body": "ANTHROPIC IS PAYING PEOPLE $3,850/WEEK TO LEARN AI SAFETY\n\n* No PhD or prior AI research experience required for the Fellows Program  \n* Fellows work directly with Anthropic researchers on frontier AI problems  \n* 80% published papers and 40% reportedly converted into full-time hires\n\nDevote the time to learning.",
-          "engagement": "86K views",
-          "views": 86029
+          "handle": "XFreeze",
+          "url": "https://x.com/XFreeze/status/2055022277629190341",
+          "headline": "xAI introduces discounted SuperGrok Heavy plan with enhanced AI capabilities and early access to new features.",
+          "body": "xAI just dropped a massive new offer for SuperGrok Heavy plan\n\n67% off for 6 months - now $99/month instead of $300/month\n\nIncludes:\n\u2022 Near-unlimited usage  \n\u2022 16x AI agents in Expert Mode  \n\u2022 Early access to new features  \n\u2022 Dedicated support  \n\u2022 Access to Grok Build Early Beta  \n\u2022 xAI\u2019s most powerful reasoning tools\n\nAnd this is just the beginning\n\nThere are a lot of new Grok models and features coming very soon\n\nxAI is moving insanely fast right now\n\nSubscribe while the offer is still available",
+          "engagement": "143K views",
+          "views": 143184
         },
         {
-          "handle": "forallcurious",
-          "url": "https://x.com/forallcurious/status/2055121764804595760",
-          "headline": "University of Tokyo develops heat-free device enabling 1000 times faster computer processing.",
-          "body": "BREAKTHROUGH\ud83d\udea8: Scientists at the University of Tokyo have developed a device that operates without generating heat- making computer processing speed 1000 times faster \n\nProcessing of data that took 1 hour will take only 1 second with this device.",
-          "engagement": "9K views",
-          "views": 9783
+          "handle": "RoundtableSpace",
+          "url": "https://x.com/RoundtableSpace/status/2055056813977141557",
+          "headline": "Anthropic offers high-paying fellowships for learning AI safety without requiring prior experience.",
+          "body": "ANTHROPIC IS PAYING PEOPLE $3,850/WEEK TO LEARN AI SAFETY\n\n* No PhD or prior AI research experience required for the Fellows Program  \n* Fellows work directly with Anthropic researchers on frontier AI problems  \n* 80% published papers and 40% reportedly converted into full-time hires\n\nDevote the time to learning.",
+          "engagement": "87K views",
+          "views": 87381
         }
       ]
     },
@@ -452,13 +507,13 @@
         {
           "handle": "Japan_lol_w",
           "url": "https://x.com/Japan_lol_w/status/2054859964888600737",
-          "headline": "Funny classroom story about a fumigation accident",
+          "headline": "A comedic classroom anecdote about a girl's worry over accidentally fumigating her father.",
           "body": "\u4e2d\u5b66\u6642\u4ee3\u3001\u6388\u696d\u4e2d\u306b\u3044\u304d\u306a\u308a\u6ce3\u304d\u3060\u3057\u305f\u5973\u5b50\u304c\u3044\u3066\u300e\u3069\u3046\u3057\u305f\u306e\u2026?!\u300f\u3063\u3066\u6559\u5ba4\u304c\u30b6\u30ef\u30b6\u30ef\u3057\u59cb\u3081\u3066\u3001\u5148\u751f\u304c\u300e\u3061\u3083\u3093\u3068\u8a00\u3063\u3066\u3054\u3089\u3093\u300f\u3063\u3066\u512a\u3057\u304f\u8aed\u3057\u3066\u305f\u3089\u300e\u5b66\u6821\u6765\u308b\u524d\u306b\u30d0\u30eb\u30b5\u30f3\u3057\u3066\u304d\u305f\u3093\u3060\u3051\u3069\u90e8\u5c4b\u306b\u304a\u7236\u3055\u3093\u3044\u305f\u304b\u3082\u3057\u308c\u306a\u3044\u300f\u3063\u3066\u4e00\u8a00\u3067\u6559\u5ba4\u304c\u9a12\u7136\u3068\u3057\u305f\u3053\u3068\u3042\u308bwww",
           "engagement": "3.5M views",
-          "views": 3518640
+          "views": 3541717
         }
       ]
     }
   },
-  "last_updated": "2026-05-14T21:41:36.011753"
+  "last_updated": "2026-05-14T22:00:14.836867"
 }

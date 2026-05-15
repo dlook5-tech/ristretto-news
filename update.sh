@@ -89,12 +89,116 @@ print(json.dumps({
     echo "  [done] $tab"
 }
 
-export -f call_grok prompt_for needs_perspectives
+# ============================================================================
+# EXPERIMENT (2026-05-14, Ristretto only): TOP TAB MULTI-QUERY
+# ----------------------------------------------------------------------------
+# Twitter's `x_search` sorts candidates by their black-box engagement score,
+# not by raw views. A single "give me top-viewed posts" call misses
+# silent-viral content (huge views, low likes — sports clips, breaking-news
+# video, embeds). Solution: fire 4 parallel searches with different framings,
+# pool all candidates, then re-sort by raw view count.
+# If this proves stable over a week of crons, port to eXpressO.
+# ============================================================================
+call_grok_top_multi() {
+    local today
+    today=$(date -u +%Y-%m-%d)
+    local since
+    since=$(date -u -v-2d +%Y-%m-%d 2>/dev/null || date -u -d "2 days ago" +%Y-%m-%d)
+
+    local schema="STRICT RECENCY: use x_search since:${since}.
+Each item:
+{\"handle\":\"username\",\"url\":\"https://x.com/user/status/<id>\",\"headline\":\"neutral one-line summary\",\"body\":\"actual post text\",\"engagement\":\"500K views\",\"views\":500000}
+URLs MUST be real X status URLs from posts on or after ${since}. Views = actual view count integer."
+
+    # Four angles to widen Grok's candidate window.
+    local prompts=(
+        "Top 10 highest-view X posts globally in the past 24 hours. Sort by raw view count. Today is ${today}. Return ONLY a JSON array, no markdown. ${schema}"
+        "Top 10 highest-view X posts globally in the past 6 hours — fresh viral that just broke. Today is ${today}. Return ONLY a JSON array, no markdown. ${schema}"
+        "Top 10 highest-view VIDEO posts on X in the past 24 hours — video clips with millions of views even if likes are modest. Today is ${today}. Return ONLY a JSON array, no markdown. ${schema}"
+        "Top 10 X posts in the past 24 hours that have over 1M views but UNDER 50K likes — silent-viral content the regular top-of-feed misses. Today is ${today}. Return ONLY a JSON array, no markdown. ${schema}"
+    )
+
+    local i=0
+    for p in "${prompts[@]}"; do
+        local payload
+        payload=$(python3 -c '
+import json, sys
+print(json.dumps({
+    "model": "grok-4-fast",
+    "input": [{"role": "user", "content": sys.argv[1]}],
+    "tools": [{"type": "x_search"}],
+    "max_output_tokens": 4000
+}))
+' "$p")
+
+        curl -s --max-time 240 https://api.x.ai/v1/responses \
+            -H "Content-Type: application/json" \
+            -H "Authorization: Bearer $XAI_API_KEY" \
+            -d "$payload" > "/tmp/ristretto_top_sub_${i}.json" \
+          || echo '{"error":"curl failed"}' > "/tmp/ristretto_top_${i}.json" &
+        i=$((i+1))
+    done
+    wait
+
+    # Merge: pool all candidates, dedupe by URL, sort by raw views, keep top 15.
+    # Wrap in a synthetic xAI-response shape so the downstream parser handles it.
+    python3 << 'PY' > /tmp/ristretto_raw_top.json
+import json, re, os
+
+def extract_text(resp):
+    if isinstance(resp.get('output'), list):
+        chunks = []
+        for o in resp['output']:
+            for c in o.get('content', []) or []:
+                t = c.get('text') if isinstance(c, dict) else None
+                if t: chunks.append(t)
+        if chunks: return '\n'.join(chunks)
+    return ''
+
+pool, seen = [], set()
+for i in range(4):
+    path = f'/tmp/ristretto_top_sub_{i}.json'
+    if not os.path.exists(path): continue
+    try:
+        with open(path) as f: resp = json.load(f)
+        if resp.get('error'): continue
+        text = extract_text(resp)
+        text = re.sub(r'^```[a-zA-Z]*\s*', '', text.strip())
+        text = re.sub(r'\s*```\s*$', '', text)
+        m = re.search(r'\[.*\]', text, re.DOTALL)
+        if not m: continue
+        for item in json.loads(m.group(0)):
+            url = (item.get('url') or '').strip()
+            if not url or url in seen: continue
+            seen.add(url)
+            pool.append(item)
+    except Exception as e:
+        print(f"  [top-sub-{i}-warn] {e}", file=__import__('sys').stderr)
+
+# Sort by raw integer views, take top 15 candidates for curator.
+def vw(it):
+    try: return int(it.get('views', 0) or 0)
+    except: return 0
+pool.sort(key=vw, reverse=True)
+pool = pool[:15]
+
+# Synthetic xAI-response wrapper.
+synthetic = {'output': [{'content': [{'text': json.dumps(pool)}]}]}
+print(json.dumps(synthetic))
+PY
+    echo "  [done] top (4 parallel subqueries, $(python3 -c "import json; print(len(json.loads(open('/tmp/ristretto_raw_top.json').read())['output'][0]['content'][0]['text']))" 2>/dev/null || echo '?') chars merged)"
+}
+
+export -f call_grok call_grok_top_multi prompt_for needs_perspectives
 export XAI_API_KEY
 
 echo "Calling Grok for ${#TABS[@]} tabs in parallel..."
 for tab in "${TABS[@]}"; do
-    call_grok "$tab" &
+    if [ "$tab" = "top" ]; then
+        call_grok_top_multi &
+    else
+        call_grok "$tab" &
+    fi
 done
 wait
 echo "All Grok calls complete."
