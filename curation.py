@@ -32,24 +32,32 @@ def parse_metric(s: str, metric: str = 'views') -> int:
     elif suffix == 'b': n *= 1_000_000_000
     return int(n)
 
+def _int_or_zero(x) -> int:
+    try: return int(x)
+    except: return 0
+
 def story_views(s: Dict) -> int:
-    if 'views' in s:
-        try: return int(s['views'])
-        except: pass
-    v = parse_metric(s.get('engagement', ''))
-    for p in s.get('perspectives', []):
-        v = max(v, parse_metric(p.get('engagement', '')))
+    """Max view count from top-level OR any perspective (integer field OR engagement string)."""
+    v = max(_int_or_zero(s.get('views', 0)), parse_metric(s.get('engagement', '')))
+    for p in s.get('perspectives', []) or []:
+        v = max(v, _int_or_zero(p.get('views', 0)), parse_metric(p.get('engagement', '')))
     return v
 
+def _age_of_url(url: str) -> float:
+    m = re.search(r'/status/(\d+)', url or '')
+    if not m: return float('inf')
+    try:
+        ts = (int(m.group(1)) >> 22) + 1288834974657
+        return (datetime.datetime.now() - datetime.datetime.fromtimestamp(ts / 1000)).total_seconds() / 3600
+    except: return float('inf')
+
 def story_age_hours(s: Dict) -> float:
-    url = s.get('url') or next((p.get('url') for p in s.get('perspectives', []) if p.get('url')), '')
-    m = re.search(r'/status/(\d+)', url)
-    if m:
-        try:
-            ts = (int(m.group(1)) >> 22) + 1288834974657
-            return (datetime.datetime.now() - datetime.datetime.fromtimestamp(ts / 1000)).total_seconds() / 3600
-        except: pass
-    return 0.0
+    """Age of the FRESHEST url in the story (top-level OR any perspective)."""
+    ages = [_age_of_url(s.get('url',''))]
+    for p in s.get('perspectives', []) or []:
+        ages.append(_age_of_url(p.get('url','')))
+    finite = [a for a in ages if a != float('inf')]
+    return min(finite) if finite else 0.0
 
 def story_velocity(s: Dict) -> float:
     age = max(story_age_hours(s), 0.1)

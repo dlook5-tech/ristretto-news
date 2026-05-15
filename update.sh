@@ -10,12 +10,17 @@ echo "=== Ristretto News Update $(date) ==="
 
 TABS=(world usa business top msm sports elon pods pg6 recipe science local conspiracy comedy)
 
+# Tabs that get the 3-perspective treatment (Conservative / Independent / Democrat).
+needs_perspectives() {
+    [[ "$1" == "world" || "$1" == "usa" ]]
+}
+
 # Per-tab prompts kept short — single Grok call per tab, returns JSON array.
 prompt_for() {
     local tab=$1
     case "$tab" in
-        world)    echo "Top 5 highest-view X posts (past 24h) about WORLD news — international events outside the US." ;;
-        usa)      echo "Top 5 highest-view X posts (past 24h) about US national news — politics, federal events." ;;
+        world)    echo "Top 3 highest-view WORLD news EVENTS on X in the past 24h (international, outside the US)." ;;
+        usa)      echo "Top 3 highest-view US NATIONAL news EVENTS on X in the past 24h (politics, federal events)." ;;
         business) echo "Top 5 highest-view X posts (past 24h) about business / markets / finance / economy." ;;
         top)      echo "Top 5 highest-view X posts (past 24h) — the absolute most-viewed across the platform." ;;
         msm)      echo "Top 5 highest-view X posts (past 24h) from mainstream-media accounts (NYT, WaPo, CNN, BBC, Reuters, AP, etc.)." ;;
@@ -33,10 +38,36 @@ prompt_for() {
 
 call_grok() {
     local tab=$1
-    local user_prompt="$(prompt_for "$tab")
-Return ONLY a JSON array, no markdown, no prose. Each item:
+    local today
+    today=$(date -u +%Y-%m-%d)
+    local since
+    since=$(date -u -v-2d +%Y-%m-%d 2>/dev/null || date -u -d "2 days ago" +%Y-%m-%d)
+    local schema
+    if needs_perspectives "$tab"; then
+        schema="STRICT RECENCY: use x_search operator since:${since}. Reject anything posted before ${since}.
+
+Each item is one EVENT with three sided reactions:
+{
+  \"headline\":\"neutral one-line summary of the event\",
+  \"url\":\"https://x.com/user/status/<id>\",
+  \"handle\":\"username\",
+  \"perspectives\":[
+    {\"label\":\"Conservative\",\"handle\":\"...\",\"url\":\"https://x.com/.../status/<id>\",\"body\":\"actual post text\",\"engagement\":\"500K views\",\"views\":500000},
+    {\"label\":\"Independent\",\"handle\":\"...\",\"url\":\"https://x.com/.../status/<id>\",\"body\":\"...\",\"engagement\":\"...\",\"views\":...},
+    {\"label\":\"Democrat\",\"handle\":\"...\",\"url\":\"https://x.com/.../status/<id>\",\"body\":\"...\",\"engagement\":\"...\",\"views\":...}
+  ]
+}
+For each event: highest-view Conservative, Independent, and Democrat reactions on X — ALL from the last 24 hours. All four URLs MUST be real X status URLs from posts on or after ${since}. If you can't find 3 perspectives, still return the event with however many you DO find."
+    else
+        schema="STRICT RECENCY: use x_search operator since:${since}. Reject anything before ${since}.
+
+Each item:
 {\"handle\":\"username\",\"url\":\"https://x.com/user/status/<id>\",\"headline\":\"neutral one-line summary\",\"body\":\"actual post text\",\"engagement\":\"500K views\",\"views\":500000}
-URLs MUST be real X status URLs. Views must be the actual view count number."
+URLs MUST be real X status URLs from posts on or after ${since}. Views = actual view count integer."
+    fi
+    local user_prompt="$(prompt_for "$tab") Today is ${today}.
+Return ONLY a JSON array, no markdown, no prose.
+${schema}"
 
     local payload
     payload=$(python3 -c '
@@ -58,7 +89,7 @@ print(json.dumps({
     echo "  [done] $tab"
 }
 
-export -f call_grok prompt_for
+export -f call_grok prompt_for needs_perspectives
 export XAI_API_KEY
 
 echo "Calling Grok for ${#TABS[@]} tabs in parallel..."

@@ -8,10 +8,23 @@
     body { font-family: system-ui, sans-serif; background:#0a0a0a; color:#ddd; margin:0; padding:20px; line-height:1.5; }
     h1 { text-align:center; margin:30px 0; }
     .story { background:#1f1f1f; padding:20px; margin:15px 0; border-radius:12px; cursor:pointer; }
+    .story.has-persp { cursor:default; }
+    .story.has-persp:hover { background:#1f1f1f; }
     .story:hover { background:#2a2a2a; }
     .headline { font-size:1.2em; font-weight:500; }
     .meta { color:#888; font-size:0.9em; margin-top:8px; }
     .age { color:#555; margin-left:6px; }
+    .perspective { background:#262626; padding:12px 14px; margin:10px 0 0 0; border-radius:8px; cursor:pointer; border-left:3px solid #444; }
+    .perspective:hover { background:#2e2e2e; }
+    .perspective .label { font-size:0.75em; text-transform:uppercase; letter-spacing:0.8px; margin-bottom:4px; font-weight:600; }
+    .perspective .body { color:#ddd; font-size:0.95em; }
+    .perspective .meta { margin-top:6px; }
+    .perspective.conservative { border-left-color:#c1432e; }
+    .perspective.conservative .label { color:#e07360; }
+    .perspective.independent { border-left-color:#7a7a7a; }
+    .perspective.independent .label { color:#aaa; }
+    .perspective.democrat { border-left-color:#3673a8; }
+    .perspective.democrat .label { color:#5e9bd4; }
   </style>
 </head>
 <body>
@@ -36,16 +49,36 @@
         const res = await fetch('stories.json?' + Date.now());
         const data = await res.json();
         let html = '';
+        const esc = (t) => String(t == null ? '' : t).replace(/'/g, "\\'");
         for (let [tab, sec] of Object.entries(data.stories || {})) {
           html += `<h2 style="margin:30px 0 10px;">${tab.toUpperCase()}</h2>`;
           for (let s of sec.stories || []) {
             const age = ageFromUrl(s.url);
             const ageHtml = age ? `<span class="age">${age}</span>` : '';
-            html += `
-              <div class="story" onclick="window.open('${s.url}','_blank')">
-                <div class="headline">${s.headline || s.body || 'No title'}</div>
-                <div class="meta">@${s.handle || '?'} • ${s.engagement || ''}${ageHtml}</div>
-              </div>`;
+            const persps = Array.isArray(s.perspectives) ? s.perspectives : [];
+            if (persps.length) {
+              const perspBlocks = persps.map(p => {
+                const cls = (p.label || '').toLowerCase();
+                const pAge = ageFromUrl(p.url);
+                const pAgeHtml = pAge ? `<span class="age">${pAge}</span>` : '';
+                return `<div class="perspective ${cls}" onclick="event.stopPropagation(); window.open('${esc(p.url)}','_blank')">
+                          <div class="label">${p.label || ''}</div>
+                          <div class="body">${p.body || p.headline || ''}</div>
+                          <div class="meta">@${p.handle || '?'} • ${p.engagement || ''}${pAgeHtml}</div>
+                        </div>`;
+              }).join('');
+              html += `
+                <div class="story has-persp">
+                  <div class="headline">${s.headline || 'No title'}</div>
+                  ${perspBlocks}
+                </div>`;
+            } else {
+              html += `
+                <div class="story" onclick="window.open('${esc(s.url)}','_blank')">
+                  <div class="headline">${s.headline || s.body || 'No title'}</div>
+                  <div class="meta">@${s.handle || '?'} • ${s.engagement || ''}${ageHtml}</div>
+                </div>`;
+            }
           }
         }
         document.getElementById('content').innerHTML = html;
