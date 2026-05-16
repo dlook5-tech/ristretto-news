@@ -74,7 +74,7 @@ ${schema}"
 import json, sys
 prompt = sys.argv[1]
 print(json.dumps({
-    "model": "grok-4-fast",
+    "model": "grok-4.3",
     "input": [{"role": "user", "content": prompt}],
     "tools": [{"type": "x_search"}],
     "max_output_tokens": 4000
@@ -124,7 +124,7 @@ URLs MUST be real X status URLs from posts on or after ${since}. Views = actual 
         payload=$(python3 -c '
 import json, sys
 print(json.dumps({
-    "model": "grok-4-fast",
+    "model": "grok-4.3",
     "input": [{"role": "user", "content": sys.argv[1]}],
     "tools": [{"type": "x_search"}],
     "max_output_tokens": 4000
