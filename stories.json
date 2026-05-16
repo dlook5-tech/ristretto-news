@@ -92,37 +92,6 @@
     "usa": {
       "stories": [
         {
-          "headline": "President Trump returns from historic China trip after major trade deals",
-          "url": "https://x.com/nicksortor/status/2055417389458530560",
-          "handle": "nicksortor",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "nicksortor",
-              "url": "https://x.com/nicksortor/status/2055417389458530560",
-              "body": "\ud83d\udea8 JUST IN: President Trump has STEPPED OFF Air Force One in America's capital, returning from an HISTORIC trip to China Your prayers worked, and 47 made it back safe and sound 36+ hours of travel time in just a few days. But Trump never misses a beat God bless America \ud83c\uddfa\ud83c\uddf8",
-              "engagement": "341K views",
-              "views": 340977
-            },
-            {
-              "label": "Independent",
-              "handle": "RapidResponse47",
-              "url": "https://x.com/RapidResponse47/status/2055425919234220304",
-              "body": ".@POTUS arrives back at the White House: \"All I can say is that was a great success... We made great deals. We did great trade deals... A lot of things have happened and you'll be hearing about them \u2014 but that was a tremendous success. I think it really was a historic moment.\"",
-              "engagement": "237K views",
-              "views": 236997
-            },
-            {
-              "label": "Democrat",
-              "handle": "SenWarren",
-              "url": "https://x.com/SenWarren/status/2055296627389182424",
-              "body": "Ban stock trading by the President. Ban stock trading by the Vice President. Ban stock trading by members of Congress. End the corruption.",
-              "engagement": "1M views",
-              "views": 1023956
-            }
-          ]
-        },
-        {
           "headline": "Trump meets Xi in China, praises strong future US-China ties",
           "url": "https://x.com/WhiteHouse/status/2055049458530877831",
           "handle": "WhiteHouse",
@@ -150,6 +119,37 @@
               "body": "Trump to Xi: \u201cWe're going to have a fantastic future together. I have such respect for China. The job you've done. You're a great leader\u2026It\u2019s an honor to be with you. It\u2019s an honor to be your friend\u201d (Compare this to how Trump talks about President Zelenskyy and America\u2019s closest allies in Europe)",
               "engagement": "1M views",
               "views": 1028928
+            }
+          ]
+        },
+        {
+          "headline": "President Trump returns from historic China trip after major trade deals",
+          "url": "https://x.com/nicksortor/status/2055417389458530560",
+          "handle": "nicksortor",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "nicksortor",
+              "url": "https://x.com/nicksortor/status/2055417389458530560",
+              "body": "\ud83d\udea8 JUST IN: President Trump has STEPPED OFF Air Force One in America's capital, returning from an HISTORIC trip to China Your prayers worked, and 47 made it back safe and sound 36+ hours of travel time in just a few days. But Trump never misses a beat God bless America \ud83c\uddfa\ud83c\uddf8",
+              "engagement": "341K views",
+              "views": 340977
+            },
+            {
+              "label": "Independent",
+              "handle": "RapidResponse47",
+              "url": "https://x.com/RapidResponse47/status/2055425919234220304",
+              "body": ".@POTUS arrives back at the White House: \"All I can say is that was a great success... We made great deals. We did great trade deals... A lot of things have happened and you'll be hearing about them \u2014 but that was a tremendous success. I think it really was a historic moment.\"",
+              "engagement": "237K views",
+              "views": 236997
+            },
+            {
+              "label": "Democrat",
+              "handle": "SenWarren",
+              "url": "https://x.com/SenWarren/status/2055296627389182424",
+              "body": "Ban stock trading by the President. Ban stock trading by the Vice President. Ban stock trading by members of Congress. End the corruption.",
+              "engagement": "1M views",
+              "views": 1023956
             }
           ]
         },
@@ -189,6 +189,14 @@
     "business": {
       "stories": [
         {
+          "handle": "KobeissiLetter",
+          "url": "https://x.com/KobeissiLetter/status/2055405911074607288",
+          "headline": "Bill and Melinda Gates Foundation sells entire Microsoft stake",
+          "body": "BREAKING: The Bill and Melinda Gates Foundation has sold 100% of its Microsoft, $MSFT, position which was a total of 7.7 million shares.",
+          "engagement": "1.0M views",
+          "views": 1025495
+        },
+        {
           "handle": "SenWarren",
           "url": "https://x.com/SenWarren/status/2055296627389182424",
           "headline": "Senator Elizabeth Warren calls for banning stock trading by President, VP, and Congress members.",
@@ -197,20 +205,12 @@
           "views": 685863
         },
         {
-          "handle": "business",
-          "url": "https://x.com/business/status/2055318820248486305",
-          "headline": "Turkish company Kontrolmatik defaults on two lira bonds amid rare corporate debt default.",
-          "body": "Turkey\u2019s Kontrolmatik defaulted on two separate lira bonds that matured on Friday, according to a statement by Turkey\u2019s Central Securities Depository, marking a rare corporate debt default in the country\u2019s local bond market",
-          "engagement": "230K views",
-          "views": 230052
-        },
-        {
-          "handle": "nikkei",
-          "url": "https://x.com/nikkei/status/2055413744461664698",
-          "headline": "Isuzu absorbs UD Trucks, ending the history of former Nissan Diesel.",
-          "body": "\u65e7\u300c\u65e5\u7523\u30c7\u30a3\u30fc\u30bc\u30eb\u300d\u6d41\u8ee2\u306e\u6b74\u53f2\u306b\u5e55\u3000\u3044\u3059\u309e\u304cUD\u3092\u5438\u53ce\u5408\u4f75 https://www.nikkei.com/article/DGXZQOUC115F20R10C26A5000000/?n_cid=SNSTW001&n_tw=1778883622",
-          "engagement": "76.3K views",
-          "views": 76325
+          "handle": "unusual_whales",
+          "url": "https://x.com/unusual_whales/status/2055415678652346392",
+          "headline": "Trump's recent stock trades analyzed after Iranian conflict",
+          "body": "BREAKING: Take a look at Trump's trades. You can see a large majority of the millions traded were recently in the new year, and especially after the Iranian war.",
+          "engagement": "217K views",
+          "views": 217467
         }
       ]
     },
@@ -254,31 +254,31 @@
         },
         {
           "handle": "AP",
-          "url": "https://x.com/AP/status/2055186770774344040",
-          "headline": "New Ebola outbreak confirmed in Congo\u2019s eastern Ituri province with 65 deaths",
-          "body": "BREAKING: A new outbreak of the highly contagious Ebola virus has been confirmed in Congo\u2019s eastern Ituri province, Africa\u2019s top public health body said. There have been 246 suspected cases and 65 deaths recorded so far.",
-          "engagement": "869K views",
-          "views": 868563
-        },
-        {
-          "handle": "AP",
           "url": "https://x.com/AP/status/2055358521382699213",
           "headline": "Nvidia CEO Jensen Huang samples Beijing noodles during China visit",
           "body": "Nvidia CEO Jensen Huang was spotted trying some of Beijing\u2019s delicacies. He was seen at No. 69 Fangzhuanchang Noodles, tucking into a bowl of \u201czhajiangmian\u201d \u2014 a Beijing specialty that features noodles covered in a thick soybean-paste sauce mixed with vegetables and meat.",
           "engagement": "355K views",
           "views": 354956
+        },
+        {
+          "handle": "WSJ",
+          "url": "https://x.com/WSJ/status/2055302398776627255",
+          "headline": "U.S. government suing Chick-fil-A franchisee over Saturday sabbath observance",
+          "body": "The U.S. government is suing one of Chick-fil-A\u2019s franchisees, alleging it denied an employee Saturdays off to observe her sabbath.",
+          "engagement": "79.8K views",
+          "views": 79788
         }
       ]
     },
     "sports": {
       "stories": [
         {
-          "handle": "MLB",
-          "url": "https://x.com/MLB/status/2055485537478152467",
-          "headline": "Cubs sweep series opener vs White Sox",
-          "body": "All 9 @Cubs starters record a hit as they take the Crosstown Classic series opener!",
-          "engagement": "163K views",
-          "views": 163204
+          "handle": "premierleague",
+          "url": "https://x.com/premierleague/status/2055503758944264536",
+          "headline": "Huge Premier League fixture in battle for Champions League spots",
+          "body": "A huge fixture in the battle for Champions League football awaits \ud83e\udd4a",
+          "engagement": "205K views",
+          "views": 205139
         },
         {
           "handle": "FabrizioRomano",
@@ -291,10 +291,10 @@
         {
           "handle": "espn",
           "url": "https://x.com/espn/status/2055463756327461186",
-          "headline": "Pistons force Game 7 back in Detroit.",
-          "body": "PISTONS FORCE GAME 7 BACK IN DETROIT \ud83d\udd25 Winner goes to the Eastern Conference Finals \ud83d\udc40",
-          "engagement": "167K views",
-          "views": 167289
+          "headline": "Pistons force Game 7 back in Detroit in NBA playoffs",
+          "body": "PISTONS FORCE GAME 7 BACK IN DETROIT \ud83d\udd25\n\nWinner goes to the Eastern Conference Finals \ud83d\udc40",
+          "engagement": "258K views",
+          "views": 258361
         }
       ]
     },
@@ -310,24 +310,32 @@
         },
         {
           "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2055277918633562153",
+          "headline": "Elon Musk announces latest X algorithm published to GitHub.",
+          "body": "The latest \ud835\udd4f algorithm has been published to GitHub\nhttps://github.com/xai-org/x-algorithm",
+          "engagement": "28.9M views",
+          "views": 28895335
+        },
+        {
+          "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2055328660908048517",
           "headline": "Elon Musk comments on Hollywood changes.",
           "body": "There is hope, but there must be change",
           "engagement": "21.3M views",
           "views": 21320741
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2055277918633562153",
-          "headline": "Elon Musk publishes latest X algorithm to GitHub",
-          "body": "The latest \ud835\udd4f algorithm has been published to GitHub\nhttps://github.com/xai-org/x-algorithm",
-          "engagement": "26.5M views",
-          "views": 26487030
         }
       ]
     },
     "pods": {
       "stories": [
+        {
+          "handle": "theovon",
+          "url": "https://x.com/theovon/status/2055423408230240405",
+          "headline": "Theo Von responds to Joe Rogan concern claims saying he is doing fine",
+          "body": "This is mostly \ud83e\udde2. Sad to see this kinda stuff.  Im doing great. Im a human being which is a rocky ride. But im doing fine thanks.",
+          "engagement": "6.1M views",
+          "views": 6082668
+        },
         {
           "handle": "TheoVon",
           "url": "https://x.com/TheoVon/status/2055423408230240405",
@@ -343,14 +351,6 @@
           "body": "Mike Tyson couldn\u2019t stop LAUGHING after he made Theo Von SCREAM that he\u2019s a \u201cn*gga lover\u201d mid podcast \ud83e\udd23\ud83e\udd23\ud83d\udd25",
           "engagement": "753K views",
           "views": 752908
-        },
-        {
-          "handle": "AutismCapital",
-          "url": "https://x.com/AutismCapital/status/2055314230199583008",
-          "headline": "Mike Tyson tricks Theo Von into calling him a 'n***er lover' during their podcast conversation.",
-          "body": "Mike Tyson baits Theo Von into saying that he is a \u201cn***er lover.\u201d \ud83d\udc80 \ud83d\udc80 \ud83d\udc80 \n\nLegitimate chance that Theo is going to freak out about this for the next two weeks once a single person gets offended lmao \ud83d\ude02",
-          "engagement": "186K views",
-          "views": 185878
         }
       ]
     },
@@ -373,12 +373,12 @@
           "views": 7148713
         },
         {
-          "handle": "blackishpress",
-          "url": "https://x.com/blackishpress/status/2055342371580072017",
-          "headline": "Chase Infiniti and Tyriq Withers are dating per PEOPLE",
-          "body": "Chase Infiniti and Tyriq Withers are dating, via PEOPLE magazine. \u2665\ufe0f \ud83d\udd17 https://people.com/chase-infiniti-is-having-fun-dating-tyriq-withers-exclusive-source-11975789",
-          "engagement": "1.1M views",
-          "views": 1051781
+          "handle": "Variety",
+          "url": "https://x.com/Variety/status/2055383096585850960",
+          "headline": "Matthew McConaughey shares story of living in Peru to reconnect with his identity.",
+          "body": "Matthew McConaughey once exiled himself from Hollywood and lived as Mateo in Peru for 22 days without electricity. \u201cI needed to get my feet on the ground. So I click out. Boom. Go to Peru. I needed to find it, to check the validation. I knew I had it, I just had to go prove it again. But I did question, now that I just got famous, I\u2019ve got all this affiliation for this and that and the other, and I\u2019m trying to decipher which part\u2019s real, which part\u2019s bullsh*t...  I needed to meet people who knew me as Mateo. And at the end of 22 days, the tears in their eyes and the tears in my eyes and the hugs we had on the sadness and happiness of saying goodbye were all based off of the man they met named Mateo, who had nothing to do with the celebrity. It reaffirmed my own identity that, \u2018Oh, I still got it. This is based on me.\u2019\u201d (via \"No Magic Pill\" podcast)",
+          "engagement": "4.3M views",
+          "views": 4327815
         }
       ]
     },
@@ -387,10 +387,18 @@
         {
           "handle": "syunkon0507",
           "url": "https://x.com/syunkon0507/status/2055249621891625255",
-          "headline": "Popular Japanese rice cooker chicken and onion recipe update",
+          "headline": "Japanese rice cooker chicken and onion recipe shared with thanks",
           "body": "\u3053\u306e\u30ec\u30b7\u30d4\u30015\u5e74\u8d8a\u3057\u306b\u305f\u304f\u3055\u3093\u4f5c\u3063\u3066\u304f\u3060\u3055\u3063\u3066\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\ud83d\ude4f(\u30db\u30c3\u30c8\u30af\u30c3\u30af\u3084\u5727\u529b\u934b\u306e\u5834\u5408\u304a\u3067\u3093\u3084\u53c2\u9d8f\u6e6f\u30e2\u30fc\u30c9\u3067\u3067\u304d\u308b\u305d\u3046\u3067\u3059)\n\n\u51b7\u51cd\u8089\u3092\u305d\u306e\u307e\u307e\u708a\u98ef\u5668\u3042\u308b\u3044\u306f\u30ec\u30f3\u30b8\u3067\u8abf\u7406\u3059\u308b\u30b7\u30ea\u30fc\u30ba\u306fsyunkon\u30ab\u30d5\u30a7\u3054\u306f\u30938\u306b\u5168\u90e8\u3044\u308c\u3066\u307e\u3059\uff01\n\nhttps://www.amazon.co.jp/dp/4299056574?ref=cm_sw_r_mwn_dp_MFY8DPZ6EK95QN66ZVRF&ref_=cm_sw_r_mwn_dp_MFY8DPZ6EK95QN66ZVRF&social_share=cm_sw_r_mwn_dp_MFY8DPZ6EK95QN66ZVRF&language=en_US\n\nhttps://books.rakuten.co.jp/rb/17865704/",
-          "engagement": "377K views",
-          "views": 377439
+          "engagement": "417K views",
+          "views": 417272
+        },
+        {
+          "handle": "sirogohan_com",
+          "url": "https://x.com/sirogohan_com/status/2055480226487144699",
+          "headline": "Japanese beef and king oyster mushroom stir-fry recipe",
+          "body": "\u767d\u3054\u306f\u3093com\u306b\u7092\u3081\u7269\u30ec\u30b7\u30d4\u3092\u3072\u3068\u3064\u30a2\u30c3\u30d7\u3057\u307e\u3057\u305f\u3002\nhttps://www.sirogohan.com/recipe/gyuueringi/\n\n\u725b\u8089\u3068\u30a8\u30ea\u30f3\u30ae\u3068\u30d4\u30fc\u30de\u30f3\u3067\u3002\u7d44\u307f\u5408\u308f\u305b\u306e\u53c2\u8003\u306b\u306a\u308c\u3070\u3068\u601d\u3044\u307e\u3059\u3002\n\n\u500b\u4eba\u7684\u306a\u597d\u307f\u3067\u3059\u304c\u3001\u306a\u305c\u304b\u30a8\u30ea\u30f3\u30ae\u306f\u725b\u8089\u3068\u7092\u3081\u308b\u306e\u304c\u597d\u304d\u306a\u3093\u3067\u3059\u3088\u306d\u3002\u9999\u308a\u306e\u76f8\u6027\u304c\u8c5a\u8089\u3088\u308a\u3082\u725b\u8089\u306e\u307b\u3046\u304c\u3044\u3044\u3088\u3046\u306a\u6c17\u304c\u3057\u3066\u308b\u304b\u3089\u304b\u306a\u3068\u601d\u3044\u307e\u3059\u3002",
+          "engagement": "21K views",
+          "views": 21000
         },
         {
           "handle": "miradreaamy",
@@ -399,14 +407,6 @@
           "body": "Evde patates k\u0131zartmas\u0131 yapman\u0131n do\u011fru yolu",
           "engagement": "88.8K views",
           "views": 88846
-        },
-        {
-          "handle": "coookwithchris",
-          "url": "https://x.com/coookwithchris/status/2055293290891661413",
-          "headline": "Warning about dishwasher detergent and gut health",
-          "body": "The dishwasher detergent you're using can ruin your gut health\u203c\ufe0f\n\nResidue can damage the gut lining and increase intestinal permeability (leaky gut)\n\nHere are some of the best, non-toxic options @oasishealthapp",
-          "engagement": "75K views",
-          "views": 75515
         }
       ]
     },
@@ -415,10 +415,10 @@
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2055277918633562153",
-          "headline": "X publishes latest algorithm to GitHub",
+          "headline": "X publishes latest algorithm code to GitHub",
           "body": "The latest \ud835\udd4f algorithm has been published to GitHub\nhttps://github.com/xai-org/x-algorithm",
-          "engagement": "20.9M views",
-          "views": 20898500
+          "engagement": "28.9M views",
+          "views": 28895335
         },
         {
           "handle": "unusual_whales",
@@ -429,12 +429,12 @@
           "views": 1618046
         },
         {
-          "handle": "NazologyInfo",
-          "url": "https://x.com/NazologyInfo/status/2055483878350139718",
-          "headline": "Discovery overturns the theory that damaged brains cannot heal by identifying how to maintain natural healing power",
-          "body": "\u5b9a\u8aac\u300c\u58ca\u308c\u305f\u8133\u306f\u6cbb\u3089\u306a\u3044\u300d\u3092\u8986\u3059\u767a\u898b\u30fc\uff0d\u8133\u306e\u81ea\u7136\u6cbb\u7652\u529b\u3092\u7dad\u6301\u3059\u308b\u65b9\u6cd5\u304c\u898b\u3064\u304b\u308b\nhttps://nazology.kusuguru.co.jp/archives/195208\n\n\u8133\u5352\u4e2d\u306a\u3069\u3067\u50b7\u3064\u3044\u305f\u8133\u306f\u3042\u308b\u7a0b\u5ea6\u307e\u3067\u4fee\u5fa9\u3057\u307e\u3059\u304c\u3001\u307e\u3060\u6cbb\u308a\u5207\u3089\u306a\u3044\u6bb5\u968e\u3067\u4fee\u5fa9\u3092\u6b62\u3081\u3066\u3057\u307e\u3044\u307e\u3059\u3002\u6771\u4eac\u79d1\u5b66\u5927\u3089\u306f\u305d\u306e\u4ed5\u7d44\u307f\u3092\u89e3\u660e\u3057\u3001\u8133\u306e\u81ea\u7136\u6cbb\u7652\u529b\u3092\u7dad\u6301\u3059\u308b\u65b9\u6cd5\u3092\u767a\u898b\u3057\u307e\u3057\u305f\u3002",
-          "engagement": "43K views",
-          "views": 42822
+          "handle": "thsottiaux",
+          "url": "https://x.com/thsottiaux/status/2055446089957036402",
+          "headline": "OpenAI fixes GPT-5.5 capability issues in Codex",
+          "body": "We found and fixed two issues that could explain this degradation of the capability of GPT-5.5 in Codex over the last ~ 48 hours. \n\nWe are monitoring over the coming hours to fully confirm and I will reset usage limits this evening.\n\nApologies and now is the time for /fast maxxing.",
+          "engagement": "510.1K views",
+          "views": 510062
         }
       ]
     },
@@ -450,19 +450,19 @@
         },
         {
           "handle": "KTLA",
+          "url": "https://x.com/KTLA/status/2055504569690456573",
+          "headline": "Orange County man sentenced to life without parole for stabbing two men to death in Anaheim.",
+          "body": "An Orange County man who ambushed two men and stabbed them to death at their Anaheim apartment was sentenced to life in prison without the possibility of parole.",
+          "engagement": "3K views",
+          "views": 3017
+        },
+        {
+          "handle": "KTLA",
           "url": "https://x.com/KTLA/status/2055377119698702346",
           "headline": "Goodyear blimp lands on Huntington Beach sand for Pacific Air Show announcement",
           "body": "Organizers say it\u2019s the first time a blimp has attempted to land on a Southern California beach since the 1940s.",
           "engagement": "11K views",
           "views": 10991
-        },
-        {
-          "handle": "KTLA",
-          "url": "https://x.com/KTLA/status/2055471893231378895",
-          "headline": "5 more wildlife crossings planned for Southern California",
-          "body": "5 more wildlife crossings planned for Southern California. Here\u2019s where",
-          "engagement": "1.8K views",
-          "views": 1811
         }
       ]
     },
@@ -513,15 +513,15 @@
           "views": 743262
         },
         {
-          "handle": "ImMeme0",
-          "url": "https://x.com/ImMeme0/status/2055447976990896290",
-          "headline": "Viral comedy clip on cultural incompatibility",
-          "body": "Some cultures are simply not compatible with the West.",
-          "engagement": "41.9K views",
-          "views": 41913
+          "handle": "archivefortae",
+          "url": "https://x.com/archivefortae/status/2055480745351893020",
+          "headline": "Vope video clip labeled so funny",
+          "body": "VOPE SO FUNNY\ud83d\ude2d",
+          "engagement": "95K views",
+          "views": 95496
         }
       ]
     }
   },
-  "last_updated": "2026-05-16T04:09:35.986704"
+  "last_updated": "2026-05-16T06:22:47.065482"
 }
