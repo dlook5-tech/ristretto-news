@@ -3,6 +3,29 @@
     "world": {
       "stories": [
         {
+          "headline": "PM Modi concludes productive visit to UAE strengthening India-UAE ties",
+          "url": "https://x.com/narendramodi/status/2055310688781025370",
+          "handle": "narendramodi",
+          "perspectives": [
+            {
+              "label": "Independent",
+              "handle": "narendramodi",
+              "url": "https://x.com/narendramodi/status/2055310688781025370",
+              "body": "Highlights from a productive UAE visit, which will deepen our bilateral friendship\u2026",
+              "engagement": "17.7M views",
+              "views": 17757410
+            },
+            {
+              "label": "Conservative",
+              "handle": "narendramodi",
+              "url": "https://x.com/narendramodi/status/2055209816336068879",
+              "body": "The friendship between India and UAE is very strong! Our nations will keep working together with the aim of building a better future for our planet. @MohamedBinZayed",
+              "engagement": "3.99M views",
+              "views": 3992899
+            }
+          ]
+        },
+        {
           "headline": "Five tourists die in scuba diving accident in Maldives caves",
           "url": "https://x.com/nypost/status/2055050818173157468",
           "handle": "nypost",
@@ -34,64 +57,33 @@
           ]
         },
         {
-          "headline": "Trump warns Taiwan against formal independence after meeting Xi in Beijing",
-          "url": "https://x.com/AJENews/status/2055315058008207788",
-          "handle": "AJENews",
+          "headline": "78th anniversary of the Nakba marked with remembrance of Palestinian displacement",
+          "url": "https://x.com/PopBase/status/2055263332513223160",
+          "handle": "PopBase",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "FoxNews",
-              "url": "https://x.com/FoxNews/status/2054635384378655159",
-              "body": "BREAKING: US President Donald Trump on Friday warned Taiwan against pushing for formal independence, after he discussed the flashpoint issue with his Chinese counterpart Xi Jinping in Beijing.",
-              "engagement": "1.8M views",
-              "views": 1815896
+              "handle": "CatShoshanna",
+              "url": "https://x.com/CatShoshanna/status/2055301683249315888",
+              "body": "Happy Nakba Day to all who celebrate the Arabs self-inflicted catastrophic loss in the war they started in 1948, followed by 78 years of nonstop humiliating defeats dressed up as sacred victimhood ever since \ud83c\uddee\ud83c\uddf1\u2764\ufe0f",
+              "engagement": "55K views",
+              "views": 55916
             },
             {
               "label": "Independent",
-              "handle": "AJENews",
-              "url": "https://x.com/AJENews/status/2055315058008207788",
-              "body": "BREAKING: US President Donald Trump on Friday warned Taiwan against pushing for formal independence, after he discussed the flashpoint issue with his Chinese counterpart Xi Jinping in Beijing.",
-              "engagement": "158K views",
-              "views": 158373
+              "handle": "PopBase",
+              "url": "https://x.com/PopBase/status/2055263332513223160",
+              "body": "Today marks the 78th anniversary of the Nakba (catastrophe), during which more than 750,000 Palestinians were expelled and over 400 villages were destroyed to establish the State of Israel.",
+              "engagement": "3.47M views",
+              "views": 3471825
             },
             {
               "label": "Democrat",
-              "handle": "BBCBreaking",
-              "url": "https://x.com/BBCBreaking/status/2054528889255284820",
-              "body": "Parliamentary standards watchdog to begin inquiry into whether Reform UK leader Nigel Farage breached rules over \u00a35m gift",
-              "engagement": "763K views",
-              "views": 763643
-            }
-          ]
-        },
-        {
-          "headline": "New Ebola outbreak confirmed in Congo's Ituri province with 246 suspected cases and 65 deaths",
-          "url": "https://x.com/AP/status/2055186770774344040",
-          "handle": "AP",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "FoxNews",
-              "url": "https://x.com/FoxNews/status/2054635384378655159",
-              "body": "BREAKING: Africa CDC reports Ebola outbreak in DR Congo; more than 200 suspected cases, 65 deaths",
-              "engagement": "320K views",
-              "views": 320832
-            },
-            {
-              "label": "Independent",
-              "handle": "AP",
-              "url": "https://x.com/AP/status/2055186770774344040",
-              "body": "BREAKING: A new outbreak of the highly contagious Ebola virus has been confirmed in Congo\u2019s eastern Ituri province, Africa\u2019s top public health body said. There have been 246 suspected cases and 65 deaths recorded so far.",
-              "engagement": "780K views",
-              "views": 780636
-            },
-            {
-              "label": "Democrat",
-              "handle": "CBSNews",
-              "url": "https://x.com/CBSNews/status/2055316921159979273",
-              "body": "A new Ebola outbreak in a remote province in Congo has caused 65 deaths and 246 suspected cases so far, Africa CDC says.",
-              "engagement": "13K views",
-              "views": 13143
+              "handle": "PalestinePMO",
+              "url": "https://x.com/PalestinePMO/status/2055175740795043897",
+              "body": "The #Nakba was never a moment frozen in history\u2014it is a continuing reality of killing, displacement, siege, occupation, & exile. But memory does not die. Keys are still kept. Names are still remembered. And a people who carry their homeland in their hearts will never disappear.",
+              "engagement": "52K views",
+              "views": 52196
             }
           ]
         }
@@ -100,87 +92,95 @@
     "usa": {
       "stories": [
         {
-          "headline": "President Trump meets Xi Jinping in Beijing, agrees Iran cannot have nuclear weapon",
-          "url": "https://x.com/JDVance/status/2054957513351495920",
-          "handle": "JDVance",
+          "headline": "Supreme Court rejects Virginia's bid to restore Democrat-favoring congressional map",
+          "url": "https://x.com/AP/status/2055420132613054574",
+          "handle": "AP",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "JDVance",
-              "url": "https://x.com/JDVance/status/2054957513351495920",
-              "body": "Every American should be proud of President Trump\u2019s historic and consequential trip to China. Glad we finally have a leader who fights for American interests across the globe.",
-              "engagement": "2.1M views",
-              "views": 2111658
-            },
-            {
-              "label": "Democrat",
-              "handle": "GavinNewsom",
-              "url": "https://x.com/GavinNewsom/status/2055103483913879882",
-              "body": "You won\u2019t hear this on Fox News:\n\nCalifornia just released a balanced budget that wipes out the deficit this year AND next \u2014 while protecting health care and safety nets.\n\nMeanwhile, Trump ADDED $2.4 TRILLION to the federal deficit with his \u201cBig Beautiful Betrayal.\u201d\n\nRepublicans ruin budgets.\nDemocrats balance them.\n\nAdulting matters.",
-              "engagement": "668K views",
-              "views": 668574
+              "handle": "RealJamesWoods",
+              "url": "https://x.com/RealJamesWoods/status/2055468548915683541",
+              "body": "Virginia Democrats try to pull a fast one and SCOTUS says, \u201cUh uh, grifters, not so fast.\u201d Life is good.",
+              "engagement": "58K views",
+              "views": 58023
             },
             {
               "label": "Independent",
-              "handle": "bennyjohnson",
-              "url": "https://x.com/bennyjohnson/status/2054949840224698672",
-              "body": "Trump is winning BIG today\u2026\n\nChina trip is going better than anyone could have imagined. China helping bring Iran War to an end. Buying American oil. Massive trade deals. Stocks roaring.\n\nChinese Army Band even played YMCA\n\nExpect TDS doomers to have a psychotic breakdown",
-              "engagement": "185K views",
-              "views": 185822
+              "handle": "FoxNews",
+              "url": "https://x.com/FoxNews/status/2055419203285303760",
+              "body": "BREAKING: The U.S. Supreme Court has denied Virginia's attempt to get its state supreme court's decision tossing out controversial election map overturned. The state's Democratic leaders had redrawn congressional maps, giving their party 10 out of 11 seats.",
+              "engagement": "406K views",
+              "views": 406019
+            },
+            {
+              "label": "Democrat",
+              "handle": "malcolmkenyatta",
+              "url": "https://x.com/malcolmkenyatta/status/2055442712879407454",
+              "body": "The Supreme Court is corrupt.",
+              "engagement": "73K views",
+              "views": 72870
             }
           ]
         },
         {
-          "headline": "White House announces list of prominent business leaders joining President Trump on his state visit to China for the US-China summit.",
-          "url": "https://x.com/KobeissiLetter/status/2054551038632292610",
-          "handle": "KobeissiLetter",
+          "headline": "President Trump returns from historic China trip after major trade deals",
+          "url": "https://x.com/nicksortor/status/2055417389458530560",
+          "handle": "nicksortor",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "aj_inapi",
-              "url": "https://x.com/aj_inapi/status/2054549193080095084",
-              "body": "Most Americans still think geopolitics is politicians giving speeches at podiums. That\u2019s the old world. What President Trump is doing in Beijing right now is something entirely different: Using CORPORATE POWER as a geopolitical weapon. Look at the delegation he assembled for China: \u2022 Elon Musk - Tesla / SpaceX \u2022 Tim Cook - Apple ... MAKE AMERICA GREAT AGAIN!!! God bless President Trump! God bless America!",
-              "engagement": "849K views",
-              "views": 849353
+              "handle": "nicksortor",
+              "url": "https://x.com/nicksortor/status/2055417389458530560",
+              "body": "\ud83d\udea8 JUST IN: President Trump has STEPPED OFF Air Force One in America's capital, returning from an HISTORIC trip to China Your prayers worked, and 47 made it back safe and sound 36+ hours of travel time in just a few days. But Trump never misses a beat God bless America \ud83c\uddfa\ud83c\uddf8",
+              "engagement": "341K views",
+              "views": 340977
             },
             {
               "label": "Independent",
-              "handle": "DeItaone",
-              "url": "https://x.com/DeItaone/status/2055255449507598362",
-              "body": "$NVDA  - TRUMP: CHINA HASN\u2019T BOUGHT NVIDIA H200 CHIPS President Donald Trump said China has not purchased Nvidia\u2019s H200 chips, despite U.S. approval for sales. He said China \u201cchose not to\u201d and is aiming to develop its own technology. Chip stocks fell after the summit ended without a major tech deal.",
-              "engagement": "450K views",
-              "views": 449967
+              "handle": "RapidResponse47",
+              "url": "https://x.com/RapidResponse47/status/2055425919234220304",
+              "body": ".@POTUS arrives back at the White House: \"All I can say is that was a great success... We made great deals. We did great trade deals... A lot of things have happened and you'll be hearing about them \u2014 but that was a tremendous success. I think it really was a historic moment.\"",
+              "engagement": "237K views",
+              "views": 236997
             },
             {
               "label": "Democrat",
-              "handle": "CNN",
-              "url": "https://x.com/CNN/status/2055219268363440268",
-              "body": "President Donald Trump departed Beijing without any immediate sign that the US and China have resolved thorny challenges dogging their fractious relationship, but with a freshly stabilized relationship with Chinese leader Xi Jinping \u2013 for now.",
-              "engagement": "107K views",
-              "views": 107479
+              "handle": "SenWarren",
+              "url": "https://x.com/SenWarren/status/2055296627389182424",
+              "body": "Ban stock trading by the President. Ban stock trading by the Vice President. Ban stock trading by members of Congress. End the corruption.",
+              "engagement": "1M views",
+              "views": 1023956
             }
           ]
         },
         {
-          "headline": "Kevin Warsh confirmed as Federal Reserve Chairman by Senate",
-          "url": "https://x.com/WhiteHouse/status/2054659156766863459",
-          "handle": "WhiteHouse",
+          "headline": "Trump administration rolls back endangered species protections on Endangered Species Day",
+          "url": "https://x.com/factpostnews/status/2055350296398672176",
+          "handle": "factpostnews",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "WhiteHouse",
-              "url": "https://x.com/WhiteHouse/status/2054659156766863459",
-              "body": "\u2705 CONFIRMED\n\nKevin Warsh has been confirmed as the Chairman of the Board of Governors of the Federal Reserve System!",
-              "engagement": "2.1M views",
-              "views": 2148176
+              "handle": "EricLDaugh",
+              "url": "https://x.com/EricLDaugh/status/2055421432411123879",
+              "body": "\ud83d\udea8 IT'S OFFICIAL, WE WIN! \"The US Supreme Court moments ago has ruled AGAINST Virginia Democrats when it comes to reviving their pro-Democrat redistricting map ahead of the 2026 midterms.\" WOULD'VE BEEN: 10D-1R MAP WILL REMAIN AS: 6D-5R Another Dem embarrassment. \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+              "engagement": "134K views",
+              "views": 133736
             },
             {
               "label": "Independent",
-              "handle": "DavidLe76335983",
-              "url": "https://x.com/DavidLe76335983/status/2055042702140375214",
-              "body": "Trump could have kept his mouth shut and no one would notice Xi said US is a declining nation\nNow, everyone knows",
-              "engagement": "672K views",
-              "views": 672557
+              "handle": "factpostnews",
+              "url": "https://x.com/factpostnews/status/2055350296398672176",
+              "body": "Today is Endangered Species Day. The Trump administration has rolled back protections for: \u2014Wolverines \u2014Sea turtles \u2014Monarch butterflies \u2014Bison \u2014Polar bears \u2014Rice's whales \u2014Alligator snapping turtles \u2014Saltmarsh sparrows \u2014Florida panthers",
+              "engagement": "372K views",
+              "views": 372393
+            },
+            {
+              "label": "Democrat",
+              "handle": "RepDonBeyer",
+              "url": "https://x.com/RepDonBeyer/status/2055387427141832753",
+              "body": "Outright lies. Trump's assets aren't in a blind trust, and he bought and sold individual Nvidia stock in 15 separate transactions totaling millions of dollars. That's what Trump's financial disclosure - which has his signature - says.",
+              "engagement": "375K views",
+              "views": 374719
             }
           ]
         }
@@ -197,20 +197,20 @@
           "views": 685863
         },
         {
-          "handle": "nikkei",
-          "url": "https://x.com/nikkei/status/2055063923879969135",
-          "headline": "20% of new hires in Japan plan to invest their first salary in NISA amid global stock market highs and fear of missing out.",
-          "body": "\u65b0\u4eba\u306e2\u5272\u300c\u521d\u4efb\u7d66\u306fNISA\u3078\u300d\u3000\u4e16\u754c\u682a\u9ad8\u3001\u82e5\u8005\u3092\u8986\u3046\u4e57\u308a\u9045\u308c\u306e\u6050\u6016\nhttps://www.nikkei.com/article/DGXZQOUB014MN0R00C26A5000000/?n_cid=SNSTW006&n_tw=1778800219",
-          "engagement": "1M views",
-          "views": 1042787
-        },
-        {
           "handle": "business",
           "url": "https://x.com/business/status/2055318820248486305",
           "headline": "Turkish company Kontrolmatik defaults on two lira bonds amid rare corporate debt default.",
           "body": "Turkey\u2019s Kontrolmatik defaulted on two separate lira bonds that matured on Friday, according to a statement by Turkey\u2019s Central Securities Depository, marking a rare corporate debt default in the country\u2019s local bond market",
           "engagement": "230K views",
           "views": 230052
+        },
+        {
+          "handle": "Benioff",
+          "url": "https://x.com/Benioff/status/2055428789669343455",
+          "headline": "Marc Benioff recaps podcast discussion on AI agents and enterprise future with David Sacks and others.",
+          "body": "There is no substitute for bestie @DavidSacks \u2026 showed up black-shirted, caffeinated, & fully armed with enough crazy. Besties talked future of enterprise, AI agents that actually work (not just hype), and @chamath has enough truth China bombs to trigger all the Besties. Zero filter. Brilliant El Ni\u00f1o insight from @friedberg. I wasn\u2019t ready for @Jason and neither was the group chat. Buckle up. This one\u2019s XX spicy. \ud83c\udf36\ufe0f \ud83d\ude80 Check out the full episode here \u2192",
+          "engagement": "54.1K views",
+          "views": 54085
         }
       ]
     },
@@ -233,12 +233,12 @@
           "views": 432146
         },
         {
-          "handle": "thecoreboys",
-          "url": "https://x.com/thecoreboys/status/2055376851640389976",
-          "headline": "CORE BINGO IN REAL LIFE event promoted with YouTube link",
-          "body": "CORE BINGO IN REAL LIFE LIVE NOW!! \n\nhttps://www.youtube.com/watch?si=u3lVPauMVTjQrYVw&v=pvXuSdAfJF0&feature=youtu.be",
-          "engagement": "88K views",
-          "views": 87878
+          "handle": "gkmas_official",
+          "url": "https://x.com/gkmas_official/status/2055467016715182584",
+          "headline": "New Gakuen Idolmaster scenario PV announcement for H.I.F edition featuring Qin Gu Meiling",
+          "body": "\u2727\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2727\n\u3000\u3000   \u5b66\u5712\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc\n  \u65b0\u30b7\u30ca\u30ea\u30aa\u300eH.I.F\u7de8\u300f\u544a\u77e5PV\n\u3000\u3000\u3000\u3000\u3000\u79e6\u8c37 \u7f8e\u9234\n\u2727\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2727\n\n\udb40\udc20\udb40\udc20\n\n\u300c\u308f\u305f\u3057\u306f\n\u3000\u3042\u306a\u305f\u306b\u8a93\u3063\u305f\u3093\u3067\u3059\u3002\u300d\n\n\udb40\udc20\udb40\udc20\n\n#\u795d\u5b66\u30de\u30b92\u5468\u5e74",
+          "engagement": "184K views",
+          "views": 183668
         }
       ]
     },
@@ -246,19 +246,19 @@
       "stories": [
         {
           "handle": "AP",
+          "url": "https://x.com/AP/status/2055186770774344040",
+          "headline": "New Ebola outbreak confirmed in Congo\u2019s eastern Ituri province with 65 deaths",
+          "body": "BREAKING: A new outbreak of the highly contagious Ebola virus has been confirmed in Congo\u2019s eastern Ituri province, Africa\u2019s top public health body said. There have been 246 suspected cases and 65 deaths recorded so far.",
+          "engagement": "869K views",
+          "views": 868563
+        },
+        {
+          "handle": "AP",
           "url": "https://x.com/AP/status/2055358521382699213",
           "headline": "Nvidia CEO Jensen Huang samples Beijing noodles during China visit",
           "body": "Nvidia CEO Jensen Huang was spotted trying some of Beijing\u2019s delicacies. He was seen at No. 69 Fangzhuanchang Noodles, tucking into a bowl of \u201czhajiangmian\u201d \u2014 a Beijing specialty that features noodles covered in a thick soybean-paste sauce mixed with vegetables and meat.",
           "engagement": "355K views",
           "views": 354956
-        },
-        {
-          "handle": "CNN",
-          "url": "https://x.com/CNN/status/2055370862245662878",
-          "headline": "US suspects Iranian hackers breached gas station fuel monitoring systems",
-          "body": "US officials suspect Iranian hackers are behind a series of breaches of systems that monitor the amount of fuel in storage tanks serving gas stations in multiple states, according to multiple sources briefed on the activity.",
-          "engagement": "42K views",
-          "views": 42111
         },
         {
           "handle": "AP",
@@ -273,28 +273,28 @@
     "sports": {
       "stories": [
         {
-          "handle": "Santi_J_FM",
-          "url": "https://x.com/Santi_J_FM/status/2055373088813133896",
-          "headline": "Newcastle accelerate talks for Monaco's Lamine Camara",
-          "body": "\ud83d\udea8\ud83d\udd34\u26aa\ufe0f\ud83c\uddf8\ud83c\uddf3 #PL |\n\n \u2757\ufe0fNewcastle have accelerated talks for AS Monaco midfielder Lamine Camara.\n\n\ud83d\udccdA meeting has already taken place between the player\u2019s representatives and The Magpies in recent days. Kevin Danois is also in the short list.\n\n\ud83d\udc40 Liverpool are also informed on the situation and could soon step up their interest for the Senegal international.\n\n\ud83d\udcb0Lamine Camara is currently valued around \u20ac50M\n\nW @sebnonda & @laloumance",
-          "engagement": "210K views",
-          "views": 210462
+          "handle": "FabrizioRomano",
+          "url": "https://x.com/FabrizioRomano/status/2055392757984764140",
+          "headline": "Aston Villa officially qualifies for Champions League next season.",
+          "body": "\ud83d\udea8\ud83d\udfe3\ud83d\udd35 OFFICIAL: Aston Villa will play Champions League football next year! \ud83c\udfc6",
+          "engagement": "912K views",
+          "views": 912336
         },
         {
-          "handle": "premierleague",
-          "url": "https://x.com/premierleague/status/2055387259831005201",
-          "headline": "Ollie Watkins scores twice as Villa lead Liverpool 3-1",
-          "body": "Ollie Watkins at the double!\n\nIt's @AVFCOfficial 3-1 Liverpool heading into the final 10 minutes of the 90",
-          "engagement": "62K views",
-          "views": 62497
+          "handle": "espn",
+          "url": "https://x.com/espn/status/2055463756327461186",
+          "headline": "Pistons force Game 7 back in Detroit.",
+          "body": "PISTONS FORCE GAME 7 BACK IN DETROIT \ud83d\udd25 Winner goes to the Eastern Conference Finals \ud83d\udc40",
+          "engagement": "167K views",
+          "views": 167289
         },
         {
           "handle": "BleacherReport",
-          "url": "https://x.com/BleacherReport/status/2055059791631045014",
-          "headline": "Isaiah Thomas hired by Boston Celtics as a scout.",
-          "body": "Isaiah Thomas has been hired by the Celtics as a pro and college scout, per @AdamHimmelsbach \ud83d\ude4c He's been with the team this week at the NBA Scouting Combine \u2618\ufe0f",
-          "engagement": "1.5M views",
-          "views": 1464139
+          "url": "https://x.com/BleacherReport/status/2055465736265732369",
+          "headline": "Harden and Mitchell stats in closeout Game 6 loss.",
+          "body": "Harden & Mitchell in a closeout Game 6 loss at home: Harden: 23 PTS, 6-13 FG, 8 TO Mitchell: 18 PTS, 8-20 FG Can they win a Game 7 on the road? \ud83e\udd14",
+          "engagement": "149K views",
+          "views": 149043
         }
       ]
     },
@@ -318,16 +318,24 @@
         },
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2055338961841869105",
-          "headline": "Elon Musk criticizes Chris Nolan's Odyssey adaptation.",
-          "body": "Chris Nolan desecrated the Odyssey so that he would be eligible for an Academy Award \u2026",
-          "engagement": "17.1M views",
-          "views": 17131092
+          "url": "https://x.com/elonmusk/status/2055277918633562153",
+          "headline": "Elon Musk publishes latest X algorithm to GitHub",
+          "body": "The latest \ud835\udd4f algorithm has been published to GitHub\nhttps://github.com/xai-org/x-algorithm",
+          "engagement": "26.5M views",
+          "views": 26487030
         }
       ]
     },
     "pods": {
       "stories": [
+        {
+          "handle": "TheoVon",
+          "url": "https://x.com/TheoVon/status/2055423408230240405",
+          "headline": "Theo Von denies rumors and says he's doing fine after Joe Rogan comments",
+          "body": "This is mostly \ud83e\udde2. Sad to see this kinda stuff.  Im doing great. Im a human being which is a rocky ride. But im doing fine thanks.",
+          "engagement": "4M views",
+          "views": 3999005
+        },
         {
           "handle": "KillaKreww",
           "url": "https://x.com/KillaKreww/status/2055291583746945259",
@@ -351,10 +359,10 @@
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2055354783981297691",
-          "headline": "Elon Musk calls out David Rubin over Oscars diversity standards",
+          "headline": "Elon Musk criticizes former Oscars president for DEI standards",
           "body": "So shameful of Rubin. All that should matter is the quality of the movie.",
-          "engagement": "5.1M views",
-          "views": 5065666
+          "engagement": "10.2M views",
+          "views": 10242330
         },
         {
           "handle": "blackishpress",
@@ -377,20 +385,20 @@
     "recipe": {
       "stories": [
         {
-          "handle": "Rnyrg",
-          "url": "https://x.com/Rnyrg/status/2055123966931734766",
-          "headline": "Izakaya lunch featuring yakitori set meal.",
-          "body": "\u5c45\u9152\u5c4b\u30e9\u30f3\u30c1\u3067\u3057\u3087\u3046\u304c\u713c\u304d\u5b9a\u98df\u306a\u306e\u3060\u3088\u3002",
-          "engagement": "90K views",
-          "views": 90283
+          "handle": "syunkon0507",
+          "url": "https://x.com/syunkon0507/status/2055249621891625255",
+          "headline": "Popular Japanese rice cooker chicken and onion recipe update",
+          "body": "\u3053\u306e\u30ec\u30b7\u30d4\u30015\u5e74\u8d8a\u3057\u306b\u305f\u304f\u3055\u3093\u4f5c\u3063\u3066\u304f\u3060\u3055\u3063\u3066\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\ud83d\ude4f(\u30db\u30c3\u30c8\u30af\u30c3\u30af\u3084\u5727\u529b\u934b\u306e\u5834\u5408\u304a\u3067\u3093\u3084\u53c2\u9d8f\u6e6f\u30e2\u30fc\u30c9\u3067\u3067\u304d\u308b\u305d\u3046\u3067\u3059)\n\n\u51b7\u51cd\u8089\u3092\u305d\u306e\u307e\u307e\u708a\u98ef\u5668\u3042\u308b\u3044\u306f\u30ec\u30f3\u30b8\u3067\u8abf\u7406\u3059\u308b\u30b7\u30ea\u30fc\u30ba\u306fsyunkon\u30ab\u30d5\u30a7\u3054\u306f\u30938\u306b\u5168\u90e8\u3044\u308c\u3066\u307e\u3059\uff01\n\nhttps://www.amazon.co.jp/dp/4299056574?ref=cm_sw_r_mwn_dp_MFY8DPZ6EK95QN66ZVRF&ref_=cm_sw_r_mwn_dp_MFY8DPZ6EK95QN66ZVRF&social_share=cm_sw_r_mwn_dp_MFY8DPZ6EK95QN66ZVRF&language=en_US\n\nhttps://books.rakuten.co.jp/rb/17865704/",
+          "engagement": "377K views",
+          "views": 377439
         },
         {
-          "handle": "fashionpressnet",
-          "url": "https://x.com/fashionpressnet/status/2055113461726871920",
-          "headline": "Godiva's bakery Godipan opens at Lalaport Toyosu with bear-shaped coronet and fluffy caramel bread.",
-          "body": "\u30b4\u30c7\u30a3\u30d0\u306e\u30d9\u30fc\u30ab\u30ea\u30fc\u300c\u30b4\u30c7\u30a3\u30d1\u30f3\u300d\u3089\u3089\u307d\u30fc\u3068\u8c4a\u6d32\u306b\u3001\u201c\u304f\u307e\u578b\u201d\u30b3\u30ed\u30cd\u3084\u3075\u3093\u308f\u308a\u30ad\u30e3\u30e9\u30e1\u30eb\u30d1\u30f3\u306a\u3069 - https://www.fashion-press.net/news/146440",
-          "engagement": "92K views",
-          "views": 92186
+          "handle": "coookwithchris",
+          "url": "https://x.com/coookwithchris/status/2055293290891661413",
+          "headline": "Warning about dishwasher detergent and gut health",
+          "body": "The dishwasher detergent you're using can ruin your gut health\u203c\ufe0f\n\nResidue can damage the gut lining and increase intestinal permeability (leaky gut)\n\nHere are some of the best, non-toxic options @oasishealthapp",
+          "engagement": "75K views",
+          "views": 75515
         },
         {
           "handle": "baypinar35",
@@ -413,20 +421,20 @@
           "views": 20898500
         },
         {
+          "handle": "unusual_whales",
+          "url": "https://x.com/unusual_whales/status/2055256127328166020",
+          "headline": "Axios reports AI now costs more than human workers",
+          "body": "\"AI can cost more than human workers now,\" per Axios",
+          "engagement": "1.6M views",
+          "views": 1618046
+        },
+        {
           "handle": "thsottiaux",
           "url": "https://x.com/thsottiaux/status/2055316274394300829",
           "headline": "OpenAI investigating GPT-5.5 performance issues",
           "body": "Codex team is aware of reports of GPT-5.5 performing worse for some users and investigating. We don't have anything conclusive yet and systems are healthy but we will share updates as we go.",
           "engagement": "374K views",
           "views": 374484
-        },
-        {
-          "handle": "NASASolarSystem",
-          "url": "https://x.com/NASASolarSystem/status/2055324888437788871",
-          "headline": "NASA's Psyche mission is approaching Mars for a trajectory adjustment.",
-          "body": "Right now, NASA's #MissionToPsyche is approaching Mars. \n\nCurrent distance: 29,780 miles\nCurrent speed relative to Mars: 10,340 mph\n\nThis simulated view, based on actual trajectory data, comes from our Eyes on the Solar System experience. \n\nRide along: http://eyes.nasa.gov/apps/solar-system/#/sc_psyche",
-          "engagement": "141K views",
-          "views": 140980
         }
       ]
     },
@@ -434,11 +442,19 @@
       "stories": [
         {
           "handle": "KTLA",
+          "url": "https://x.com/KTLA/status/2055471893231378895",
+          "headline": "5 more wildlife crossings planned for Southern California",
+          "body": "5 more wildlife crossings planned for Southern California. Here\u2019s where",
+          "engagement": "1.8K views",
+          "views": 1811
+        },
+        {
+          "handle": "KTLA",
           "url": "https://x.com/KTLA/status/2055377119698702346",
-          "headline": "Goodyear blimp lands on Huntington Beach for Pacific Air Show",
-          "body": "Organizers say it\u2019s the first time a blimp has attempted to land on a Southern California beach since the 1940s. https://ktla.com/news/local-news/goodyear-blimp-lands-on-huntington-beach-sand-for-pacific-air-show-announcement/",
-          "engagement": "3K views",
-          "views": 3024
+          "headline": "Goodyear blimp lands on Huntington Beach sand for Pacific Air Show announcement",
+          "body": "Organizers say it\u2019s the first time a blimp has attempted to land on a Southern California beach since the 1940s.",
+          "engagement": "11K views",
+          "views": 10991
         },
         {
           "handle": "KTLA",
@@ -447,14 +463,6 @@
           "body": "This marks a milestone opening for the brand as it grows toward 100 locations. https://ktla.com/news/orange-county/mendocino-farms-opens-its-first-location-in-this-orange-county-city/",
           "engagement": "3.1K views",
           "views": 3064
-        },
-        {
-          "handle": "NBCNews",
-          "url": "https://x.com/NBCNews/status/2055050537641345286",
-          "headline": "Southern California mayor's resignation after pleading guilty to acting as foreign agent for China sparks online backlash and anti-Asian discrimination fears.",
-          "body": "The resignation of a Southern California mayor who pleaded guilty to acting as a foreign agent for China has sparked backlash and reignited fears of anti-Asian discrimination. https://www.nbcnews.com/news/us-news/backlash-erupts-online-california-mayor-admits-foreign-agent-china-rcna344745?cid=sm_npd_nn_tw_ma&taid=6a064a9332982f000154aafa&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
-          "engagement": "14K views",
-          "views": 14254
         }
       ]
     },
@@ -469,20 +477,20 @@
           "views": 28544
         },
         {
+          "handle": "Markmaycott2",
+          "url": "https://x.com/Markmaycott2/status/2055300057734234309",
+          "headline": "False flag trap set for London protest tomorrow",
+          "body": "They are setting a trap for the London protest tomorrow. False flag incoming.",
+          "engagement": "25.3K views",
+          "views": 25261
+        },
+        {
           "handle": "Artemisfornow",
           "url": "https://x.com/Artemisfornow/status/2055334421494890531",
           "headline": "Comment on current events resembling dystopian conspiracy scenarios",
           "body": "I honestly can\u2019t believe what is happening to this country. It is the stuff of dystopian books and movies. Something called out as conspiracy, even whilst we all live the reality.",
           "engagement": "10K views",
           "views": 9954
-        },
-        {
-          "handle": "WSJ",
-          "url": "https://x.com/WSJ/status/2055080897645265094",
-          "headline": "Analysis of Trump's late-night posts on Truth Social spreading conspiracy theories",
-          "body": "A WSJ analysis of thousands of posts found that President Trump uses Truth Social to spread conspiracy theories and attack his adversaries. \ud83d\udd17 https://www.wsj.com/politics/trump-truth-social-late-night-posts-167cb47a?mod=e2tw",
-          "engagement": "39K views",
-          "views": 39478
         }
       ]
     },
@@ -497,23 +505,23 @@
           "views": 743262
         },
         {
-          "handle": "UncleNarco",
-          "url": "https://x.com/UncleNarco/status/2055113590156234938",
-          "headline": "User calls out the humor in a Jewish man's Palestine stance",
-          "body": "A Jewish man telling u that you dead wrong for not saying free Palestine lowkey funny as fuck to me",
-          "engagement": "954K views",
-          "views": 953793
+          "handle": "ImMeme0",
+          "url": "https://x.com/ImMeme0/status/2055447976990896290",
+          "headline": "Viral comedy clip on cultural incompatibility",
+          "body": "Some cultures are simply not compatible with the West.",
+          "engagement": "41.9K views",
+          "views": 41913
         },
         {
-          "handle": "cctrlaltdeleted",
-          "url": "https://x.com/cctrlaltdeleted/status/2055115427601322360",
-          "headline": "User jokes about the absurdity of sexting",
-          "body": "sexting is so funny because the whole time im just lying",
-          "engagement": "633K views",
-          "views": 633038
+          "handle": "WholesomeMeme",
+          "url": "https://x.com/WholesomeMeme/status/2055475975484309748",
+          "headline": "Wholesome meme image post",
+          "body": "https://t.co/E18ihzoMyh",
+          "engagement": "3.3K views",
+          "views": 3255
         }
       ]
     }
   },
-  "last_updated": "2026-05-15T21:02:18.349052"
+  "last_updated": "2026-05-16T02:59:46.902987"
 }
