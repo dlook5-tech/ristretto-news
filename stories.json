@@ -92,37 +92,6 @@
     "usa": {
       "stories": [
         {
-          "headline": "Supreme Court rejects Virginia's bid to restore Democrat-favoring congressional map",
-          "url": "https://x.com/AP/status/2055420132613054574",
-          "handle": "AP",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "RealJamesWoods",
-              "url": "https://x.com/RealJamesWoods/status/2055468548915683541",
-              "body": "Virginia Democrats try to pull a fast one and SCOTUS says, \u201cUh uh, grifters, not so fast.\u201d Life is good.",
-              "engagement": "58K views",
-              "views": 58023
-            },
-            {
-              "label": "Independent",
-              "handle": "FoxNews",
-              "url": "https://x.com/FoxNews/status/2055419203285303760",
-              "body": "BREAKING: The U.S. Supreme Court has denied Virginia's attempt to get its state supreme court's decision tossing out controversial election map overturned. The state's Democratic leaders had redrawn congressional maps, giving their party 10 out of 11 seats.",
-              "engagement": "406K views",
-              "views": 406019
-            },
-            {
-              "label": "Democrat",
-              "handle": "malcolmkenyatta",
-              "url": "https://x.com/malcolmkenyatta/status/2055442712879407454",
-              "body": "The Supreme Court is corrupt.",
-              "engagement": "73K views",
-              "views": 72870
-            }
-          ]
-        },
-        {
           "headline": "President Trump returns from historic China trip after major trade deals",
           "url": "https://x.com/nicksortor/status/2055417389458530560",
           "handle": "nicksortor",
@@ -154,33 +123,64 @@
           ]
         },
         {
-          "headline": "Trump administration rolls back endangered species protections on Endangered Species Day",
-          "url": "https://x.com/factpostnews/status/2055350296398672176",
-          "handle": "factpostnews",
+          "headline": "Trump meets Xi in China, praises strong future US-China ties",
+          "url": "https://x.com/WhiteHouse/status/2055049458530877831",
+          "handle": "WhiteHouse",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "EricLDaugh",
-              "url": "https://x.com/EricLDaugh/status/2055421432411123879",
-              "body": "\ud83d\udea8 IT'S OFFICIAL, WE WIN! \"The US Supreme Court moments ago has ruled AGAINST Virginia Democrats when it comes to reviving their pro-Democrat redistricting map ahead of the 2026 midterms.\" WOULD'VE BEEN: 10D-1R MAP WILL REMAIN AS: 6D-5R Another Dem embarrassment. \ud83d\udd25\ud83d\udd25\ud83d\udd25",
-              "engagement": "134K views",
-              "views": 133736
+              "handle": "WhiteHouse",
+              "url": "https://x.com/WhiteHouse/status/2055049458530877831",
+              "body": "\"When President Xi very elegantly referred to the United States as perhaps being a declining nation, he was referring to the tremendous damage we suffered during the four years of Sleepy Joe Biden... But now, the United States is the hottest Nation anywhere in the world\" - President Donald J. Trump",
+              "engagement": "2.8M views",
+              "views": 2837303
+            },
+            {
+              "label": "Independent",
+              "handle": "BRICSinfo",
+              "url": "https://x.com/BRICSinfo/status/2055289850648019253",
+              "body": "JUST IN: Chinese President Xi Jinping to visit the United States in autumn.",
+              "engagement": "148K views",
+              "views": 148127
+            },
+            {
+              "label": "Democrat",
+              "handle": "RpsAgainstTrump",
+              "url": "https://x.com/RpsAgainstTrump/status/2054757652987527249",
+              "body": "Trump to Xi: \u201cWe're going to have a fantastic future together. I have such respect for China. The job you've done. You're a great leader\u2026It\u2019s an honor to be with you. It\u2019s an honor to be your friend\u201d (Compare this to how Trump talks about President Zelenskyy and America\u2019s closest allies in Europe)",
+              "engagement": "1M views",
+              "views": 1028928
+            }
+          ]
+        },
+        {
+          "headline": "Supreme Court denies Virginia's appeal on congressional election maps",
+          "url": "https://x.com/FoxNews/status/2055419203285303760",
+          "handle": "FoxNews",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "FoxNews",
+              "url": "https://x.com/FoxNews/status/2055419203285303760",
+              "body": "BREAKING: The U.S. Supreme Court has denied Virginia's attempt to get its state supreme court's decision tossing out controversial election map overturned. The state's Democratic leaders had redrawn congressional maps, giving their party 10 out of 11 seats.",
+              "engagement": "450K views",
+              "views": 450792
             },
             {
               "label": "Independent",
               "handle": "factpostnews",
               "url": "https://x.com/factpostnews/status/2055350296398672176",
               "body": "Today is Endangered Species Day. The Trump administration has rolled back protections for: \u2014Wolverines \u2014Sea turtles \u2014Monarch butterflies \u2014Bison \u2014Polar bears \u2014Rice's whales \u2014Alligator snapping turtles \u2014Saltmarsh sparrows \u2014Florida panthers",
-              "engagement": "372K views",
-              "views": 372393
+              "engagement": "399K views",
+              "views": 399668
             },
             {
               "label": "Democrat",
-              "handle": "RepDonBeyer",
-              "url": "https://x.com/RepDonBeyer/status/2055387427141832753",
-              "body": "Outright lies. Trump's assets aren't in a blind trust, and he bought and sold individual Nvidia stock in 15 separate transactions totaling millions of dollars. That's what Trump's financial disclosure - which has his signature - says.",
-              "engagement": "375K views",
-              "views": 374719
+              "handle": "SenWarren",
+              "url": "https://x.com/SenWarren/status/2055296627389182424",
+              "body": "Ban stock trading by the President. Ban stock trading by the Vice President. Ban stock trading by members of Congress. End the corruption.",
+              "engagement": "1M views",
+              "views": 1059596
             }
           ]
         }
@@ -205,24 +205,24 @@
           "views": 230052
         },
         {
-          "handle": "Benioff",
-          "url": "https://x.com/Benioff/status/2055428789669343455",
-          "headline": "Marc Benioff recaps podcast discussion on AI agents and enterprise future with David Sacks and others.",
-          "body": "There is no substitute for bestie @DavidSacks \u2026 showed up black-shirted, caffeinated, & fully armed with enough crazy. Besties talked future of enterprise, AI agents that actually work (not just hype), and @chamath has enough truth China bombs to trigger all the Besties. Zero filter. Brilliant El Ni\u00f1o insight from @friedberg. I wasn\u2019t ready for @Jason and neither was the group chat. Buckle up. This one\u2019s XX spicy. \ud83c\udf36\ufe0f \ud83d\ude80 Check out the full episode here \u2192",
-          "engagement": "54.1K views",
-          "views": 54085
+          "handle": "nikkei",
+          "url": "https://x.com/nikkei/status/2055413744461664698",
+          "headline": "Isuzu absorbs UD Trucks, ending the history of former Nissan Diesel.",
+          "body": "\u65e7\u300c\u65e5\u7523\u30c7\u30a3\u30fc\u30bc\u30eb\u300d\u6d41\u8ee2\u306e\u6b74\u53f2\u306b\u5e55\u3000\u3044\u3059\u309e\u304cUD\u3092\u5438\u53ce\u5408\u4f75 https://www.nikkei.com/article/DGXZQOUC115F20R10C26A5000000/?n_cid=SNSTW001&n_tw=1778883622",
+          "engagement": "76.3K views",
+          "views": 76325
         }
       ]
     },
     "top": {
       "stories": [
         {
-          "handle": "cb_doge",
-          "url": "https://x.com/cb_doge/status/2055145711587741892",
-          "headline": "Reflection on the essential role of true friends in life.",
-          "body": "The most important thing in life is having true friends.",
-          "engagement": "26.9M views",
-          "views": 26903272
+          "handle": "nijisanji_app",
+          "url": "https://x.com/nijisanji_app/status/2055490788902178848",
+          "headline": "Nijisanji announces 3D debut relay schedule for five VTubers.",
+          "body": "\u3010\ud83c\udf89#Speciale 3D\u304a\u62ab\u9732\u76ee\u914d\u4fe1\u6c7a\u5b9a\ud83c\udf89\u3011\n\nSpeciale\n\u4e03\u702c\u3059\u305a\u83dc\u3001\u6e1a\u30c8\u30e9\u30a6\u30c8\u3001\u9152\u5bc4\u98af\u99ac\u3001\u65e9\u4e59\u5973\u30d9\u30ea\u30fc\u3001\u96f2\u6bcd\u305f\u307e\u3053\n\n5\u540d\u306e3D\u304a\u62ab\u9732\u76ee\u30ea\u30ec\u30fc\u914d\u4fe1\u304c\u6c7a\u5b9a\u3044\u305f\u3057\u307e\u3057\u305f\uff01\n5\u6708\uff5e6\u6708\u306b\u308f\u305f\u308a5\u9031\u9023\u7d9a\u3067\u516c\u958b\u4e88\u5b9a\uff01\u304a\u697d\u3057\u307f\u306b\uff01\n\n#\u306b\u3058\u3055\u3093\u30583D\u304a\u62ab\u9732\u76ee",
+          "engagement": "1.2M views",
+          "views": 1189408
         },
         {
           "handle": "FoxNews",
@@ -246,6 +246,14 @@
       "stories": [
         {
           "handle": "AP",
+          "url": "https://x.com/AP/status/2055420132613054574",
+          "headline": "Supreme Court rejects Virginia's bid to restore a congressional map favoring Democrats",
+          "body": "BREAKING: The Supreme Court rejects Virginia's bid to restore a congressional map favoring Democrats. https://apnews.com/article/supreme-court-virginia-redistricting-democrats-republicans-fdd33b89ac29cf2806f790f9b22ee2e9?taid=6a07a2ca717bd400015f2d7d&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
+          "engagement": "833K views",
+          "views": 833306
+        },
+        {
+          "handle": "AP",
           "url": "https://x.com/AP/status/2055186770774344040",
           "headline": "New Ebola outbreak confirmed in Congo\u2019s eastern Ituri province with 65 deaths",
           "body": "BREAKING: A new outbreak of the highly contagious Ebola virus has been confirmed in Congo\u2019s eastern Ituri province, Africa\u2019s top public health body said. There have been 246 suspected cases and 65 deaths recorded so far.",
@@ -259,19 +267,19 @@
           "body": "Nvidia CEO Jensen Huang was spotted trying some of Beijing\u2019s delicacies. He was seen at No. 69 Fangzhuanchang Noodles, tucking into a bowl of \u201czhajiangmian\u201d \u2014 a Beijing specialty that features noodles covered in a thick soybean-paste sauce mixed with vegetables and meat.",
           "engagement": "355K views",
           "views": 354956
-        },
-        {
-          "handle": "AP",
-          "url": "https://x.com/AP/status/2055241839565836399",
-          "headline": "Teenage Buddhist lama blesses crowds after moving from Minneapolis suburb",
-          "body": "The teenage Buddhist lama, Jalue Dorje, blesses thousands at a monastery in the Himalayan foothills. Just six months earlier and thousands of miles away, he was pulling all-nighters to play Madden NFL on his Xbox at his home in a Minneapolis suburb.",
-          "engagement": "237K views",
-          "views": 237382
         }
       ]
     },
     "sports": {
       "stories": [
+        {
+          "handle": "MLB",
+          "url": "https://x.com/MLB/status/2055485537478152467",
+          "headline": "Cubs sweep series opener vs White Sox",
+          "body": "All 9 @Cubs starters record a hit as they take the Crosstown Classic series opener!",
+          "engagement": "163K views",
+          "views": 163204
+        },
         {
           "handle": "FabrizioRomano",
           "url": "https://x.com/FabrizioRomano/status/2055392757984764140",
@@ -287,14 +295,6 @@
           "body": "PISTONS FORCE GAME 7 BACK IN DETROIT \ud83d\udd25 Winner goes to the Eastern Conference Finals \ud83d\udc40",
           "engagement": "167K views",
           "views": 167289
-        },
-        {
-          "handle": "BleacherReport",
-          "url": "https://x.com/BleacherReport/status/2055465736265732369",
-          "headline": "Harden and Mitchell stats in closeout Game 6 loss.",
-          "body": "Harden & Mitchell in a closeout Game 6 loss at home: Harden: 23 PTS, 6-13 FG, 8 TO Mitchell: 18 PTS, 8-20 FG Can they win a Game 7 on the road? \ud83e\udd14",
-          "engagement": "149K views",
-          "views": 149043
         }
       ]
     },
@@ -331,10 +331,10 @@
         {
           "handle": "TheoVon",
           "url": "https://x.com/TheoVon/status/2055423408230240405",
-          "headline": "Theo Von denies rumors and says he's doing fine after Joe Rogan comments",
+          "headline": "Theo Von pushes back on reports about his recent struggles, saying he's doing fine.",
           "body": "This is mostly \ud83e\udde2. Sad to see this kinda stuff.  Im doing great. Im a human being which is a rocky ride. But im doing fine thanks.",
-          "engagement": "4M views",
-          "views": 3999005
+          "engagement": "4.96M views",
+          "views": 4959360
         },
         {
           "handle": "KillaKreww",
@@ -365,20 +365,20 @@
           "views": 10242330
         },
         {
+          "handle": "TaraBull",
+          "url": "https://x.com/TaraBull/status/2055309731963756723",
+          "headline": "Jennifer Lopez waits for crowd to clear before paparazzi exit",
+          "body": "This is peak celebrity nonsense: Jennifer Lopez literally waiting for the crowd to clear before doing a 20 foot walk to her car, just to stage her paparazzi exit. \n\nI'm so over celebrity culture",
+          "engagement": "7.1M views",
+          "views": 7148713
+        },
+        {
           "handle": "blackishpress",
           "url": "https://x.com/blackishpress/status/2055342371580072017",
           "headline": "Chase Infiniti and Tyriq Withers are dating per PEOPLE",
           "body": "Chase Infiniti and Tyriq Withers are dating, via PEOPLE magazine. \u2665\ufe0f \ud83d\udd17 https://people.com/chase-infiniti-is-having-fun-dating-tyriq-withers-exclusive-source-11975789",
           "engagement": "1.1M views",
           "views": 1051781
-        },
-        {
-          "handle": "TaraBull",
-          "url": "https://x.com/TaraBull/status/2055309731963756723",
-          "headline": "Video shows Jennifer Lopez waiting for crowd to clear before staging a paparazzi exit.",
-          "body": "This is peak celebrity nonsense: Jennifer Lopez literally waiting for the crowd to clear before doing a 20 foot walk to her car, just to stage her paparazzi exit. \n\nI'm so over celebrity culture",
-          "engagement": "954K views",
-          "views": 953937
         }
       ]
     },
@@ -393,20 +393,20 @@
           "views": 377439
         },
         {
+          "handle": "miradreaamy",
+          "url": "https://x.com/miradreaamy/status/2055299434481697044",
+          "headline": "How to make homemade french fries correctly",
+          "body": "Evde patates k\u0131zartmas\u0131 yapman\u0131n do\u011fru yolu",
+          "engagement": "88.8K views",
+          "views": 88846
+        },
+        {
           "handle": "coookwithchris",
           "url": "https://x.com/coookwithchris/status/2055293290891661413",
           "headline": "Warning about dishwasher detergent and gut health",
           "body": "The dishwasher detergent you're using can ruin your gut health\u203c\ufe0f\n\nResidue can damage the gut lining and increase intestinal permeability (leaky gut)\n\nHere are some of the best, non-toxic options @oasishealthapp",
           "engagement": "75K views",
           "views": 75515
-        },
-        {
-          "handle": "baypinar35",
-          "url": "https://x.com/baypinar35/status/2055174898243481727",
-          "headline": "User discovers an issue with storing grated garlic in the fridge.",
-          "body": "\u6628\u65e5\u3082\u4eca\u65e5\u3082\u4f7f\u3044\u305f\u3044\u304b\u3089\u591a\u3081\u306b\u64e6\u3063\u305f\u30cb\u30f3\u30cb\u30af\u3092\u51b7\u8535\u5eab\u306b\u5165\u308c\u3066\u304a\u3044\u305f\u3089\u30b3\u30ec\ud83e\uddc4 \u306a\u3093\u3067\uff1f\u98df\u3079\u308c\u3093\u306e\uff1f\u3053\u308c",
-          "engagement": "42K views",
-          "views": 41914
         }
       ]
     },
@@ -429,24 +429,24 @@
           "views": 1618046
         },
         {
-          "handle": "thsottiaux",
-          "url": "https://x.com/thsottiaux/status/2055316274394300829",
-          "headline": "OpenAI investigating GPT-5.5 performance issues",
-          "body": "Codex team is aware of reports of GPT-5.5 performing worse for some users and investigating. We don't have anything conclusive yet and systems are healthy but we will share updates as we go.",
-          "engagement": "374K views",
-          "views": 374484
+          "handle": "NazologyInfo",
+          "url": "https://x.com/NazologyInfo/status/2055483878350139718",
+          "headline": "Discovery overturns the theory that damaged brains cannot heal by identifying how to maintain natural healing power",
+          "body": "\u5b9a\u8aac\u300c\u58ca\u308c\u305f\u8133\u306f\u6cbb\u3089\u306a\u3044\u300d\u3092\u8986\u3059\u767a\u898b\u30fc\uff0d\u8133\u306e\u81ea\u7136\u6cbb\u7652\u529b\u3092\u7dad\u6301\u3059\u308b\u65b9\u6cd5\u304c\u898b\u3064\u304b\u308b\nhttps://nazology.kusuguru.co.jp/archives/195208\n\n\u8133\u5352\u4e2d\u306a\u3069\u3067\u50b7\u3064\u3044\u305f\u8133\u306f\u3042\u308b\u7a0b\u5ea6\u307e\u3067\u4fee\u5fa9\u3057\u307e\u3059\u304c\u3001\u307e\u3060\u6cbb\u308a\u5207\u3089\u306a\u3044\u6bb5\u968e\u3067\u4fee\u5fa9\u3092\u6b62\u3081\u3066\u3057\u307e\u3044\u307e\u3059\u3002\u6771\u4eac\u79d1\u5b66\u5927\u3089\u306f\u305d\u306e\u4ed5\u7d44\u307f\u3092\u89e3\u660e\u3057\u3001\u8133\u306e\u81ea\u7136\u6cbb\u7652\u529b\u3092\u7dad\u6301\u3059\u308b\u65b9\u6cd5\u3092\u767a\u898b\u3057\u307e\u3057\u305f\u3002",
+          "engagement": "43K views",
+          "views": 42822
         }
       ]
     },
     "local": {
       "stories": [
         {
-          "handle": "KTLA",
-          "url": "https://x.com/KTLA/status/2055471893231378895",
-          "headline": "5 more wildlife crossings planned for Southern California",
-          "body": "5 more wildlife crossings planned for Southern California. Here\u2019s where",
-          "engagement": "1.8K views",
-          "views": 1811
+          "handle": "NBCNews",
+          "url": "https://x.com/NBCNews/status/2055226799269777431",
+          "headline": "Southern California mayor resigns after pleading guilty to acting as foreign agent for China",
+          "body": "The resignation of a Southern California mayor who pleaded guilty to acting as a foreign agent for China has sparked backlash and reignited fears of anti-Asian discrimination.",
+          "engagement": "2.2M views",
+          "views": 2241955
         },
         {
           "handle": "KTLA",
@@ -458,44 +458,52 @@
         },
         {
           "handle": "KTLA",
-          "url": "https://x.com/KTLA/status/2055358723208671384",
-          "headline": "Mendocino Farms opens first Orange County location",
-          "body": "This marks a milestone opening for the brand as it grows toward 100 locations. https://ktla.com/news/orange-county/mendocino-farms-opens-its-first-location-in-this-orange-county-city/",
-          "engagement": "3.1K views",
-          "views": 3064
+          "url": "https://x.com/KTLA/status/2055471893231378895",
+          "headline": "5 more wildlife crossings planned for Southern California",
+          "body": "5 more wildlife crossings planned for Southern California. Here\u2019s where",
+          "engagement": "1.8K views",
+          "views": 1811
         }
       ]
     },
     "conspiracy": {
       "stories": [
         {
+          "handle": "Daily_MailUS",
+          "url": "https://x.com/Daily_MailUS/status/2055315452482523527",
+          "headline": "Pastor at secret UFO meeting reveals images of 'translucent beings' and biblical prophecy links",
+          "body": "Pastor at secret UFO meeting reveals images of 'translucent beings'... 'The files could fulfill a dark biblical prophecy'",
+          "engagement": "200K views",
+          "views": 200246
+        },
+        {
+          "handle": "davidicke",
+          "url": "https://x.com/davidicke/status/2055341609563390146",
+          "headline": "David Icke claims UFOs are human-made secret tech tied to deep state and Nazis",
+          "body": "Do 'aliens' exist? Of course, as in non-human entities malevolent and benevolent, within infinite reality. But does that mean 'flying saucers' have to be flown only by 'aliens'? Absolutely not. I have been writing since the 1990s about 'UFOs' (now 'UAPs') developed in secret projects and piloted by HUMANS.\nThe UFO phenomenon does not have just one explanation. It is more complex and a great way to hide the human UFOs is to point the finger at 'aliens' and provide the potential backdrop to a perceived 'alien invasion'. Be very careful, therefore, with military-intelligence claims about \u2018alien file\u2019 revelations and taking them on face value.\nNor do 'alien craft' flown by humans have to be the result of the reverse-engineering of \u2018crashed alien technology\u2019. There is a colossal difference between the apparent technological cutting edge in the public arena and the REAL cutting edge hidden away from the population. The result is that when people see 'flying saucers' and other tech they think it must be 'alien' when it doesn't have to be.\nWe are talking 'anti-gravity' technology in which an electromagnetic field projected around the craft disconnects it from the limitations of the perceived 'laws of physics'. This has been developed outside the public arena since way back and involved the American/British elite-funded and supported Nazis who escaped to the US after the war under the US intelligence Operation Paperclip. Many also went to Argentina. \nIt was these same Nazis and American elite that created the CIA, NASA, and what became known as the 'Deep State'. They together form the Global Cult that has no borders and what British Intelligence agent Ian Fleming referred to as SPECTRE in his James Bond novels. This Cult is in service to a non-human (of many types) other-dimensional force behind the manipulation of human society and which operates from the shadows.\nThere is a whole \u2018Secret Space Program\u2019 in which craft flown by humans can do all the speeds and manoeuvres portrayed in military radar footage which are so fantastic compared with public arena technology that people shout \u2018aliens\u2019 when it doesn\u2019t have to be.\nThere is an enormous scam being played out here and pegged to the latest Steven Spielberg \u2018alien\u2019 movie, Disclosure Day out in June. Nothing is black and white \u2013 most certainly not this.",
+          "engagement": "42K views",
+          "views": 42389
+        },
+        {
           "handle": "TheProjectUnity",
           "url": "https://x.com/TheProjectUnity/status/2055301083480601084",
-          "headline": "Prompt asking users to name a conspiracy they once dismissed but now see as real",
+          "headline": "Name a conspiracy once thought dumb that now seems very real",
           "body": "Name a conspiracy you thought was dumb, but now realise is very real.",
-          "engagement": "29K views",
-          "views": 28544
-        },
-        {
-          "handle": "Markmaycott2",
-          "url": "https://x.com/Markmaycott2/status/2055300057734234309",
-          "headline": "False flag trap set for London protest tomorrow",
-          "body": "They are setting a trap for the London protest tomorrow. False flag incoming.",
-          "engagement": "25.3K views",
-          "views": 25261
-        },
-        {
-          "handle": "Artemisfornow",
-          "url": "https://x.com/Artemisfornow/status/2055334421494890531",
-          "headline": "Comment on current events resembling dystopian conspiracy scenarios",
-          "body": "I honestly can\u2019t believe what is happening to this country. It is the stuff of dystopian books and movies. Something called out as conspiracy, even whilst we all live the reality.",
-          "engagement": "10K views",
-          "views": 9954
+          "engagement": "38K views",
+          "views": 37536
         }
       ]
     },
     "comedy": {
       "stories": [
+        {
+          "handle": "HilariousFightz",
+          "url": "https://x.com/HilariousFightz/status/2055190540829008171",
+          "headline": "Viral clip of man with private part stuck in car door",
+          "body": "I done seen a lot but never a DICK \ud83c\udf46STUCK IN A CAR DOOR WTF then the teethhhhhhhh \ud83e\udd26\ud83c\udffd\u200d\u2642\ufe0f\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+          "engagement": "3.5M views",
+          "views": 3494437
+        },
         {
           "handle": "ItsAmahAdoma",
           "url": "https://x.com/ItsAmahAdoma/status/2055238948419444896",
@@ -511,17 +519,9 @@
           "body": "Some cultures are simply not compatible with the West.",
           "engagement": "41.9K views",
           "views": 41913
-        },
-        {
-          "handle": "WholesomeMeme",
-          "url": "https://x.com/WholesomeMeme/status/2055475975484309748",
-          "headline": "Wholesome meme image post",
-          "body": "https://t.co/E18ihzoMyh",
-          "engagement": "3.3K views",
-          "views": 3255
         }
       ]
     }
   },
-  "last_updated": "2026-05-16T02:59:46.902987"
+  "last_updated": "2026-05-16T04:09:35.986704"
 }
