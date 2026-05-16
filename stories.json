@@ -26,37 +26,6 @@
           ]
         },
         {
-          "headline": "Five tourists die in scuba diving accident in Maldives caves",
-          "url": "https://x.com/nypost/status/2055050818173157468",
-          "handle": "nypost",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "nypost",
-              "url": "https://x.com/nypost/status/2055050818173157468",
-              "body": "5 dead in 160-foot Maldives scuba dive - worst diving accident nation has ever seen https://nypost.com/2026/05/14/world-news/5-dead-in-160-foot-maldives-scuba-dive/?utm_source=twitter&utm_campaign=nypost&utm_medium=social",
-              "engagement": "6K likes, 7.2M views",
-              "views": 7243800
-            },
-            {
-              "label": "Independent",
-              "handle": "SkyNews",
-              "url": "https://x.com/SkyNews/status/2055220666278756373",
-              "body": "Five tourists, including a professor and her daughter, have died in a scuba diving accident in the Maldives https://news.sky.com/story/five-italians-die-while-exploring-underwater-caves-in-the-maldives-13544212?dcmp=snt-sf-twitter",
-              "engagement": "35 likes, 44K views",
-              "views": 44651
-            },
-            {
-              "label": "Democrat",
-              "handle": "BBCNews",
-              "url": "https://x.com/BBCNews/status/2055176943247503594",
-              "body": "Five Italians die during cave dive in Maldives https://www.bbc.com/news/articles/c62e0p7rd2ro?xtor=AL-71-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_ptr_name=twitter&at_campaign=Social_Flow&at_link_type=web_link&at_format=link&at_campaign_type=owned&at_medium=social&at_bbc_team=editorial&at_link_origin=BBCNews&at_link_id=48A41568-4FFD-11F1-950A-B58F09614810",
-              "engagement": "72 likes, 35K views",
-              "views": 35180
-            }
-          ]
-        },
-        {
           "headline": "78th anniversary of the Nakba marked with remembrance of Palestinian displacement",
           "url": "https://x.com/PopBase/status/2055263332513223160",
           "handle": "PopBase",
@@ -84,6 +53,37 @@
               "body": "The #Nakba was never a moment frozen in history\u2014it is a continuing reality of killing, displacement, siege, occupation, & exile. But memory does not die. Keys are still kept. Names are still remembered. And a people who carry their homeland in their hearts will never disappear.",
               "engagement": "52K views",
               "views": 52196
+            }
+          ]
+        },
+        {
+          "headline": "US and Nigerian forces kill senior ISIS leader in Nigeria",
+          "url": "https://x.com/nicksortor/status/2055500452280582429",
+          "handle": "nicksortor",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "nicksortor",
+              "url": "https://x.com/nicksortor/status/2055500452280582429",
+              "body": "\ud83d\udea8 BREAKING: President Trump announced American forces have executed an operation to KlLL ISIS' global second in command, Abu-Bilal al Minuki, in Nigeria",
+              "engagement": "283K views",
+              "views": 283978
+            },
+            {
+              "label": "Independent",
+              "handle": "BBCWorld",
+              "url": "https://x.com/BBCWorld/status/2055536490331971604",
+              "body": "Trump says senior IS leader killed by US and Nigerian forces",
+              "engagement": "65K views",
+              "views": 65422
+            },
+            {
+              "label": "Democrat",
+              "handle": "business",
+              "url": "https://x.com/business/status/2055510655348637809",
+              "body": "US and Nigerian forces killed an ISIS leader who was hiding in Africa, President Donald Trump said, adding that his death has \u201cgreatly diminished\u201d the group\u2019s global operations",
+              "engagement": "19K views",
+              "views": 19431
             }
           ]
         }
@@ -123,64 +123,64 @@
           ]
         },
         {
-          "headline": "President Trump returns from historic China trip after major trade deals",
-          "url": "https://x.com/nicksortor/status/2055417389458530560",
-          "handle": "nicksortor",
+          "headline": "Supreme Court rejects Virginia's Democratic-favoring redistricting bid",
+          "url": "https://x.com/AP/status/2055420132613054574",
+          "handle": "AP",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "nicksortor",
-              "url": "https://x.com/nicksortor/status/2055417389458530560",
-              "body": "\ud83d\udea8 JUST IN: President Trump has STEPPED OFF Air Force One in America's capital, returning from an HISTORIC trip to China Your prayers worked, and 47 made it back safe and sound 36+ hours of travel time in just a few days. But Trump never misses a beat God bless America \ud83c\uddfa\ud83c\uddf8",
-              "engagement": "341K views",
-              "views": 340977
+              "handle": "jsolomonReports",
+              "url": "https://x.com/jsolomonReports/status/2055335971860758797",
+              "body": "Judicial Watch files lawsuit seeking records on $2 billion grant to nonprofit tied to Stacey Abrams",
+              "engagement": "70K views",
+              "views": 69943
             },
             {
               "label": "Independent",
-              "handle": "RapidResponse47",
-              "url": "https://x.com/RapidResponse47/status/2055425919234220304",
-              "body": ".@POTUS arrives back at the White House: \"All I can say is that was a great success... We made great deals. We did great trade deals... A lot of things have happened and you'll be hearing about them \u2014 but that was a tremendous success. I think it really was a historic moment.\"",
-              "engagement": "237K views",
-              "views": 236997
+              "handle": "AP",
+              "url": "https://x.com/AP/status/2055420132613054574",
+              "body": "BREAKING: The Supreme Court rejects Virginia's bid to restore a congressional map favoring Democrats.",
+              "engagement": "1.1M views",
+              "views": 1091113
             },
             {
               "label": "Democrat",
-              "handle": "SenWarren",
-              "url": "https://x.com/SenWarren/status/2055296627389182424",
-              "body": "Ban stock trading by the President. Ban stock trading by the Vice President. Ban stock trading by members of Congress. End the corruption.",
-              "engagement": "1M views",
-              "views": 1023956
+              "handle": "malcolmkenyatta",
+              "url": "https://x.com/malcolmkenyatta/status/2055442712879407454",
+              "body": "The Supreme Court is corrupt.",
+              "engagement": "289K views",
+              "views": 288500
             }
           ]
         },
         {
-          "headline": "Supreme Court denies Virginia's appeal on congressional election maps",
-          "url": "https://x.com/FoxNews/status/2055419203285303760",
-          "handle": "FoxNews",
+          "headline": "Trump administration denies federal protections for monarch butterfly",
+          "url": "https://x.com/factpostnews/status/2055333187409084830",
+          "handle": "factpostnews",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "FoxNews",
-              "url": "https://x.com/FoxNews/status/2055419203285303760",
-              "body": "BREAKING: The U.S. Supreme Court has denied Virginia's attempt to get its state supreme court's decision tossing out controversial election map overturned. The state's Democratic leaders had redrawn congressional maps, giving their party 10 out of 11 seats.",
-              "engagement": "450K views",
-              "views": 450792
+              "handle": "RapidResponse47",
+              "url": "https://x.com/RapidResponse47/status/2055417978611454274",
+              "body": ".@POTUS on Iran: \"I'm going to do what's right. I have to do what's right... The Strait will be opened, they will not have a nuclear weapon, and the world will go on.\"",
+              "engagement": "201K views",
+              "views": 200793
             },
             {
               "label": "Independent",
               "handle": "factpostnews",
-              "url": "https://x.com/factpostnews/status/2055350296398672176",
-              "body": "Today is Endangered Species Day. The Trump administration has rolled back protections for: \u2014Wolverines \u2014Sea turtles \u2014Monarch butterflies \u2014Bison \u2014Polar bears \u2014Rice's whales \u2014Alligator snapping turtles \u2014Saltmarsh sparrows \u2014Florida panthers",
-              "engagement": "399K views",
-              "views": 399668
+              "url": "https://x.com/factpostnews/status/2055333187409084830",
+              "body": "The Trump administration has denied federal protections for the monarch butterfly.",
+              "engagement": "1.1M views",
+              "views": 1139808
             },
             {
               "label": "Democrat",
-              "handle": "SenWarren",
-              "url": "https://x.com/SenWarren/status/2055296627389182424",
-              "body": "Ban stock trading by the President. Ban stock trading by the Vice President. Ban stock trading by members of Congress. End the corruption.",
-              "engagement": "1M views",
-              "views": 1059596
+              "handle": "internatio56662",
+              "url": "https://x.com/internatio56662/status/2055397156845191505",
+              "body": "\ud83d\udea8\ud83c\uddf2\ud83c\uddfd\ud83c\uddfa\ud83c\uddf8 | #BREAKING NIGHTFALL IS COMING FOR THE TABASCO CARTEL: The United States Department of Justice is reportedly seeking to triple criminal charges against Mexican narco-politicians, instructing federal prosecutors to pursue aggressive indictments as part of President Trump\u2019s offensive against drug cartels, according to revelations published by the New York Times.",
+              "engagement": "188K views",
+              "views": 188338
             }
           ]
         }
@@ -191,10 +191,10 @@
         {
           "handle": "KobeissiLetter",
           "url": "https://x.com/KobeissiLetter/status/2055405911074607288",
-          "headline": "Bill and Melinda Gates Foundation sells entire Microsoft stake",
+          "headline": "Gates Foundation sells all 7.7M Microsoft shares",
           "body": "BREAKING: The Bill and Melinda Gates Foundation has sold 100% of its Microsoft, $MSFT, position which was a total of 7.7 million shares.",
-          "engagement": "1.0M views",
-          "views": 1025495
+          "engagement": "1.2M views",
+          "views": 1187948
         },
         {
           "handle": "SenWarren",
@@ -205,12 +205,12 @@
           "views": 685863
         },
         {
-          "handle": "unusual_whales",
-          "url": "https://x.com/unusual_whales/status/2055415678652346392",
-          "headline": "Trump's recent stock trades analyzed after Iranian conflict",
-          "body": "BREAKING: Take a look at Trump's trades. You can see a large majority of the millions traded were recently in the new year, and especially after the Iranian war.",
-          "engagement": "217K views",
-          "views": 217467
+          "handle": "TedPillows",
+          "url": "https://x.com/TedPillows/status/2055561094995808754",
+          "headline": "Ethereum ETF sees $65.7M outflow yesterday",
+          "body": "$ETH ETF outflow of $65,700,000 \ud83d\udd34 yesterday.\n\nBlackRock sold $50,400,000 in Ethereum.",
+          "engagement": "49K views",
+          "views": 49253
         }
       ]
     },
@@ -233,12 +233,12 @@
           "views": 432146
         },
         {
-          "handle": "gkmas_official",
-          "url": "https://x.com/gkmas_official/status/2055467016715182584",
-          "headline": "New Gakuen Idolmaster scenario PV announcement for H.I.F edition featuring Qin Gu Meiling",
-          "body": "\u2727\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2727\n\u3000\u3000   \u5b66\u5712\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc\n  \u65b0\u30b7\u30ca\u30ea\u30aa\u300eH.I.F\u7de8\u300f\u544a\u77e5PV\n\u3000\u3000\u3000\u3000\u3000\u79e6\u8c37 \u7f8e\u9234\n\u2727\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2727\n\n\udb40\udc20\udb40\udc20\n\n\u300c\u308f\u305f\u3057\u306f\n\u3000\u3042\u306a\u305f\u306b\u8a93\u3063\u305f\u3093\u3067\u3059\u3002\u300d\n\n\udb40\udc20\udb40\udc20\n\n#\u795d\u5b66\u30de\u30b92\u5468\u5e74",
-          "engagement": "184K views",
-          "views": 183668
+          "handle": "tanyarlfes",
+          "url": "https://x.com/tanyarlfes/status/2055552600922116436",
+          "headline": "Indonesian video clip of president speaking directly",
+          "body": "\ud83d\udc9a ini yg ngomong PRESIDEN langsung btw. bukan BUZZERNYA bukan PENDUKUNGNYA. literally PRESIDEN LANGSUNG. udah gasanggup nanggepinnya.  SELAMAT aja dah  buat KALIAN yg milih dia kemarin",
+          "engagement": "206K views",
+          "views": 206305
         }
       ]
     },
@@ -254,19 +254,19 @@
         },
         {
           "handle": "AP",
+          "url": "https://x.com/AP/status/2055308051385643287",
+          "headline": "Texas Supreme Court rejects governor's effort to remove Democrats from office",
+          "body": "BREAKING: The Texas Supreme Court rejects the governor's effort to remove Democrats from office over leaving the state to delay redistricting.",
+          "engagement": "449K views",
+          "views": 449162
+        },
+        {
+          "handle": "AP",
           "url": "https://x.com/AP/status/2055358521382699213",
           "headline": "Nvidia CEO Jensen Huang samples Beijing noodles during China visit",
           "body": "Nvidia CEO Jensen Huang was spotted trying some of Beijing\u2019s delicacies. He was seen at No. 69 Fangzhuanchang Noodles, tucking into a bowl of \u201czhajiangmian\u201d \u2014 a Beijing specialty that features noodles covered in a thick soybean-paste sauce mixed with vegetables and meat.",
           "engagement": "355K views",
           "views": 354956
-        },
-        {
-          "handle": "WSJ",
-          "url": "https://x.com/WSJ/status/2055302398776627255",
-          "headline": "U.S. government suing Chick-fil-A franchisee over Saturday sabbath observance",
-          "body": "The U.S. government is suing one of Chick-fil-A\u2019s franchisees, alleging it denied an employee Saturdays off to observe her sabbath.",
-          "engagement": "79.8K views",
-          "views": 79788
         }
       ]
     },
@@ -274,11 +274,11 @@
       "stories": [
         {
           "handle": "premierleague",
-          "url": "https://x.com/premierleague/status/2055503758944264536",
-          "headline": "Huge Premier League fixture in battle for Champions League spots",
-          "body": "A huge fixture in the battle for Champions League football awaits \ud83e\udd4a",
-          "engagement": "205K views",
-          "views": 205139
+          "url": "https://x.com/premierleague/status/2055573973472071893",
+          "headline": "Arsenal and Man City title race set for weekend action",
+          "body": "We'll have to wait until after the weekend to see what @arsenal and @mancity have got in store for us in the title race \ud83c\udf7f",
+          "engagement": "63K views",
+          "views": 63287
         },
         {
           "handle": "FabrizioRomano",
@@ -289,17 +289,25 @@
           "views": 912336
         },
         {
-          "handle": "espn",
-          "url": "https://x.com/espn/status/2055463756327461186",
-          "headline": "Pistons force Game 7 back in Detroit in NBA playoffs",
-          "body": "PISTONS FORCE GAME 7 BACK IN DETROIT \ud83d\udd25\n\nWinner goes to the Eastern Conference Finals \ud83d\udc40",
-          "engagement": "258K views",
-          "views": 258361
+          "handle": "ChelseaFC",
+          "url": "https://x.com/ChelseaFC/status/2055524394819367098",
+          "headline": "Chelsea FC ready for FA Cup final showdown",
+          "body": "It's FA Cup final day! \ud83c\udfc6  Let's do this - together. \ud83d\ude24 #CFC | #EmiratesFACup",
+          "engagement": "178K views",
+          "views": 177871
         }
       ]
     },
     "elon": {
       "stories": [
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2055299836145254860",
+          "headline": "Elon Musk highlights X as the only platform with an open-source algorithm.",
+          "body": "Only \ud835\udd4f is open, the other social media companies manipulate the results behind closed doors",
+          "engagement": "30.1M views",
+          "views": 30059016
+        },
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2055314613387055516",
@@ -315,19 +323,19 @@
           "body": "The latest \ud835\udd4f algorithm has been published to GitHub\nhttps://github.com/xai-org/x-algorithm",
           "engagement": "28.9M views",
           "views": 28895335
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2055328660908048517",
-          "headline": "Elon Musk comments on Hollywood changes.",
-          "body": "There is hope, but there must be change",
-          "engagement": "21.3M views",
-          "views": 21320741
         }
       ]
     },
     "pods": {
       "stories": [
+        {
+          "handle": "TheoVon",
+          "url": "https://x.com/TheoVon/status/2055423408230240405",
+          "headline": "Theo Von responds to Joe Rogan comments about his mental health",
+          "body": "This is mostly \ud83e\udde2. Sad to see this kinda stuff.  Im doing great. Im a human being which is a rocky ride. But im doing fine thanks.",
+          "engagement": "7.2M views",
+          "views": 7178776
+        },
         {
           "handle": "theovon",
           "url": "https://x.com/theovon/status/2055423408230240405",
@@ -335,14 +343,6 @@
           "body": "This is mostly \ud83e\udde2. Sad to see this kinda stuff.  Im doing great. Im a human being which is a rocky ride. But im doing fine thanks.",
           "engagement": "6.1M views",
           "views": 6082668
-        },
-        {
-          "handle": "TheoVon",
-          "url": "https://x.com/TheoVon/status/2055423408230240405",
-          "headline": "Theo Von pushes back on reports about his recent struggles, saying he's doing fine.",
-          "body": "This is mostly \ud83e\udde2. Sad to see this kinda stuff.  Im doing great. Im a human being which is a rocky ride. But im doing fine thanks.",
-          "engagement": "4.96M views",
-          "views": 4959360
         },
         {
           "handle": "KillaKreww",
@@ -385,6 +385,14 @@
     "recipe": {
       "stories": [
         {
+          "handle": "McDonaldsJapan",
+          "url": "https://x.com/McDonaldsJapan/status/2055575724317384926",
+          "headline": "McDonald's Japan post about potato flavoring power.",
+          "body": "\u305d\u306e\u5473\u4ed8\u3051\u306b\u3088\u3063\u3066\n\u30dd\u30c6\u30c8\u306f\u9650\u308a\u306a\u304f\n\u5f37\u304f\u306a\u308b\u3053\u3068\u3082\u3067\u304d\u308b\u306e\u3060",
+          "engagement": "79.6K views",
+          "views": 79641
+        },
+        {
           "handle": "syunkon0507",
           "url": "https://x.com/syunkon0507/status/2055249621891625255",
           "headline": "Japanese rice cooker chicken and onion recipe shared with thanks",
@@ -393,20 +401,12 @@
           "views": 417272
         },
         {
-          "handle": "sirogohan_com",
-          "url": "https://x.com/sirogohan_com/status/2055480226487144699",
-          "headline": "Japanese beef and king oyster mushroom stir-fry recipe",
-          "body": "\u767d\u3054\u306f\u3093com\u306b\u7092\u3081\u7269\u30ec\u30b7\u30d4\u3092\u3072\u3068\u3064\u30a2\u30c3\u30d7\u3057\u307e\u3057\u305f\u3002\nhttps://www.sirogohan.com/recipe/gyuueringi/\n\n\u725b\u8089\u3068\u30a8\u30ea\u30f3\u30ae\u3068\u30d4\u30fc\u30de\u30f3\u3067\u3002\u7d44\u307f\u5408\u308f\u305b\u306e\u53c2\u8003\u306b\u306a\u308c\u3070\u3068\u601d\u3044\u307e\u3059\u3002\n\n\u500b\u4eba\u7684\u306a\u597d\u307f\u3067\u3059\u304c\u3001\u306a\u305c\u304b\u30a8\u30ea\u30f3\u30ae\u306f\u725b\u8089\u3068\u7092\u3081\u308b\u306e\u304c\u597d\u304d\u306a\u3093\u3067\u3059\u3088\u306d\u3002\u9999\u308a\u306e\u76f8\u6027\u304c\u8c5a\u8089\u3088\u308a\u3082\u725b\u8089\u306e\u307b\u3046\u304c\u3044\u3044\u3088\u3046\u306a\u6c17\u304c\u3057\u3066\u308b\u304b\u3089\u304b\u306a\u3068\u601d\u3044\u307e\u3059\u3002",
-          "engagement": "21K views",
-          "views": 21000
-        },
-        {
-          "handle": "miradreaamy",
-          "url": "https://x.com/miradreaamy/status/2055299434481697044",
-          "headline": "How to make homemade french fries correctly",
-          "body": "Evde patates k\u0131zartmas\u0131 yapman\u0131n do\u011fru yolu",
-          "engagement": "88.8K views",
-          "views": 88846
+          "handle": "business",
+          "url": "https://x.com/business/status/2055581536263508184",
+          "headline": "Bloomberg highlights enduring Peruvian cuisine traditions.",
+          "body": "This Andean nation\u2019s celebrated cuisine endures despite fading traditions and fragile supply chains.",
+          "engagement": "2.5K views",
+          "views": 2512
         }
       ]
     },
@@ -441,20 +441,12 @@
     "local": {
       "stories": [
         {
-          "handle": "NBCNews",
-          "url": "https://x.com/NBCNews/status/2055226799269777431",
-          "headline": "Southern California mayor resigns after pleading guilty to acting as foreign agent for China",
-          "body": "The resignation of a Southern California mayor who pleaded guilty to acting as a foreign agent for China has sparked backlash and reignited fears of anti-Asian discrimination.",
-          "engagement": "2.2M views",
-          "views": 2241955
-        },
-        {
           "handle": "KTLA",
           "url": "https://x.com/KTLA/status/2055504569690456573",
-          "headline": "Orange County man sentenced to life without parole for stabbing two men to death in Anaheim.",
+          "headline": "Orange County man sentenced to life without parole for Anaheim double stabbing",
           "body": "An Orange County man who ambushed two men and stabbed them to death at their Anaheim apartment was sentenced to life in prison without the possibility of parole.",
-          "engagement": "3K views",
-          "views": 3017
+          "engagement": "5281 views",
+          "views": 5281
         },
         {
           "handle": "KTLA",
@@ -463,6 +455,14 @@
           "body": "Organizers say it\u2019s the first time a blimp has attempted to land on a Southern California beach since the 1940s.",
           "engagement": "11K views",
           "views": 10991
+        },
+        {
+          "handle": "nypost",
+          "url": "https://x.com/nypost/status/2055328244283400290",
+          "headline": "Chilling warning from SoCal police after hidden cameras discovered outside homes",
+          "body": "Chilling warning from SoCal police after hidden cameras discovered outside homes",
+          "engagement": "7862 views",
+          "views": 7862
         }
       ]
     },
@@ -470,40 +470,32 @@
       "stories": [
         {
           "handle": "Daily_MailUS",
+          "url": "https://x.com/Daily_MailUS/status/2055404234263199940",
+          "headline": "Eight chilling never-before-seen UFO videos at center of explosive disclosure battle",
+          "body": "EXCLUSIVE: Eight chilling never-before-seen UFO videos at center of explosive disclosure battle detailed by insider",
+          "engagement": "154K views",
+          "views": 154172
+        },
+        {
+          "handle": "Daily_MailUS",
           "url": "https://x.com/Daily_MailUS/status/2055315452482523527",
-          "headline": "Pastor at secret UFO meeting reveals images of 'translucent beings' and biblical prophecy links",
+          "headline": "Pastor at secret UFO meeting reveals images of 'translucent beings' and dark biblical prophecy",
           "body": "Pastor at secret UFO meeting reveals images of 'translucent beings'... 'The files could fulfill a dark biblical prophecy'",
-          "engagement": "200K views",
-          "views": 200246
+          "engagement": "218K views",
+          "views": 218447
         },
         {
-          "handle": "davidicke",
-          "url": "https://x.com/davidicke/status/2055341609563390146",
-          "headline": "David Icke claims UFOs are human-made secret tech tied to deep state and Nazis",
-          "body": "Do 'aliens' exist? Of course, as in non-human entities malevolent and benevolent, within infinite reality. But does that mean 'flying saucers' have to be flown only by 'aliens'? Absolutely not. I have been writing since the 1990s about 'UFOs' (now 'UAPs') developed in secret projects and piloted by HUMANS.\nThe UFO phenomenon does not have just one explanation. It is more complex and a great way to hide the human UFOs is to point the finger at 'aliens' and provide the potential backdrop to a perceived 'alien invasion'. Be very careful, therefore, with military-intelligence claims about \u2018alien file\u2019 revelations and taking them on face value.\nNor do 'alien craft' flown by humans have to be the result of the reverse-engineering of \u2018crashed alien technology\u2019. There is a colossal difference between the apparent technological cutting edge in the public arena and the REAL cutting edge hidden away from the population. The result is that when people see 'flying saucers' and other tech they think it must be 'alien' when it doesn't have to be.\nWe are talking 'anti-gravity' technology in which an electromagnetic field projected around the craft disconnects it from the limitations of the perceived 'laws of physics'. This has been developed outside the public arena since way back and involved the American/British elite-funded and supported Nazis who escaped to the US after the war under the US intelligence Operation Paperclip. Many also went to Argentina. \nIt was these same Nazis and American elite that created the CIA, NASA, and what became known as the 'Deep State'. They together form the Global Cult that has no borders and what British Intelligence agent Ian Fleming referred to as SPECTRE in his James Bond novels. This Cult is in service to a non-human (of many types) other-dimensional force behind the manipulation of human society and which operates from the shadows.\nThere is a whole \u2018Secret Space Program\u2019 in which craft flown by humans can do all the speeds and manoeuvres portrayed in military radar footage which are so fantastic compared with public arena technology that people shout \u2018aliens\u2019 when it doesn\u2019t have to be.\nThere is an enormous scam being played out here and pegged to the latest Steven Spielberg \u2018alien\u2019 movie, Disclosure Day out in June. Nothing is black and white \u2013 most certainly not this.",
-          "engagement": "42K views",
-          "views": 42389
-        },
-        {
-          "handle": "TheProjectUnity",
-          "url": "https://x.com/TheProjectUnity/status/2055301083480601084",
-          "headline": "Name a conspiracy once thought dumb that now seems very real",
-          "body": "Name a conspiracy you thought was dumb, but now realise is very real.",
-          "engagement": "38K views",
-          "views": 37536
+          "handle": "overclassifiedx",
+          "url": "https://x.com/overclassifiedx/status/2055367860273439127",
+          "headline": "Pastors briefed on translucent alien beings in UFO files fulfilling biblical prophecy",
+          "body": "\ud83d\udea8\ud83d\udea8 PASTORS: TRANSLUCENT ALIEN BEINGS IN UFO FILES FULFILL BIBLICAL PROPHECY! \ud83d\udc7d\u26ea\ud83d\udd25\n\nChristian leaders including Pastor Joseph Zupetz and Tony Merkel attended a secret February 2026 briefing in remote Tennessee with intel insiders and ex military.\n\nThey saw images of \"translucent beings\", eerie long limbed entities, and were told the disclosures involve interdimensional beings.\n\nThis follows the Trump admin\u2019s first UAP file drop on May 8, 2026, with more releases coming in the next few weeks.\n\nThe veil is lifting. Are these the end times deception foretold in scripture? The biggest spiritual bombshell in history is unfolding now.\n\nDemonic, alien, or both? \ud83d\udc47",
+          "engagement": "61K views",
+          "views": 61395
         }
       ]
     },
     "comedy": {
       "stories": [
-        {
-          "handle": "HilariousFightz",
-          "url": "https://x.com/HilariousFightz/status/2055190540829008171",
-          "headline": "Viral clip of man with private part stuck in car door",
-          "body": "I done seen a lot but never a DICK \ud83c\udf46STUCK IN A CAR DOOR WTF then the teethhhhhhhh \ud83e\udd26\ud83c\udffd\u200d\u2642\ufe0f\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
-          "engagement": "3.5M views",
-          "views": 3494437
-        },
         {
           "handle": "ItsAmahAdoma",
           "url": "https://x.com/ItsAmahAdoma/status/2055238948419444896",
@@ -519,9 +511,17 @@
           "body": "VOPE SO FUNNY\ud83d\ude2d",
           "engagement": "95K views",
           "views": 95496
+        },
+        {
+          "handle": "whisperfootSFW",
+          "url": "https://x.com/whisperfootSFW/status/2055382620419108903",
+          "headline": "Hallway meme template",
+          "body": "Empty version of the chance encounter hallway meme for your needs :3",
+          "engagement": "78K views",
+          "views": 78041
         }
       ]
     }
   },
-  "last_updated": "2026-05-16T06:22:47.065482"
+  "last_updated": "2026-05-16T09:41:48.228962"
 }
