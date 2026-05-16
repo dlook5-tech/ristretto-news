@@ -3,6 +3,37 @@
     "world": {
       "stories": [
         {
+          "headline": "Today marks the 78th anniversary of the Nakba",
+          "url": "https://x.com/PopBase/status/2055263332513223160",
+          "handle": "PopBase",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "IsraelMFA",
+              "url": "https://x.com/IsraelMFA/status/2055599309656121390",
+              "body": "To the Nakba glorifiers: The Nakba was the result of the Arab rejection of the UN Partition Plan & decision to launch war to annihilate the State of Israel. You can't start war, openly vow to \u201cthrow the Jews into the sea,\u201d and then pretend being the victim of the conflict you started. The real forgotten victims are the 850,000 Jewish refugees expelled from Arab countries at the same time.",
+              "engagement": "865 likes",
+              "views": 16660
+            },
+            {
+              "label": "Independent",
+              "handle": "PopBase",
+              "url": "https://x.com/PopBase/status/2055263332513223160",
+              "body": "Today marks the 78th anniversary of the Nakba (catastrophe), during which more than 750,000 Palestinians were expelled and over 400 villages were destroyed to establish the State of Israel.",
+              "engagement": "312k likes",
+              "views": 4050449
+            },
+            {
+              "label": "Democrat",
+              "handle": "abierkhatib",
+              "url": "https://x.com/abierkhatib/status/2055287935507767409",
+              "body": "I\u2019m a 4th generation Palestinian, and the Nakba has never ended. They\u2019ve made sure that every new generation of Palestinians watches a live-streamed genocide in real time, just to keep their pedophilic little state alive.",
+              "engagement": "1.6k likes",
+              "views": 31831
+            }
+          ]
+        },
+        {
           "headline": "PM Modi concludes productive visit to UAE strengthening India-UAE ties",
           "url": "https://x.com/narendramodi/status/2055310688781025370",
           "handle": "narendramodi",
@@ -26,64 +57,33 @@
           ]
         },
         {
-          "headline": "78th anniversary of the Nakba marked with remembrance of Palestinian displacement",
-          "url": "https://x.com/PopBase/status/2055263332513223160",
-          "handle": "PopBase",
+          "headline": "Russian President Putin to visit China next week for talks with President Xi Jinping",
+          "url": "https://x.com/BRICSinfo/status/2055390367361405099",
+          "handle": "BRICSinfo",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "CatShoshanna",
-              "url": "https://x.com/CatShoshanna/status/2055301683249315888",
-              "body": "Happy Nakba Day to all who celebrate the Arabs self-inflicted catastrophic loss in the war they started in 1948, followed by 78 years of nonstop humiliating defeats dressed up as sacred victimhood ever since \ud83c\uddee\ud83c\uddf1\u2764\ufe0f",
-              "engagement": "55K views",
-              "views": 55916
+              "handle": "BRICSinfo",
+              "url": "https://x.com/BRICSinfo/status/2055390367361405099",
+              "body": "JUST IN: \ud83c\uddf7\ud83c\uddfa\ud83c\udde8\ud83c\uddf3 Russian President Putin to visit China next week for talks with President Xi Jinping.",
+              "engagement": "18k likes",
+              "views": 518712
             },
             {
               "label": "Independent",
-              "handle": "PopBase",
-              "url": "https://x.com/PopBase/status/2055263332513223160",
-              "body": "Today marks the 78th anniversary of the Nakba (catastrophe), during which more than 750,000 Palestinians were expelled and over 400 villages were destroyed to establish the State of Israel.",
-              "engagement": "3.47M views",
-              "views": 3471825
+              "handle": "the_hindu",
+              "url": "https://x.com/the_hindu/status/2055583819621978185",
+              "body": "JUST IN | China has announced that Russia's Vladimir Putin will be visiting the country from May 19 to May 20.",
+              "engagement": "15 likes",
+              "views": 1696
             },
             {
               "label": "Democrat",
-              "handle": "PalestinePMO",
-              "url": "https://x.com/PalestinePMO/status/2055175740795043897",
-              "body": "The #Nakba was never a moment frozen in history\u2014it is a continuing reality of killing, displacement, siege, occupation, & exile. But memory does not die. Keys are still kept. Names are still remembered. And a people who carry their homeland in their hearts will never disappear.",
-              "engagement": "52K views",
-              "views": 52196
-            }
-          ]
-        },
-        {
-          "headline": "US and Nigerian forces kill senior ISIS leader in Nigeria",
-          "url": "https://x.com/nicksortor/status/2055500452280582429",
-          "handle": "nicksortor",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "nicksortor",
-              "url": "https://x.com/nicksortor/status/2055500452280582429",
-              "body": "\ud83d\udea8 BREAKING: President Trump announced American forces have executed an operation to KlLL ISIS' global second in command, Abu-Bilal al Minuki, in Nigeria",
-              "engagement": "283K views",
-              "views": 283978
-            },
-            {
-              "label": "Independent",
-              "handle": "BBCWorld",
-              "url": "https://x.com/BBCWorld/status/2055536490331971604",
-              "body": "Trump says senior IS leader killed by US and Nigerian forces",
-              "engagement": "65K views",
-              "views": 65422
-            },
-            {
-              "label": "Democrat",
-              "handle": "business",
-              "url": "https://x.com/business/status/2055510655348637809",
-              "body": "US and Nigerian forces killed an ISIS leader who was hiding in Africa, President Donald Trump said, adding that his death has \u201cgreatly diminished\u201d the group\u2019s global operations",
-              "engagement": "19K views",
-              "views": 19431
+              "handle": "RudawEnglish",
+              "url": "https://x.com/RudawEnglish/status/2055568774338642022",
+              "body": "President Vladimir Putin will pay an official visit to China on Tuesday at the invitation of Chinese President Xi Jinping, with the two leaders expected to discuss bilateral cooperation, global geopolitical tensions, and major international issues, the Kremlin announced.",
+              "engagement": "2 likes",
+              "views": 590
             }
           ]
         }
@@ -92,33 +92,64 @@
     "usa": {
       "stories": [
         {
-          "headline": "Trump meets Xi in China, praises strong future US-China ties",
-          "url": "https://x.com/WhiteHouse/status/2055049458530877831",
-          "handle": "WhiteHouse",
+          "headline": "Trump administration moves to settle IRS lawsuit and create fund for allies",
+          "url": "https://x.com/CAgovernor/status/2055442728155295958",
+          "handle": "CAgovernor",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "WhiteHouse",
-              "url": "https://x.com/WhiteHouse/status/2055049458530877831",
-              "body": "\"When President Xi very elegantly referred to the United States as perhaps being a declining nation, he was referring to the tremendous damage we suffered during the four years of Sleepy Joe Biden... But now, the United States is the hottest Nation anywhere in the world\" - President Donald J. Trump",
-              "engagement": "2.8M views",
-              "views": 2837303
+              "handle": "RealJamesWoods",
+              "url": "https://x.com/RealJamesWoods/status/2055311382678270312",
+              "body": "No Trump judges, no voter ID SAVE Act, 50 bills already passed by the house in limbo. Pardon my language, but this guy is a worthless piece of shit. He\u2019s worse than a grifter Democrat. Fetterman has done more for the Republican platform than this weasel. Treacherous rat.",
+              "engagement": "554K views",
+              "views": 554197
             },
             {
               "label": "Independent",
-              "handle": "BRICSinfo",
-              "url": "https://x.com/BRICSinfo/status/2055289850648019253",
-              "body": "JUST IN: Chinese President Xi Jinping to visit the United States in autumn.",
-              "engagement": "148K views",
-              "views": 148127
+              "handle": "EricLDaugh",
+              "url": "https://x.com/EricLDaugh/status/2055621695260475427",
+              "body": "\ud83d\udea8 IT\u2019S OFFICIAL: Rep. Randy Fine has discovered Ilhan Omar is STILL an active citizen of Somalia, and is moving to pass a bill BANNING dual citizens from serving in congress",
+              "engagement": "30K views",
+              "views": 30895
             },
             {
               "label": "Democrat",
-              "handle": "RpsAgainstTrump",
-              "url": "https://x.com/RpsAgainstTrump/status/2054757652987527249",
-              "body": "Trump to Xi: \u201cWe're going to have a fantastic future together. I have such respect for China. The job you've done. You're a great leader\u2026It\u2019s an honor to be with you. It\u2019s an honor to be your friend\u201d (Compare this to how Trump talks about President Zelenskyy and America\u2019s closest allies in Europe)",
-              "engagement": "1M views",
-              "views": 1028928
+              "handle": "CAgovernor",
+              "url": "https://x.com/CAgovernor/status/2055442728155295958",
+              "body": "Waste, fraud, and abuse in the flesh. Donald Trump wants to settle his joke lawsuit against his own IRS department to hand out $1.7 BILLION of OUR TAX DOLLARS to Jan. 6th insurrectionists and his cronies.",
+              "engagement": "40K views",
+              "views": 40437
+            }
+          ]
+        },
+        {
+          "headline": "US forces kill top ISIS commander in Nigeria in joint operation",
+          "url": "https://x.com/PeteHegseth/status/2055597053598703994",
+          "handle": "PeteHegseth",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "PeteHegseth",
+              "url": "https://x.com/PeteHegseth/status/2055597053598703994",
+              "body": "Last night U.S. forces, in coordination with the Armed Forces of Nigeria, killed Abu-Bilal al-Minuki and other ISIS leaders. Back in November 2025, President Trump declared to the world that we will help protect Christians in Nigeria...",
+              "engagement": "467K views",
+              "views": 467001
+            },
+            {
+              "label": "Independent",
+              "handle": "EricLDaugh",
+              "url": "https://x.com/EricLDaugh/status/2055614162575749493",
+              "body": "\ud83d\udea8 WOW! President Trump got back to the White House and immediately had an ISIS commander KILLED by the U.S. military in Nigeria This guy never stops \ud83d\udd25\ud83d\udd25",
+              "engagement": "43K views",
+              "views": 43446
+            },
+            {
+              "label": "Democrat",
+              "handle": "dbongino",
+              "url": "https://x.com/dbongino/status/2055621400522580319",
+              "body": "Today is May 16, 2026 and Donald J. Trump is the President of the United States of America.",
+              "engagement": "48K views",
+              "views": 48756
             }
           ]
         },
@@ -152,37 +183,6 @@
               "views": 288500
             }
           ]
-        },
-        {
-          "headline": "Trump administration denies federal protections for monarch butterfly",
-          "url": "https://x.com/factpostnews/status/2055333187409084830",
-          "handle": "factpostnews",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "RapidResponse47",
-              "url": "https://x.com/RapidResponse47/status/2055417978611454274",
-              "body": ".@POTUS on Iran: \"I'm going to do what's right. I have to do what's right... The Strait will be opened, they will not have a nuclear weapon, and the world will go on.\"",
-              "engagement": "201K views",
-              "views": 200793
-            },
-            {
-              "label": "Independent",
-              "handle": "factpostnews",
-              "url": "https://x.com/factpostnews/status/2055333187409084830",
-              "body": "The Trump administration has denied federal protections for the monarch butterfly.",
-              "engagement": "1.1M views",
-              "views": 1139808
-            },
-            {
-              "label": "Democrat",
-              "handle": "internatio56662",
-              "url": "https://x.com/internatio56662/status/2055397156845191505",
-              "body": "\ud83d\udea8\ud83c\uddf2\ud83c\uddfd\ud83c\uddfa\ud83c\uddf8 | #BREAKING NIGHTFALL IS COMING FOR THE TABASCO CARTEL: The United States Department of Justice is reportedly seeking to triple criminal charges against Mexican narco-politicians, instructing federal prosecutors to pursue aggressive indictments as part of President Trump\u2019s offensive against drug cartels, according to revelations published by the New York Times.",
-              "engagement": "188K views",
-              "views": 188338
-            }
-          ]
         }
       ]
     },
@@ -197,20 +197,20 @@
           "views": 1187948
         },
         {
+          "handle": "nikkei",
+          "url": "https://x.com/nikkei/status/2055576819353489693",
+          "headline": "SBI and Rakuten to sell cryptocurrency investment trusts after 2028 deregulation, Nomura also considering",
+          "body": "\u4eee\u60f3\u901a\u8ca8\u6295\u4fe1\u3092SBI\u30fb\u697d\u5929\u304c\u8ca9\u58f2\u3078\u300028\u5e74\u306e\u89e3\u7981\u5f8c\u3001\u91ce\u6751\u3082\u691c\u8a0e",
+          "engagement": "322K views",
+          "views": 321815
+        },
+        {
           "handle": "SenWarren",
           "url": "https://x.com/SenWarren/status/2055296627389182424",
           "headline": "Senator Elizabeth Warren calls for banning stock trading by President, VP, and Congress members.",
           "body": "Ban stock trading by the President.\n\nBan stock trading by the Vice President.\n\nBan stock trading by members of Congress.\n\nEnd the corruption.",
           "engagement": "686K views",
           "views": 685863
-        },
-        {
-          "handle": "TedPillows",
-          "url": "https://x.com/TedPillows/status/2055561094995808754",
-          "headline": "Ethereum ETF sees $65.7M outflow yesterday",
-          "body": "$ETH ETF outflow of $65,700,000 \ud83d\udd34 yesterday.\n\nBlackRock sold $50,400,000 in Ethereum.",
-          "engagement": "49K views",
-          "views": 49253
         }
       ]
     },
@@ -225,20 +225,20 @@
           "views": 1189408
         },
         {
-          "handle": "FoxNews",
-          "url": "https://x.com/FoxNews/status/2055326776549605474",
-          "headline": "U.S. Attorney announces crackdown on parents of D.C. teen takeover participants",
-          "body": "BREAKING: U.S. Attorney Jeanine Pirro announces a major crackdown on parents who let their children take part in teen takeovers that have been causing chaos throughout Washington, D.C.\n\nPirro vows to prosecute parents who fail to supervise their children, threatening the adults with fines and even jail times.\n\n\"If the evidence shows the parent knew or should have known or permitted or failed to prevent participation, we're going to charge them.\"\n\n\"If you drop your kid off and you fail to supervise them, or you let them skip school to join the chaos, you are going to face fines, court ordered classes, and possible jail time\"",
-          "engagement": "432K views",
-          "views": 432146
+          "handle": "iioacohol",
+          "url": "https://x.com/iioacohol/status/2055588805504270598",
+          "headline": "Video of train colliding with bus causing fire in Bangkok area",
+          "body": "\u0e40\u0e1b\u0e34\u0e14\u0e19\u0e32\u0e17\u0e35!! \u0e23\u0e16\u0e44\u0e1f\u0e0a\u0e19\u0e23\u0e16\u0e40\u0e21\u0e25\u0e4c\u0e44\u0e1f\u0e25\u0e38\u0e01\u0e44\u0e2b\u0e21\u0e49 \u0e16.\u0e2d\u0e42\u0e28\u0e01\u0e14\u0e34\u0e19\u0e41\u0e14\u0e07 \u0e1a\u0e23\u0e34\u0e40\u0e27\u0e13\u0e17\u0e32\u0e07\u0e23\u0e16\u0e44\u0e1f\u0e21\u0e31\u0e01\u0e01\u0e30\u0e2a\u0e31\u0e19 \u0e44\u0e21\u0e48\u0e08\u0e33\u0e40\u0e1b\u0e47\u0e19\u0e2b\u0e25\u0e35\u0e01\u0e40\u0e25\u0e35\u0e48\u0e22\u0e07\u0e40\u0e2a\u0e49\u0e19\u0e17\u0e32\u0e07 \u0e40\u0e2a\u0e35\u0e22\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e41\u0e25\u0e49\u0e278\u0e23\u0e32\u0e22\n\n#\u0e23\u0e16\u0e44\u0e1f\u0e0a\u0e19\u0e23\u0e16\u0e40\u0e21\u0e25\u0e4c\n#\u0e21\u0e31\u0e01\u0e01\u0e30\u0e2a\u0e31\u0e19\n#\u0e2d\u0e42\u0e28\u0e01\u0e14\u0e34\u0e19\u0e41\u0e14\u0e07",
+          "engagement": "1.1M views",
+          "views": 1060750
         },
         {
-          "handle": "tanyarlfes",
-          "url": "https://x.com/tanyarlfes/status/2055552600922116436",
-          "headline": "Indonesian video clip of president speaking directly",
-          "body": "\ud83d\udc9a ini yg ngomong PRESIDEN langsung btw. bukan BUZZERNYA bukan PENDUKUNGNYA. literally PRESIDEN LANGSUNG. udah gasanggup nanggepinnya.  SELAMAT aja dah  buat KALIAN yg milih dia kemarin",
-          "engagement": "206K views",
-          "views": 206305
+          "handle": "rai_173",
+          "url": "https://x.com/rai_173/status/2055539249601192001",
+          "headline": "Nijisanji VTuber dancing energetically in shorts video",
+          "body": "\u306b\u304e\u306b\u304e\u306b\u3058\u305f\u3046\u3093\uff01 \u8e0a\u3063\u305f\uff57/ \u661f\u5c0e\u30b7\u30e7\u30a6, \u7dcb\u516b\u30de\u30ca\u3010 \u4f0a\u6ce2\u30e9\u30a4 / \u306b\u3058\u3055\u3093\u3058 \u3011#shorts https://www.youtube.com/shorts/wdgxja8twtg?si=ZXUoCde8flWb-7Vb @YouTube\u3088\u308a",
+          "engagement": "927K views",
+          "views": 926724
         }
       ]
     },
@@ -254,31 +254,31 @@
         },
         {
           "handle": "AP",
+          "url": "https://x.com/AP/status/2055626837057815036",
+          "headline": "NYC gallery turns Epstein files into 3,500-volume 'Trump and Epstein Memorial Reading Room'",
+          "body": "A New York City gallery has transformed 3.5 million Epstein files into nearly 3,500 printed volumes \u2014 creating what organizers call the \u201cDonald J. Trump and Jeffrey Epstein Memorial Reading Room\u201d in Manhattan\u2019s Tribeca neighborhood.",
+          "engagement": "41K views",
+          "views": 41481
+        },
+        {
+          "handle": "AP",
           "url": "https://x.com/AP/status/2055308051385643287",
           "headline": "Texas Supreme Court rejects governor's effort to remove Democrats from office",
           "body": "BREAKING: The Texas Supreme Court rejects the governor's effort to remove Democrats from office over leaving the state to delay redistricting.",
           "engagement": "449K views",
           "views": 449162
-        },
-        {
-          "handle": "AP",
-          "url": "https://x.com/AP/status/2055358521382699213",
-          "headline": "Nvidia CEO Jensen Huang samples Beijing noodles during China visit",
-          "body": "Nvidia CEO Jensen Huang was spotted trying some of Beijing\u2019s delicacies. He was seen at No. 69 Fangzhuanchang Noodles, tucking into a bowl of \u201czhajiangmian\u201d \u2014 a Beijing specialty that features noodles covered in a thick soybean-paste sauce mixed with vegetables and meat.",
-          "engagement": "355K views",
-          "views": 354956
         }
       ]
     },
     "sports": {
       "stories": [
         {
-          "handle": "premierleague",
-          "url": "https://x.com/premierleague/status/2055573973472071893",
-          "headline": "Arsenal and Man City title race set for weekend action",
-          "body": "We'll have to wait until after the weekend to see what @arsenal and @mancity have got in store for us in the title race \ud83c\udf7f",
-          "engagement": "63K views",
-          "views": 63287
+          "handle": "SkySportsPL",
+          "url": "https://x.com/SkySportsPL/status/2055304697263616252",
+          "headline": "Nominees announced for Premier League Young Player of the Season",
+          "body": "The nominees for Premier League Young Player of the Season! \ud83c\udf1f\n\nWho wins it? \ud83e\udd14",
+          "engagement": "2.3M views",
+          "views": 2313738
         },
         {
           "handle": "FabrizioRomano",
@@ -289,12 +289,12 @@
           "views": 912336
         },
         {
-          "handle": "ChelseaFC",
-          "url": "https://x.com/ChelseaFC/status/2055524394819367098",
-          "headline": "Chelsea FC ready for FA Cup final showdown",
-          "body": "It's FA Cup final day! \ud83c\udfc6  Let's do this - together. \ud83d\ude24 #CFC | #EmiratesFACup",
-          "engagement": "178K views",
-          "views": 177871
+          "handle": "premierleague",
+          "url": "https://x.com/premierleague/status/2055573973472071893",
+          "headline": "Arsenal and Man City title race awaits weekend results",
+          "body": "We'll have to wait until after the weekend to see what @arsenal and @mancity have got in store for us in the title race \ud83c\udf7f",
+          "engagement": "184K views",
+          "views": 184257
         }
       ]
     },
@@ -318,11 +318,11 @@
         },
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2055277918633562153",
-          "headline": "Elon Musk announces latest X algorithm published to GitHub.",
-          "body": "The latest \ud835\udd4f algorithm has been published to GitHub\nhttps://github.com/xai-org/x-algorithm",
-          "engagement": "28.9M views",
-          "views": 28895335
+          "url": "https://x.com/elonmusk/status/2055336163742019598",
+          "headline": "Elon Musk shares podcast listening speed habits",
+          "body": "Most podcasts I listen to at 2X speed, but Ben is only at 1.5X speed",
+          "engagement": "957K views",
+          "views": 957435
         }
       ]
     },
@@ -331,10 +331,10 @@
         {
           "handle": "TheoVon",
           "url": "https://x.com/TheoVon/status/2055423408230240405",
-          "headline": "Theo Von responds to Joe Rogan comments about his mental health",
+          "headline": "Theo Von pushes back on reports about his mental health from Joe Rogan's podcast.",
           "body": "This is mostly \ud83e\udde2. Sad to see this kinda stuff.  Im doing great. Im a human being which is a rocky ride. But im doing fine thanks.",
-          "engagement": "7.2M views",
-          "views": 7178776
+          "engagement": "8.5M views",
+          "views": 8528788
         },
         {
           "handle": "theovon",
@@ -345,12 +345,12 @@
           "views": 6082668
         },
         {
-          "handle": "KillaKreww",
-          "url": "https://x.com/KillaKreww/status/2055291583746945259",
-          "headline": "Mike Tyson laughs uncontrollably after provoking Theo Von to scream about being a 'n*gga lover' on podcast.",
-          "body": "Mike Tyson couldn\u2019t stop LAUGHING after he made Theo Von SCREAM that he\u2019s a \u201cn*gga lover\u201d mid podcast \ud83e\udd23\ud83e\udd23\ud83d\udd25",
-          "engagement": "753K views",
-          "views": 752908
+          "handle": "GPrime85",
+          "url": "https://x.com/GPrime85/status/2055479568572600796",
+          "headline": "Cartoonist comments on Joe Rogan's advice circle and Theo Von.",
+          "body": "Rogan's circle are like those friends who try to offer advice but none of them have it together, they're just spiraling down at different altitudes. Best thing to do is spend time with the Lord and let Him rebuild us. Like CS Lewis wrote, when we're lost, the best way back onto the road is to make a u-turn",
+          "engagement": "8K views",
+          "views": 8136
         }
       ]
     },
@@ -385,6 +385,14 @@
     "recipe": {
       "stories": [
         {
+          "handle": "SW_Chief",
+          "url": "https://x.com/SW_Chief/status/2055595968478028032",
+          "headline": "Squid and broad bean ajillo as signature izakaya menu item",
+          "body": "\u305d\u3089\u8c46\u3068\u305f\u3053\u306e\u30a2\u30d2\u30fc\u30b8\u30e7\n\u5c45\u9152\u5c4b\u30c1\u30fc\u30d5\u306e\u770b\u677f\u30e1\u30cb\u30e5\u30fc\u306b\u3057\u305f\u3044",
+          "engagement": "62.8K views",
+          "views": 62752
+        },
+        {
           "handle": "McDonaldsJapan",
           "url": "https://x.com/McDonaldsJapan/status/2055575724317384926",
           "headline": "McDonald's Japan post about potato flavoring power.",
@@ -393,41 +401,17 @@
           "views": 79641
         },
         {
-          "handle": "syunkon0507",
-          "url": "https://x.com/syunkon0507/status/2055249621891625255",
-          "headline": "Japanese rice cooker chicken and onion recipe shared with thanks",
-          "body": "\u3053\u306e\u30ec\u30b7\u30d4\u30015\u5e74\u8d8a\u3057\u306b\u305f\u304f\u3055\u3093\u4f5c\u3063\u3066\u304f\u3060\u3055\u3063\u3066\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\ud83d\ude4f(\u30db\u30c3\u30c8\u30af\u30c3\u30af\u3084\u5727\u529b\u934b\u306e\u5834\u5408\u304a\u3067\u3093\u3084\u53c2\u9d8f\u6e6f\u30e2\u30fc\u30c9\u3067\u3067\u304d\u308b\u305d\u3046\u3067\u3059)\n\n\u51b7\u51cd\u8089\u3092\u305d\u306e\u307e\u307e\u708a\u98ef\u5668\u3042\u308b\u3044\u306f\u30ec\u30f3\u30b8\u3067\u8abf\u7406\u3059\u308b\u30b7\u30ea\u30fc\u30ba\u306fsyunkon\u30ab\u30d5\u30a7\u3054\u306f\u30938\u306b\u5168\u90e8\u3044\u308c\u3066\u307e\u3059\uff01\n\nhttps://www.amazon.co.jp/dp/4299056574?ref=cm_sw_r_mwn_dp_MFY8DPZ6EK95QN66ZVRF&ref_=cm_sw_r_mwn_dp_MFY8DPZ6EK95QN66ZVRF&social_share=cm_sw_r_mwn_dp_MFY8DPZ6EK95QN66ZVRF&language=en_US\n\nhttps://books.rakuten.co.jp/rb/17865704/",
-          "engagement": "417K views",
-          "views": 417272
-        },
-        {
-          "handle": "business",
-          "url": "https://x.com/business/status/2055581536263508184",
-          "headline": "Bloomberg highlights enduring Peruvian cuisine traditions.",
-          "body": "This Andean nation\u2019s celebrated cuisine endures despite fading traditions and fragile supply chains.",
-          "engagement": "2.5K views",
-          "views": 2512
+          "handle": "Tspiceskitchen",
+          "url": "https://x.com/Tspiceskitchen/status/2055618344170946809",
+          "headline": "Full pot of Nigerian chicken stew recipe walkthrough",
+          "body": "Cook a full pot of Nigerian chicken stew with me for the weekend! \n\nI spent 23k\n how i made it\ud83d\udc47 is this your style?",
+          "engagement": "17.2K views",
+          "views": 17159
         }
       ]
     },
     "science": {
       "stories": [
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2055277918633562153",
-          "headline": "X publishes latest algorithm code to GitHub",
-          "body": "The latest \ud835\udd4f algorithm has been published to GitHub\nhttps://github.com/xai-org/x-algorithm",
-          "engagement": "28.9M views",
-          "views": 28895335
-        },
-        {
-          "handle": "unusual_whales",
-          "url": "https://x.com/unusual_whales/status/2055256127328166020",
-          "headline": "Axios reports AI now costs more than human workers",
-          "body": "\"AI can cost more than human workers now,\" per Axios",
-          "engagement": "1.6M views",
-          "views": 1618046
-        },
         {
           "handle": "thsottiaux",
           "url": "https://x.com/thsottiaux/status/2055446089957036402",
@@ -435,18 +419,34 @@
           "body": "We found and fixed two issues that could explain this degradation of the capability of GPT-5.5 in Codex over the last ~ 48 hours. \n\nWe are monitoring over the coming hours to fully confirm and I will reset usage limits this evening.\n\nApologies and now is the time for /fast maxxing.",
           "engagement": "510.1K views",
           "views": 510062
+        },
+        {
+          "handle": "washingtonpost",
+          "url": "https://x.com/washingtonpost/status/2055634488609108474",
+          "headline": "New research links optimism to better heart health",
+          "body": "For decades, heart health advice has focused on a few key pillars: eat healthy, exercise and manage blood pressure and stress.\n\nBut new research suggests there may be a less obvious factor that can influence cardiovascular health: optimism. https://www.washingtonpost.com/lifestyle/2026/05/14/studies-link-optimism-better-heart-health-lower-risk-disease/?utm_campaign=wp_main&utm_source=facebook&utm_medium=social",
+          "engagement": "8K views",
+          "views": 8445
+        },
+        {
+          "handle": "NextScience",
+          "url": "https://x.com/NextScience/status/2055294445558362288",
+          "headline": "Removing one protein halts Alzheimer's symptoms in studies",
+          "body": "\ud83d\udea8 THEY REMOVED ONE PROTEIN\u2026 AND ALZHEIMER\u2019S SYMPTOMS STOPPED\n\nScientists made a shocking discovery in Alzheimer\u2019s research. Even when harmful brain plaques were still present, removing just one protein stopped memory and brain function problems in studies. This suggests the real trigger behind Alzheimer\u2019s may not be the plaques alone, but hidden processes happening deep inside brain cells.\n\nThe breakthrough could completely change how future Alzheimer\u2019s treatments are designed \u2014 giving new hope to millions of families worldwide.\n\nSource:\nUniversity of California San Diego. Removing one protein halts Alzheimer\u2019s symptoms despite remaining plaques",
+          "engagement": "4K views",
+          "views": 3913
         }
       ]
     },
     "local": {
       "stories": [
         {
-          "handle": "KTLA",
-          "url": "https://x.com/KTLA/status/2055504569690456573",
-          "headline": "Orange County man sentenced to life without parole for Anaheim double stabbing",
-          "body": "An Orange County man who ambushed two men and stabbed them to death at their Anaheim apartment was sentenced to life in prison without the possibility of parole.",
-          "engagement": "5281 views",
-          "views": 5281
+          "handle": "latimes",
+          "url": "https://x.com/latimes/status/2055622053365981433",
+          "headline": "Winds to whip Southern California, boosting risk of fires",
+          "body": "Winds to whip Southern California, boosting risk of fires and dangerous seas https://www.latimes.com/california/story/2026-05-15/windy-la-region-forecast-increases-high-surf-fire-risks-this-weekend",
+          "engagement": "2.1K views",
+          "views": 2145
         },
         {
           "handle": "KTLA",
@@ -457,12 +457,12 @@
           "views": 10991
         },
         {
-          "handle": "nypost",
-          "url": "https://x.com/nypost/status/2055328244283400290",
-          "headline": "Chilling warning from SoCal police after hidden cameras discovered outside homes",
-          "body": "Chilling warning from SoCal police after hidden cameras discovered outside homes",
-          "engagement": "7862 views",
-          "views": 7862
+          "handle": "KTLA",
+          "url": "https://x.com/KTLA/status/2055504569690456573",
+          "headline": "Orange County man sentenced to life without parole for Anaheim double stabbing",
+          "body": "An Orange County man who ambushed two men and stabbed them to death at their Anaheim apartment was sentenced to life in prison without the possibility of parole.",
+          "engagement": "5281 views",
+          "views": 5281
         }
       ]
     },
@@ -473,8 +473,8 @@
           "url": "https://x.com/Daily_MailUS/status/2055404234263199940",
           "headline": "Eight chilling never-before-seen UFO videos at center of explosive disclosure battle",
           "body": "EXCLUSIVE: Eight chilling never-before-seen UFO videos at center of explosive disclosure battle detailed by insider",
-          "engagement": "154K views",
-          "views": 154172
+          "engagement": "168K views",
+          "views": 168077
         },
         {
           "handle": "Daily_MailUS",
@@ -497,12 +497,12 @@
     "comedy": {
       "stories": [
         {
-          "handle": "ItsAmahAdoma",
-          "url": "https://x.com/ItsAmahAdoma/status/2055238948419444896",
-          "headline": "Video clip of a man displaying humorous expressions",
-          "body": "This guy is effortlessly funny \ud83d\ude02\ud83d\ude2d\ud83d\ude2d",
-          "engagement": "743K views",
-          "views": 743262
+          "handle": "ImMeme0",
+          "url": "https://x.com/ImMeme0/status/2055351387605586333",
+          "headline": "Viral comedy clip satirizing political threat",
+          "body": "Obama supporter is threatening President Trump, stating that he has nowhere to hide and that he is here to liberate \u201call his people,\u201d while showing his gun and sword.\n\nThe mental health crisis is getting out of control. Someone needs to check on this lunatic.",
+          "engagement": "213K views",
+          "views": 213121
         },
         {
           "handle": "archivefortae",
@@ -513,15 +513,15 @@
           "views": 95496
         },
         {
-          "handle": "whisperfootSFW",
-          "url": "https://x.com/whisperfootSFW/status/2055382620419108903",
-          "headline": "Hallway meme template",
-          "body": "Empty version of the chance encounter hallway meme for your needs :3",
-          "engagement": "78K views",
-          "views": 78041
+          "handle": "TheBabylonBee",
+          "url": "https://x.com/TheBabylonBee/status/2055407925179408445",
+          "headline": "Satirical headline about comedian Chelsea Handler",
+          "body": "Nation Just Realized Chelsea Handler Has Been Trying To Be Funny This Whole Time https://babylonbee.com/news/nation-just-realized-chelsea-handler-has-been-trying-to-be-funny-this-whole-time",
+          "engagement": "103K views",
+          "views": 103272
         }
       ]
     }
   },
-  "last_updated": "2026-05-16T09:41:48.228962"
+  "last_updated": "2026-05-16T13:24:00.296057"
 }
