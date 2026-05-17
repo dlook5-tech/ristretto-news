@@ -3,68 +3,6 @@
     "world": {
       "stories": [
         {
-          "headline": "Mass UK protests demand country back from elites",
-          "url": "https://x.com/TRobinsonNewEra/status/2055615353678422326",
-          "handle": "TRobinsonNewEra",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "TRobinsonNewEra",
-              "url": "https://x.com/TRobinsonNewEra/status/2055615353678422326",
-              "body": "We want our country back . Millions are in attendance",
-              "engagement": "19.8M views",
-              "views": 19817529
-            },
-            {
-              "label": "Independent",
-              "handle": "elonmusk",
-              "url": "https://x.com/elonmusk/status/2055691590920794206",
-              "body": "The thousands of British people imprisoned merely for social media posts or speaking their mind need to be released! No more prison island!!",
-              "engagement": "14.7M views",
-              "views": 14753801
-            },
-            {
-              "label": "Democrat",
-              "handle": "Inevitablewest",
-              "url": "https://x.com/Inevitablewest/status/2055697898130551229",
-              "body": "Panic will be setting in for the elite. There's no stopping what has started.",
-              "engagement": "149K views",
-              "views": 149835
-            }
-          ]
-        },
-        {
-          "headline": "PM Modi addresses BRICS summit on global cooperation",
-          "url": "https://x.com/narendramodi/status/2054925787003044123",
-          "handle": "narendramodi",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "narendramodi",
-              "url": "https://x.com/narendramodi/status/2054925787003044123",
-              "body": "BRICS has emerged as an important platform for advancing cooperation among emerging economies and giving voice to the aspirations of the Global South.",
-              "engagement": "5.8M views",
-              "views": 5898927
-            },
-            {
-              "label": "Independent",
-              "handle": "REDBOXINDIA",
-              "url": "https://x.com/REDBOXINDIA/status/2055689319705383338",
-              "body": "PM MODI WARNS WORLD MAY FACE \u201cDECADE OF DISASTERS\u201d AMID WARS, ENERGY CRISIS, AND INFLATION RISKS",
-              "engagement": "69K views",
-              "views": 69595
-            },
-            {
-              "label": "Democrat",
-              "handle": "narendramodi",
-              "url": "https://x.com/narendramodi/status/2055322807769403810",
-              "body": "This is totally false. Not an iota of truth in this. There is no question of putting such restrictions on foreign travel.",
-              "engagement": "7.3M views",
-              "views": 7311232
-            }
-          ]
-        },
-        {
           "headline": "China urges reopening of Strait of Hormuz amid escalating tensions",
           "url": "https://x.com/BRICSinfo/status/2055121475380576447",
           "handle": "BRICSinfo",
@@ -94,42 +32,42 @@
               "views": 302232
             }
           ]
+        },
+        {
+          "headline": "WHO declares Ebola outbreak in Congo and Uganda a global health emergency",
+          "url": "https://x.com/BBCWorld/status/2055844792597102640",
+          "handle": "BBCWorld",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "LauraLoomer",
+              "url": "https://x.com/LauraLoomer/status/2056001783202201950",
+              "body": "\ud83d\udea8 BREAKING\ud83d\udea8 \n\nWHO Declares Ebola Outbreak in DRC & Uganda a Public Health Emergency of International Concern (PHEIC)\u2014 While @NIH\u2019s Vincent Munster Was Just Caught Smuggling Ebola Samples Into America",
+              "engagement": "116K views",
+              "views": 116695
+            },
+            {
+              "label": "Independent",
+              "handle": "zerohedge",
+              "url": "https://x.com/zerohedge/status/2055824400406942109",
+              "body": "The WHO Drums Up Fear With Ebola After Hantavirus Scare Fails",
+              "engagement": "119K views",
+              "views": 119202
+            },
+            {
+              "label": "Democrat",
+              "handle": "ashishkjha",
+              "url": "https://x.com/ashishkjha/status/2055973922135527776",
+              "body": "For folks waking up to this important news\n\n@WHO has declared a public health emergency (PHEIC) for the Ebola outbreak in DRC & Uganda. Only the 9th such declaration in history",
+              "engagement": "313K views",
+              "views": 313350
+            }
+          ]
         }
       ]
     },
     "usa": {
       "stories": [
-        {
-          "headline": "US forces eliminate top ISIS leader Abu-Bilal al-Minuki in Nigeria",
-          "url": "https://x.com/WhiteHouse/status/2055492189115789463",
-          "handle": "WhiteHouse",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "WhiteHouse",
-              "url": "https://x.com/WhiteHouse/status/2055492189115789463",
-              "body": "\u201cTonight, at my direction, brave American forces and the Armed Forces of Nigeria flawlessly executed a meticulously planned and very complex mission to eliminate the most active terrorist in the world from the battlefield. Abu-Bilal al-Minuki, second in command of ISIS\u2026\u201d - President Trump",
-              "engagement": "5.1M views",
-              "views": 5149556
-            },
-            {
-              "label": "Independent",
-              "handle": "USAfricaCommand",
-              "url": "https://x.com/USAfricaCommand/status/2055614134851424487",
-              "body": "Last night's operation targeted a significant presence of ISIS fighters in Northeastern Nigeria eliminating multiple high value individuals including Abu-Bilal al-Minuki.",
-              "engagement": "1.5M views",
-              "views": 1518401
-            },
-            {
-              "label": "Democrat",
-              "handle": "instablog9ja",
-              "url": "https://x.com/instablog9ja/status/2055703691634622507",
-              "body": "US President Donald Trump shares video of Nigerian pastor begging him for help, while standing in a mass grave",
-              "engagement": "313K views",
-              "views": 313759
-            }
-          ]
-        },
         {
           "headline": "Trump highlights UN admission on climate projections",
           "url": "https://x.com/WhiteHouse/status/2055770869847281967",
@@ -191,6 +129,29 @@
               "views": 24074
             }
           ]
+        },
+        {
+          "headline": "Trump discusses strong US-China relationship during state visit",
+          "url": "https://x.com/JDVance/status/2055101522166309048",
+          "handle": "JDVance",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "JDVance",
+              "url": "https://x.com/JDVance/status/2055101522166309048",
+              "body": "There\u2019s a reason President Trump is respected by world leaders, and it\u2019s because he\u2019s consistently shown a level of strength that we haven\u2019t seen from our Commander in Chief in modern history.",
+              "engagement": "24K likes",
+              "views": 1840136
+            },
+            {
+              "label": "Independent",
+              "handle": "WhiteHouse",
+              "url": "https://x.com/WhiteHouse/status/2055743427963142194",
+              "body": "\"This bond of commerce and respect that stretches back 250 years is the foundation for a future that benefits both of our nations.\" - President Donald J. Trump",
+              "engagement": "12K likes",
+              "views": 516779
+            }
+          ]
         }
       ]
     },
@@ -205,20 +166,20 @@
           "views": 1004514
         },
         {
+          "handle": "TrendSpider",
+          "url": "https://x.com/TrendSpider/status/2056042057223786764",
+          "headline": "Micron Technology ($MU) stock movement signals potential market shift",
+          "body": "its over guys $MU",
+          "engagement": "17K views",
+          "views": 16632
+        },
+        {
           "handle": "WhaleInsider",
           "url": "https://x.com/WhaleInsider/status/2055958677043974547",
           "headline": "Fed to inject $6.576 billion into the market tomorrow",
           "body": "JUST IN: Fed to inject $6,576,000,000 into the market tomorrow.",
           "engagement": "102K views",
           "views": 102025
-        },
-        {
-          "handle": "CryptoNobler",
-          "url": "https://x.com/CryptoNobler/status/2055930514863689922",
-          "headline": "Insane market schedule next week with new Fed chair and emergency meetings",
-          "body": "\ud83d\udea8 NEXT WEEK\u2019S SCHEDULE IS INSANE FOR MARKETS\n\nMONDAY \u2192 KEVIN WARSH SWORN IN AS NEW FED CHAIR\nTUESDAY \u2192 FED GOVERNOR SPEECH\nWEDNESDAY \u2192 FOMC EMERGENCY MEETING\nTHURSDAY \u2192 FED BALANCE SHEET\nFRIDAY \u2192 FED INJECTS $3.28 BILLION\n\nGET READY FOR THE MOST VOLATILE WEEK OF 2026!!",
-          "engagement": "103K views",
-          "views": 102833
         }
       ]
     },
@@ -241,12 +202,12 @@
           "views": 882830
         },
         {
-          "handle": "GamePassLife",
-          "url": "https://x.com/GamePassLife/status/2055959350968188962",
-          "headline": "Forza Horizon 6 camera footage looks hyper-realistic.",
-          "body": "Forza Horizon 6\u3001\u30ab\u30e1\u30e9\u64ae\u308a\u98a8\u306b\u3057\u305f\u3089\u8133\u304c\u5b8c\u5168\u306b\u30d0\u30b0\u308b\u3002\n\n\u3082\u3046\u5b9f\u5199\u3068\u533a\u5225\u3064\u304b\u306a\u3044\u3002\n#ForzaHorizon6 #Xbox #XboxGamePass",
-          "engagement": "208K views",
-          "views": 208382
+          "handle": "videotech",
+          "url": "https://x.com/videotech/status/2056028069052236242",
+          "headline": "Take-Two CEO confirms GTAVI November 19 launch date",
+          "body": "Take-Two CEO Strauss Zelnick reconfirms the November 19th launch date for GTAVI in a new interview \n\nSource:\n https://www.youtube.com/watch?v=1ZgUcrR0K7I",
+          "engagement": "368K views",
+          "views": 368170
         }
       ]
     },
@@ -255,10 +216,10 @@
         {
           "handle": "nytimes",
           "url": "https://x.com/nytimes/status/2055848570939400681",
-          "headline": "Senator Bill Cassidy loses primary in Louisiana amid Trump's influence",
-          "body": "Breaking News: Senator Bill Cassidy lost his primary in Louisiana, underscoring the durability of President Trump\u2019s grip on the Republican Party.",
-          "engagement": "263K views",
-          "views": 262511
+          "headline": "Senator Bill Cassidy loses Louisiana primary, highlighting Trump's GOP influence.",
+          "body": "Breaking News: Senator Bill Cassidy lost his primary in Louisiana, underscoring the durability of President Trump\u2019s grip on the Republican Party. https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html?smid=tw-nytimes&smtyp=cur",
+          "engagement": "314K views",
+          "views": 313523
         },
         {
           "handle": "AP",
@@ -311,26 +272,26 @@
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2055940968734756912",
-          "headline": "Elon Musk reacts with raised eyebrow emoji to post calling him the funniest billionaire",
+          "headline": "Elon Musk reacts with skeptical emoji to claim he is funniest billionaire",
           "body": "\ud83e\udd28",
-          "engagement": "18.4M views",
-          "views": 18352225
+          "engagement": "30.8M views",
+          "views": 30822862
         },
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2055938429628870955",
-          "headline": "Elon Musk notes SpaceX Dragon docking with ISS has become routine",
+          "headline": "Elon Musk comments on routine SpaceX Dragon docking with ISS",
           "body": "While we never want to be complacent about it, docking with the @Space_Station has become routine",
-          "engagement": "15.0M views",
-          "views": 14980470
+          "engagement": "25.2M views",
+          "views": 25221941
         },
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2055691590920794206",
-          "headline": "Elon Musk calls for release of British people imprisoned for social media posts",
-          "body": "The thousands of British people imprisoned merely for social media posts or speaking their mind need to be released!\n\nNo more prison island!!",
-          "engagement": "30M views",
-          "views": 30091265
+          "url": "https://x.com/elonmusk/status/2055733245417750793",
+          "headline": "Elon Musk highlights double standard in racial casting discussions",
+          "body": "A glaringly obvious double-standard",
+          "engagement": "43.9M views",
+          "views": 43866227
         }
       ]
     },
@@ -351,47 +312,39 @@
           "body": "Jordan Peterson dropped a brutal truth on Theo Von\u2019s podcast: If your \u201cfriends\u201d get mad or pull you down when you start fixing your life\u2026 they were never your friends.",
           "engagement": "138K views",
           "views": 138321
-        },
-        {
-          "handle": "ElaineAryn",
-          "url": "https://x.com/ElaineAryn/status/2055708310863483304",
-          "headline": "User claims Joe Rogan was pressured to criticize Theo Von.",
-          "body": "Joe Rogan got the call to throw Theo Von under the bus \n\nHe\u2019s cooked; and Theo is just getting started \u2665\ufe0f\ud83d\udd25",
-          "engagement": "118K views",
-          "views": 118763
         }
       ]
     },
     "pg6": {
       "stories": [
         {
-          "handle": "DiscussingFilm",
-          "url": "https://x.com/DiscussingFilm/status/2055655765910618374",
-          "headline": "Casting director Nina Gold comments on requirements for next James Bond actor.",
-          "body": "Casting director Nina Gold says the next James Bond actor must \u201cooze sex appeal.\u201d She is also looking for someone \u201cyoung enough to play him in 3, 4 or more pictures.\u201d (Source: Deadline)",
-          "engagement": "3.3M views",
-          "views": 3279650
+          "handle": "PopBase",
+          "url": "https://x.com/PopBase/status/2056030620384387444",
+          "headline": "MICHAEL movie surpasses $700 million globally",
+          "body": "\u2018MICHAEL\u2019 has surpassed $700 million at the global box office.",
+          "engagement": "220K views",
+          "views": 220532
         },
         {
-          "handle": "KshowAnalysis1",
-          "url": "https://x.com/KshowAnalysis1/status/2055925570362589212",
-          "headline": "#CORTIS joins EXO, BTS, and TXT as only acts with 'GRAND SLAM' in 2026",
-          "body": "#CORTIS now joins #EXO, #BTS, and #TXT as the only acts to achieve the 'GRAND SLAM' in 2026 so far.",
-          "engagement": "87K views",
-          "views": 87875
+          "handle": "kchartsmaster",
+          "url": "https://x.com/kchartsmaster/status/2056030956515889570",
+          "headline": "ZEROBASEONE releases music video for TOP 5",
+          "body": "ZEROBASEONE has released the music video for 'TOP 5.'",
+          "engagement": "153K views",
+          "views": 153170
+        },
+        {
+          "handle": "FilmUpdates",
+          "url": "https://x.com/FilmUpdates/status/2056043259886256595",
+          "headline": "Zendaya stuns in newly shared photos",
+          "body": "Zendaya stuns in newly shared photos.",
+          "engagement": "49K views",
+          "views": 48521
         }
       ]
     },
     "recipe": {
       "stories": [
-        {
-          "handle": "emojoie",
-          "url": "https://x.com/emojoie/status/2055656763299410268",
-          "headline": "Popular Japanese food video shared with viewers",
-          "body": "\u3053\u308c\u304a\u524d\u3089\u306e\u5206\u306a",
-          "engagement": "1.1M views",
-          "views": 1149506
-        },
         {
           "handle": "koikeya_cp",
           "url": "https://x.com/koikeya_cp/status/2055830667833798708",
@@ -402,11 +355,19 @@
         },
         {
           "handle": "Soulfoodiiee",
-          "url": "https://x.com/Soulfoodiiee/status/2055874771095875847",
-          "headline": "Beach Day Sliders recipe video posted",
-          "body": "\ud83c\udf7d Beach Day Sliders\n\ud83d\udc68\ud83c\udffb\u200d\ud83c\udf73 Brian Gerwig | g_bque \n\n\ud83d\udcdd Recipe In The Comments",
-          "engagement": "31K views",
-          "views": 31426
+          "url": "https://x.com/Soulfoodiiee/status/2056022699865157890",
+          "headline": "Crispy Chicharr\u00f3n Chips With Guacamole recipe",
+          "body": "\ud83c\udf7d Crispy Chicharr\u00f3n Chips With Guacamole\n\ud83d\udc68\ud83c\udffb\u200d\ud83c\udf73 Miguel Raya | Cooking With Fire | cwf eats \n\n\ud83d\udcdd Recipe In The Comments",
+          "engagement": "11K views",
+          "views": 11099
+        },
+        {
+          "handle": "chocoha25",
+          "url": "https://x.com/chocoha25/status/2055936508117610790",
+          "headline": "Japanese salmon recipe coated in egg batter and toasted panko",
+          "body": "\u30b5\u30fc\u30e2\u30f3\u306b\u5869\u30b3\u30b7\u30e7\u30a6\u3067\u4e0b\u5473\u3064\u3051\u305f\u3089\u3001\u305f\u307e\u3054,\u5c0f\u9ea6\u7c89\u3092\u6df7\u305c\u305f\u30d0\u30c3\u30bf\u30fc\u6db2\u306b\u7d61\u307e\u305b\u308b\u3002\u30d5\u30e9\u30a4\u30d1\u30f3\u3067\u7092\u3081\u3066\u304a\u3044\u305f\u30d1\u30f3\u7c89\u3092\u5168\u4f53\u306b\u62bc\u3057\u4ed8\u3051\u3066\u30c8\u30fc\u30b9\u30bf\u30fc\u30675\u5206\u3002\u8d05\u6ca2\u306a\u98df\u3079\u65b9\u3002\u53e3\u306e\u4e2d\u3067\u3068\u308d\u3051\u3066\u30de\u30b8\u3067\u3046\u307e\u3044\u3002",
+          "engagement": "32K views",
+          "views": 32471
         }
       ]
     },
@@ -507,10 +468,10 @@
         {
           "handle": "nbcsnl",
           "url": "https://x.com/nbcsnl/status/2055873800609419682",
-          "headline": "SNL Season 51 Finale Joke Swap clip",
+          "headline": "SNL season finale joke swap comedy sketch",
           "body": "Season 51 Finale Joke Swap with Colin and Che!",
-          "engagement": "435K views",
-          "views": 435329
+          "engagement": "626K views",
+          "views": 625626
         },
         {
           "handle": "SpencerAlthouse",
@@ -523,5 +484,5 @@
       ]
     }
   },
-  "last_updated": "2026-05-17T13:22:11.203935"
+  "last_updated": "2026-05-17T16:58:32.232722"
 }
