@@ -3,6 +3,29 @@
     "world": {
       "stories": [
         {
+          "headline": "WHO declares global health emergency over Ebola outbreaks in Congo and Uganda",
+          "url": "https://x.com/BRICSinfo/status/2055876796919226523",
+          "handle": "BRICSinfo",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "MaryBowdenMD",
+              "url": "https://x.com/MaryBowdenMD/status/2056201848390918233",
+              "body": "I\u2019m starting a GoFundMe to send infectious disease expert Dr Neil Stone to the Congo to flatten the curve. Thank you Neil for your courage!",
+              "engagement": "42K views",
+              "views": 42387
+            },
+            {
+              "label": "Independent",
+              "handle": "PopBase",
+              "url": "https://x.com/PopBase/status/2055887773354094720",
+              "body": "The WHO has declared the Ebola outbreak in Congo and Uganda as a public health emergency of international concern, with over 300 suspected cases and 88 deaths. They state that it does not meet the criteria of a pandemic, and that closing international borders is unnecessary.",
+              "engagement": "1.4M views",
+              "views": 1419344
+            }
+          ]
+        },
+        {
           "headline": "WHO declares global health emergency over Ebola outbreak in Congo and Uganda",
           "url": "https://x.com/BBCWorld/status/2055844792597102640",
           "handle": "BBCWorld",
@@ -34,48 +57,17 @@
           ]
         },
         {
-          "headline": "WHO declares Ebola outbreak in DR Congo a global public health emergency",
-          "url": "https://x.com/PopBase/status/2055887773354094720",
-          "handle": "PopBase",
+          "headline": "Russian forces attack central and southern Ukraine injuring civilians including a child",
+          "url": "https://x.com/KyivIndependent/status/2056217411850838211",
+          "handle": "KyivIndependent",
           "perspectives": [
             {
               "label": "Independent",
-              "handle": "PopBase",
-              "url": "https://x.com/PopBase/status/2055887773354094720",
-              "body": "The WHO has declared the Ebola outbreak in Congo and Uganda as a public health emergency of international concern, with over 300 suspected cases and 88 deaths.",
-              "engagement": "1.27M views",
-              "views": 1277715
-            }
-          ]
-        },
-        {
-          "headline": "PM Modi warns world faces decade of disasters amid energy crisis and wars",
-          "url": "https://x.com/MeghUpdates/status/2055584337236804034",
-          "handle": "MeghUpdates",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "DesiEsco7",
-              "url": "https://x.com/DesiEsco7/status/2055598885834514808",
-              "body": "PM Modi on energy crisis- \"If things don\u2019t change, the achievements of the last few decades could be erased, and widespread poverty may return.\"",
-              "engagement": "234K views",
-              "views": 233865
-            },
-            {
-              "label": "Independent",
-              "handle": "dmuthuk",
-              "url": "https://x.com/dmuthuk/status/2055674289123385573",
-              "body": "Prime Minister Modi generally don't talk negative much. By nature, he always sounds optimistic. What he said today is important: \"First came the corona pandemic; then wars began to break out, and now there is an energy crisis. This decade is turning into a decade of disasters for the world.\"",
-              "engagement": "288K views",
-              "views": 288436
-            },
-            {
-              "label": "Democrat",
-              "handle": "DrNimoYadav",
-              "url": "https://x.com/DrNimoYadav/status/2055884668428558347",
-              "body": "All our fuel and energy crisis problems could be resolved if India starts buying crude oil from Russia again. I don\u2019t know why Modi is not doing this.",
-              "engagement": "32K views",
-              "views": 32383
+              "handle": "KyivIndependent",
+              "url": "https://x.com/KyivIndependent/status/2056217411850838211",
+              "body": "\u26a1\ufe0fUpdate: Russian attack on central, southern Ukraine injures at least 12. The number of injured victims in an overnight Russian attack on Dnipro has risen to nine people, including a child.",
+              "engagement": "25K views",
+              "views": 25278
             }
           ]
         }
@@ -181,6 +173,14 @@
     "business": {
       "stories": [
         {
+          "handle": "KobeissiLetter",
+          "url": "https://x.com/KobeissiLetter/status/2056184339390419205",
+          "headline": "US 10-year Treasury yield hits 4.63%, highest since February 2025 amid rising oil prices and inflation concerns.",
+          "body": "It simply won't stop.\n\nIt is Sunday night and the US 10Y Note Yield just casually hit 4.63%, the highest since February 2025.\n\nWe are now ~4 basis points ABOVE the high that prompted President Trump's \"90-day tariff pause\" in April 2025.\n\nThis puts the 10Y Note Yield up +70 basis points since the Iran War, with US mortgage rates now nearing 7.00%+.\n\nAnd, in a sudden turn of events, the odds of rate cuts have collapsed to 2% this year and US inflation is nearing 4%+.\n\nThe US bond market is collapsing in real-time.",
+          "engagement": "489K views",
+          "views": 489412
+        },
+        {
           "handle": "CryptoNobler",
           "url": "https://x.com/CryptoNobler/status/2056041401331192018",
           "headline": "Warning of major market crash due to collapsed trade deals and new tariffs.",
@@ -195,14 +195,6 @@
           "body": "JUST IN: Fed to inject $6,576,000,000 into the market tomorrow.",
           "engagement": "685K views",
           "views": 685212
-        },
-        {
-          "handle": "StockMarketNerd",
-          "url": "https://x.com/StockMarketNerd/status/2056169520868241751",
-          "headline": "Questioning unusual low-volume trading in $NOW stock.",
-          "body": "Um\u2026 $NOW news anyone? \n\nJust some overnight low volume trading shenanigans or?",
-          "engagement": "55K views",
-          "views": 55300
         }
       ]
     },
@@ -239,10 +231,18 @@
         {
           "handle": "washingtonpost",
           "url": "https://x.com/washingtonpost/status/2055996843415261544",
-          "headline": "Trump sold millions in Microsoft and Amazon stock",
-          "body": "President Trump sold between $5 million and $25 million each of Microsoft and Amazon stock in February and purchased millions of dollars\u2019 worth of the companies\u2019 stock in March, according to disclosures filed with the U.S. Office of Government Ethics. https://www.washingtonpost.com/politics/2026/05/15/trump-misses-deadline-disclose-tens-millions-dollars-stock-trades/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
-          "engagement": "573K views",
-          "views": 572654
+          "headline": "President Trump disclosed stock trades in Microsoft and Amazon worth millions",
+          "body": "President Trump sold between $5 million and $25 million each of Microsoft and Amazon stock in February and purchased millions of dollars\u2019 worth of the companies\u2019 stock in March, according to disclosures filed with the U.S. Office of Government Ethics.",
+          "engagement": "609K views",
+          "views": 608671
+        },
+        {
+          "handle": "AP",
+          "url": "https://x.com/AP/status/2056122891050135780",
+          "headline": "Austin mayor seeks suspects in weekend shootings that injured four",
+          "body": "BREAKING: The mayor of Austin, Texas, says suspects are being sought in at least 10 random weekend shootings in Austin, Texas, including at fire stations, that left four people injured.",
+          "engagement": "129K views",
+          "views": 129016
         },
         {
           "handle": "CNN",
@@ -251,14 +251,6 @@
           "body": "President Donald Trump met with top members of his national security team on Saturday to discuss the path forward on the Iran war, a source familiar with the meeting told CNN, a day before he said Tehran \u201cbetter get moving, FAST, or there won\u2019t be anything left of them.\u201d",
           "engagement": "123K views",
           "views": 122927
-        },
-        {
-          "handle": "AP",
-          "url": "https://x.com/AP/status/2056108404381270057",
-          "headline": "Four crew members ejected safely after Navy jets crash during Idaho air show.",
-          "body": "Four crew members were ejected safely after two Navy jets crashed during an air show in Idaho, organizer says. https://apnews.com/article/air-show-idaho-incident-lockdown-cf2c98134c068cfcb8987e68a3177c62?taid=6a0a23ca717bd400015f4105&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
-          "engagement": "37.7K views",
-          "views": 37655
         }
       ]
     },
@@ -273,25 +265,33 @@
           "views": 10799390
         },
         {
-          "handle": "ChelseaFC",
-          "url": "https://x.com/ChelseaFC/status/2055921389639459068",
-          "headline": "Chelsea announces Xabi Alonso as new manager on four-year deal",
-          "body": "Chelsea Football Club is delighted to announce the appointment of Xabi Alonso as Manager of the Men\u2019s Team. \n\nThe Spaniard will begin his role on July 1, 2026, having agreed a four-year contract at Stamford Bridge. \n\nWelcome to Chelsea, Xabi!",
-          "engagement": "4.1M views",
-          "views": 4069193
-        },
-        {
           "handle": "premierleague",
           "url": "https://x.com/premierleague/status/2055998278458634472",
           "headline": "Bruno Fernandes levels record for most Premier League assists in a season",
           "body": "Among the greats. \u2728\n\nBruno Fernandes goes level with Thierry Henry and Kevin De Bruyne for the most assists in a Premier League season.",
           "engagement": "2.1M views",
           "views": 2127002
+        },
+        {
+          "handle": "premierleague",
+          "url": "https://x.com/premierleague/status/2056117555526332628",
+          "headline": "Bruno Fernandes equals single season Premier League assist record",
+          "body": "Bruno Fernandes' journey to equalling the single season Premier League assist record \ud83e\ude84\n\n\ud83d\udd34 @ManUtd",
+          "engagement": "657K views",
+          "views": 657589
         }
       ]
     },
     "elon": {
       "stories": [
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2056105680294297797",
+          "headline": "Elon Musk announces X surpassing 1 billion downloads",
+          "body": "\ud835\udd4f now has over a billion downloads",
+          "engagement": "38.5M views",
+          "views": 38496468
+        },
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2055940968734756912",
@@ -303,18 +303,10 @@
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2055938429628870955",
-          "headline": "Elon Musk comments on SpaceX Dragon docking with the International Space Station becoming routine.",
+          "headline": "Elon Musk notes routine SpaceX Dragon docking with the ISS",
           "body": "While we never want to be complacent about it, docking with the @Space_Station has become routine",
-          "engagement": "39M views",
-          "views": 39073262
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2055965456146821584",
-          "headline": "Elon Musk notes rapid improvements to Grok Build after an xAI update.",
-          "body": "Grok Build is improving like lightning",
-          "engagement": "30M views",
-          "views": 30012428
+          "engagement": "41.6M views",
+          "views": 41589184
         }
       ]
     },
@@ -324,12 +316,12 @@
     "pg6": {
       "stories": [
         {
-          "handle": "21metgala",
-          "url": "https://x.com/21metgala/status/2056177791754735813",
-          "headline": "Kendall Jenner and Jacob Elordi spotted in Los Angeles",
-          "body": "Kendall Jenner and Jacob Elordi in Los Angeles.",
-          "engagement": "1.0M views",
-          "views": 1049499
+          "handle": "nypost",
+          "url": "https://x.com/nypost/status/2056075826823569689",
+          "headline": "Alec Baldwin hits back at Elon Musk for criticizing Lupita Nyong\u2019o\u2019s looks",
+          "body": "Alec Baldwin hits back at Elon Musk for criticizing Lupita Nyong\u2019o\u2019s looks amid \u2018The Odyssey\u2019 casting",
+          "engagement": "2.9M views",
+          "views": 2931900
         },
         {
           "handle": "PopCrave",
@@ -340,12 +332,12 @@
           "views": 1459948
         },
         {
-          "handle": "nypost",
-          "url": "https://x.com/nypost/status/2056075826823569689",
-          "headline": "Alec Baldwin responds to Elon Musk criticism of Lupita Nyong'o",
-          "body": "Alec Baldwin hits back at Elon Musk for criticizing Lupita Nyong\u2019o\u2019s looks amid \u2018The Odyssey\u2019 casting https://pagesix.com/2026/05/17/celebrity-news/alec-baldwin-hits-back-at-elon-musk-for-criticizing-lupita-nyongos-looks/?utm_source=twitter&utm_medium=social&utm_campaign=nypost",
-          "engagement": "2.5M views",
-          "views": 2499334
+          "handle": "21metgala",
+          "url": "https://x.com/21metgala/status/2056177791754735813",
+          "headline": "Kendall Jenner and Jacob Elordi spotted in Los Angeles",
+          "body": "Kendall Jenner and Jacob Elordi in Los Angeles.",
+          "engagement": "1.0M views",
+          "views": 1049499
         }
       ]
     },
@@ -368,17 +360,25 @@
           "views": 349902
         },
         {
-          "handle": "MolecularLab_",
-          "url": "https://x.com/MolecularLab_/status/2056071068884824130",
-          "headline": "Short video demo of easy cheesy tomato pasta recipe",
-          "body": "Cheesy Tomato Pasta! Easy Recipe",
-          "engagement": "116K views",
-          "views": 115538
+          "handle": "chefdangalhardo",
+          "url": "https://x.com/chefdangalhardo/status/2056038042054340706",
+          "headline": "Best drink to pair with this dish",
+          "body": "Melhor bebida para acompanhar esse Prato;",
+          "engagement": "148K views",
+          "views": 147964
         }
       ]
     },
     "science": {
       "stories": [
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2056179413901877551",
+          "headline": "Elon Musk questions future of AI over next 1-3 years",
+          "body": "Where will AI be in 1, 2 or 3 years?",
+          "engagement": "16.3M views",
+          "views": 16350092
+        },
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2055938429628870955",
@@ -388,20 +388,12 @@
           "views": 14980470
         },
         {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2056105680294297797",
-          "headline": "X platform surpasses 1 billion app downloads milestone",
-          "body": "\ud835\udd4f now has over a billion downloads",
-          "engagement": "2.09M views",
-          "views": 2091784
-        },
-        {
-          "handle": "Figure_robot",
-          "url": "https://x.com/Figure_robot/status/2056057735444394142",
-          "headline": "Figure AI hosts live Man vs. Machine humanoid robot contest",
-          "body": "We're live Man vs. Machine",
-          "engagement": "1.5M views",
-          "views": 1517688
+          "handle": "adcock_brett",
+          "url": "https://x.com/adcock_brett/status/2056211711859003466",
+          "headline": "Figure AI humanoid robot loses to human in package sorting contest",
+          "body": "Congrats to Aime!! He said his left forearm is basically broken \ud83d\ude02\n\nFinal scores:\n\u2192 F.03: 12,732 packages (2.83 seconds/package)\n\u2192 Aime: 12,924 packages (2.79 seconds/package)\n\nThis is the last time a human will ever win",
+          "engagement": "966K views",
+          "views": 965963
         }
       ]
     },
@@ -424,12 +416,12 @@
           "views": 159812
         },
         {
-          "handle": "WallStreetApes",
-          "url": "https://x.com/WallStreetApes/status/2055881637553209550",
-          "headline": "Riverside County Sheriff Chad Bianco pitches vision for California governor in debate",
-          "body": "Every single voter in California should watch this\n\nRepublican Chad Bianco gives his one minute pitch to become the next governor of California at the final primary debate\n\n\u201cI'm the Sheriff of Riverside County, Southern California. I am the 4th largest sheriff's office in the entire country, 4,500 employees, 5 jails, contract cities. I have 17 of them. I'm the chief of police of 17 cities, 17 city councils, mayors, all of those things. \n\nSo I run a $1.3 billion budget per year in the black (meaning zero over spending) because I believe that government should not be spending more money than what it has. \n\nI am the only person on this stage that has 33 years of proven public service based on integrity, honesty, character, transparency, and most importantly, proven leadership. \n\nCalifornia does not deserve, or should we have, another career politician promising you pie-in-the-sky ideas. What we need is a proven problem solver, a leader who will combat the policies that have ruined most of your lives and make California the dream that we all had once again\u201d\n\nListen to every single word of this if you are a California voter\n\nChad Bianco is promising\n\n- A balanced budget\n- No over spending\n- Law and order\n- Enforced laws\n- A crackdown on homeless money being laundered\n- He\u2019s proposing to abolish the state income tax\n\nThe choice for Govenor couldn\u2019t be more clear\n\nVote for Chad Bianco",
-          "engagement": "57.9K views",
-          "views": 57933
+          "handle": "KTLA",
+          "url": "https://x.com/KTLA/status/2056097492115292492",
+          "headline": "Ex-boyfriend arrested in fatal shooting of Orange County mother in Tustin",
+          "body": "A 47-year-old man has been arrested in connection with the fatal shooting of a 42-year-old woman in Tustin after investigators say he fled across the U.S.-Mexico border following the killing. https://ktla.com/news/orange-county/ex-boyfriend-arrested-in-fatal-shooting-of-beloved-orange-county-mother/",
+          "engagement": "8.8K views",
+          "views": 8774
         }
       ]
     },
@@ -466,18 +458,18 @@
         {
           "handle": "DiscussingFilm",
           "url": "https://x.com/DiscussingFilm/status/2055998819792273808",
-          "headline": "SNL's Colin Jost and Michael Che perform Joke Swap on season finale.",
-          "body": "Colin Jost and Michael Che did their Joke Swap segment for the SNL Season 51 finale.\n\n\u201cI wanted to take a minute to tell everybody what I really think. Michael Jackson did nothing wrong! He was right to molest all those kids! And they were lucky\u2026\u201d",
-          "engagement": "1.3M views",
-          "views": 1346300
+          "headline": "SNL Season 51 finale Joke Swap clip",
+          "body": "Colin Jost and Michael Che did their Joke Swap segment for the SNL Season 51 finale. \u201cI wanted to take a minute to tell everybody what I really think. Michael Jackson did nothing wrong! He was right to molest all those kids! And they were lucky\u2026\u201d",
+          "engagement": "1.4M views",
+          "views": 1439309
         },
         {
-          "handle": "nbcsnl",
-          "url": "https://x.com/nbcsnl/status/2055873800609419682",
-          "headline": "SNL season finale joke swap comedy sketch",
-          "body": "Season 51 Finale Joke Swap with Colin and Che!",
-          "engagement": "626K views",
-          "views": 625626
+          "handle": "FunnySight",
+          "url": "https://x.com/FunnySight/status/2056046731738190048",
+          "headline": "Short comedy clip with laughing emojis",
+          "body": "\ud83d\ude02\ud83d\ude02",
+          "engagement": "877K views",
+          "views": 877170
         },
         {
           "handle": "JamesAHogg2",
@@ -490,5 +482,5 @@
       ]
     }
   },
-  "last_updated": "2026-05-18T03:43:48.917859"
+  "last_updated": "2026-05-18T08:05:22.391967"
 }
