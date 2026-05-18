@@ -3,6 +3,21 @@
     "world": {
       "stories": [
         {
+          "headline": "Pakistan releases full original cypher document that led to Imran Khan's removal",
+          "url": "https://x.com/DropSiteNews/status/2056088593047629986",
+          "handle": "DropSiteNews",
+          "perspectives": [
+            {
+              "label": "Independent",
+              "handle": "DropSiteNews",
+              "url": "https://x.com/DropSiteNews/status/2056088593047629986",
+              "body": "\ud83d\udea8BREAKING: For the first time, the original Pakistani cypher \u2014 cable I-0678, the document that triggered the removal of former Pakistani Prime Minister Imran Khan \u2014 is being released in full by Drop Site.",
+              "engagement": "37K likes",
+              "views": 4816736
+            }
+          ]
+        },
+        {
           "headline": "WHO declares global health emergency over Ebola outbreaks in Congo and Uganda",
           "url": "https://x.com/BRICSinfo/status/2055876796919226523",
           "handle": "BRICSinfo",
@@ -26,48 +41,25 @@
           ]
         },
         {
-          "headline": "WHO declares global health emergency over Ebola outbreak in Congo and Uganda",
-          "url": "https://x.com/BBCWorld/status/2055844792597102640",
-          "handle": "BBCWorld",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "spectatorindex",
-              "url": "https://x.com/spectatorindex/status/2055881102028657062",
-              "body": "BREAKING: World Health Organization has declared a global health emergency over Ebola outbreaks in Congo and Uganda",
-              "engagement": "590K views",
-              "views": 590301
-            },
-            {
-              "label": "Independent",
-              "handle": "BBCWorld",
-              "url": "https://x.com/BBCWorld/status/2055844792597102640",
-              "body": "WHO declares Ebola outbreak a global health emergency",
-              "engagement": "3.9M views",
-              "views": 3983329
-            },
-            {
-              "label": "Democrat",
-              "handle": "ashishkjha",
-              "url": "https://x.com/ashishkjha/status/2055973922135527776",
-              "body": "For folks waking up to this important news @WHO has declared a public health emergency (PHEIC) for the Ebola outbreak in DRC & Uganda. Only the 9th such declaration in history",
-              "engagement": "564K views",
-              "views": 563931
-            }
-          ]
-        },
-        {
-          "headline": "Russian forces attack central and southern Ukraine injuring civilians including a child",
-          "url": "https://x.com/KyivIndependent/status/2056217411850838211",
-          "handle": "KyivIndependent",
+          "headline": "Pakistan deploys 8,000 troops, fighter jets and air defense system to Saudi Arabia",
+          "url": "https://x.com/BRICSinfo/status/2056367815033008252",
+          "handle": "BRICSinfo",
           "perspectives": [
             {
               "label": "Independent",
-              "handle": "KyivIndependent",
-              "url": "https://x.com/KyivIndependent/status/2056217411850838211",
-              "body": "\u26a1\ufe0fUpdate: Russian attack on central, southern Ukraine injures at least 12. The number of injured victims in an overnight Russian attack on Dnipro has risen to nine people, including a child.",
-              "engagement": "25K views",
-              "views": 25278
+              "handle": "BRICSinfo",
+              "url": "https://x.com/BRICSinfo/status/2056367815033008252",
+              "body": "JUST IN: \ud83c\uddf5\ud83c\uddf0\ud83c\uddf8\ud83c\udde6 Pakistan deploys jet squadron, 8,000 troops, and air defense system to Saudi Arabia under defense pact.",
+              "engagement": "2.9K likes",
+              "views": 97524
+            },
+            {
+              "label": "Independent",
+              "handle": "GlobeEyeNews",
+              "url": "https://x.com/GlobeEyeNews/status/2056356746353152058",
+              "body": "Pakistan deploys 8,000 troops, a squadron of fighter jets, and the Chinese HQ-9 air defence system to Saudi Arabia, Reuters reports.",
+              "engagement": "980 likes",
+              "views": 27353
             }
           ]
         }
@@ -75,6 +67,68 @@
     },
     "usa": {
       "stories": [
+        {
+          "headline": "UN top climate committee admits RCP8.5 projections were wrong after 15 years of warnings",
+          "url": "https://x.com/WhiteHouse/status/2055770869847281967",
+          "handle": "WhiteHouse",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "WhiteHouse",
+              "url": "https://x.com/WhiteHouse/status/2055770869847281967",
+              "body": "\u201cGOOD RIDDANCE! After 15 years of Dumocrats promising that \u201cClimate Change\u201d is going to destroy the Planet, the United Nations TOP Climate Committee just admitted that its own projections (RCP8.5) were WRONG! WRONG! WRONG!\u201d - President DONALD J. TRUMP \ud83c\uddfa\ud83c\uddf8",
+              "engagement": "4.2M views",
+              "views": 4199608
+            },
+            {
+              "label": "Independent",
+              "handle": "ABridgen",
+              "url": "https://x.com/ABridgen/status/2056027101178831020",
+              "body": "After decades of pushing the man-made climate change is going to destroy the planet the top UN science committee admits finally they got it wrong.",
+              "engagement": "33K views",
+              "views": 33606
+            },
+            {
+              "label": "Democrat",
+              "handle": "RpsAgainstTrump",
+              "url": "https://x.com/RpsAgainstTrump/status/2056374809123074440",
+              "body": "BREAKING: Donald Trump withdrew his $10 billion lawsuit against the IRS, allowing his lawyers and the Justice Department to settle without input from the judge overseeing the case, per NYT",
+              "engagement": "49K views",
+              "views": 49459
+            }
+          ]
+        },
+        {
+          "headline": "Calls to restore constitutionally limited federal government and return powers to states",
+          "url": "https://x.com/elonmusk/status/2056281395324997708",
+          "handle": "elonmusk",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "elonmusk",
+              "url": "https://x.com/elonmusk/status/2056281395324997708",
+              "body": "How it is supposed to be",
+              "engagement": "2.5M views",
+              "views": 2568860
+            },
+            {
+              "label": "Independent",
+              "handle": "BasedMikeLee",
+              "url": "https://x.com/BasedMikeLee/status/2056128296598004178",
+              "body": "Constitutionally limited government is supposed to be the norm It is the natural state of affairs in American government We need to restore it",
+              "engagement": "13K views",
+              "views": 13026
+            },
+            {
+              "label": "Democrat",
+              "handle": "BillKristol",
+              "url": "https://x.com/BillKristol/status/2055454531756888502",
+              "body": "I\u2019m pro-freedom, pro-law and order, pro-limited government, and pro-the Declaration and the Constitution. And so today I\u2019m a Democrat.",
+              "engagement": "1.8M views",
+              "views": 1814078
+            }
+          ]
+        },
         {
           "headline": "Trump announces US forces eliminated top ISIS leader in Nigeria",
           "url": "https://x.com/WhiteHouse/status/2055492189115789463",
@@ -105,73 +159,27 @@
               "views": 450648
             }
           ]
-        },
-        {
-          "headline": "Trump highlights UN admission that climate change projections were wrong",
-          "url": "https://x.com/WhiteHouse/status/2055770869847281967",
-          "handle": "WhiteHouse",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "WhiteHouse",
-              "url": "https://x.com/WhiteHouse/status/2055770869847281967",
-              "body": "\u201cGOOD RIDDANCE! After 15 years of Dumocrats promising that \u201cClimate Change\u201d is going to destroy the Planet, the United Nations TOP Climate Committee just admitted that its own projections (RCP8.5) were WRONG! WRONG! WRONG!\u201d - President DONALD J. TRUMP \ud83c\uddfa\ud83c\uddf8",
-              "engagement": "100K likes",
-              "views": 3291640
-            },
-            {
-              "label": "Independent",
-              "handle": "FmrRepMTG",
-              "url": "https://x.com/FmrRepMTG/status/2056110918933545301",
-              "body": "If you send in U.S. military troops into Iran, there is going to be a political revolution in America. WE. ARE. DONE.",
-              "engagement": "37.3K likes",
-              "views": 822242
-            },
-            {
-              "label": "Democrat",
-              "handle": "mmpadellan",
-              "url": "https://x.com/mmpadellan/status/2055966566425190852",
-              "body": "\"President Xi couldn't believe the amount of damage I'd done to my own country in only 15 months.\" trump AGREED that America is in decline. Traitorous bastard.",
-              "engagement": "6.4K likes",
-              "views": 204244
-            }
-          ]
-        },
-        {
-          "headline": "Supreme Court nullifies Virginia election results affecting millions of voters",
-          "url": "https://x.com/GovernorVA/status/2055445238835970418",
-          "handle": "GovernorVA",
-          "perspectives": [
-            {
-              "label": "Democrat",
-              "handle": "GovernorVA",
-              "url": "https://x.com/GovernorVA/status/2055445238835970418",
-              "body": "The Supreme Court of the United States has now joined the Supreme Court of Virginia in choosing to nullify an election and the votes of more than three million Virginians.",
-              "engagement": "18.1K likes",
-              "views": 3463920
-            },
-            {
-              "label": "Conservative",
-              "handle": "bennyjohnson",
-              "url": "https://x.com/bennyjohnson/status/2056040636852388016",
-              "body": "I have been credibly informed that \u2018MAGA is Dead\u2019 by the retard Right. Yet 10 out of 10 House Republicans who voted to impeach Trump LOST",
-              "engagement": "37.7K likes",
-              "views": 315341
-            },
-            {
-              "label": "Independent",
-              "handle": "PpollingNumbers",
-              "url": "https://x.com/PpollingNumbers/status/2055770869847281967",
-              "body": "7 Republican senators who voted to convict Trump \ud83d\udd34 Burr - Gone \ud83d\udd34 Romney - Gone",
-              "engagement": "5.4K likes",
-              "views": 358033
-            }
-          ]
         }
       ]
     },
     "business": {
       "stories": [
+        {
+          "handle": "zerohedge",
+          "url": "https://x.com/zerohedge/status/2056392641764360675",
+          "headline": "Daily market pattern observed amid Iran sanctions negotiation updates.",
+          "body": "The daily pattern never fails",
+          "engagement": "36K views",
+          "views": 36197
+        },
+        {
+          "handle": "KobeissiLetter",
+          "url": "https://x.com/KobeissiLetter/status/2056387956907126958",
+          "headline": "US CPI inflation on track to exceed 5% this year based on recent monthly trends.",
+          "body": "BREAKING: US CPI inflation is on track to exceed +5.0% as early as this year.\n\nOver the last 6 months, CPI inflation has averaged +0.4% on a MoM basis, with March and April readings as high as +0.9% and +0.6%, respectively.\n\nIf this trend continues, this puts YoY inflation on pace to surge to +5.2% by the November midterms.\n\nThat would be the highest level since February 2023 and more than double the February 2026 print.\n\nEven if monthly inflation prints ease to +0.3%, the YoY inflation rate would still rise to +4.4%, the highest since April 2023.\n\nInflation is back in full swing.",
+          "engagement": "52K views",
+          "views": 51956
+        },
         {
           "handle": "KobeissiLetter",
           "url": "https://x.com/KobeissiLetter/status/2056184339390419205",
@@ -179,22 +187,6 @@
           "body": "It simply won't stop.\n\nIt is Sunday night and the US 10Y Note Yield just casually hit 4.63%, the highest since February 2025.\n\nWe are now ~4 basis points ABOVE the high that prompted President Trump's \"90-day tariff pause\" in April 2025.\n\nThis puts the 10Y Note Yield up +70 basis points since the Iran War, with US mortgage rates now nearing 7.00%+.\n\nAnd, in a sudden turn of events, the odds of rate cuts have collapsed to 2% this year and US inflation is nearing 4%+.\n\nThe US bond market is collapsing in real-time.",
           "engagement": "489K views",
           "views": 489412
-        },
-        {
-          "handle": "CryptoNobler",
-          "url": "https://x.com/CryptoNobler/status/2056041401331192018",
-          "headline": "Warning of major market crash due to collapsed trade deals and new tariffs.",
-          "body": "\ud83d\udea8 WARNING: TOMORROW WILL BE THE WORST DAY OF 2026!!\n\nThe U.S.-China trade deal just COLLAPSED.\nThe U.S.-Iran peace deal is officially CANCELLED.\nAnd new Trump tariffs are coming.\n\nWhen markets open on Monday, this won't be \u201cjust normal volatility.\u201d\n\nStocks will dump.\nMetals will dump.\nBitcoin will dump even harder.\n\nSmart money already sees what\u2019s happening.\n\nThey are not \u201cbuying the dip.\u201d\n\nThey are building cash positions and reducing exposure before the real crash begins.\n\nAnd now add a real trade war on top of that:\n\nChina is actively rejecting U.S. Nvidia chips.\n\nThat is not just a tech story.\n\nBecause once semiconductors become a geopolitical weapon, supply chains stop functioning normally.\n\nCapital freezes.\nConfidence breaks.\nAnd global growth expectations reset lower immediately.\n\nAt the exact same time:\n\u2192 Japanese bond yields are surging\n\u2192 Global bonds are being sold aggressively\n\u2192 The dollar is losing stability\n\u2192 Liquidity is tightening worldwide\n\nThis is no longer one isolated event.\n\nThis is pressure building across MULTIPLE fronts simultaneously.\n\nAnd now the geopolitical layer just intensified again.\n\nAfter MONTHS of negotiations, the U.S. and Iran walked away with no agreement.\n\nThat changes everything.\n\nBecause when diplomacy fails, markets stop pricing \u201chope.\u201d\n\nThey price ESCALATION.\n\nAnd none of this is happening in isolation.\n\nJapan\u2019s bond market is already flashing stress.\n\nChina-U.S. tensions are escalating again through semiconductors.\n\nOil markets are becoming unstable.\n\nAnd liquidity conditions are deteriorating globally at the same time.\n\nNow connect the dots.\n\nWhen geopolitical stress collides with a fragile financial system, reactions do not stay contained.\n\nThey CASCADE.\n\nOil does not pump higher slowly.\nIt goes parabolic.\n\nCapital does not rotate calmly.\nIt skyrockets towards safety all at once.\n\nAnd risk assets?\n\nThey do not \u201cdip.\u201d\nThey COLLAPSE.\n\nThis is exactly how chain reactions begin.\n\nBecause once markets start pricing prolonged instability instead of temporary fear, the entire system changes.\n\nWatch oil.\nWatch bonds.\nWatch semiconductors.\n\nBecause once this accelerates, there will be no time left to react.\n\nI\u2019ve spent years tracking macro and systemic market reactions like this.\n\nWhen the next move becomes clear, I\u2019ll share it here publicly.\n\nFollow and turn notifications on.\n\nBecause by the time it reaches the headlines, it\u2019s already too late.",
-          "engagement": "873K views",
-          "views": 873859
-        },
-        {
-          "handle": "WhaleInsider",
-          "url": "https://x.com/WhaleInsider/status/2055958677043974547",
-          "headline": "Fed to inject $6.576 billion into the market tomorrow",
-          "body": "JUST IN: Fed to inject $6,576,000,000 into the market tomorrow.",
-          "engagement": "685K views",
-          "views": 685212
         }
       ]
     },
@@ -209,32 +201,32 @@
           "views": 4109621
         },
         {
-          "handle": "shakira",
-          "url": "https://x.com/shakira/status/2056105176612618286",
-          "headline": "Shakira teases upcoming FIFA World Cup song.",
-          "body": "Coming soon\u2026 \ud83d\udc3a\u26bd\ufe0f",
-          "engagement": "1.5M views",
-          "views": 1489051
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2056384750026178796",
+          "headline": "Elon Musk promotes a book defending Western Civilization.",
+          "body": "But this book for your friends for the defense of Western Civilization!",
+          "engagement": "2.5M views",
+          "views": 2466444
         },
         {
-          "handle": "TheFigen_",
-          "url": "https://x.com/TheFigen_/status/2056138328177590287",
-          "headline": "Video highlighting human cruelty to animals.",
-          "body": "Because the cruelest creature in the world is human!",
-          "engagement": "1.3M views",
-          "views": 1320163
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2056384365144183261",
+          "headline": "Elon Musk comments on the left viewing the center as far right.",
+          "body": "The murderous lunatic left",
+          "engagement": "1.7M views",
+          "views": 1689848
         }
       ]
     },
     "msm": {
       "stories": [
         {
-          "handle": "washingtonpost",
-          "url": "https://x.com/washingtonpost/status/2055996843415261544",
-          "headline": "President Trump disclosed stock trades in Microsoft and Amazon worth millions",
-          "body": "President Trump sold between $5 million and $25 million each of Microsoft and Amazon stock in February and purchased millions of dollars\u2019 worth of the companies\u2019 stock in March, according to disclosures filed with the U.S. Office of Government Ethics.",
-          "engagement": "609K views",
-          "views": 608671
+          "handle": "nytimes",
+          "url": "https://x.com/nytimes/status/2056371464467603681",
+          "headline": "President Trump withdrew his $10 billion IRS lawsuit stemming from 2019 tax return leaks.",
+          "body": "Breaking News: President Trump withdrew his $10 billion lawsuit against the IRS, in an apparent effort to effectively settle the case, which stemmed from the leak of his tax returns in 2019.",
+          "engagement": "66K views",
+          "views": 65585
         },
         {
           "handle": "AP",
@@ -257,28 +249,28 @@
     "sports": {
       "stories": [
         {
-          "handle": "ShamsCharania",
-          "url": "https://x.com/ShamsCharania/status/2056009401102700868",
-          "headline": "Shai Gilgeous-Alexander wins back-to-back NBA MVP award",
-          "body": "Breaking: Oklahoma City Thunder's Shai Gilgeous-Alexander has won his second consecutive NBA Most Valuable Player award, becoming the 14th player in league history to win back-to-back MVPs, multiple sources tell ESPN.",
-          "engagement": "10.8M views",
-          "views": 10799390
+          "handle": "Fullcourtpass",
+          "url": "https://x.com/Fullcourtpass/status/2056348168011358264",
+          "headline": "NBA players vote on teams they least want to be traded to",
+          "body": "NBA players voted on their number one team they do NOT want to get traded to\n\n\u2022 Memphis \u2014 35.8%\n\u2022 Washington \u2014 11.7%\n\u2022 Sacramento \u2014 10.8%\n\u2022 New Orleans \u2014 6.7%\n\u2022 Brooklyn \u2014 5%\n\u2022 Utah \u2014 5%\n\u2022 Charlotte \u2014 4.2%\n\u2022 Portland \u2014 4.2%\n\u2022 New York \u2014 3.3%\n\u2022 Detroit \u2014 2.5%\n\u2022 Indiana \u2014 2.5%\n\u2022 Milwaukee \u2014 1.7%\n\u2022 LA Lakers \u2014 1.7%\n\n(Via @TheAthletic, h/t @TheNBABase)",
+          "engagement": "1.1M views",
+          "views": 1085665
         },
         {
-          "handle": "premierleague",
-          "url": "https://x.com/premierleague/status/2055998278458634472",
-          "headline": "Bruno Fernandes levels record for most Premier League assists in a season",
-          "body": "Among the greats. \u2728\n\nBruno Fernandes goes level with Thierry Henry and Kevin De Bruyne for the most assists in a Premier League season.",
-          "engagement": "2.1M views",
-          "views": 2127002
+          "handle": "AdamSchefter",
+          "url": "https://x.com/AdamSchefter/status/2056393866723405876",
+          "headline": "NFL insider reports Aaron Rodgers signed by Pittsburgh Steelers",
+          "body": "Pittsburgh now has officially signed QB Aaron Rodgers to a one-year contract worth up to $25 million.",
+          "engagement": "59K views",
+          "views": 58589
         },
         {
-          "handle": "premierleague",
-          "url": "https://x.com/premierleague/status/2056117555526332628",
-          "headline": "Bruno Fernandes equals single season Premier League assist record",
-          "body": "Bruno Fernandes' journey to equalling the single season Premier League assist record \ud83e\ude84\n\n\ud83d\udd34 @ManUtd",
-          "engagement": "657K views",
-          "views": 657589
+          "handle": "NBA",
+          "url": "https://x.com/NBA/status/2056344055278404037",
+          "headline": "NBA highlights matchup between Thunder and Spurs in Western Conference Finals",
+          "body": "BUDDING RIVALS MEET IN THE WESTERN CONFERENCE FINALS \ud83d\udd25\n\n\ud83c\udf1f Kia NBA MVP Shai Gilgeous-Alexander\n\ud83c\udf1f Kia NBA DPOY Victor Wembanyama\n\ud83c\udf7f OKC: 2nd straight WCF, 8-0 this postseason\n\ud83c\udf7f SAS: 1st WCF appearance since 2017\n\nThis is the first Playoff matchup between 62+ win teams since the Bulls and Jazz met in the 1998 NBA Finals.\n\nThe #1 Thunder host the #2 Spurs in Game 1 of the Western Conference Finals tonight at 8:30pm/et on NBC & Peacock!\n\nNBA Conference Finals presented by @Google",
+          "engagement": "157K views",
+          "views": 156693
         }
       ]
     },
@@ -286,27 +278,27 @@
       "stories": [
         {
           "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2056284797899567459",
+          "headline": "Elon Musk shares a video link.",
+          "body": "https://t.co/W21WWuNFVv",
+          "engagement": "25.1M views",
+          "views": 25063408
+        },
+        {
+          "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2056105680294297797",
-          "headline": "Elon Musk announces X surpassing 1 billion downloads",
+          "headline": "Elon Musk announces X has surpassed 1 billion downloads.",
           "body": "\ud835\udd4f now has over a billion downloads",
-          "engagement": "38.5M views",
-          "views": 38496468
+          "engagement": "46.5M views",
+          "views": 46534073
         },
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2055940968734756912",
-          "headline": "Elon Musk replies with a skeptical emoji to a post praising him as the funniest billionaire.",
-          "body": "\ud83e\udd28",
-          "engagement": "47M views",
-          "views": 47170132
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2055938429628870955",
-          "headline": "Elon Musk notes routine SpaceX Dragon docking with the ISS",
-          "body": "While we never want to be complacent about it, docking with the @Space_Station has become routine",
-          "engagement": "41.6M views",
-          "views": 41589184
+          "url": "https://x.com/elonmusk/status/2056281395324997708",
+          "headline": "Elon Musk endorses constitutional limits on federal power.",
+          "body": "How it is supposed to be",
+          "engagement": "2.6M views",
+          "views": 2568860
         }
       ]
     },
@@ -332,17 +324,25 @@
           "views": 1459948
         },
         {
-          "handle": "21metgala",
-          "url": "https://x.com/21metgala/status/2056177791754735813",
-          "headline": "Kendall Jenner and Jacob Elordi spotted in Los Angeles",
-          "body": "Kendall Jenner and Jacob Elordi in Los Angeles.",
-          "engagement": "1.0M views",
-          "views": 1049499
+          "handle": "PopBase",
+          "url": "https://x.com/PopBase/status/2056377887679271019",
+          "headline": "Trisha Paytas releases new K-Pop single titled \u2018\uc0ac\ub791\ud574 (I Love You)\u2019.",
+          "body": "Trisha Paytas has released a K-Pop single titled \u2018\uc0ac\ub791\ud574 (I Love You).\u2019",
+          "engagement": "93K views",
+          "views": 93192
         }
       ]
     },
     "recipe": {
       "stories": [
+        {
+          "handle": "mtmtharb",
+          "url": "https://x.com/mtmtharb/status/2056286814370185252",
+          "headline": "Pork shabu salad recipe with tomato and onion",
+          "body": "\u6691\u304f\u306a\u308b\u3068\u98df\u3079\u305f\u304f\u306a\u308b1\u756a\u597d\u304d\u306a\u8c5a\u3057\u3083\u3076\u306e\u98df\u3079\u65b9\u3002\u8c5a\u8089250g\u3092\u30b5\u30c3\u3068\u8339\u3067\u3001\u30c8\u30de\u30c81\u500b\u3001\u65b0\u7389\u306d\u304e\u3001\u30aa\u30ea\u30fc\u30d6\u30aa\u30a4\u30eb\u3068\u9162\u306f\u5927\u3055\u30582\u3001\u30ec\u30e2\u30f3\u6c41\u3068\u7802\u7cd6\u306f\u5927\u3055\u30581\u3001\u5869\u5c0f\u3055\u30581/2\u3001\u30d6\u30e9\u30c3\u30af\u30da\u30c3\u30d1\u30fc\u3092\u5165\u308c\u3066\u3088\u304f\u6df7\u305c\u308b\u3002\u3042\u307e\u308a\u306b\u3082\u7f8e\u5473\u3059\u304e\u308b\u306e\u3067\u3044\u3064\u3082\u500d\u91cf\u4f5c\u3063\u3066\u3057\u307e\u3046...",
+          "engagement": "424K views",
+          "views": 424597
+        },
         {
           "handle": "poptime",
           "url": "https://x.com/poptime/status/2056079692264825142",
@@ -352,20 +352,12 @@
           "views": 824626
         },
         {
-          "handle": "sweetroad5",
-          "url": "https://x.com/sweetroad5/status/2055975953516683578",
-          "headline": "Promotion of limited-edition crispy inside soft Country Ma'am pastries",
-          "body": "\u4e0d\u4e8c\u5bb6\u306e\u4e00\u90e8\u5e97\u8217(\u95a2\u6771\u3067\u306f7\u5e97\u8217\u3001\u95a2\u897f\u3067\u306f1\u5e97\u8217\u306e\u307f)\u3067\u8ca9\u58f2\u3055\u308c\u3066\u3044\u308b\u3001\u5916\u306f\u30b5\u30c3\u30af\u30ea\u3001\u4e2d\u306f\u3057\u3063\u3068\u308a\u3067\u5e97\u5185\u30aa\u30fc\u30d6\u30f3\u3067\u713c\u304d\u4e0a\u3052\u305f\u300c\u7aaf\u51fa\u3057\u30ab\u30f3\u30c8\u30ea\u30fc\u30de\u30a2\u30e0\u300d\u2728\n\u4e00\u5ea6\u98df\u3079\u59cb\u3081\u305f\u3089\u624b\u304c\u6b62\u307e\u3089\u306a\u304f\u306a\u308b\u307b\u3069\u3001\u5225\u683c\u306e\u7f8e\u5473\u3057\u3055\u3067\u3059\uff01\nhttps://sweetroad5.com/news/25210/",
-          "engagement": "350K views",
-          "views": 349902
-        },
-        {
-          "handle": "chefdangalhardo",
-          "url": "https://x.com/chefdangalhardo/status/2056038042054340706",
-          "headline": "Best drink to pair with this dish",
-          "body": "Melhor bebida para acompanhar esse Prato;",
-          "engagement": "148K views",
-          "views": 147964
+          "handle": "MorinagaIce",
+          "url": "https://x.com/MorinagaIce/status/2056283648182366569",
+          "headline": "New caramel pudding ice cream launch giveaway",
+          "body": "\ud83c\udf6e\u4f53\u9a13\u578b\u30a2\u30a4\u30b9\ud83c\udf6e\n\u30de\u30df\u30fc\u30ec\uff1c\u30ad\u30e3\u30e9\u30e1\u30ea\u30c3\u30af\u30d7\u30c7\u30a3\u30f3\u30b0\uff1e\u767a\u58f2\u8a18\u5ff5\nAmazon\u30ae\u30d5\u30c8\u30ab\u30fc\u30c91,000\u5186\u5206\u309210\u540d\u306b\ud83c\udf81\n\n\u2460@MorinagaIce \u3092\u30d5\u30a9\u30ed\u30fc\n\u2461\u672c\u6295\u7a3f\u3092\u672c\u65e524\u6642\u307e\u3067\u306b\u30ea\u30dd\u30b9\u30c8\n\u2462\uff03\u3053\u306e\u3068\u3045\u308b\u308d\u308d\u304a\u3049\u3049\u611f\u3092\u6c42\u3081\u30661500\u65e5 \u3092\u30ea\u30d7\u30e9\u30a4\u3067\u78ba\u7387UP\n\nCV:\uff03\u5ca1\u672c\u4fe1\u5f66",
+          "engagement": "253K views",
+          "views": 253089
         }
       ]
     },
@@ -380,40 +372,32 @@
           "views": 16350092
         },
         {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2055938429628870955",
-          "headline": "Elon Musk notes SpaceX Dragon docking with ISS has become routine.",
-          "body": "While we never want to be complacent about it, docking with the @Space_Station has become routine",
-          "engagement": "14.9M views",
-          "views": 14980470
-        },
-        {
           "handle": "adcock_brett",
           "url": "https://x.com/adcock_brett/status/2056211711859003466",
           "headline": "Figure AI humanoid robot loses to human in package sorting contest",
           "body": "Congrats to Aime!! He said his left forearm is basically broken \ud83d\ude02\n\nFinal scores:\n\u2192 F.03: 12,732 packages (2.83 seconds/package)\n\u2192 Aime: 12,924 packages (2.79 seconds/package)\n\nThis is the last time a human will ever win",
           "engagement": "966K views",
           "views": 965963
+        },
+        {
+          "handle": "ScienceFocusonX",
+          "url": "https://x.com/ScienceFocusonX/status/2056116114157936991",
+          "headline": "Bee venom destroys aggressive breast cancer cells in lab tests with minimal harm to healthy cells",
+          "body": "A tiny bee just did what chemotherapy couldn't.\n\nScientists in Australia discovered that honeybee venom can wipe out 100% of aggressive breast cancer cells in under 60 minutes.\nAnd the healthy cells around them? Barely touched.\n\nThe breakthrough came from Dr. Ciara Duffy and her team at the Harry Perkins Institute of Medical Research, working alongside the University of Western Australia.\nThey tested venom drawn from 312 honeybees and bumblebees across Australia, Ireland, and England.\n\nThe target: triple-negative breast cancer and HER2-enriched breast cancer. Two of the deadliest, most stubborn forms of the disease.\nThe weapon: melittin. The same tiny peptide that makes a bee sting burn.\n\nAt one specific dose, melittin tore through cancer cell membranes completely within an hour. Within just 20 minutes, it shut down the chemical signals cancer cells need to grow and multiply.\nBumblebee venom, which lacks melittin, did nothing. Zero effect, even at high concentrations.\n\nScientists then recreated melittin synthetically in the lab and got almost identical results, meaning no bees need to be harmed to develop the therapy.\n\nPublished in the peer-reviewed journal npj Precision Oncology, the findings are still early-stage. Human trials haven't happened yet.\n\nBut one thing is clear. Nature has been hiding answers in plain sight all along, sometimes inside the smallest creatures on Earth.\n\nSource: Harry Perkins Institute of Medical Research / npj Precision Oncology (Dr. Ciara Duffy et al.)",
+          "engagement": "301K views",
+          "views": 301841
         }
       ]
     },
     "local": {
       "stories": [
         {
-          "handle": "Breaking911",
-          "url": "https://x.com/Breaking911/status/2056039174021485011",
-          "headline": "Police urge Southern California homeowners to check yards for hidden cameras planted by illegal alien crews",
-          "body": "INSANE! Police are urging homeowners across Southern California to check their yards and bushes for hidden cameras being placed by illegal alien South American burglary crews targeting homes.",
-          "engagement": "138K views",
-          "views": 138438
-        },
-        {
-          "handle": "EricLDaugh",
-          "url": "https://x.com/EricLDaugh/status/2055996716453703714",
-          "headline": "Police urge Southern California homeowners to search yards for hidden cameras from burglary rings",
-          "body": "\ud83d\udea8 WTF?! Police are now calling for homeowners in Southern California to diligently search their own property and bushes for HIDDEN CAMERAS planted by illegal alien theft rings from South America\n\nNewsom has made it a sanctuary, betraying his own people!",
-          "engagement": "160K views",
-          "views": 159812
+          "handle": "ABC7",
+          "url": "https://x.com/ABC7/status/2056358647383339400",
+          "headline": "Windy Monday with light Santa Ana winds expected across SoCal",
+          "body": "Windy Monday: Light Santa Ana winds expected across SoCal before warmer temps move in this week. Your forecast now on ABC7 https://abc7.com/post/los-angeles-weather-temperatures-southern-california/58983/",
+          "engagement": "2K views",
+          "views": 2123
         },
         {
           "handle": "KTLA",
@@ -422,6 +406,14 @@
           "body": "A 47-year-old man has been arrested in connection with the fatal shooting of a 42-year-old woman in Tustin after investigators say he fled across the U.S.-Mexico border following the killing. https://ktla.com/news/orange-county/ex-boyfriend-arrested-in-fatal-shooting-of-beloved-orange-county-mother/",
           "engagement": "8.8K views",
           "views": 8774
+        },
+        {
+          "handle": "KTLA",
+          "url": "https://x.com/KTLA/status/2056132300161876211",
+          "headline": "Southern California faces elevated fire danger, gusty winds and high surf",
+          "body": "Southern California residents could see a mix of elevated fire danger, gusty winds and dangerous ocean conditions through Monday, according to a new briefing from the National Weather Service. https://ktla.com/weather/moderate-winds-fire-danger-and-high-surf-expected-across-socal/",
+          "engagement": "4K views",
+          "views": 4425
         }
       ]
     },
@@ -436,51 +428,35 @@
           "views": 102487
         },
         {
+          "handle": "PainterGroyper",
+          "url": "https://x.com/PainterGroyper/status/2056266234497470774",
+          "headline": "Government conspiracy involving extraterrestrial conditioning",
+          "body": "Government conspiracy to condition us to extra veiny extraterrestrial purple cock",
+          "engagement": "33145 views",
+          "views": 33145
+        },
+        {
           "handle": "5149jamesli",
           "url": "https://x.com/5149jamesli/status/2056181542909890623",
           "headline": "Deep state alleged to have attempted honeypot on Rep. Thomas Massie",
           "body": "So the deep state attempted a failed honeypot operation on Thomas Massie?! \ud83e\uddd0\ud83d\ude2d",
           "engagement": "52.9K views",
           "views": 52914
-        },
-        {
-          "handle": "TonySeruga",
-          "url": "https://x.com/TonySeruga/status/2056190450353246592",
-          "headline": "Dominion erases 2020 election data amid Tina Peters release",
-          "body": "\ud83d\udea8 JUST AS TINA PETERS WALKS FREE WITH THE BACKUPS THAT COULD EXPOSE 2020\u2014DOMINION\u2019S \u2018MAINTENANCE\u2019 CREWS SWOOP IN NATIONWIDE AND VANISH THE EVIDENCE. COINCIDENCE? OR THE MOST ELEGANT COVER-UP IN REPUBLICAN HISTORY? PHOENIX RISES\u2014DOMINION ERASES THE ARCHIVE!",
-          "engagement": "14.4K views",
-          "views": 14418
         }
       ]
     },
     "comedy": {
       "stories": [
         {
-          "handle": "DiscussingFilm",
-          "url": "https://x.com/DiscussingFilm/status/2055998819792273808",
-          "headline": "SNL Season 51 finale Joke Swap clip",
-          "body": "Colin Jost and Michael Che did their Joke Swap segment for the SNL Season 51 finale. \u201cI wanted to take a minute to tell everybody what I really think. Michael Jackson did nothing wrong! He was right to molest all those kids! And they were lucky\u2026\u201d",
-          "engagement": "1.4M views",
-          "views": 1439309
-        },
-        {
-          "handle": "FunnySight",
-          "url": "https://x.com/FunnySight/status/2056046731738190048",
-          "headline": "Short comedy clip with laughing emojis",
-          "body": "\ud83d\ude02\ud83d\ude02",
-          "engagement": "877K views",
-          "views": 877170
-        },
-        {
-          "handle": "JamesAHogg2",
-          "url": "https://x.com/JamesAHogg2/status/2055938037687726458",
-          "headline": "Paul Whitehouse's 68th birthday celebrated with classic comedy sketch.",
-          "body": "The great Paul Whitehouse is 68 years old today, which means I am obliged to post this (again!) - arguably the most majestically random but brilliant comedy sketch committed to celluloid for at least the last, what, forty, forty five years?\n\nYes, forty, forty five years.\n\nHappy birthday Paul \ud83e\udd18",
-          "engagement": "382K views",
-          "views": 382580
+          "handle": "PopBase",
+          "url": "https://x.com/PopBase/status/2056057627659161776",
+          "headline": "Pope Leo doing the 67 meme in new video",
+          "body": "Pope Leo does the \u201867\u2019 meme in new video.",
+          "engagement": "1.2M views",
+          "views": 1150851
         }
       ]
     }
   },
-  "last_updated": "2026-05-18T08:05:22.391967"
+  "last_updated": "2026-05-18T15:30:55.474873"
 }
