@@ -57,7 +57,9 @@ Each item is one EVENT with three sided reactions:
     {\"label\":\"Democrat\",\"handle\":\"...\",\"url\":\"https://x.com/.../status/<id>\",\"body\":\"...\",\"engagement\":\"...\",\"views\":...}
   ]
 }
-For each event: highest-view Conservative, Independent, and Democrat reactions on X — ALL from the last 24 hours. All four URLs MUST be real X status URLs from posts on or after ${since}. If you can't find 3 perspectives, still return the event with however many you DO find."
+For each event: highest-view Conservative, Independent, and Democrat reactions on X — ALL from the last 24 hours. All four URLs MUST be real X status URLs from posts on or after ${since}. If you can't find 3 perspectives, still return the event with however many you DO find.
+
+MERGE DUPLICATES: If multiple high-view tweets cover the SAME news event (e.g. five Ebola-emergency tweets from different angles), MERGE them into ONE event block with all the perspectives consolidated. Don't return two separate events about the same story even if the perspective handles differ. Each event you return must be a genuinely DIFFERENT subject matter."
     else
         schema="STRICT RECENCY: use x_search operator since:${since}. Reject anything before ${since}.
 
