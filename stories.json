@@ -3,6 +3,29 @@
     "world": {
       "stories": [
         {
+          "headline": "Putin arrives in Beijing for talks with Xi Jinping on trade energy and strategy",
+          "url": "https://x.com/business/status/2056932154492260377",
+          "handle": "business",
+          "perspectives": [
+            {
+              "label": "Independent",
+              "handle": "business",
+              "url": "https://x.com/business/status/2056932154492260377",
+              "body": "Follow the latest news and analysis as Putin visits China to meet with Xi",
+              "engagement": "8K views",
+              "views": 8074
+            },
+            {
+              "label": "Conservative",
+              "handle": "MartiniGuyYT",
+              "url": "https://x.com/MartiniGuyYT/status/2056941506351841626",
+              "body": "BREAKING: \ud83c\uddf7\ud83c\uddfa\ud83c\udde8\ud83c\uddf3Russian President Putin just met Chinese President Xi for talks in Beijing.",
+              "engagement": "139 views",
+              "views": 139
+            }
+          ]
+        },
+        {
           "headline": "WHO declares Ebola outbreak in DR Congo and Uganda a global health emergency",
           "url": "https://x.com/BBCWorld/status/2055844792597102640",
           "handle": "BBCWorld",
@@ -30,37 +53,6 @@
               "body": "Nach Hantavirus-Pleite: WHO sch\u00fcrt neue Ebola-Panik Zuerst gab es die Panikmache um Hantavirus und jetzt ist es Ebola. Die WHO hat gerade wegen eines seltenen Ebola-Stamms, der in der Demokratischen Republik Kongo und in Uganda Dutzende Menschen das Leben gekostet hat, einen internationalen Gesundheitsnotstand ausgerufen.",
               "engagement": "5K views",
               "views": 5248
-            }
-          ]
-        },
-        {
-          "headline": "Brazil announces 2026 World Cup squad with Neymar called up and Joao Pedro excluded",
-          "url": "https://x.com/FabrizioRomano/status/2056481594903335193",
-          "handle": "FabrizioRomano",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "FabrizioRomano",
-              "url": "https://x.com/FabrizioRomano/status/2056481594903335193",
-              "body": "\ud83d\udea8\ud83c\udde7\ud83c\uddf7 BREAKING: NEYMAR JR WILL GO TO THE WORLD CUP. Called up by Carlo Ancelotti. \ud83d\udca3",
-              "engagement": "5M views",
-              "views": 4996064
-            },
-            {
-              "label": "Independent",
-              "handle": "SkySportsPL",
-              "url": "https://x.com/SkySportsPL/status/2056492546692354366",
-              "body": "BREAKING: Joao Pedro, Andrey Santos and Richarlison have all been left out of Ancelotti\u2019s 2026 World Cup squad for Brazil.",
-              "engagement": "409K views",
-              "views": 409248
-            },
-            {
-              "label": "Democrat",
-              "handle": "CFCPys",
-              "url": "https://x.com/CFCPys/status/2056481594903335193",
-              "body": "\ud83d\udea8 \ud83e\udd2f BREAKING: Joao Pedro has been left out of Brazil\u2019s World Cup squad",
-              "engagement": "1.1M views",
-              "views": 1129454
             }
           ]
         },
@@ -100,79 +92,95 @@
     "usa": {
       "stories": [
         {
-          "headline": "Trump DOJ creates $1.776B fund to compensate Jan 6 participants and weaponization victims",
-          "url": "https://x.com/kylegriffin1/status/2056398174894387551",
-          "handle": "kylegriffin1",
+          "headline": "James Talarico now favored to win Texas Senate election",
+          "url": "https://x.com/KalshiPolitics/status/2056777047733629395",
+          "handle": "KalshiPolitics",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "Real_RobN",
-              "url": "https://x.com/Real_RobN/status/2056577274192023563",
-              "body": "Here it is: Let me tell you something about the $1.776 billion fund that the Department of Justice created and what is it for This is: Capitol CCTV shows Sen. Kamala Harris exiting the Capitol at 11:21 a.m. on January 6. ... Jan. 6 was staged to conceal the actual crime: a seditious conspiracy\u2014the overthrow of the U.S. government on November 3, 2020.",
-              "engagement": "171K views",
-              "views": 171275
+              "handle": "MAGAVoice",
+              "url": "https://x.com/MAGAVoice/status/2056918599781204346",
+              "body": "BREAKING: Trump just dropped the Iconic Trump dance after winning 20+ endorsement races \ud83d\udd25 I LOVE ALL OF THIS WINNING",
+              "engagement": "16K views",
+              "views": 16526
             },
             {
               "label": "Independent",
-              "handle": "chiky_handlr",
-              "url": "https://x.com/chiky_handlr/status/2056596754670239923",
-              "body": "Reporter: The DOJ has this new fund \u2014 $1.7 billion. Why should taxpayers pay for the January 6ers? Trump: Because in my world, loyalty outranks law. They broke the rules for me, so you pay the bill for them. That\u2019s the transaction.",
-              "engagement": "1.7M views",
-              "views": 1723808
+              "handle": "KalshiPolitics",
+              "url": "https://x.com/KalshiPolitics/status/2056777047733629395",
+              "body": "BREAKING: James Talarico (D) is now favored to win the Texas Senate election",
+              "engagement": "2.6M views",
+              "views": 2677930
             },
             {
               "label": "Democrat",
-              "handle": "CalltoActivism",
-              "url": "https://x.com/CalltoActivism/status/2056505313554030627",
-              "body": "\ud83d\udea8INSANE: Trump was asked if people who assaulted Capitol Police officers on January 6th should get compensation from the DOJ\u2019s new fund. His answer: \u201cI do believe there has to be compensation.\u201d This is fucking sick.",
-              "engagement": "540K views",
-              "views": 540407
+              "handle": "TheDemocrats",
+              "url": "https://x.com/TheDemocrats/status/2056935467581366403",
+              "body": "IT\u2019S OFFICIAL: Charles Booker has won the Democratic primary for the U.S. Senate in Kentucky. We\u2019re all in as we head to November!",
+              "engagement": "6K views",
+              "views": 6936
             }
           ]
         },
         {
-          "headline": "Trump unveils East Wing modernization project as a non-taxpayer gift to America",
-          "url": "https://x.com/RapidResponse47/status/2056745849384751438",
-          "handle": "RapidResponse47",
+          "headline": "Trump and family permanently exempt from IRS tax audits per settlement",
+          "url": "https://x.com/WatcherGuru/status/2056833978473075047",
+          "handle": "WatcherGuru",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "RapidResponse47",
-              "url": "https://x.com/RapidResponse47/status/2056745849384751438",
-              "body": ".@POTUS on the site of the East Wing modernization project: \"It will be something very special... there will never be another building like this built.\"",
-              "engagement": "3.5K likes",
-              "views": 89994
+              "handle": "StevenCheung47",
+              "url": "https://x.com/StevenCheung47/status/2056886701591613762",
+              "body": "Do not ever doubt President Trump and his political power. Fuck around, find out.",
+              "engagement": "1.1M views",
+              "views": 1175137
+            },
+            {
+              "label": "Independent",
+              "handle": "WatcherGuru",
+              "url": "https://x.com/WatcherGuru/status/2056833978473075047",
+              "body": "JUST IN: \ud83c\uddfa\ud83c\uddf8 Trump-IRS settlement permanently blocks IRS from auditing tax claims for President Trump and his family, Politico reports.",
+              "engagement": "4.1M views",
+              "views": 4112695
+            },
+            {
+              "label": "Democrat",
+              "handle": "pbhushan1",
+              "url": "https://x.com/pbhushan1/status/2056920641203515854",
+              "body": "What kind of deal did Trump make with Adani/Modi to get his DOJ to drop the criminal bribery case against Adani? See what the US media says",
+              "engagement": "25K views",
+              "views": 25788
             }
           ]
         },
         {
-          "headline": "Trump administration expands lowest drug prices via Medicare negotiation and new generics",
-          "url": "https://x.com/WhiteHouse/status/2056491782561518027",
-          "handle": "WhiteHouse",
+          "headline": "Thomas Massie defeated in Kentucky primary by Ed Gallrein",
+          "url": "https://x.com/bennyjohnson/status/2056883428297957534",
+          "handle": "bennyjohnson",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "WhiteHouse",
-              "url": "https://x.com/WhiteHouse/status/2056491782561518027",
-              "body": "Americans went from paying the MOST anywhere in the world for medications to paying the LOWEST drug prices for anybody in any country. All we needed was a new president.",
-              "engagement": "368K views",
-              "views": 368375
+              "handle": "bennyjohnson",
+              "url": "https://x.com/bennyjohnson/status/2056883428297957534",
+              "body": "\ud83d\udea8BREAKING: Thomas Massie has officially been DEFEATED by Ed Gallrein In Kentucky. Trump called it. MAGA called it. The people have spoken. When you go to war with the base \u2014 YOU LOSE!",
+              "engagement": "343K views",
+              "views": 343641
             },
             {
               "label": "Independent",
-              "handle": "WhiteHouse",
-              "url": "https://x.com/WhiteHouse/status/2056544835301945693",
-              "body": "President Trump is delivering BIG on his promise to lower healthcare costs! trumprx.gov just expanded to feature more than 600 generic medications, bringing the lowest prices on every day drugs millions of Americans rely on.",
-              "engagement": "214K views",
-              "views": 214381
+              "handle": "remarks",
+              "url": "https://x.com/remarks/status/2056855661216972906",
+              "body": "JUST IN: \ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 Senate successfully advances resolution to limit President Trump's power and end Iran war.",
+              "engagement": "323K views",
+              "views": 323526
             },
             {
               "label": "Democrat",
-              "handle": "amyklobuchar",
-              "url": "https://x.com/amyklobuchar/status/2056419889976406312",
-              "body": "BREAKING: The Supreme Court rejected Big Pharma\u2019s appeal to stop Medicare from negotiating lower drug prices. I led this law in 2022, and it has since saved seniors and taxpayers billions of dollars. Today is an important win for everyone who wants lower prescription drug costs.",
-              "engagement": "64K views",
-              "views": 64645
+              "handle": "RoKhanna",
+              "url": "https://x.com/RoKhanna/status/2056933769509003602",
+              "body": "Massie lost his primary & Chris Rabb secured a big victory. The message is clear: if you take a stand against war, AIPAC, & the Epstein class, you have no place in the Trump coalition.",
+              "engagement": "43K views",
+              "views": 43239
             }
           ]
         }
@@ -197,12 +205,12 @@
           "views": 1534463
         },
         {
-          "handle": "cryptorover",
-          "url": "https://x.com/cryptorover/status/2056731033635303536",
-          "headline": "$450B wiped from US stocks at market open",
-          "body": "\ud83d\udea8 CRASH\n\n$450,000,000,000 has been wiped out from US stocks at market open.",
-          "engagement": "167K views",
-          "views": 167273
+          "handle": "zerohedge",
+          "url": "https://x.com/zerohedge/status/2056860155904434453",
+          "headline": "SpaceX prospectus reportedly coming soon with Goldman as lead",
+          "body": "SpaceX prospectus coming as soon as tomorrow. Goldman lead left: WSJ",
+          "engagement": "141953 views",
+          "views": 141953
         }
       ]
     },
@@ -238,14 +246,6 @@
       "stories": [
         {
           "handle": "nytimes",
-          "url": "https://x.com/nytimes/status/2056477711787290629",
-          "headline": "NYC hotel housekeepers' average pay to exceed $100,000 annually under new union contract",
-          "body": "The average pay of housekeepers in New York City hotels will increase to more than $100,000 a year as part of a contract settlement between an industry trade group and a powerful union. https://www.nytimes.com/2026/05/18/nyregion/nyc-hotel-housekeepers-pay.html?smtyp=cur&smid=tw-nytimes",
-          "engagement": "1.44M views",
-          "views": 1440514
-        },
-        {
-          "handle": "nytimes",
           "url": "https://x.com/nytimes/status/2056756299363127705",
           "headline": "Author of \u2018The Future of Truth\u2019 admits book included AI-generated fake quotes",
           "body": "Breaking News: Steven Rosenbaum, the author of \u201cThe Future of Truth,\u201d acknowledged that the nonfiction book about the effects of A.I. on truth included misattributed or fake quotes concocted by A.I. https://www.nytimes.com/2026/05/19/business/media/future-of-truth-ai-quotes.html?smtyp=cur&smid=tw-nytimes",
@@ -253,40 +253,48 @@
           "views": 153908
         },
         {
-          "handle": "washingtonpost",
-          "url": "https://x.com/washingtonpost/status/2056453918465417614",
-          "headline": "EPA proposes repealing limits on four types of forever chemicals in drinking water",
-          "body": "Breaking news: The EPA proposed repealing limits on four types of \u201cforever chemicals\u201d in drinking water.\n\nThe proposal would end the Biden-era restrictions on four PFAS compounds and give utilities more time to comply with limits on two others. https://www.washingtonpost.com/climate-environment/2026/05/18/epa-wants-repeal-limits-forever-chemicals-drinking-water/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
-          "engagement": "373K views",
-          "views": 372551
+          "handle": "WSJ",
+          "url": "https://x.com/WSJ/status/2056820468909252932",
+          "headline": "Trump's agreement with DOJ expands to end tax audits",
+          "body": "President Trump\u2019s agreement with the federal government he runs expanded Tuesday to end all pending tax audits of him and his businesses, according to the Justice Department. https://www.wsj.com/politics/policy/government-deal-with-trump-expands-to-end-tax-audits-aad8f2bc?mod=e2tw",
+          "engagement": "73.6K views",
+          "views": 73557
+        },
+        {
+          "handle": "WSJ",
+          "url": "https://x.com/WSJ/status/2056716178995740906",
+          "headline": "Nurse practitioner is now the hottest job in healthcare",
+          "body": "Employers are clamoring for workers who can do doctor-like work but who are trained faster and can cost them less. https://www.wsj.com/health/healthcare/nurse-practitioner-is-now-the-hottest-job-in-healthcare-a98e0bc8?mod=e2tw",
+          "engagement": "86.5K views",
+          "views": 86545
         }
       ]
     },
     "sports": {
       "stories": [
         {
-          "handle": "NBA",
-          "url": "https://x.com/NBA/status/2056576119759859933",
-          "headline": "Wembanyama hits game-tying shot in NBA Western Conference Finals",
-          "body": "WEMBY, WOW!\n\nWHAT A SHOT TO TIE THE GAME AT 108.",
-          "engagement": "1.77M views",
-          "views": 1772414
+          "handle": "premierleague",
+          "url": "https://x.com/premierleague/status/2056833488641302622",
+          "headline": "Arsenal declared 2025/26 Premier League champions",
+          "body": "\ud83c\udfc6 ARSENAL ARE CHAMPIONS \ud83c\udfc6",
+          "engagement": "4.8M views",
+          "views": 4769556
         },
         {
-          "handle": "AirlessJordan",
-          "url": "https://x.com/AirlessJordan/status/2056534001150517275",
-          "headline": "Spurs field youngest starting lineup in NBA Conference Finals history",
-          "body": "Spurs are rolling out the youngest starting lineup in the all-time history of the NBA Conference Finals. \n\nHarper (20)\nCastle (21)\nVassell (25)\nChampagnie (24)\nWembanyama (22)\n\nAverage age: 22 years, 346 days.",
-          "engagement": "1.90M views",
-          "views": 1900772
+          "handle": "ESPNFC",
+          "url": "https://x.com/ESPNFC/status/2056833607788863964",
+          "headline": "Arsenal win Premier League title for first time in 22 years",
+          "body": "THEY'VE GONE AND DONE IT! ARSENAL ARE PREMIER LEAGUE CHAMPS FOR THE FIRST TIME IN 22 YEARS \ud83c\udfc6 ARTETA'S MEN CONQUER ENGLAND ONCE AND FOR ALL \ud83d\udd25\ud83d\udc4f",
+          "engagement": "619K views",
+          "views": 619249
         },
         {
-          "handle": "DAZNJPNBaseball",
-          "url": "https://x.com/DAZNJPNBaseball/status/2056696280861044939",
-          "headline": "Yakult Giants pitcher delivers strong performance in season debut bid",
-          "body": "\u3044\u308f\u304d\u306e\u5730\u3067\u30a8\u30fc\u30b9\u304c\u5fa9\u6d3b\u306e\u72fc\u7159\n\u6238\u90f7\u7fd4\u5f81\u304c\u30d4\u30f3\u30c1\u3067\u4e09\u632f\uff01\n7\u56de115\u74035\u5b89\u6253\u7121\u5931\u70b9\n\u4eca\u5b63\u521d\u52dd\u5229\u3092\u76ee\u6307\u3059\n\u26be\ufe0f\u30e4\u30af\u30eb\u30c8\u00d7\u5de8\u4eba\n#\u30b8\u30e3\u30a4\u30a2\u30f3\u30c4 #\u3060\u3063\u305f\u3089DAZN",
-          "engagement": "536K views",
-          "views": 535913
+          "handle": "premierleague",
+          "url": "https://x.com/premierleague/status/2056849367798034496",
+          "headline": "Arsenal confirmed as Premier League champions",
+          "body": "Arsenal cannot be caught. They are the 2025/26 Premier League champions.",
+          "engagement": "479K views",
+          "views": 479110
         }
       ]
     },
@@ -302,19 +310,19 @@
         },
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2056774304193212606",
-          "headline": "Elon Musk agrees 'Bingo' to a post about comedy and leftism",
-          "body": "Bingo",
-          "engagement": "3.9M views",
-          "views": 3909293
-        },
-        {
-          "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2056749520151593392",
           "headline": "Elon Musk replies 'True' to a post",
           "body": "True",
           "engagement": "6.2M views",
           "views": 6197343
+        },
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2056774304193212606",
+          "headline": "Elon Musk agrees 'Bingo' to a post about comedy and leftism",
+          "body": "Bingo",
+          "engagement": "3.9M views",
+          "views": 3909293
         }
       ]
     },
@@ -322,19 +330,19 @@
       "stories": [
         {
           "handle": "joeroganhq",
-          "url": "https://x.com/joeroganhq/status/2056785705913946514",
-          "headline": "The Rock and Joe Rogan on political friends",
-          "body": "The Rock: \"I have friends who support Trump. I have friends who support Biden.\"\n\nJoe Rogan: \"Do you really have friends who support Biden?\"\n\nThe Rock: \"No, no, no, no\u2026 Thank you. This is important context. They support the Democratic Party.\"",
-          "engagement": "11.3K views",
-          "views": 11253
+          "url": "https://x.com/joeroganhq/status/2056917831611191405",
+          "headline": "Joe Rogan Podcast News shares a surprising caught-on-video moment",
+          "body": "You'd never believe if it wasn't caught on video.",
+          "engagement": "14K views",
+          "views": 14873
         },
         {
-          "handle": "PBDsPodcast",
-          "url": "https://x.com/PBDsPodcast/status/2056470713318691270",
-          "headline": "Joe Rogan expresses worry about Theo Von's well-being after a Netflix taping.",
-          "body": "Joe Rogan Says He\u2019s Worried About Theo Von\n\nJoe: \"Theo had a Netflix taping and it didn't go well... I think he just had a kind of a breakdown and then said 'I'm just trying not to take my own life.' And I'm like, oh Jesus Christ, like I gotta help this dude.\"\n\nTheo: \"This is mostly cap. Sad to see this kinda stuff. Im doing great.\"\n\n\"Joe actually cares about Theo and his well-being. I think people, you know, blew it up, a lot more than what it is.\"",
-          "engagement": "225K views",
-          "views": 225003
+          "handle": "scotthortonshow",
+          "url": "https://x.com/scotthortonshow/status/2056870597116809265",
+          "headline": "Scott Horton thanks Joe Rogan for the follower bump and offers promo",
+          "body": "Thanks very much to @joerogan for the bump.\n\nFor all you new followers, save 20% lifetime or annual memberships at the Scott Horton Academy of Foreign Policy and Freedom -- my Masterclasses on the Terror Wars and the New Cold War with Russia, and more with promocode Rogan.",
+          "engagement": "35K views",
+          "views": 35016
         },
         {
           "handle": "joeroganhq",
@@ -358,19 +366,19 @@
         },
         {
           "handle": "PopBase",
-          "url": "https://x.com/PopBase/status/2056472365022822648",
-          "headline": "Absolutely is now engaged to her fianc\u00e9 Noah.",
-          "body": "Absolutely is now engaged to her fianc\u00e9 NOAH NOAH.",
-          "engagement": "1.6M views",
-          "views": 1637089
+          "url": "https://x.com/PopBase/status/2056905193338651015",
+          "headline": "Kylie Minogue shares overcoming breast cancer a second time in new Netflix docuseries.",
+          "body": "Kylie Minogue reveals in her new Netflix docuseries that she overcame breast cancer for a second time in 2021.",
+          "engagement": "187K views",
+          "views": 187277
         },
         {
-          "handle": "GlobalBoxOffice",
-          "url": "https://x.com/GlobalBoxOffice/status/2056777894110572864",
-          "headline": "Obsession becomes cheapest movie to top American box office this century",
-          "body": "OBSESSION has officially become the cheapest movie to EVER top the American box office this century. \n\nCosting only $750K to be made, it earned $2.9M this Monday, surpassing both MICHAEL ($2.7M) and DEVIL WEARS PRADA ($2.0M).",
-          "engagement": "61.9K views",
-          "views": 61926
+          "handle": "halsey",
+          "url": "https://x.com/halsey/status/2056853669761433900",
+          "headline": "Halsey reacts to being named executive producer on new film premiering at Cannes.",
+          "body": "\ud83e\udd0d\ud83e\udd0d\ud83e\udd0d",
+          "engagement": "139K views",
+          "views": 138536
         }
       ]
     },
@@ -385,20 +393,20 @@
           "views": 2067056
         },
         {
-          "handle": "Happy48791",
-          "url": "https://x.com/Happy48791/status/2056726836915437868",
-          "headline": "Food review of carrot noodle salad with high rating",
-          "body": "\u2728\uc0d0\ub7ec\ub514 \uc120\uc7ac\uc2a4\ub2d8 \ub2f9\uadfc\uad6d\uc218\u2728\n\n\ud3c9\uc810: 9/10\n\n\uc694\uc998 \uc720\ud589\ud558\ub294 \ucc9c\uc5f0 \uc704\uace0\ube44 \uc911 \uac00\uc7a5 \uac74\uac15\ud55c \uc81c\ud488\uc778\uac70 \uac19\uc18c\uc774\ub2e4. \ub2f9\uadfc\uc758 \uc740\uc740\ud55c \ub2e8\ub9db\uacfc \ucde8\ub098\ubb3c\uc758 \uc0b0\ub73b\ud55c \ud5a5, \uadf8\ub9ac\uace0 \ubc84\uc12f\uc758 \ud48d\ubbf8\uac00 \uc870\ud654\ub85c\uc6b4\ub370 \ub05d\ub9db\uc5d0 \uc62c\ub77c\uc624\ub294 \uace0\ucd94\uac04\uc7a5\uc18c\uc2a4\uc758 \uc870\ubbf8\ub8cc\uac00 \ub9db\uc758 \uade0\ud615\uc744 \uc7a1\uc544\uc8fc\ub294 \ub290\ub08c\uc774\uc5c8\uc18c. 7900\uc6d0",
-          "engagement": "266K views",
-          "views": 266356
-        },
-        {
           "handle": "gourmetroad5",
           "url": "https://x.com/gourmetroad5/status/2056675886414671884",
           "headline": "McDonald's Japan launches new regional menu items including Hokkaido potato cheese teriyaki.",
           "body": "\uff15\u6708\uff12\uff10\u65e5\u3088\u308a\u30de\u30af\u30c9\u30ca\u30eb\u30c9\u304b\u3089\u3001\u65e5\u672c\u5404\u5730\u306e\u540d\u7269\u306e\u304a\u3044\u3057\u3055\u3092\u8a70\u3081\u8fbc\u3093\u3060\u300c\u5317\u6d77\u9053\u3058\u3083\u304c\u30c1\u30fc\u30ba\u3066\u308a\u3084\u304d\u300d\u3068\u300c\u540d\u53e4\u5c4b\u540d\u7269 \u624b\u7fbd\u5148\u98a8\u9ed2\u80e1\u6912\u30b8\u30e5\u30fc\u30b7\u30fc\u30c1\u30ad\u30f3\u300d\u3001\u300c\u535a\u591a\u660e\u592a\u30d0\u30bf\u30fc\u3066\u308a\u3084\u304d\u300d\u3001\u671d\u30de\u30c3\u30af\u00ae\u3067\u306f\u300c\u5317\u6d77\u9053\u3058\u3083\u304c\u30c1\u30fc\u30ba\u3066\u308a\u3084\u304d\u30de\u30d5\u30a3\u30f3\u300d\u304c\u65b0\u767a\u58f2\u3055\u308c\u307e\u3059\u2728\nhttps://sweetroad5.com/news/25768/",
           "engagement": "427K views",
           "views": 427827
+        },
+        {
+          "handle": "Happy48791",
+          "url": "https://x.com/Happy48791/status/2056726836915437868",
+          "headline": "Food review of carrot noodle salad with high rating",
+          "body": "\u2728\uc0d0\ub7ec\ub514 \uc120\uc7ac\uc2a4\ub2d8 \ub2f9\uadfc\uad6d\uc218\u2728\n\n\ud3c9\uc810: 9/10\n\n\uc694\uc998 \uc720\ud589\ud558\ub294 \ucc9c\uc5f0 \uc704\uace0\ube44 \uc911 \uac00\uc7a5 \uac74\uac15\ud55c \uc81c\ud488\uc778\uac70 \uac19\uc18c\uc774\ub2e4. \ub2f9\uadfc\uc758 \uc740\uc740\ud55c \ub2e8\ub9db\uacfc \ucde8\ub098\ubb3c\uc758 \uc0b0\ub73b\ud55c \ud5a5, \uadf8\ub9ac\uace0 \ubc84\uc12f\uc758 \ud48d\ubbf8\uac00 \uc870\ud654\ub85c\uc6b4\ub370 \ub05d\ub9db\uc5d0 \uc62c\ub77c\uc624\ub294 \uace0\ucd94\uac04\uc7a5\uc18c\uc2a4\uc758 \uc870\ubbf8\ub8cc\uac00 \ub9db\uc758 \uade0\ud615\uc744 \uc7a1\uc544\uc8fc\ub294 \ub290\ub08c\uc774\uc5c8\uc18c. 7900\uc6d0",
+          "engagement": "266K views",
+          "views": 266356
         }
       ]
     },
@@ -413,25 +421,33 @@
           "views": 1693692
         },
         {
+          "handle": "claudeai",
+          "url": "https://x.com/claudeai/status/2056645485696315581",
+          "headline": "Claude launches self-hosted sandboxes and MCP tunnels in Managed Agents",
+          "body": "Live from Code with Claude London: we're launching self-hosted sandboxes (public beta) and MCP tunnels (research preview) in Claude Managed Agents.\nRun agents inside your own perimeter, with your security controls applied by default.",
+          "engagement": "1.7M views",
+          "views": 1655959
+        },
+        {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2056748777847820363",
           "headline": "Elon Musk announces upcoming first Starship V3 launch this week.",
           "body": "First Starship V3 launch later this week!",
           "engagement": "782K views",
           "views": 782323
-        },
-        {
-          "handle": "Figure_robot",
-          "url": "https://x.com/Figure_robot/status/2056782045561643450",
-          "headline": "Figure AI robot F.03 running fully autonomously 24/7 with no failures",
-          "body": "Day 7 is Live: Watch F.03 operating fully autonomously, running 24/7 around the clock with no failures https://twitter.com/i/broadcasts/1RKZzjdMmVwKB",
-          "engagement": "31K views",
-          "views": 31305
         }
       ]
     },
     "local": {
       "stories": [
+        {
+          "handle": "GuntherEagleman",
+          "url": "https://x.com/GuntherEagleman/status/2056726787598533061",
+          "headline": "Massive wildfire explodes in Southern California with 1,300 acres burned and 30,000 evacuated",
+          "body": "\ud83d\udea8UPDATE: MASSIVE WILDFIRE EXPLODING in Southern California \u2014 1,300+ Acres Burned, 30,000 People Evacuated, Thousands of Homes Threatened\n\nFlames ripping through the area northwest of L.A. 500 firefighters battling it as residents flee in terror: \u201cWhole area was in flames\u2026 smoke everywhere.\u201d\n\nSuper dry conditions + years of Democrat incompetence = annual disaster.\n\nCalifornia\u2019s radical green policies, zero forest management, and \u201clet nature burn\u201d insanity have turned the state into a tinderbox every single year.\n\nNewsom collects the highest taxes in America and still can\u2019t stop the state from catching fire.\n\nPrayers up for the brave firefighters and the families forced to evacuate.",
+          "engagement": "40K views",
+          "views": 40599
+        },
         {
           "handle": "911NewsBreaks",
           "url": "https://x.com/911NewsBreaks/status/2056788685698338887",
@@ -441,32 +457,24 @@
           "views": 12405
         },
         {
-          "handle": "JesseBWatters",
-          "url": "https://x.com/JesseBWatters/status/2056532600068481337",
-          "headline": "Massive wildfire engulfs over 800 acres in Southern California",
-          "body": "\ud83d\udea8 JUST IN! A MASSIVE FIRE HAS JUST ENGULFED SOUTHERN CALIFORNIA\ud83d\udea8\n\nMORE THAN 800 ACRES BURNT TO A CRISP\u2026 WOW! \ud83d\ude4f",
-          "engagement": "185K views",
-          "views": 185150
-        },
-        {
-          "handle": "GuntherEagleman",
-          "url": "https://x.com/GuntherEagleman/status/2056726787598533061",
-          "headline": "Massive wildfire explodes in Southern California with 1,300 acres burned and 30,000 evacuated",
-          "body": "\ud83d\udea8UPDATE: MASSIVE WILDFIRE EXPLODING in Southern California \u2014 1,300+ Acres Burned, 30,000 People Evacuated, Thousands of Homes Threatened\n\nFlames ripping through the area northwest of L.A. 500 firefighters battling it as residents flee in terror: \u201cWhole area was in flames\u2026 smoke everywhere.\u201d\n\nSuper dry conditions + years of Democrat incompetence = annual disaster.\n\nCalifornia\u2019s radical green policies, zero forest management, and \u201clet nature burn\u201d insanity have turned the state into a tinderbox every single year.\n\nNewsom collects the highest taxes in America and still can\u2019t stop the state from catching fire.\n\nPrayers up for the brave firefighters and the families forced to evacuate.",
-          "engagement": "40K views",
-          "views": 40599
+          "handle": "SFGate",
+          "url": "https://x.com/SFGate/status/2056895216108376316",
+          "headline": "Laguna Beach plans $500 fines for shade structures at beach",
+          "body": "Laguna Beach plans $500 fines for shade structures at beach",
+          "engagement": "1.4K views",
+          "views": 1489
         }
       ]
     },
     "conspiracy": {
       "stories": [
         {
-          "handle": "JesseBWatters",
-          "url": "https://x.com/JesseBWatters/status/2056536314032320605",
-          "headline": "Researchers claim dozens of crashed UFOs recovered with four alien species",
-          "body": "\ud83d\udea8WOAH! RESEARCHERS SAY DOZENS OF CRASHED UFOS HAVE BEEN RECOVERED \u2014 WITH FOUR DIFFERENT ALIEN SPECIES ON BOARD \ud83d\udef8\ud83d\udc7d\n\nTWO ARMS, TWO LEGS\u2026 LONG TAILS LIKE A LIZARD! 7 FEET TALL! \ud83d\udc7e\n\nSOURCES ARE TOO SCARED TO TALK\u2026 SAYING AN INTERVIEW COULD \u201cFORFEIT THEIR LIFE\u201d \ud83d\ude33\ud83d\udc80",
-          "engagement": "2.1M views",
-          "views": 2104347
+          "handle": "ShiftTheStory0",
+          "url": "https://x.com/ShiftTheStory0/status/2056782182946091265",
+          "headline": "Discussion on why conspiracy theories spread and public distrust",
+          "body": "Conspiracy theories are easy to dismiss, but public distrust is more complicated than that. \n\nThis video explores why suspicion spreads, where healthy questioning becomes dangerous, and why some real history still shapes what people believe.\n\nhttps://www.youtube.com/watch?v=R0gOQprr_YA&feature=youtu.be",
+          "engagement": "339K views",
+          "views": 339188
         },
         {
           "handle": "tpvsean",
@@ -477,17 +485,25 @@
           "views": 56572
         },
         {
-          "handle": "MarioNawfal",
-          "url": "https://x.com/MarioNawfal/status/2056550373414895880",
-          "headline": "Pentagon UFO files reach a billion visits with more disclosures expected amid deep state resistance.",
-          "body": "\ud83d\udea8\ud83c\uddfa\ud83c\uddf8 Pentagon UFO files hit a BILLION visits. \n\nWar Dept says more is coming.\n\nResearchers report 4 distinct species recovered: greys, nordics, insectoids, reptilians.\n\nThe deep state is reportedly fighting Trump on full disclosure... what're they hiding?",
-          "engagement": "218K views",
-          "views": 218267
+          "handle": "iqkubal",
+          "url": "https://x.com/iqkubal/status/2056659502955688070",
+          "headline": "Request for darkest Kollywood conspiracy theories",
+          "body": "\u0ba8\u0bae\u0bcd\u0bae\u0bb3\u0bc1\u0bae\u0bcd \u0b95\u0bc7\u0baa\u0bcd\u0baa\u0bcb\u0bae\u0bcd.. \ud83e\udee3\n\nHit me with the darkest kollywood conspiracy theory you know..!!",
+          "engagement": "68K views",
+          "views": 68441
         }
       ]
     },
     "comedy": {
       "stories": [
+        {
+          "handle": "miiilato",
+          "url": "https://x.com/miiilato/status/2056723355873513700",
+          "headline": "Social anxiety joke about pretending not to cross the street",
+          "body": "people joke about social anxiety but they never had to pretend like they weren't crossing the street just so the car wouldn't have to wait",
+          "engagement": "1.2M views",
+          "views": 1193591
+        },
         {
           "handle": "GONMACHINE_Meme",
           "url": "https://x.com/GONMACHINE_Meme/status/2056727630053831005",
@@ -497,15 +513,15 @@
           "views": 572768
         },
         {
-          "handle": "mask_bastard",
-          "url": "https://x.com/mask_bastard/status/2056700774323745107",
-          "headline": "Viral meme about mysterious photo",
-          "body": "What happened here",
-          "engagement": "155K views",
-          "views": 155371
+          "handle": "DramaAlert",
+          "url": "https://x.com/DramaAlert/status/2056835381933318549",
+          "headline": "Viral meme splitting the internet on choices",
+          "body": "What would you pick\u2026 this viral meme has the internet split.",
+          "engagement": "139K views",
+          "views": 139156
         }
       ]
     }
   },
-  "last_updated": "2026-05-19T18:07:05.831722"
+  "last_updated": "2026-05-20T03:38:22.340134"
 }
