@@ -3,6 +3,29 @@
     "world": {
       "stories": [
         {
+          "headline": "UN declares Ebola global health emergency after USAID cuts",
+          "url": "https://x.com/mhdksafa/status/2056744074132996579",
+          "handle": "mhdksafa",
+          "perspectives": [
+            {
+              "label": "Independent",
+              "handle": "mhdksafa",
+              "url": "https://x.com/mhdksafa/status/2056744074132996579",
+              "body": "The richest man on Earth dismantled the organization that feeds the poorest children on earth. He also cancelled all of the global Ebola prevention programs. The UN has now declared Ebola outbreak a global health emergency.",
+              "engagement": "537K views",
+              "views": 537183
+            },
+            {
+              "label": "Conservative",
+              "handle": "SecRubio",
+              "url": "https://x.com/SecRubio/status/2057042093688627559",
+              "body": "Thank you to Chancellor Merz and our friends in Germany for their swift assistance in caring for Americans affected by the Ebola outbreak. We're grateful for our partnership.",
+              "engagement": "324K views",
+              "views": 324240
+            }
+          ]
+        },
+        {
           "headline": "Narendra Modi lands in Rome for Italy-India talks and IMEC corridor",
           "url": "https://x.com/narendramodi/status/2056799899405144524",
           "handle": "narendramodi",
@@ -30,21 +53,6 @@
               "body": "Elon Musk: \"I think we're going to see widespread slaughter in Europe.\"",
               "engagement": "36K views",
               "views": 36649
-            }
-          ]
-        },
-        {
-          "headline": "Russian President Putin arrives in China for two-day visit",
-          "url": "https://x.com/BRICSinfo/status/2056760634843287956",
-          "handle": "BRICSinfo",
-          "perspectives": [
-            {
-              "label": "Independent",
-              "handle": "BRICSinfo",
-              "url": "https://x.com/BRICSinfo/status/2056760634843287956",
-              "body": "JUST IN: \ud83c\uddf7\ud83c\uddfa\ud83c\udde8\ud83c\uddf3 Russian President Putin arrives in China for a two-day visit.",
-              "engagement": "1.56M views",
-              "views": 1560291
             }
           ]
         },
@@ -83,6 +91,29 @@
     },
     "usa": {
       "stories": [
+        {
+          "headline": "President Trump in final stages of talks with Iran, US oil prices drop 7%",
+          "url": "https://x.com/KobeissiLetter/status/2057119163424879047",
+          "handle": "KobeissiLetter",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "KobeissiLetter",
+              "url": "https://x.com/KobeissiLetter/status/2057119163424879047",
+              "body": "BREAKING: US oil prices fall over -7% to $97/barrel after President Trump says the US is in \"final stages\" of talks with Iran.",
+              "engagement": "7K views",
+              "views": 7374
+            },
+            {
+              "label": "Independent",
+              "handle": "FaisalbinFarhan",
+              "url": "https://x.com/FaisalbinFarhan/status/2057100399820017758",
+              "body": "The Kingdom of Saudi Arabia highly appreciates the US President Donald Trump's decision to give diplomacy a chance...",
+              "engagement": "32K views",
+              "views": 32908
+            }
+          ]
+        },
         {
           "headline": "Trump and family permanently exempt from IRS tax audits per settlement",
           "url": "https://x.com/WatcherGuru/status/2056833978473075047",
@@ -144,65 +175,34 @@
               "views": 6936
             }
           ]
-        },
-        {
-          "headline": "Senate advances resolution limiting US military action against Iran",
-          "url": "https://x.com/RpsAgainstTrump/status/2056858568704335924",
-          "handle": "RpsAgainstTrump",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "StevenCheung47",
-              "url": "https://x.com/StevenCheung47/status/2056888734826528825",
-              "body": "Do not ever doubt President Trump and his political power. Fuck around, find out.",
-              "engagement": "1.7M views",
-              "views": 1651998
-            },
-            {
-              "label": "Independent",
-              "handle": "RpsAgainstTrump",
-              "url": "https://x.com/RpsAgainstTrump/status/2056858568704335924",
-              "body": "BREAKING: In a major blow to Donald Trump, the Senate voted 50-47 to advance a resolution to limit military action against Iran unless approved by Congress.",
-              "engagement": "1.8M views",
-              "views": 1776933
-            },
-            {
-              "label": "Democrat",
-              "handle": "factpostnews",
-              "url": "https://x.com/factpostnews/status/2056829891270615193",
-              "body": "\ud83d\udea8 Trump's IRS settlement now includes a clause from DOJ effectively granting Trump a blanket pardon for any past or present tax crimes.",
-              "engagement": "264K views",
-              "views": 264344
-            }
-          ]
         }
       ]
     },
     "business": {
       "stories": [
         {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2056749520151593392",
-          "headline": "Elon Musk agrees on AI and Bitcoin synergy",
-          "body": "True",
-          "engagement": "6.2M views",
-          "views": 6207945
+          "handle": "WatcherGuru",
+          "url": "https://x.com/WatcherGuru/status/2057114833779060885",
+          "headline": "Trump signs executive order to reduce regulatory barriers for fintech and digital assets",
+          "body": "President Trump signed an executive order to reduce regulatory barriers for fintech firms and supporting the integration of digital assets into traditional finance and payment systems.\n\nThe order directs federal financial regulators to review existing rules, guidance, and licensing processes that may limit innovation or restrict partnerships between fintech companies and federally regulated institutions.\n\nA major focus is digital assets and blockchain-based services. The Federal Reserve is asked to evaluate whether non-bank financial companies, including digital asset firms, can directly access Fed payment accounts and payment services.\n\nRegulators have 90 days to identify barriers, while the Federal Reserve has 120 days to deliver its findings and recommendations to the White House.",
+          "engagement": "20.4K views",
+          "views": 20379
         },
         {
-          "handle": "KobeissiLetter",
-          "url": "https://x.com/KobeissiLetter/status/2056765531957481557",
-          "headline": "US 30-year Treasury yield hits highest level since 2007",
-          "body": "Bond markets are flashing red.\n\nToday, the US 30Y Note Yield officially hit its highest level since July 2007, at 5.19%.\n\nThis will soon become Americans\u2019 biggest problem, yet the vast majority do not even know it is happening.\n\nWhat is happening? Let us explain.\n\n(a thread)",
-          "engagement": "2.8M views",
-          "views": 2757741
+          "handle": "DeItaone",
+          "url": "https://x.com/DeItaone/status/2057110627319996741",
+          "headline": "ECB rate hike very likely in June as inflation outlook moves towards adverse scenario",
+          "body": "ECB RATE HIKE VERY LIKELY IN JUNE AS INFLATION OUTLOOK MOVING TOWARDS ADVERSE SCENARIO, SOURCES SAY",
+          "engagement": "27.6K views",
+          "views": 27631
         },
         {
-          "handle": "KobeissiLetter",
-          "url": "https://x.com/KobeissiLetter/status/2056728241335939294",
-          "headline": "US 30-year Treasury yield hits highest since 2007",
-          "body": "BREAKING: The US 30Y Note Yield rises to 5.18%, its highest level since July 2007.",
-          "engagement": "1.5M views",
-          "views": 1534463
+          "handle": "mikealfred",
+          "url": "https://x.com/mikealfred/status/2057111291085660253",
+          "headline": "Bullish on BBBY after conversation with CEO Marcus Lemonis",
+          "body": "Fantastic conversation with BBBY CEO @marcuslemonis. I think Marcus and his team have the right idea for how to build a really big business in the home space. I am bullish and have purchased 160,000 shares in the open market.",
+          "engagement": "12.8K views",
+          "views": 12776
         }
       ]
     },
@@ -210,27 +210,27 @@
       "stories": [
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2056761935207534615",
-          "headline": "Elon Musk shares humorous take on conservative voters choosing politicians.",
-          "body": "Truth via Humor",
-          "engagement": "6.8M views",
-          "views": 6829324
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2056749215876084121",
-          "headline": "Elon Musk reflects on the best possible future with abundance and peace.",
-          "body": "What is the best possible future? This question is much harder to answer than it may seem.",
-          "engagement": "3.3M views",
-          "views": 3273849
-        },
-        {
-          "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2056774600252399621",
           "headline": "Elon Musk promotes joining the tunneling movement for underground transport.",
           "body": "Join tunneling \u2013 the underground movement",
           "engagement": "1.7M views",
           "views": 1693692
+        },
+        {
+          "handle": "milk_speech",
+          "url": "https://x.com/milk_speech/status/2057087115456844213",
+          "headline": "Viral clip of excited crowd reaction",
+          "body": "They couldn\u2019t be contained",
+          "engagement": "650K views",
+          "views": 650499
+        },
+        {
+          "handle": "SOURCEMUSIC",
+          "url": "https://x.com/SOURCEMUSIC/status/2057114177618190552",
+          "headline": "LE SSERAFIM BOOMPALA MV teaser 2",
+          "body": "<BOOMPALA> MV TEASER 2 https://www.youtube.com/watch?v=eY2JASSgF-s&feature=youtu.be \u2730 2nd Studio Album \u2018PUREFLOW\u2019 pt.1 2026.05.22 1PM (KST) | 12AM (ET) \ud83d\udcbfPre-save & Pre-order https://le-sserafim.lnk.to/PUREFLOWpt1 #LE_SSERAFIM #\ub974\uc138\ub77c\ud54c #PUREFLOW_pt1 #BOOMPALA",
+          "engagement": "101K views",
+          "views": 101126
         }
       ]
     },
@@ -243,14 +243,6 @@
           "body": "A jury sided with Sam Altman and OpenAI in court. But Elon Musk won in the court of public opinion, writes Tim Higgins. https://www.wsj.com/tech/the-art-of-war-elon-musk-edition-how-to-lose-a-lawsuit-and-still-claim-victory-4dc03002?mod=e2tw",
           "engagement": "244K views",
           "views": 244165
-        },
-        {
-          "handle": "nytimes",
-          "url": "https://x.com/nytimes/status/2056756299363127705",
-          "headline": "Author admits AI-generated fake quotes in nonfiction book on truth and AI.",
-          "body": "Breaking News: Steven Rosenbaum, the author of \u201cThe Future of Truth,\u201d acknowledged that the nonfiction book about the effects of A.I. on truth included misattributed or fake quotes concocted by A.I. https://www.nytimes.com/2026/05/19/business/media/future-of-truth-ai-quotes.html?smtyp=cur&smid=tw-nytimes",
-          "engagement": "366K views",
-          "views": 365983
         },
         {
           "handle": "CNN",
@@ -274,19 +266,19 @@
         },
         {
           "handle": "premierleague",
+          "url": "https://x.com/premierleague/status/2057110345257296008",
+          "headline": "Arsenal reach the pinnacle under Arteta",
+          "body": "Mikel Arteta and his @Arsenal side have reached the pinnacle \ud83e\udd47",
+          "engagement": "90K views",
+          "views": 90280
+        },
+        {
+          "handle": "premierleague",
           "url": "https://x.com/premierleague/status/2056835812772196578",
           "headline": "Arsenal crowned Premier League champions",
           "body": "The wait is over.\n\n@Arsenal are Premier League champions.",
           "engagement": "1.4M views",
           "views": 1355732
-        },
-        {
-          "handle": "NBA",
-          "url": "https://x.com/NBA/status/2056939407525978511",
-          "headline": "Knicks complete 22-point comeback win in Game 1 of East Finals.",
-          "body": "NEW YORK WENT ON A 44-11 RUN TO COMPLETE A 22-POINT COMEBACK WIN IN GAME 1 \ud83d\udca8\n\nDOWN 22 WITH UNDER 8 TO PLAY IN Q4.\n30-8 RUN TO FORCE OT.\nWON BY 11.\n\n1-0 SERIES LEAD IN THE EAST FINALS \ud83c\udf7f",
-          "engagement": "689K views",
-          "views": 689009
         }
       ]
     },
@@ -294,27 +286,27 @@
       "stories": [
         {
           "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2057105921910907104",
+          "headline": "Elon Musk agrees on police accountability",
+          "body": "Absolutely",
+          "engagement": "6.5M views",
+          "views": 6522817
+        },
+        {
+          "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2056968161749266678",
-          "headline": "Elon Musk comments on black paint on Starship base",
+          "headline": "Elon Musk praises all-black paint on base",
           "body": "The all black paint on the base looks cool",
-          "engagement": "27.5M views",
-          "views": 27530535
+          "engagement": "43.6M views",
+          "views": 43594074
         },
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2056947567548862739",
-          "headline": "Elon Musk announces daily release notes for Grok Build",
+          "headline": "Elon Musk announces daily Grok Build release notes",
           "body": "Release notes for Grok Build will be published daily",
-          "engagement": "12.2M views",
-          "views": 12199795
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2056752178895741363",
-          "headline": "Elon Musk questions where the aliens are",
-          "body": "Where are the aliens? This is one of the most fundamental questions.",
-          "engagement": "34.5M views",
-          "views": 34496800
+          "engagement": "21.8M views",
+          "views": 21761977
         }
       ]
     },
@@ -329,20 +321,20 @@
           "views": 1704103
         },
         {
+          "handle": "MarioNawfal",
+          "url": "https://x.com/MarioNawfal/status/2056917827919941766",
+          "headline": "Joe Rogan raises mental health concerns about Theo Von on podcast with apology",
+          "body": "\ud83c\uddfa\ud83c\uddf8 Joe Rogan publicly raised mental health concerns about Theo Von on his podcast, and Theo fired back...",
+          "engagement": "110K views",
+          "views": 109867
+        },
+        {
           "handle": "joeroganhq",
           "url": "https://x.com/joeroganhq/status/2056898952189108373",
           "headline": "Joe Rogan Podcast clip featuring Ilhan Omar comment.",
           "body": "Ilhan Omar: \"He should know that you shouldn't be trying to get in front of a moving car.\"",
           "engagement": "56.8K views",
           "views": 56822
-        },
-        {
-          "handle": "joeroganhq",
-          "url": "https://x.com/joeroganhq/status/2056744182472212666",
-          "headline": "Clip from Joe Rogan Podcast showing someone attempting to show off.",
-          "body": "He thought he was showing off.",
-          "engagement": "84.8K views",
-          "views": 84809
         }
       ]
     },
@@ -357,20 +349,20 @@
           "views": 2542995
         },
         {
-          "handle": "DiscussingFilm",
-          "url": "https://x.com/DiscussingFilm/status/2056727575062630716",
-          "headline": "The Mandalorian and Grogu debuts at 58% on Rotten Tomatoes",
-          "body": "\u2018THE MANDALORIAN AND GROGU\u2019 debuts at 58% on Rotten Tomatoes. \n\n\u2022 First Star Wars movie in 7 years.\n\nRead our review: https://discussingfilm.net/2026/05/19/the-mandalorian-and-grogu-review/",
-          "engagement": "3.71M views",
-          "views": 3710902
-        },
-        {
           "handle": "TMZ",
           "url": "https://x.com/TMZ/status/2056883491112099901",
           "headline": "TikTok star Gabbie Gonzalez faces charges in alleged conspiracy to kill singer baby daddy",
           "body": "\ud83d\udea8 BREAKING: TikTok star Gabbie Gonzalez was hit with three criminal charges as part of an alleged conspiracy to kill her famous baby daddy singer, her bail was set at $2 million and she's barred from going near her 7-year-old daughter.",
           "engagement": "1.9M views",
           "views": 1899739
+        },
+        {
+          "handle": "PopBase",
+          "url": "https://x.com/PopBase/status/2057091288810344488",
+          "headline": "BTS to make special live appearance at 2026 AMAs on May 25.",
+          "body": "BTS will make a \u201cspecial live appearance\u201d at this year\u2019s #AMAs, taking place May 25th.",
+          "engagement": "105K views",
+          "views": 105280
         }
       ]
     },
@@ -393,25 +385,17 @@
           "views": 143958
         },
         {
-          "handle": "diy_cooking",
-          "url": "https://x.com/diy_cooking/status/2057004073484697884",
-          "headline": "Mexican-style hot dog cooking tutorial video",
-          "body": "Mexican hotdog style.",
-          "engagement": "6.2K views",
-          "views": 6189
+          "handle": "mo____ch1",
+          "url": "https://x.com/mo____ch1/status/2057097975080661423",
+          "headline": "Summer food photos in Japanese post",
+          "body": "\u3053\u306e\u590f\u3001\u597d\u304d\u306b\u306a\u308c\u3070\u3044\u3044\uff01",
+          "engagement": "10.7K views",
+          "views": 10733
         }
       ]
     },
     "science": {
       "stories": [
-        {
-          "handle": "karpathy",
-          "url": "https://x.com/karpathy/status/2056753169888334312",
-          "headline": "Andrej Karpathy announces joining Anthropic to work on frontier LLMs.",
-          "body": "Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&D. I remain deeply passionate about education and plan to resume my work on it in time.",
-          "engagement": "19.6M views",
-          "views": 19641154
-        },
         {
           "handle": "github",
           "url": "https://x.com/github/status/2056884788179726685",
@@ -427,18 +411,26 @@
           "body": "1/ We are sharing additional details regarding our investigation into unauthorized access to GitHub's internal repositories.\n\nYesterday we detected and contained a compromise of an employee device involving a poisoned VS Code extension. We removed the malicious extension version, isolated the endpoint, and began incident response immediately.",
           "engagement": "1.1M views",
           "views": 1199342
+        },
+        {
+          "handle": "interesting_aIl",
+          "url": "https://x.com/interesting_aIl/status/2056917828805001585",
+          "headline": "Engineered immune cells show promise as functional cure for HIV in early patient data",
+          "body": "A recent breakthrough might provide a \u2018functional cure\u2019 for HIV\n\nScientists at Caring Cross infused immune cells engineered to target HIV, and after 2 patients were injected, the virus was undetectable",
+          "engagement": "48K views",
+          "views": 48668
         }
       ]
     },
     "local": {
       "stories": [
         {
-          "handle": "GuntherEagleman",
-          "url": "https://x.com/GuntherEagleman/status/2056726787598533061",
-          "headline": "Massive wildfire explodes in Southern California with 1,300 acres burned and 30,000 evacuated",
-          "body": "\ud83d\udea8UPDATE: MASSIVE WILDFIRE EXPLODING in Southern California \u2014 1,300+ Acres Burned, 30,000 People Evacuated, Thousands of Homes Threatened\n\nFlames ripping through the area northwest of L.A. 500 firefighters battling it as residents flee in terror: \u201cWhole area was in flames\u2026 smoke everywhere.\u201d\n\nSuper dry conditions + years of Democrat incompetence = annual disaster.\n\nCalifornia\u2019s radical green policies, zero forest management, and \u201clet nature burn\u201d insanity have turned the state into a tinderbox every single year.\n\nNewsom collects the highest taxes in America and still can\u2019t stop the state from catching fire.\n\nPrayers up for the brave firefighters and the families forced to evacuate.",
-          "engagement": "40K views",
-          "views": 40599
+          "handle": "ABC",
+          "url": "https://x.com/ABC/status/2057117674253992134",
+          "headline": "More than 17,000 people under evacuation orders in Southern California due to Sandy Fire.",
+          "body": "More than 17,000 people were under evacuation orders in Southern California on Tuesday as a wildfire threatened suburban homes.\n\nThe wind-driven Sandy Fire was reported Monday in the hills above Simi Valley about 30 miles northwest of Los Angeles.",
+          "engagement": "5.8K views",
+          "views": 5836
         },
         {
           "handle": "911NewsBreaks",
@@ -449,12 +441,12 @@
           "views": 12405
         },
         {
-          "handle": "nypost",
-          "url": "https://x.com/nypost/status/2056842038465720488",
-          "headline": "SoCal beach city to fine beachgoers for umbrella violations",
-          "body": "SoCal beach city wants to fine beachgoers for violating its \"umbrellas only\" rule",
-          "engagement": "6.9K views",
-          "views": 6855
+          "handle": "business",
+          "url": "https://x.com/business/status/2056761375502827830",
+          "headline": "Choppy winds continue as firefighters battle blazes forcing evacuations in Southern California.",
+          "body": "Choppy winds will continue across Southern California, where firefighters are battling several blazes that have forced some residents to flee their homes and sent smoke into downtown Los Angeles.",
+          "engagement": "9.9K views",
+          "views": 9867
         }
       ]
     },
@@ -475,26 +467,18 @@
           "body": "Justin Bieber Exposes 'VIP Pedos' Who Almost Killed Britney Spears in 'Illuminati Blood Ritual'\n\nJustin Bieber just went nuclear on Instagram. He says Britney Spears didn\u2019t simply 'break down' ... she endured years of brutal, systematic MKUltra-style Monarch programming.\n\nAnd it all started when she was just a child. The depraved industry executives made her take part in a sickening auto-cannibal ritual designed to fracture her mind and desecrate her body.",
           "engagement": "57K views",
           "views": 56572
-        },
-        {
-          "handle": "FlatEarthZone",
-          "url": "https://x.com/FlatEarthZone/status/2056762391019331768",
-          "headline": "Symbolism in logos, architecture, and media conceals hidden truths in plain sight.",
-          "body": "The deeper you look, the more you realize symbolism isn\u2019t accidental. Hidden in logos, architecture, media, and religion\u2026 truth is often concealed in plain sight.",
-          "engagement": "11K views",
-          "views": 11035
         }
       ]
     },
     "comedy": {
       "stories": [
         {
-          "handle": "Japan_lol_w",
-          "url": "https://x.com/Japan_lol_w/status/2056940830255120473",
-          "headline": "Elderly driver meme from Panama protest video",
-          "body": "\u30d1\u30ca\u30de\u3067\u9ad8\u901f\u9053\u8def\u3092\u5c01\u9396\u3057\u305f\u30c7\u30e2\u4e2d\u306e\u6c17\u5019\u6d3b\u52d5\u5bb62\u4eba\u3092\u3084\u3063\u305f\u8001\u4eba\u30c9\u30e9\u30a4\u30d0\u30fc\u3001\u64ae\u3089\u308c\u65b9\u6620\u753b\u3059\u304e\u308bwwwww",
-          "engagement": "554K views",
-          "views": 554990
+          "handle": "zcucr",
+          "url": "https://x.com/zcucr/status/2056957764211974198",
+          "headline": "Funny The Boys clip of Butcher watching Homelander",
+          "body": "The way Butcher enjoying Homelander trying to use his power one last time is actually so funny  #TheBoys",
+          "engagement": "2.3M views",
+          "views": 2292235
         },
         {
           "handle": "ExtremeBlitz__",
@@ -505,15 +489,15 @@
           "views": 767824
         },
         {
-          "handle": "miiilato",
-          "url": "https://x.com/miiilato/status/2056723355873513700",
-          "headline": "Relatable joke about pretending not to cross the street due to social anxiety",
-          "body": "people joke about social anxiety but they never had to pretend like they weren't crossing the street just so the car wouldn't have to wait",
-          "engagement": "1.4M views",
-          "views": 1405924
+          "handle": "Japan_lol_w",
+          "url": "https://x.com/Japan_lol_w/status/2056940830255120473",
+          "headline": "Elderly driver meme from Panama protest video",
+          "body": "\u30d1\u30ca\u30de\u3067\u9ad8\u901f\u9053\u8def\u3092\u5c01\u9396\u3057\u305f\u30c7\u30e2\u4e2d\u306e\u6c17\u5019\u6d3b\u52d5\u5bb62\u4eba\u3092\u3084\u3063\u305f\u8001\u4eba\u30c9\u30e9\u30a4\u30d0\u30fc\u3001\u64ae\u3089\u308c\u65b9\u6620\u753b\u3059\u304e\u308bwwwww",
+          "engagement": "554K views",
+          "views": 554990
         }
       ]
     }
   },
-  "last_updated": "2026-05-20T10:51:37.433401"
+  "last_updated": "2026-05-20T15:22:15.784351"
 }
