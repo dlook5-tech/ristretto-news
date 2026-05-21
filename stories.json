@@ -3,6 +3,37 @@
     "world": {
       "stories": [
         {
+          "headline": "UK police accused of double standard in handling stabbing death of 18-year-old Henry Nowak",
+          "url": "https://x.com/elonmusk/status/2057133365145608511",
+          "handle": "elonmusk",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "EricLDaugh",
+              "url": "https://x.com/EricLDaugh/status/2057190168692473877",
+              "body": "\ud83d\udea8 UPDATE: Elon Musk is going BALLISTIC on the double standard of UK police allowing 18-year-old white male Nick Nowak to be KILLED by a perpetrator who cried \"he was being racist,\" instead of going after the killer",
+              "engagement": "58K views",
+              "views": 58475
+            },
+            {
+              "label": "Independent",
+              "handle": "elonmusk",
+              "url": "https://x.com/elonmusk/status/2057133365145608511",
+              "body": "There were massive international protests over George Floyd and those police involved were severely punished with long prison sentences, yet the police responsible here did not even lose their jobs! An incredibly unjust double-standard!",
+              "engagement": "36.4M views",
+              "views": 36409535
+            },
+            {
+              "label": "Democrat",
+              "handle": "cb_doge",
+              "url": "https://x.com/cb_doge/status/2057109692644823144",
+              "body": "An 18-year-old kid gets stabbed in the street. He\u2019s running for his life, begging for help, and instead of saving him, the police handcuff him while he bleeds out because the attacker claimed \u201cracism.\u201d",
+              "engagement": "37.6M views",
+              "views": 37678673
+            }
+          ]
+        },
+        {
           "headline": "Putin highlights multipolar world with no single hegemon as Russia-China ties strengthen",
           "url": "https://x.com/jacksonhinkle/status/2056286811211571251",
           "handle": "jacksonhinkle",
@@ -34,64 +65,33 @@
           ]
         },
         {
-          "headline": "Israeli forces kill civilians including children in South Lebanon",
-          "url": "https://x.com/sahouraxo/status/2056890465622929789",
-          "handle": "sahouraxo",
+          "headline": "Israeli minister Ben-Gvir posts taunting video of detained Global Sumud Flotilla activists",
+          "url": "https://x.com/itamarbengvir/status/2057046925417824697",
+          "handle": "itamarbengvir",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "mtgreenee",
-              "url": "https://x.com/mtgreenee/status/2057069003550360056",
-              "body": "It\u2019s not an antisemitic conspiracy theory when a foreign lobby openly brags that they bought two congressional seats with candidates who will be loyal to Israel.",
+              "handle": "piersmorgan",
+              "url": "https://x.com/piersmorgan/status/2057188801252860046",
+              "body": "You\u2019re a psychopath. No wonder Israel\u2019s reputation is plunging around the world with people like you in its Govt.",
               "engagement": "1.3M views",
-              "views": 1301765
+              "views": 1368161
             },
             {
               "label": "Independent",
-              "handle": "sahouraxo",
-              "url": "https://x.com/sahouraxo/status/2056890465622929789",
-              "body": "Israel killed Maria today in South Lebanon.",
-              "engagement": "342K views",
-              "views": 342456
+              "handle": "sikorskiradek",
+              "url": "https://x.com/sikorskiradek/status/2057164437828612127",
+              "body": "You may not treat Polish citizens who have committed no crime in this way. In the democratic world we do not abuse and gloat over people in custody. We demand justice for our citizens and consequences for you.",
+              "engagement": "1.7M views",
+              "views": 1704375
             },
             {
               "label": "Democrat",
-              "handle": "ggreenwald",
-              "url": "https://x.com/ggreenwald/status/2057185890003218717",
-              "body": "I can't think of a more glaring and revealing political irony than a politician who called his ideology \"America First\" proudly *boasting* that he's far more popular in Israel than in his own country.",
-              "engagement": "139K views",
-              "views": 139511
-            }
-          ]
-        },
-        {
-          "headline": "Ukraine launches long-range strikes on Russian oil refineries and infrastructure",
-          "url": "https://x.com/ZelenskyyUa/status/2057171592099025207",
-          "handle": "ZelenskyyUa",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "JayinKyiv",
-              "url": "https://x.com/JayinKyiv/status/2056700342587261439",
-              "body": "Update from the Highway of Death, the land corridor between Russia and Crimea is now under the control of Ukraine's Armed Forces.",
-              "engagement": "1.4M views",
-              "views": 1407196
-            },
-            {
-              "label": "Independent",
-              "handle": "BRICSinfo",
-              "url": "https://x.com/BRICSinfo/status/2057137610393264548",
-              "body": "JUST IN: \ud83c\uddf7\ud83c\uddfa\ud83c\udde8\ud83c\uddf3 Russian President Putin and China's Xi Jinping implicitly say they condemn President Trump's \"law of the jungle\" approach to foreign policy.",
-              "engagement": "149K views",
-              "views": 149445
-            },
-            {
-              "label": "Democrat",
-              "handle": "joncoopertweets",
-              "url": "https://x.com/joncoopertweets/status/2057059550457450987",
-              "body": "\ud83d\udd25\ud83d\udd25 BOOM \u2014 Ukrainian drones just turned Putin\u2019s prize oil refineries into bonfires again! Poor lil\u2019 Vlad is watching his war piggy bank go up in flames.",
-              "engagement": "252K views",
-              "views": 252059
+              "handle": "YvetteCooperMP",
+              "url": "https://x.com/YvetteCooperMP/status/2057126231795974147",
+              "body": "I am truly appalled at the video posted by Israeli Cabinet Minister Ben-Gvir taunting those involved in the Global Sumud Flotilla. This violates the most basic standards of respect and dignity in the way people should be treated.",
+              "engagement": "552K views",
+              "views": 552218
             }
           ]
         }
@@ -99,6 +99,68 @@
     },
     "usa": {
       "stories": [
+        {
+          "headline": "Secretary of State Marco Rubio: US stands with Bolivia's legitimate government against criminals and drug traffickers",
+          "url": "https://x.com/SecRubio/status/2057153112855503215",
+          "handle": "SecRubio",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "SecRubio",
+              "url": "https://x.com/SecRubio/status/2057153112855503215",
+              "body": "Let there be no mistake: the United States stands squarely in support of Bolivia's legitimate constitutional government. We will not allow criminals and drug traffickers to overthrow democratically elected leaders in our hemisphere.",
+              "engagement": "1.73M views",
+              "views": 1730621
+            },
+            {
+              "label": "Independent",
+              "handle": "KBP9a91",
+              "url": "https://x.com/KBP9a91/status/2057166090464121294",
+              "body": ">Marcius Rubio getting ready to address the American Legion XIV, three years into the Latin American Campaigns",
+              "engagement": "319K views",
+              "views": 319564
+            },
+            {
+              "label": "Democrat",
+              "handle": "AlbertoRodNews",
+              "url": "https://x.com/AlbertoRodNews/status/2057276439565611350",
+              "body": "Marco Rubio advierte que EE.UU. no permitir\u00e1 que el Gobierno de Bolivia sea derrocado",
+              "engagement": "428 views",
+              "views": 428
+            }
+          ]
+        },
+        {
+          "headline": "US House overwhelmingly passes Trump-backed bill to restrict companies like BlackRock from buying single-family homes",
+          "url": "https://x.com/nicksortor/status/2057149655415140749",
+          "handle": "nicksortor",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "nicksortor",
+              "url": "https://x.com/nicksortor/status/2057149655415140749",
+              "body": "\ud83d\udea8 JUST IN: The House has OVERWHELMINGLY passed a Trump-backed bill to RESTRICT companies like Blackrock from buying up single family homes LONG overdue! \ud83d\udd25 It\u2019ll now head to the Senate, then to POTUS\u2019 desk \ud83c\uddfa\ud83c\uddf8",
+              "engagement": "766K views",
+              "views": 766989
+            },
+            {
+              "label": "Independent",
+              "handle": "NewsWire_US",
+              "url": "https://x.com/NewsWire_US/status/2057183581261197572",
+              "body": "Virginia Gov. Abigail Spanberger Vetoes Bill to Restrict ICE Agents at Courthouses, Schools and Hospitals",
+              "engagement": "1.78M views",
+              "views": 1789190
+            },
+            {
+              "label": "Democrat",
+              "handle": "EricLDaugh",
+              "url": "https://x.com/EricLDaugh/status/2057148887824015779",
+              "body": "\ud83d\udea8 NOW: The US House has just PASSED a Trump-backed bill to BLOCK large institutional investors from buying up single family homes, 396-13 The 21st Century ROAD to Housing Act now heads to the SENATE, then Trump for final signature",
+              "engagement": "383K views",
+              "views": 383732
+            }
+          ]
+        },
         {
           "headline": "Senate advances resolution limiting military action against Iran without Congress approval",
           "url": "https://x.com/RpsAgainstTrump/status/2056858568704335924",
@@ -129,88 +191,34 @@
               "views": 1960096
             }
           ]
-        },
-        {
-          "headline": "FBI charges former US Attorney with stealing confidential Trump probe documents",
-          "url": "https://x.com/FBIDirectorKash/status/2057189955500114228",
-          "handle": "FBIDirectorKash",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "FBIDirectorKash",
-              "url": "https://x.com/FBIDirectorKash/status/2057189955500114228",
-              "body": "\ud83d\udea8 This afternoon, a former managing assistant U.S. Attorney who supported Jack Smith\u2019s politicized investigation of President Trump has been charged with stealing the confidential investigation documents. Carmen Lineberger allegedly emailed the confidential material to her own personal email, disguising them as dessert recipes to conceal them from record searches. Lineberger is charged with four felony counts in the indictment. This FBI will not hesitate to bring to account those who violated the trust of the American public in an investigation that should\u2019ve never been brought to begin with.",
-              "engagement": "578K views",
-              "views": 578896
-            },
-            {
-              "label": "Independent",
-              "handle": "JonathanTurley",
-              "url": "https://x.com/JonathanTurley/status/2057117041384103959",
-              "body": "I strongly disagree with the push for a constitutional amendment to bar foreign-born legislators. https://www.foxnews.com/politics/mace-targets-squad-dem-proposed-constitutional-ban-foreign-born-lawmakers While I have suggested the possible https://jonathanturley.org/2026/04/06/the-28th-amendment-is-it-time-for-a-new-amendment-on-the-meaning-of-citizenship/ I cannot think of anything more antithetical to our founding than barring foreign-born citizens from Congress. As a nation of immigrants, it is a reaffirmation of our heritage to have these citizens serve in government...",
-              "engagement": "220K views",
-              "views": 220525
-            }
-          ]
-        },
-        {
-          "headline": "Trump and family permanently exempt from IRS tax audits per settlement",
-          "url": "https://x.com/WatcherGuru/status/2056833978473075047",
-          "handle": "WatcherGuru",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "StevenCheung47",
-              "url": "https://x.com/StevenCheung47/status/2056886701591613762",
-              "body": "Do not ever doubt President Trump and his political power. Fuck around, find out.",
-              "engagement": "1.1M views",
-              "views": 1175137
-            },
-            {
-              "label": "Independent",
-              "handle": "WatcherGuru",
-              "url": "https://x.com/WatcherGuru/status/2056833978473075047",
-              "body": "JUST IN: \ud83c\uddfa\ud83c\uddf8 Trump-IRS settlement permanently blocks IRS from auditing tax claims for President Trump and his family, Politico reports.",
-              "engagement": "4.1M views",
-              "views": 4112695
-            },
-            {
-              "label": "Democrat",
-              "handle": "pbhushan1",
-              "url": "https://x.com/pbhushan1/status/2056920641203515854",
-              "body": "What kind of deal did Trump make with Adani/Modi to get his DOJ to drop the criminal bribery case against Adani? See what the US media says",
-              "engagement": "25K views",
-              "views": 25788
-            }
-          ]
         }
       ]
     },
     "business": {
       "stories": [
         {
-          "handle": "StockSavvyShay",
-          "url": "https://x.com/StockSavvyShay/status/2057195262142263543",
-          "headline": "NVIDIA reports Q1 earnings beating estimates with strong revenue and guidance.",
-          "body": "$NVDA delivered  \ud83d\ude0f\n\n\u2022 Revenue $81.6B vs Est. $79.2B\n\u2022 EPS $1.85 vs Est. $1.78\n\u2022 Data Center $75.2B vs Est. $73.5B\n\u2022 Gross Margin 75% vs. Est. 75%\n\nQ2 Guidance\n\u2022 Revenue $90.6B vs Est. $87.2B\n\u2022 Gross Margin 75% vs. Est. 75%",
-          "engagement": "471K views",
-          "views": 470924
+          "handle": "KobeissiLetter",
+          "url": "https://x.com/KobeissiLetter/status/2057195490781823099",
+          "headline": "Nvidia stock falls over 3% after posting record quarterly earnings",
+          "body": "BREAKING: Nvidia stock, $NVDA, falls over -3% after posting record quarterly revenue of $81.6 billion and higher than expected EPS.",
+          "engagement": "1.59M views",
+          "views": 1592425
         },
         {
-          "handle": "WatcherGuru",
-          "url": "https://x.com/WatcherGuru/status/2057204751062708486",
-          "headline": "SpaceX discloses holding over $1.4 billion in Bitcoin.",
-          "body": "JUST IN: Elon Musk's SpaceX discloses holding 18,712 $BTC worth over $1.4 billion.",
-          "engagement": "126K views",
-          "views": 125980
+          "handle": "zerohedge",
+          "url": "https://x.com/zerohedge/status/2057202642334490807",
+          "headline": "SpaceX S-1 filing details with major banks leading the IPO",
+          "body": "Goldman is lead left; and pretty much every other bank is on the cover. They need that to sell it to retail",
+          "engagement": "635K views",
+          "views": 634786
         },
         {
-          "handle": "Geiger_Capital",
-          "url": "https://x.com/Geiger_Capital/status/2057196657318539581",
-          "headline": "NVIDIA beats earnings estimates, saving the market.",
-          "body": "$NVDA BEAT!\ud83d\ude80\n\n*Q1 REV: $81.62B vs $79.19B exp.\n*Q1 EPS: $1.87 vs $1.77 exp.\n*Q1 ADJ GROSS MARGIN: 75%\n*Q2 REV: $89.2B TO $92.8B vs $87.4B exp.\n\nThe market is saved.",
-          "engagement": "59K views",
-          "views": 59419
+          "handle": "zerohedge",
+          "url": "https://x.com/zerohedge/status/2057202299957637436",
+          "headline": "Full 277 page SpaceX S-1 SEC filing now public",
+          "body": "Full 277 page S-1 filing https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm",
+          "engagement": "589K views",
+          "views": 589487
         }
       ]
     },
@@ -225,20 +233,20 @@
           "views": 8916789
         },
         {
+          "handle": "NASA",
+          "url": "https://x.com/NASA/status/2057163010460782722",
+          "headline": "NASA announces Moon Base plans and live event.",
+          "body": "We're building a Moon Base! \n\n@NASAMoonBase will serve as a habitat where astronauts live and work during long-term science missions.\n\nJoin us at 2pm ET on Tuesday, May 26, for a live news event where we\u2019ll share updates on our lunar exploration plans: https://www.nasa.gov/news-release/nasa-to-provide-update-on-moon-base-strategy-missions/?utm_source=TWITTER&utm_medium=NASA&utm_campaign=NASASocial&linkId=945779084",
+          "engagement": "7.2M views",
+          "views": 7156495
+        },
+        {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2057100043581337889",
           "headline": "Elon Musk affirms SpaceX goal for self-sustaining civilization beyond Earth",
           "body": "That is the goal",
           "engagement": "4.2M views",
           "views": 4228534
-        },
-        {
-          "handle": "ManCity",
-          "url": "https://x.com/ManCity/status/2057121955510354409",
-          "headline": "Manchester City thanks Bernardo Silva",
-          "body": "Thank you, Bernardo \ud83e\ude75",
-          "engagement": "1.5M views",
-          "views": 1530137
         }
       ]
     },
@@ -261,32 +269,24 @@
           "views": 367117
         },
         {
-          "handle": "WSJ",
-          "url": "https://x.com/WSJ/status/2057135489040212227",
-          "headline": "OpenAI preparing to file for IPO as early as Friday",
-          "body": "Exclusive: OpenAI is preparing to file for an IPO, possibly as early as Friday",
-          "engagement": "130K views",
-          "views": 129845
+          "handle": "AP",
+          "url": "https://x.com/AP/status/2057239973527478637",
+          "headline": "Explosives techs remove unexploded drone from Odesa high-rise",
+          "body": "Explosives technicians on Wednesday removed an unexploded drone lodged in the facade of a residential high-rise building in Odesa, Ukraine. The unexploded drone was stuck on the 15th floor of a 24-story residential building, video shared by Ukraine's State Emergency Service shows.",
+          "engagement": "119K views",
+          "views": 118780
         }
       ]
     },
     "sports": {
       "stories": [
         {
-          "handle": "espn",
-          "url": "https://x.com/espn/status/2057168249330991607",
-          "headline": "Aaron Rodgers announces retirement after next season",
-          "body": "Breaking: Aaron Rodgers told reporters he will retire after this upcoming season with the Pittsburgh Steelers.",
-          "engagement": "601K views",
-          "views": 600770
-        },
-        {
           "handle": "premierleague",
-          "url": "https://x.com/premierleague/status/2057202761305874534",
-          "headline": "Aston Villa win Europa League title",
-          "body": "\ud83d\udc4f @AVFCOfficial have won the Europa League! \ud83d\udc4f",
-          "engagement": "156K views",
-          "views": 156315
+          "url": "https://x.com/premierleague/status/2057217299938181334",
+          "headline": "Premier League post questions impact of Aston Villa Europa League win on Champions League qualification",
+          "body": "How does Aston Villa's Europa League win change the contest for Champions League places?",
+          "engagement": "750K views",
+          "views": 750139
         },
         {
           "handle": "TheDunkCentral",
@@ -295,6 +295,14 @@
           "body": "\u201cBringing in James Harden to win a championship is like electing Donald Trump to fix your country.\u201d\n- @maxkellerman \n\n(Via Game Over / h/t @NBA__Courtside )",
           "engagement": "871K views",
           "views": 871366
+        },
+        {
+          "handle": "espn",
+          "url": "https://x.com/espn/status/2057168249330991607",
+          "headline": "Aaron Rodgers announces retirement after next season",
+          "body": "Breaking: Aaron Rodgers told reporters he will retire after this upcoming season with the Pittsburgh Steelers.",
+          "engagement": "601K views",
+          "views": 600770
         }
       ]
     },
@@ -302,19 +310,19 @@
       "stories": [
         {
           "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2057286455165379019",
+          "headline": "Elon Musk reflects on Model S and X legacy",
+          "body": "S & X will forever be in my heart",
+          "engagement": "4.5M views",
+          "views": 4529505
+        },
+        {
+          "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2057133365145608511",
           "headline": "Elon Musk calls out double standards in policing over George Floyd protests vs. Henry Nowak case",
           "body": "There were massive international protests over George Floyd and those police involved were severely punished with long prison sentences, yet the police responsible here did not even lose their jobs!\n\nAn incredibly unjust double-standard!",
           "engagement": "23.5M views",
           "views": 23546479
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2057180153558835572",
-          "headline": "Elon Musk says 'This is so unjust' in response to lack of media coverage on Henry Nowak",
-          "body": "This is so unjust",
-          "engagement": "8.0M views",
-          "views": 8023223
         },
         {
           "handle": "elonmusk",
@@ -329,28 +337,12 @@
     "pods": {
       "stories": [
         {
-          "handle": "MarioNawfal",
-          "url": "https://x.com/MarioNawfal/status/2056917827919941766",
-          "headline": "Joe Rogan raises mental health concerns about Theo Von on podcast with apology",
-          "body": "\ud83c\uddfa\ud83c\uddf8 Joe Rogan publicly raised mental health concerns about Theo Von on his podcast, and Theo fired back...",
-          "engagement": "110K views",
-          "views": 109867
-        },
-        {
-          "handle": "joeroganhq",
-          "url": "https://x.com/joeroganhq/status/2056898952189108373",
-          "headline": "Joe Rogan Podcast clip featuring Ilhan Omar comment.",
-          "body": "Ilhan Omar: \"He should know that you shouldn't be trying to get in front of a moving car.\"",
-          "engagement": "56.8K views",
-          "views": 56822
-        },
-        {
-          "handle": "scotthortonshow",
-          "url": "https://x.com/scotthortonshow/status/2056870597116809265",
-          "headline": "Scott Horton thanks Joe Rogan for podcast bump and promotes academy",
-          "body": "Thanks very much to @joerogan for the bump. For all you new followers, save 20% lifetime or annual memberships at the Scott Horton Academy of Foreign Policy and Freedom -- my Masterclasses on the Terror Wars and the New Cold War with Russia, and more with promocode Rogan.",
-          "engagement": "54K views",
-          "views": 53758
+          "handle": "newstart_2024",
+          "url": "https://x.com/newstart_2024/status/2057155880768905579",
+          "headline": "Joe Rogan apologizes to Theo Von on podcast",
+          "body": "Joe Rogan issued a heartfelt apology to Theo Von on yesterday\u2019s episode (May 19th).",
+          "engagement": "194K views",
+          "views": 194489
         }
       ]
     },
@@ -358,60 +350,68 @@
       "stories": [
         {
           "handle": "DiscussingFilm",
+          "url": "https://x.com/DiscussingFilm/status/2057165645322551463",
+          "headline": "Michael Bay developing movie about U.S./Iran war based on real events.",
+          "body": "Michael Bay is developing a movie about the U.S./Iran war.\n\nThe film follows the story of the 2 U.S. pilots rescued after their planes were shot down during Operation Epic Fury in Iran. \n\n(Source: Deadline)",
+          "engagement": "2.49M views",
+          "views": 2493608
+        },
+        {
+          "handle": "PopBase",
+          "url": "https://x.com/PopBase/status/2057158191847530784",
+          "headline": "Quinta Brunson to star in Betty Boop film adaptation.",
+          "body": "Quinta Brunson will star in a film adaptation of \u2018Betty Boop.\u2019\n\nShe is developing the movie with the grandson of the man who created Betty Boop.",
+          "engagement": "2.47M views",
+          "views": 2465313
+        },
+        {
+          "handle": "DiscussingFilm",
           "url": "https://x.com/DiscussingFilm/status/2057138403188064283",
           "headline": "Quinta Brunson to star as Betty Boop in new origin story film",
           "body": "Quinta Brunson will star as Betty Boop in a new film.\n\nThe film - made in collaboration with the creator's grandson - would follow the origin & evolution of Betty Boop through the POV of her creator, Max Fleischer.\n\n(Source: https://variety.com/2026/film/news/quinta-brunson-betty-boop-movie-1236754550/",
           "engagement": "1.46M views",
           "views": 1459485
-        },
-        {
-          "handle": "tasacakbudeniz",
-          "url": "https://x.com/tasacakbudeniz/status/2057187354910044331",
-          "headline": "Turkish series Ta\u015facak Bu Deniz releases new episode trailer",
-          "body": "\"Adil Ko\u00e7ari \u00f6ld\u00fc.\"\n\nTa\u015facak Bu Deniz 29. b\u00f6l\u00fcm 2. fragman\u0131 yay\u0131nda! \ud83d\udcfa\n\n#Ta\u015facakBuDeniz yeni b\u00f6l\u00fcm\u00fcyle cuma 20.00\u2019de @trt1\u2019de!",
-          "engagement": "411K views",
-          "views": 411138
-        },
-        {
-          "handle": "DiscussingFilm",
-          "url": "https://x.com/DiscussingFilm/status/2056876843446263938",
-          "headline": "First trailer for \u2018ROLLING LOUD\u2019 film starring Owen Wilson, Matt Rife and Travis Scott released.",
-          "body": "First trailer for \u2018ROLLING LOUD\u2019, starring Owen Wilson, Matt Rife and Travis Scott.\n\nThe film follows an overprotective father who attempts to bond with his son by sneaking him into the Rolling Loud music festival.\n\nIn theaters on October 2.",
-          "engagement": "2.5M views",
-          "views": 2542995
         }
       ]
     },
     "recipe": {
       "stories": [
         {
-          "handle": "ttjattja",
-          "url": "https://x.com/ttjattja/status/2056942395569426681",
-          "headline": "Korean soybean noodle soup recipe shared in response to request",
-          "body": "\uc77c\ubcf8 \ud2b8\uce5c\uc758 \uc694\uccad\uc73c\ub85c \ub9cc\ub4dc\ub294 \ucf69\uad6d\uc218 \ub808\uc2dc\ud53c!\n\uc544\uc6b8\ub7ec \ud55c\uad6d \uc0ac\ub78c\ub3c4 \ucf69\uad6d\uc218 \uba39\uace0 \uc2f6\uc740\ub370 \ub2a6\uc740 \uc2dc\uac04 \ud30c\ub294\ub370 \uc5c6\uc744\ub54c \uc57c\ub9e4 \ucf69\uad6d\uc218 \ub9cc\ub4dc\ub294 \ubc95.\n\uc900\ube44\ubb3c: \ub450\ubd80 1\ubaa8, \ub450\uc720 1\ud329, \ub545\ucf69\ubc84\ud130 1\uc2a4\ud47c, \uc124\ud0d5 \ubc18 \uc2a4\ud47c, \uc18c\uae08 \ubc18 \uc2a4\ud47c, \uc5bc\uc74c 2\uac1c.\n\ub9cc\ub4dc\ub294 \ubc95: \uc704\uc5d0 \uc900\ube44\ubb3c \ub2e4 \ubbf9\uc11c\uae30\uc5d0 \ub123\uace0 \uac08\uae30.\n\ub05d!\n*\ub545\ucf69\ubc84\ud130 \uc5c6\uc744 \ub550 \ucc38\uae68 \ub450 \uc2a4\ud47c\uc73c\ub85c \ub300\uccb4.\n\n\u30b3\u30f3\u30b0\u30af\u30b9\u304c\u98df\u3079\u305f\u3044\uff01\u3067\u3082\u9045\u3044\u6642\u9593\u3067\u5e97\u304c\u958b\u3044\u3066\u306a\u3044\u6642\u306e\u300c\u8d85\u7c21\u5358\u30e4\u30df\u30c4\u30ad\u30fb\u30b3\u30f3\u30b0\u30af\u30b9\u300d\u306e\u4f5c\u308a\u65b9\u3002\n\n\u3010\u6e96\u5099\u3059\u308b\u3082\u306e\u3011\n\u8c46\u8150\uff1a1\u4e01\n\u8c46\u4e73\uff1a1\u30d1\u30c3\u30af\n\u30d4\u30fc\u30ca\u30c3\u30c4\u30d0\u30bf\u30fc\uff1a\u30b9\u30d7\u30fc\u30f31\u676f\n\u7802\u7cd6\uff1a\u30b9\u30d7\u30fc\u30f3\u534a\u5206\n\u5869\uff1a\u30b9\u30d7\u30fc\u30f3\u534a\u5206\n\u6c37\uff1a2\u500b\n\n\u3010\u4f5c\u308a\u65b9\u3011\u4e0a\u306e\u6750\u6599\u3092\u3059\u3079\u3066\u30df\u30ad\u30b5\u30fc\u306b\u5165\u308c\u3066\u6df7\u305c\u308b\u3060\u3051\u3002 \u4ee5\u4e0a\uff01\n\u203b\u30d4\u30fc\u30ca\u30c3\u30c4\u30d0\u30bf\u30fc\u304c\u306a\u3044\u6642\u306f\u3001\u3059\u308a\u3054\u307e\u5927\u3055\u30582\u676f\u3067\u4ee3\u7528OK\uff01",
-          "engagement": "242K views",
-          "views": 242532
+          "handle": "wstgoat7",
+          "url": "https://x.com/wstgoat7/status/2057170309740929296",
+          "headline": "Cookie dough photo shared with high engagement",
+          "body": "Cookie dough eats",
+          "engagement": "4.5M views",
+          "views": 4509482
+        },
+        {
+          "handle": "Rnyrg",
+          "url": "https://x.com/Rnyrg/status/2057295809830695299",
+          "headline": "Quick ramen lunch photo",
+          "body": "\u6642\u9593\u306e\u306a\u3044\u304a\u663c\u306f\u30e9\u30fc\u30e1\u30f3\u3092\u30c1\u30e3\u30c3\u30c1\u30e3\u3068\u3002",
+          "engagement": "11K views",
+          "views": 11431
         },
         {
           "handle": "FoodPleaser",
           "url": "https://x.com/FoodPleaser/status/2057205723973693536",
-          "headline": "Question about trying calamari",
+          "headline": "Calamari dish photo with viewer question",
           "body": "Would you eat Calamari?",
-          "engagement": "3884 views",
-          "views": 3884
-        },
-        {
-          "handle": "Soulfoodiiee",
-          "url": "https://x.com/Soulfoodiiee/status/2057059724387103158",
-          "headline": "Crunchy summer salad recipe video shared with link in comments",
-          "body": "\ud83c\udf7d Crunchy Summer Salad\n\ud83d\udc69\ud83c\udffb\u200d\ud83c\udf73 Nona.foodstory\n\n\ud83d\udcdd Recipe Link In The Comments",
-          "engagement": "18K views",
-          "views": 18203
+          "engagement": "28K views",
+          "views": 28687
         }
       ]
     },
     "science": {
       "stories": [
+        {
+          "handle": "Starlink",
+          "url": "https://x.com/Starlink/status/2057216314968858784",
+          "headline": "Starlink enables high-speed internet on the move",
+          "body": "Starlink enables high-speed internet on the move \ud83d\udef0\ufe0f\ud83d\udee3\ufe0f",
+          "engagement": "20M views",
+          "views": 20339852
+        },
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2056968161749266678",
@@ -421,20 +421,12 @@
           "views": 49096637
         },
         {
-          "handle": "github",
-          "url": "https://x.com/github/status/2056884788179726685",
-          "headline": "GitHub reports investigation into unauthorized access to internal repositories via poisoned VS Code extension.",
-          "body": "We are investigating unauthorized access to GitHub\u2019s internal repositories. While we currently have no evidence of impact to customer information stored outside of GitHub\u2019s internal repositories (such as our customers\u2019 enterprises, organizations, and repositories), we are closely monitoring our infrastructure for follow-on activity.",
-          "engagement": "6.9M views",
-          "views": 6975010
-        },
-        {
           "handle": "NASA",
           "url": "https://x.com/NASA/status/2057195134630928749",
-          "headline": "Psyche spacecraft swings by Mars for speed boost en route to asteroid",
+          "headline": "Psyche spacecraft gets Mars gravity assist en route to asteroid",
           "body": "First stop, Mars. Next stop, Psyche \ud83d\udccd\n\nOn May 15, our Psyche spacecraft swung by Mars on its way to its next destination: a metal-rich asteroid also named Psyche. The Red Planet gave the spacecraft a 1,000-mph speed boost and provided some stunning photos as well!",
-          "engagement": "241K views",
-          "views": 241702
+          "engagement": "1M views",
+          "views": 1046233
         }
       ]
     },
@@ -443,31 +435,39 @@
         {
           "handle": "CAgovernor",
           "url": "https://x.com/CAgovernor/status/2057143219658596650",
-          "headline": "Governor Newsom secures FEMA grant for BainFire suppression in Southern California",
+          "headline": "California secures FEMA grant for BainFire suppression in Riverside County",
           "body": "California just secured an additional Fire Management Assistance Grant from @FEMA to guarantee critical resources for suppressing the #BainFire in Riverside County.\n\nAs crews continue to work around the clock in Southern California, follow emergency guidance from local officials.",
-          "engagement": "74K views",
-          "views": 74429
+          "engagement": "79K views",
+          "views": 79035
         },
         {
           "handle": "ABC",
           "url": "https://x.com/ABC/status/2057201475214844402",
-          "headline": "Multiple large wildfires continue to threaten Southern California amid evacuations",
+          "headline": "Multiple large wildfires continue to threaten Southern California with evacuations",
           "body": "Fueled by gusting winds and warm temperatures, multiple large wildfires continued to menace Southern California on Wednesday, prompting thousands of residents to evacuate, authorities said. https://abcnews.com/US/multiple-large-wildfires-menacing-southern-california-prompting-thousands/story?id=133145470&cid=social_twitter_abcn",
-          "engagement": "15K views",
-          "views": 14959
+          "engagement": "21K views",
+          "views": 21105
         },
         {
           "handle": "ABC",
-          "url": "https://x.com/ABC/status/2057117674253992134",
-          "headline": "More than 17,000 under evacuation orders as Southern California wildfire threatens homes",
-          "body": "More than 17,000 people were under evacuation orders in Southern California on Tuesday as a wildfire threatened suburban homes.\n\nThe wind-driven Sandy Fire was reported Monday in the hills above Simi Valley about 30 miles northwest of Los Angeles.",
-          "engagement": "25K views",
-          "views": 25221
+          "url": "https://x.com/ABC/status/2057223589301039351",
+          "headline": "Wildfire rages on uninhabited island off Southern California after boater rescue",
+          "body": "A wildfire is raging on an uninhabited island off Southern California after rescuers saved a shipwrecked boater there.\n\nABC News' Sam Champion reports. https://abcnews.com/video/133143929/?utm_source=facebook&utm_medium=social&utm_campaign=dhfacebook&utm_content=app.dashsocial.com/abcnews/library/media/675235619",
+          "engagement": "15K views",
+          "views": 15380
         }
       ]
     },
     "conspiracy": {
       "stories": [
+        {
+          "handle": "ValerieAnne1970",
+          "url": "https://x.com/ValerieAnne1970/status/2057250020999446965",
+          "headline": "Bill Gates\u2019 microneedle mRNA patch with quantum-dot QR codes for permanent tracking.",
+          "body": "BILL GATES\u2019 MICRONEEDLE mRNA PATCH IS HERE\n\nMeet the new \u201cvaccine\u201d that doesn\u2019t just jab you \u2014 it permanently tattoos your body with modified mRNA AND quantum-dot QR codes.\n\nOne painless patch on your wrist (or wherever) dissolves, floods you with mRNA, and embeds scannable biotech markers that last years \u2014 possibly forever.\n\nNo phone needed.  \nNo card.  \nNo paper passport.\n\nJust scan your skin at the store, airport, or restaurant and the system instantly knows your \u201cvaccine status,\u201d batch number, and compliance level.\n\nThis is the biological control grid planned for the next plandemic \u2014 a permanent digital prison under your skin.\n\nThey\u2019re not hiding it anymore.\n\nYour body is the barcode.\n\nWake up.  \nResist.",
+          "engagement": "46K views",
+          "views": 45879
+        },
         {
           "handle": "RapidResponse47",
           "url": "https://x.com/RapidResponse47/status/2057154778858172825",
@@ -475,14 +475,6 @@
           "body": "\ud83d\udea8 \"Today, we are announcing an indictment charging Ra\u00fal Castro, and several others, with conspiracy to kill U.S. nationals,\" says @DAGToddBlanche in Miami. \n\n\"My message today is clear: the United States and @POTUS does not, and will not, forget its citizens.\"",
           "engagement": "51K views",
           "views": 50609
-        },
-        {
-          "handle": "WhiteHouse",
-          "url": "https://x.com/WhiteHouse/status/2057159651263652146",
-          "headline": "DOJ indicts Raul Castro on conspiracy charges",
-          "body": "\ud83d\udea8 The U.S. Department of Justice announces the indictment of Ra\u00fal Castro and several others with conspiracy to kill U.S. nationals.\n\nTHE UNITED STATES & PRESIDENT TRUMP WILL NOT FORGET ITS CITIZENS.",
-          "engagement": "39K views",
-          "views": 38965
         },
         {
           "handle": "RealAlexJones",
@@ -497,31 +489,31 @@
     "comedy": {
       "stories": [
         {
-          "handle": "zcucr",
-          "url": "https://x.com/zcucr/status/2056957764211974198",
-          "headline": "Funny The Boys clip of Butcher watching Homelander",
-          "body": "The way Butcher enjoying Homelander trying to use his power one last time is actually so funny  #TheBoys",
-          "engagement": "2.3M views",
-          "views": 2292235
-        },
-        {
           "handle": "InternetH0F",
           "url": "https://x.com/InternetH0F/status/2057175776659706113",
-          "headline": "Man awarded $835k for Charlie Kirk meme jail time",
+          "headline": "Man awarded $835k after jail time for posting Charlie Kirk meme",
           "body": "The man who spent 37 days in jail for posting a Charlie Kirk meme on Facebook was just awarded $835,000 for a violation of his first amendment rights",
-          "engagement": "281K views",
-          "views": 280679
+          "engagement": "504K views",
+          "views": 503882
         },
         {
-          "handle": "ExtremeBlitz__",
-          "url": "https://x.com/ExtremeBlitz__/status/2056875384625340574",
-          "headline": "Viral video about the last Homelander meme",
-          "body": "We\u2019re getting the last Homelander meme this Wednesday \ud83d\udc94\ud83d\udc94",
-          "engagement": "1.39M views",
-          "views": 1392809
+          "handle": "LostMemeArchive",
+          "url": "https://x.com/LostMemeArchive/status/2057204969376206935",
+          "headline": "Pepsi Harrier jet ad court case story",
+          "body": "In 1996, Pepsi ran an ad where 7 million Pepsi Points got you a Harrier jet. One guy tried to claim it. Pepsi said it was obviously a joke, and the whole thing ended up in court.",
+          "engagement": "346K views",
+          "views": 345959
+        },
+        {
+          "handle": "AltIndayBadiday",
+          "url": "https://x.com/AltIndayBadiday/status/2056979696232075579",
+          "headline": "New meme born featuring Ces Ore\u00f1a-Drilon",
+          "body": "A new meme was born! Ces Ore\u00f1a-Drilon \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+          "engagement": "440K views",
+          "views": 439628
         }
       ]
     }
   },
-  "last_updated": "2026-05-20T21:55:28.011204"
+  "last_updated": "2026-05-21T03:46:09.587002"
 }
