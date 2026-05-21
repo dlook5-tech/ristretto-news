@@ -225,20 +225,20 @@
     "top": {
       "stories": [
         {
+          "handle": "NASA",
+          "url": "https://x.com/NASA/status/2057163010460782722",
+          "headline": "NASA announces plans for Moon Base habitat and upcoming live update event.",
+          "body": "We're building a Moon Base! \n\n@NASAMoonBase will serve as a habitat where astronauts live and work during long-term science missions.\n\nJoin us at 2pm ET on Tuesday, May 26, for a live news event where we\u2019ll share updates on our lunar exploration plans: https://www.nasa.gov/news-release/nasa-to-provide-update-on-moon-base-strategy-missions/?utm_source=TWITTER&utm_medium=NASA&utm_campaign=NASASocial&linkId=945779084",
+          "engagement": "10.4M views",
+          "views": 10379890
+        },
+        {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2057133365145608511",
           "headline": "Elon Musk highlights double standard in policing after George Floyd vs UK stabbing case",
           "body": "There were massive international protests over George Floyd and those police involved were severely punished with long prison sentences, yet the police responsible here did not even lose their jobs!\n\nAn incredibly unjust double-standard!",
           "engagement": "8.9M views",
           "views": 8916789
-        },
-        {
-          "handle": "NASA",
-          "url": "https://x.com/NASA/status/2057163010460782722",
-          "headline": "NASA announces Moon Base plans and live event.",
-          "body": "We're building a Moon Base! \n\n@NASAMoonBase will serve as a habitat where astronauts live and work during long-term science missions.\n\nJoin us at 2pm ET on Tuesday, May 26, for a live news event where we\u2019ll share updates on our lunar exploration plans: https://www.nasa.gov/news-release/nasa-to-provide-update-on-moon-base-strategy-missions/?utm_source=TWITTER&utm_medium=NASA&utm_campaign=NASASocial&linkId=945779084",
-          "engagement": "7.2M views",
-          "views": 7156495
         },
         {
           "handle": "elonmusk",
@@ -261,48 +261,48 @@
           "views": 1333443
         },
         {
-          "handle": "nytimes",
-          "url": "https://x.com/nytimes/status/2057122972511391800",
-          "headline": "Jan. 6 officers sue to block Trump administration\u2019s fund for rioters",
-          "body": "Breaking News: Two officers who defended the Capitol on Jan. 6, 2021, sued to block the creation of the Trump administration\u2019s $1.8 billion fund that would reward rioters and groups that committed violence on behalf of President Trump.",
-          "engagement": "367K views",
-          "views": 367117
+          "handle": "Reuters",
+          "url": "https://x.com/Reuters/status/2057225337658908917",
+          "headline": "Proud Boys leader sentenced to 22 years plans to seek funds from Trump administration.",
+          "body": "The Proud Boys leader sentenced \u200cto 22 years for seditious conspiracy over the January 6, 2021 riot, said he planned to apply to the Trump administration's $1.776 billion 'weaponization' fund, assuming he could get between $2 million and $5 million",
+          "engagement": "562K views",
+          "views": 562649
         },
         {
-          "handle": "AP",
-          "url": "https://x.com/AP/status/2057239973527478637",
-          "headline": "Explosives techs remove unexploded drone from Odesa high-rise",
-          "body": "Explosives technicians on Wednesday removed an unexploded drone lodged in the facade of a residential high-rise building in Odesa, Ukraine. The unexploded drone was stuck on the 15th floor of a 24-story residential building, video shared by Ukraine's State Emergency Service shows.",
-          "engagement": "119K views",
-          "views": 118780
+          "handle": "washingtonpost",
+          "url": "https://x.com/washingtonpost/status/2057205990408204799",
+          "headline": "Trump administration plans 250-foot arch without new congressional approval.",
+          "body": "Breaking news: The Trump administration does not plan to seek approval from Congress for President Trump\u2019s planned 250-foot arch, arguing that they do not need it because lawmakers a century ago authorized a somewhat similar project that was never built.",
+          "engagement": "617K views",
+          "views": 617727
         }
       ]
     },
     "sports": {
       "stories": [
         {
-          "handle": "premierleague",
-          "url": "https://x.com/premierleague/status/2057217299938181334",
-          "headline": "Premier League post questions impact of Aston Villa Europa League win on Champions League qualification",
-          "body": "How does Aston Villa's Europa League win change the contest for Champions League places?",
-          "engagement": "750K views",
-          "views": 750139
+          "handle": "automaticnba",
+          "url": "https://x.com/automaticnba/status/2057293412760523246",
+          "headline": "NBA backcourt violation debate in recent game",
+          "body": "backcourt or not? \ud83e\udd14 what yall think",
+          "engagement": "3.2M views",
+          "views": 3216943
         },
         {
-          "handle": "TheDunkCentral",
-          "url": "https://x.com/TheDunkCentral/status/2057122200704938473",
-          "headline": "Max Kellerman compares signing James Harden to electing Donald Trump.",
-          "body": "\u201cBringing in James Harden to win a championship is like electing Donald Trump to fix your country.\u201d\n- @maxkellerman \n\n(Via Game Over / h/t @NBA__Courtside )",
-          "engagement": "871K views",
-          "views": 871366
+          "handle": "ShamsCharania",
+          "url": "https://x.com/ShamsCharania/status/2057244744900592055",
+          "headline": "2025-2026 NBA All-Rookie teams announced",
+          "body": "2025-2026 NBA All-Rookie teams:\n\nFirst team: Cooper Flagg, Dylan Harper, Kon Knueppel, VJ Edgecombe, Cedric Coward\n\nSecond team: Ace Bailey, Jeremiah Fears, Collin Murray-Boyles, Maxime Raynaud, Derik Queen",
+          "engagement": "1.8M views",
+          "views": 1817124
         },
         {
-          "handle": "espn",
-          "url": "https://x.com/espn/status/2057168249330991607",
-          "headline": "Aaron Rodgers announces retirement after next season",
-          "body": "Breaking: Aaron Rodgers told reporters he will retire after this upcoming season with the Pittsburgh Steelers.",
-          "engagement": "601K views",
-          "views": 600770
+          "handle": "BleacherReport",
+          "url": "https://x.com/BleacherReport/status/2057287766434566151",
+          "headline": "Dylan Harper ruled out for Game 2 due to right leg injury",
+          "body": "Dylan Harper (right leg) has been RULED OUT for the remainder of Game 2",
+          "engagement": "446K views",
+          "views": 446750
         }
       ]
     },
@@ -310,27 +310,27 @@
       "stories": [
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2057286455165379019",
-          "headline": "Elon Musk reflects on Model S and X legacy",
-          "body": "S & X will forever be in my heart",
-          "engagement": "4.5M views",
-          "views": 4529505
+          "url": "https://x.com/elonmusk/status/2057327547411570907",
+          "headline": "Elon Musk announces SpaceX hiring for SpaceXAI roles open to exceptional talent regardless of AI experience",
+          "body": "SpaceX is actively hiring world-class engineers/physicists for SpaceXAI, even if you have zero prior experience in AI. Smart humans figure it out fast.\n\nPlease send an email with ~3 bullet points demonstrating evidence of exceptional ability to ai_eng@spacex.com.",
+          "engagement": "9.1M views",
+          "views": 9074137
         },
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2057133365145608511",
-          "headline": "Elon Musk calls out double standards in policing over George Floyd protests vs. Henry Nowak case",
+          "headline": "Elon Musk highlights perceived double standard in UK policing compared to George Floyd case",
           "body": "There were massive international protests over George Floyd and those police involved were severely punished with long prison sentences, yet the police responsible here did not even lose their jobs!\n\nAn incredibly unjust double-standard!",
-          "engagement": "23.5M views",
-          "views": 23546479
+          "engagement": "40.3M views",
+          "views": 40278864
         },
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2056968161749266678",
-          "headline": "Elon Musk praises all-black paint on base",
-          "body": "The all black paint on the base looks cool",
-          "engagement": "43.6M views",
-          "views": 43594074
+          "url": "https://x.com/elonmusk/status/2057346643398128079",
+          "headline": "Elon Musk shares tips for using Grok Build with SSH tunnels and tmux",
+          "body": "Tips for using Grok Build",
+          "engagement": "3.0M views",
+          "views": 2962265
         }
       ]
     },
@@ -343,11 +343,35 @@
           "body": "Joe Rogan issued a heartfelt apology to Theo Von on yesterday\u2019s episode (May 19th).",
           "engagement": "194K views",
           "views": 194489
+        },
+        {
+          "handle": "joeroganhq",
+          "url": "https://x.com/joeroganhq/status/2057189622380429760",
+          "headline": "Surprising moment from a podcast clip.",
+          "body": "Yeah, safe to say everyone was surprised\u2026",
+          "engagement": "75K views",
+          "views": 75280
+        },
+        {
+          "handle": "joeroganhq",
+          "url": "https://x.com/joeroganhq/status/2057172001295626362",
+          "headline": "Russell Crowe comments on marijuana vs alcohol.",
+          "body": "Russell Crowe: \"I don't get why people can be so aggressively negative towards marijuana, yet, you know, half dozen drinks for them socially is \u2018Of course'. It's like these two things have very different outcomes.\"",
+          "engagement": "26K views",
+          "views": 26244
         }
       ]
     },
     "pg6": {
       "stories": [
+        {
+          "handle": "wyd_loner",
+          "url": "https://x.com/wyd_loner/status/2057230829797904886",
+          "headline": "K. Michelle says she allows her husband to sleep with other women if he doesn't pay their bills.",
+          "body": "K. Michelle says she allows her husband sleep with random women\u2026 as long as he\u2019s not paying their bills \ud83d\ude33 She also admits she watches videos of him with other women and enjoys it.\n\n\u201cIf a man gon\u2019 be a man\u2026 the \u2018filling in\u2019 better not include paying bills.\u201d",
+          "engagement": "2.06M views",
+          "views": 2064315
+        },
         {
           "handle": "DiscussingFilm",
           "url": "https://x.com/DiscussingFilm/status/2057165645322551463",
@@ -363,14 +387,6 @@
           "body": "Quinta Brunson will star in a film adaptation of \u2018Betty Boop.\u2019\n\nShe is developing the movie with the grandson of the man who created Betty Boop.",
           "engagement": "2.47M views",
           "views": 2465313
-        },
-        {
-          "handle": "DiscussingFilm",
-          "url": "https://x.com/DiscussingFilm/status/2057138403188064283",
-          "headline": "Quinta Brunson to star as Betty Boop in new origin story film",
-          "body": "Quinta Brunson will star as Betty Boop in a new film.\n\nThe film - made in collaboration with the creator's grandson - would follow the origin & evolution of Betty Boop through the POV of her creator, Max Fleischer.\n\n(Source: https://variety.com/2026/film/news/quinta-brunson-betty-boop-movie-1236754550/",
-          "engagement": "1.46M views",
-          "views": 1459485
         }
       ]
     },
@@ -379,26 +395,26 @@
         {
           "handle": "wstgoat7",
           "url": "https://x.com/wstgoat7/status/2057170309740929296",
-          "headline": "Cookie dough photo shared with high engagement",
+          "headline": "Viral image of cookie dough being eaten",
           "body": "Cookie dough eats",
-          "engagement": "4.5M views",
-          "views": 4509482
+          "engagement": "6.2M views",
+          "views": 6226655
         },
         {
-          "handle": "Rnyrg",
-          "url": "https://x.com/Rnyrg/status/2057295809830695299",
-          "headline": "Quick ramen lunch photo",
-          "body": "\u6642\u9593\u306e\u306a\u3044\u304a\u663c\u306f\u30e9\u30fc\u30e1\u30f3\u3092\u30c1\u30e3\u30c3\u30c1\u30e3\u3068\u3002",
-          "engagement": "11K views",
-          "views": 11431
+          "handle": "yamayoshiseika",
+          "url": "https://x.com/yamayoshiseika/status/2057355714729763310",
+          "headline": "Campaign post for wasabi beef chips and summer flavors",
+          "body": "\uff0f\n \ud83d\udd34\ud83d\udc2e\u521d\u590f\u3092\u697d\u3057\u3082\u3046\uff01\u6885\u308f\u3055\u796d\uff01\ud83d\udc2e\ud83d\udd34\n\u3010\u7b2c\uff15\u56de\u3011\u30d5\u30a9\u30ed\u30fc\uff06\u30ea\u30dd\u30b9\u30c8\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\n\uff3c",
+          "engagement": "13.3K views",
+          "views": 13262
         },
         {
-          "handle": "FoodPleaser",
-          "url": "https://x.com/FoodPleaser/status/2057205723973693536",
-          "headline": "Calamari dish photo with viewer question",
-          "body": "Would you eat Calamari?",
-          "engagement": "28K views",
-          "views": 28687
+          "handle": "KitchenRecipes_",
+          "url": "https://x.com/KitchenRecipes_/status/2057160839992365389",
+          "headline": "Video of famous fishermen's salad recipe",
+          "body": "Famous Fishermen's Salad \ud83d\ude0d",
+          "engagement": "82.9K views",
+          "views": 82864
         }
       ]
     },
@@ -413,12 +429,12 @@
           "views": 20339852
         },
         {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2056968161749266678",
-          "headline": "SpaceX Starship base paint design discussed in latest update",
-          "body": "The all black paint on the base looks cool",
-          "engagement": "49M views",
-          "views": 49096637
+          "handle": "OpenAI",
+          "url": "https://x.com/OpenAI/status/2057176201782075690",
+          "headline": "OpenAI model achieves breakthrough on Erd\u0151s planar unit distance problem",
+          "body": "Today, we share a breakthrough on the planar unit distance problem, a famous open question first posed by Paul Erd\u0151s in 1946.\n\nFor nearly 80 years, mathematicians believed the best possible solutions looked roughly like square grids.\n\nAn OpenAI model has now disproved that belief, discovering an entirely new family of constructions that performs better.\n\nThis marks the first time AI has autonomously solved a prominent open problem central to a field of mathematics.",
+          "engagement": "6.5M views",
+          "views": 6594592
         },
         {
           "handle": "NASA",
@@ -461,28 +477,28 @@
     "conspiracy": {
       "stories": [
         {
-          "handle": "ValerieAnne1970",
-          "url": "https://x.com/ValerieAnne1970/status/2057250020999446965",
-          "headline": "Bill Gates\u2019 microneedle mRNA patch with quantum-dot QR codes for permanent tracking.",
-          "body": "BILL GATES\u2019 MICRONEEDLE mRNA PATCH IS HERE\n\nMeet the new \u201cvaccine\u201d that doesn\u2019t just jab you \u2014 it permanently tattoos your body with modified mRNA AND quantum-dot QR codes.\n\nOne painless patch on your wrist (or wherever) dissolves, floods you with mRNA, and embeds scannable biotech markers that last years \u2014 possibly forever.\n\nNo phone needed.  \nNo card.  \nNo paper passport.\n\nJust scan your skin at the store, airport, or restaurant and the system instantly knows your \u201cvaccine status,\u201d batch number, and compliance level.\n\nThis is the biological control grid planned for the next plandemic \u2014 a permanent digital prison under your skin.\n\nThey\u2019re not hiding it anymore.\n\nYour body is the barcode.\n\nWake up.  \nResist.",
-          "engagement": "46K views",
-          "views": 45879
+          "handle": "Reuters",
+          "url": "https://x.com/Reuters/status/2057225337658908917",
+          "headline": "Proud Boys leader sentenced for seditious conspiracy eyes Trump administration fund",
+          "body": "The Proud Boys leader sentenced \u200cto 22 years for seditious conspiracy over the January 6, 2021 riot, said he planned to apply to the Trump administration's $1.776 billion 'weaponization' fund, assuming he could get between $2 million and $5 million https://www.reuters.com/legal/government/im-not-greedy-january-6-rioters-trump-allies-eye-18-billion-weaponization-fund-2026-05-20/?utm_source=twitter&utm_medium=Social",
+          "engagement": "562K views",
+          "views": 562649
         },
         {
-          "handle": "RapidResponse47",
-          "url": "https://x.com/RapidResponse47/status/2057154778858172825",
-          "headline": "Acting AG announces indictment of Raul Castro",
-          "body": "\ud83d\udea8 \"Today, we are announcing an indictment charging Ra\u00fal Castro, and several others, with conspiracy to kill U.S. nationals,\" says @DAGToddBlanche in Miami. \n\n\"My message today is clear: the United States and @POTUS does not, and will not, forget its citizens.\"",
-          "engagement": "51K views",
-          "views": 50609
+          "handle": "nicksortor",
+          "url": "https://x.com/nicksortor/status/2057154132994347100",
+          "headline": "Grand jury indicts Raul Castro for conspiracy to kill US nationals",
+          "body": "\ud83d\udea8 JUST IN \u2014 IT'S OFFICIAL: A grand jury in Florida has INDICTED former Cuban dictator Raul Castro, the brother of Fidel Castro with conspiracy to KlLL US NATIONALS, murder, and more, per Acting AG Blanche\n\nThis is related to his role in the 1995 shootdown of two civilian planes over the Florida Straits, kiIIing two Americans.\n\n\"These were HUMANITARIAN flights for the rescue and protection of those fleeing oppression,\" per Blanche\n\nRaul is 94 years old. We'll see how DOJ decides to handle this.",
+          "engagement": "420K views",
+          "views": 420215
         },
         {
-          "handle": "RealAlexJones",
-          "url": "https://x.com/RealAlexJones/status/2057129326206697785",
-          "headline": "Alex Jones discusses Deep State hyping imminent alien invasion and related Pentagon claims.",
-          "body": "Wednesday LIVE: Evidence Mounts That Massie Was Robbed! AIPAC Brags \u201cWe Took Him Out!\u201d For The 36th Time, Trump Says Iran War Soon \u201cOver\u201d & Gas Prices Will Plunge! Deep State Hyping Imminent Alien Invasion! Plus, Pentagon Admits 42 Aircrafts Shot Down!",
-          "engagement": "47K views",
-          "views": 47755
+          "handle": "nicksortor",
+          "url": "https://x.com/nicksortor/status/2057159844809822651",
+          "headline": "Raul Castro indictment unsealed with death penalty possible for conspiracy charges",
+          "body": "\ud83d\udea8 NOW: The indictment against former Cuban dictator Raul Castro has been UNSEALED and RELEASED\n\nCastro faces the DEATH PENALTY.\n\nA federal grand jury has indicted him and his co-conspirators for:\n\n\u2022 COUNT 1: Conspiracy to KiLL US Nationals\n\u2022 COUNTS 2 & 3: Destruction of Aircraft\n\u2022 COUNTS 4-7: Murder",
+          "engagement": "311K views",
+          "views": 311904
         }
       ]
     },
@@ -499,21 +515,21 @@
         {
           "handle": "LostMemeArchive",
           "url": "https://x.com/LostMemeArchive/status/2057204969376206935",
-          "headline": "Pepsi Harrier jet ad court case story",
+          "headline": "Pepsi Harrier jet ad lawsuit story",
           "body": "In 1996, Pepsi ran an ad where 7 million Pepsi Points got you a Harrier jet. One guy tried to claim it. Pepsi said it was obviously a joke, and the whole thing ended up in court.",
-          "engagement": "346K views",
-          "views": 345959
+          "engagement": "378K views",
+          "views": 378158
         },
         {
-          "handle": "AltIndayBadiday",
-          "url": "https://x.com/AltIndayBadiday/status/2056979696232075579",
-          "headline": "New meme born featuring Ces Ore\u00f1a-Drilon",
-          "body": "A new meme was born! Ces Ore\u00f1a-Drilon \ud83d\udd25\ud83d\udd25\ud83d\udd25",
-          "engagement": "440K views",
-          "views": 439628
+          "handle": "FearedBuck",
+          "url": "https://x.com/FearedBuck/status/2057186589504127107",
+          "headline": "Chelsea Handler roast comedy clip",
+          "body": "Chelsea Handler goes off on Tony Hinchcliffe and Shane Gillis over their \u201cracist\u201d jokes at the Kevin Hart Roast on Netflix, saying White people should not joke about Black people that way, comparing it to making rape jokes.",
+          "engagement": "313K views",
+          "views": 313149
         }
       ]
     }
   },
-  "last_updated": "2026-05-21T03:46:09.587002"
+  "last_updated": "2026-05-21T07:55:03.955844"
 }
