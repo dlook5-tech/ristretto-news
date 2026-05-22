@@ -3,37 +3,6 @@
     "world": {
       "stories": [
         {
-          "headline": "Indonesian President Prabowo announces major crackdown on tycoons with new state export entity",
-          "url": "https://x.com/straits_times/status/2057318554165260583",
-          "handle": "straits_times",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "Hidupsebagai62",
-              "url": "https://x.com/Hidupsebagai62/status/2057481468243554523",
-              "body": "BOCOR, PRABOWO KETAHUAN BUAT KEBIJAKAN TANPA KONSULTASI MENTERI DAN KABINETNYA SENDIRI, TRUS DAPAT MASUKAN DARIMANA? BAU BUSUK DIMANA-MANA",
-              "engagement": "222K views",
-              "views": 222045
-            },
-            {
-              "label": "Independent",
-              "handle": "straits_times",
-              "url": "https://x.com/straits_times/status/2057318554165260583",
-              "body": "Prabowo\u2019s biggest crackdown on Indonesia tycoons shocked his own officials",
-              "engagement": "660K views",
-              "views": 660728
-            },
-            {
-              "label": "Democrat",
-              "handle": "business",
-              "url": "https://x.com/business/status/2057282489706488163",
-              "body": "The creation of a new state entity to oversee Indonesia\u2019s exports and undermine the nation's tycoons sent panic through its companies and shock waves around global markets.",
-              "engagement": "46K views",
-              "views": 46538
-            }
-          ]
-        },
-        {
           "headline": "UK loosens Russian oil sanctions amid rising fuel prices",
           "url": "https://x.com/BBCWorld/status/2056917989971099732",
           "handle": "BBCWorld",
@@ -94,6 +63,29 @@
               "views": 149627
             }
           ]
+        },
+        {
+          "headline": "Global oil fears deepen amid Strait of Hormuz tensions and US-Iran talks",
+          "url": "https://x.com/firstpost/status/2057776220113084429",
+          "handle": "firstpost",
+          "perspectives": [
+            {
+              "label": "Independent",
+              "handle": "firstpost",
+              "url": "https://x.com/firstpost/status/2057776220113084429",
+              "body": "Your window to world news: Global oil fears deepen over Hormuz tensions, Israel deports Gaza flotilla activists, Trump sends more US troops to Poland, Democrats release their delayed 2024 election postmortem, and Yemen marks 35 years since reunification, here\u2019s your global roundup .",
+              "engagement": "819 views",
+              "views": 819
+            },
+            {
+              "label": "Conservative",
+              "handle": "TehLamboX",
+              "url": "https://x.com/TehLamboX/status/2057743872034476283",
+              "body": "ALL THAT HAPPENED IN THE PAST 24 HOURS \ud83c\udf0d\n\n\u2022 Trump announces the US is sending 5,000 additional troops to Poland\n\u2022 Reports claim a final US-Iran agreement has been reached with Pakistan mediating\n\u2022 US reportedly lost half of its interceptor missiles defending Israel from Iran",
+              "engagement": "1K views",
+              "views": 1048
+            }
+          ]
         }
       ]
     },
@@ -131,33 +123,33 @@
           ]
         },
         {
-          "headline": "Trump to swear in Kevin Warsh as new Federal Reserve Chair at White House",
-          "url": "https://x.com/nicksortor/status/2057520354730336675",
-          "handle": "nicksortor",
+          "headline": "US releases second batch of UAP/UFO files from Department of War",
+          "url": "https://x.com/WhiteHouse/status/2057812941630505362",
+          "handle": "WhiteHouse",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "nicksortor",
-              "url": "https://x.com/nicksortor/status/2057520354730336675",
-              "body": "\ud83d\udea8 JUST IN: President Trump will be hosting a SWEARING-IN ceremony for Kevin Warsh as Federal Reserve Chair at the White House tomorrow FINALLY \ud83d\udd25 Warsh as Fed Chair will be a MUCH needed change.",
-              "engagement": "212K views",
-              "views": 212002
+              "handle": "WhiteHouse",
+              "url": "https://x.com/WhiteHouse/status/2057812941630505362",
+              "body": "SECOND RELEASE OF UNIDENTIFIED ANOMALOUS PHENOMENA FILES \ud83d\udef8\u2b07\ufe0f https://www.war.gov/UFO/",
+              "engagement": "620K views",
+              "views": 620051
             },
             {
               "label": "Independent",
-              "handle": "BullTheoryio",
-              "url": "https://x.com/BullTheoryio/status/2057754005636587554",
-              "body": "BREAKING: President Trump will swear in Kevin Warsh as the new Federal Reserve Chair today. Warsh officially takes office at 11:00 AM, replacing Jerome Powell.",
-              "engagement": "72K views",
-              "views": 72353
+              "handle": "UAPReportingCnt",
+              "url": "https://x.com/UAPReportingCnt/status/2057479773232807958",
+              "body": "\ud83d\udea8 Rep. Eric Burlison says out of 52 upcoming UFO videos, one left the entire room gasping. While some are just birds or balloons, this specific object instantly accelerated to Mach speed: \"There's not a single aerial thing that can do something like that.\"",
+              "engagement": "66K views",
+              "views": 66651
             },
             {
               "label": "Democrat",
-              "handle": "RpsAgainstTrump",
-              "url": "https://x.com/RpsAgainstTrump/status/2057467943823237515",
-              "body": "GOP Senator Thom Tillis slams Trump\u2019s $1.8B slush fund: \u201cI think it\u2019s stupid on stilts\u2026 Taxpayer dollars will compensate someone who assaulted a police officer, got convicted\u2026and now we\u2019re going to pay him for that? This is absurd!\u201d",
-              "engagement": "467K views",
-              "views": 467365
+              "handle": "TheMarcitect",
+              "url": "https://x.com/TheMarcitect/status/2057817663590777077",
+              "body": "A new batch of UFO files released and once again we are left stunned and amazed with these convincing videos and images of... For fuck sakes.",
+              "engagement": "1K views",
+              "views": 1366
             }
           ]
         },
@@ -197,6 +189,14 @@
     "business": {
       "stories": [
         {
+          "handle": "NickTimiraos",
+          "url": "https://x.com/NickTimiraos/status/2057824468559446518",
+          "headline": "Waller delivers hawkish speech on recent inflation",
+          "body": "This is a hawkish speech from Waller. While he doesn\u2019t think hikes are needed in the near-term, he comes across as quite troubled by recent inflation developments. I\u2019ll thread a few highlights:",
+          "engagement": "23K views",
+          "views": 23413
+        },
+        {
           "handle": "HedgieMarkets",
           "url": "https://x.com/HedgieMarkets/status/2057531661785628841",
           "headline": "AI subsidy era ending as Microsoft cancels Claude licenses and enterprises face skyrocketing costs",
@@ -205,20 +205,12 @@
           "views": 428676
         },
         {
-          "handle": "business",
-          "url": "https://x.com/business/status/2057500440044933548",
-          "headline": "Turkish state lenders sold $6 billion to defend lira after opposition ruling",
-          "body": "Turkish state lenders sold about $6 billion to defend the lira on Thursday, about half shortly after a court decision that removed the main opposition party\u2019s leadership, according to traders familiar with the transactions. https://www.bloomberg.com/news/articles/2026-05-21/turkey-s-fx-sales-reach-6-billion-after-opposition-ruling?taid=6a0f343aa88c290001711467&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-          "engagement": "392K views",
-          "views": 392029
-        },
-        {
-          "handle": "danroberts0101",
-          "url": "https://x.com/danroberts0101/status/2057757398639476771",
-          "headline": "IREN Co-CEO explains three-layer AI infrastructure strategy and competitive moat.",
-          "body": "A thread on where AI infrastructure is heading - and where IREN fits. \ud83e\uddf5",
-          "engagement": "26K views",
-          "views": 26308
+          "handle": "mert",
+          "url": "https://x.com/mert/status/2057807312056701409",
+          "headline": "Crypto speculators shifting markets toward short-term horizons",
+          "body": "crypto is dominated by speculators and younger traders who have virtually no time horizon or attention span\n\nas crypto takes over, same thing is happening to all markets\n\nin such a world, there's great edge in simply having a boomer time horizon\n\nall my big wins have been buying distressed assets, working to improve them, and thinking in terms of years vs. weeks",
+          "engagement": "33K views",
+          "views": 32733
         }
       ]
     },
@@ -255,10 +247,10 @@
         {
           "handle": "nytimes",
           "url": "https://x.com/nytimes/status/2057597020232204327",
-          "headline": "House Republicans cancel vote on resolution directing Trump to withdraw U.S. forces from Iran.",
+          "headline": "House Republicans canceled vote on Trump Iran war powers resolution.",
           "body": "Breaking News: House Republicans abruptly canceled a vote on a resolution directing President Trump to withdraw U.S. forces from Iran or win approval from Congress to continue the war, after it became clear they lacked the votes to defeat the measure. https://www.nytimes.com/2026/05/21/us/iran-war-powers-trump-measure.html?smid=tw-nytimes&smtyp=cur",
-          "engagement": "947K views",
-          "views": 947504
+          "engagement": "1.2M views",
+          "views": 1180732
         },
         {
           "handle": "nytimes",
@@ -297,12 +289,12 @@
           "views": 12420718
         },
         {
-          "handle": "DAZNJPNBaseball",
-          "url": "https://x.com/DAZNJPNBaseball/status/2057765796571427141",
-          "headline": "Rookie player gets first RBI and three-hit game in Giants vs Hanshin matchup",
-          "body": "\u6050\u308d\u3057\u3044\u30eb\u30fc\u30ad\u30fc\n\n\u7acb\u77f3\u6b63\u5e83\u304c\u30bf\u30a4\u30e0\u30ea\u30fc\u3067\u30d7\u30ed\u521d\u6253\u70b9\u3297\ufe0f\n\u3055\u3089\u306b\u672c\u65e5\u731b\u6253\u8cde\uff01\n\n\u672c\u65e5\u306eFRIDAY BASEBALL LIVE delivered by \u30ed\u30b1\u30c3\u30c8\u30ca\u30a6\n\ud83c\udd93\u5de8\u4eba\u00d7\u962a\u795e\uff08\u7121\u6599\u914d\u4fe1\uff09\n #\u962a\u795e\u30bf\u30a4\u30ac\u30fc\u30b9 #\u3060\u3063\u305f\u3089DAZN\n#FRIDAYBASEBALLLIVE",
-          "engagement": "231K views",
-          "views": 231255
+          "handle": "FabrizioRomano",
+          "url": "https://x.com/FabrizioRomano/status/2057774811636543980",
+          "headline": "Enzo Maresca set to be announced as Manchester City manager",
+          "body": "\ud83d\udc99\ud83d\udd1c Up next at Manchester City: Enzo Maresca, set to be announced as #MCFC manager soon.",
+          "engagement": "795K views",
+          "views": 794739
         }
       ]
     },
@@ -345,25 +337,33 @@
           "views": 186655
         },
         {
-          "handle": "jakeglmn",
-          "url": "https://x.com/jakeglmn/status/2057478198489944175",
-          "headline": "Rich Roll podcast features top fasting experts with key takeaways on health and disease reversal.",
-          "body": "Rich Roll had 3 of the world's top fasting experts on his podcast.\n\nDr. Alan Goldhamer, Dr. Valter Longo, & Dr. Michael Greger.\n\nThey revealed shocking truths about fasting & disease reversal.\n\nHere are my top 6 takeaways:\n\n1. The weight you regain after fasting contains zero fat",
-          "engagement": "211K views",
-          "views": 210833
+          "handle": "joeroganhq",
+          "url": "https://x.com/joeroganhq/status/2057559555073003769",
+          "headline": "Dr. Mary Talley Bowden discusses health issues from COVID shots on Rogan",
+          "body": "Dr. Mary Talley Bowden: \"With the COVID shots, I'm seeing people that were\u2026 perfectly healthy, and then bam\u2026 lives destroyed. I've never seen anything like this with any other product on the market.\"",
+          "engagement": "59K views",
+          "views": 58744
         },
         {
           "handle": "joeroganhq",
-          "url": "https://x.com/joeroganhq/status/2057465183367307457",
-          "headline": "Joe Rogan apologizes to Theo Von on recent podcast discussion",
-          "body": "Joe Rogan apologizes to Theo Von: \"I apologized to Theo. He knows I love him and he said that and we laughed and we joked around about it and I apologized for the way I talked about this. But I felt like I needed to explain to other people too\u2026\"",
-          "engagement": "189K views",
-          "views": 189157
+          "url": "https://x.com/joeroganhq/status/2057602337041269072",
+          "headline": "Funny clip about Jiu-Jitsu from Joe Rogan podcast",
+          "body": "When that one friend claims Jiu-Jitsu isn\u2019t gay.",
+          "engagement": "39K views",
+          "views": 39234
         }
       ]
     },
     "pg6": {
       "stories": [
+        {
+          "handle": "DiscussingFilm",
+          "url": "https://x.com/DiscussingFilm/status/2057598940250247412",
+          "headline": "Lionsgate confirms work on Michael 2 movie",
+          "body": "Lionsgate confirms they're working hard on development for \u2018MICHAEL 2\u2019.\n\n\u201cWe\u2019re very, very confident that we\u2019ve got an incredibly entertaining movie that will appeal once again to a global audience as the pieces come together.\u201d",
+          "engagement": "789K views",
+          "views": 789454
+        },
         {
           "handle": "NICKIMINAJ",
           "url": "https://x.com/NICKIMINAJ/status/2057626166706549148",
@@ -379,14 +379,6 @@
           "body": "The music that moved everybody. #EarthWindandFireHBO premieres June 7 on @HBOMax.",
           "engagement": "750K views",
           "views": 750192
-        },
-        {
-          "handle": "PopBase",
-          "url": "https://x.com/PopBase/status/2057672801935335707",
-          "headline": "Lady Gaga and Ariana Grande mark 6 years of Rain On Me",
-          "body": "6 years ago today, Lady Gaga and Ariana Grande released \u2018Rain On Me.\u2019",
-          "engagement": "126K views",
-          "views": 126082
         }
       ]
     },
@@ -449,6 +441,14 @@
     "local": {
       "stories": [
         {
+          "handle": "KTLA",
+          "url": "https://x.com/KTLA/status/2057603736084853057",
+          "headline": "Newport Beach launches new fleet of open-air trolleys for summer",
+          "body": "Getting around Newport Beach will be a lot easier this summer now that a new fleet of open-air trolleys are rolling through town.",
+          "engagement": "27.5K views",
+          "views": 27500
+        },
+        {
           "handle": "OCFireAuthority",
           "url": "https://x.com/OCFireAuthority/status/2057624140396503278",
           "headline": "OCFA responds to hazardous materials leak in Garden Grove",
@@ -457,48 +457,40 @@
           "views": 20459
         },
         {
-          "handle": "KTLA",
-          "url": "https://x.com/KTLA/status/2057603736084853057",
-          "headline": "Newport Beach launches new fleet of open-air trolleys for easier summer travel",
-          "body": "Getting around Newport Beach will be a lot easier this summer now that a new fleet of open-air trolleys are rolling through town. https://ktla.com/news/orange-county/newport-beach-launches-new-fleet-of-trolleys/",
-          "engagement": "21.7K views",
-          "views": 21696
-        },
-        {
-          "handle": "ABC",
-          "url": "https://x.com/ABC/status/2057480455075594494",
-          "headline": "Firefighters combat wildfires in Southern California forcing evacuations",
-          "body": "Firefighters are continuing to combat wildfires in Southern California as thousands of residents have been forced to evacuate. \n\nABC News' Trevor Ault reports.",
-          "engagement": "15714 views",
-          "views": 15714
+          "handle": "ABC7",
+          "url": "https://x.com/ABC7/status/2057617895341838506",
+          "headline": "Hundreds arrested and 40 children rescued in Southern California child exploitation sting",
+          "body": "Hundreds of suspects were arrested, and 40 children were rescued and identified across Southern California as the result of an investigation into internet crimes against children.",
+          "engagement": "4.3K views",
+          "views": 4346
         }
       ]
     },
     "conspiracy": {
       "stories": [
         {
-          "handle": "memecrashes",
-          "url": "https://x.com/memecrashes/status/2057473901366481010",
-          "headline": "UFO sightings map highlights unusual concentration in parts of Europe.",
-          "body": "the worst thing about brits is that they are slowly colonizing the south-eastern coast of Spain. It is so intense that it is even visible in the UFO-sightings map in Spain, which is a phenomenon particularly focused on English-speaking countries.",
-          "engagement": "599K views",
-          "views": 599486
+          "handle": "DeptofWar",
+          "url": "https://x.com/DeptofWar/status/2057799788003737844",
+          "headline": "U.S. Department of War shares link to second UFO document release",
+          "body": "https://x.com/i/article/2057792138562207744",
+          "engagement": "877K views",
+          "views": 877873
         },
         {
-          "handle": "Truthpole",
-          "url": "https://x.com/Truthpole/status/2057600906141593995",
-          "headline": "New batch of UFO files set for release amid ongoing document unsealing.",
-          "body": "\ud83d\udea8 BREAKING -  https://www.war.gov/ now lists 1,348 UAP/UFO -related files across 140 pages, with the current batch showing as blank placeholders. The site, hosted under the U.S. Department of War, appears to be staging the next major UFOs document drop scheduled for Friday morning.  This follows the initial May 2026 tranche and signals continued unsealing of historical and modern UAP records. Looks like the second batch of UFO Files will be released tomorrow.",
-          "engagement": "49K views",
-          "views": 48837
+          "handle": "RonyVernet",
+          "url": "https://x.com/RonyVernet/status/2057791309146890396",
+          "headline": "U.S. government releases second batch of UFO and anomalous phenomena documents",
+          "body": "Governo dos EUA acaba de revelar o segundo lote de documentos sobre OVNIs e Fen\u00f4menos An\u00f4malos\n\nO novo lote cont\u00e9m v\u00eddeos e documentos do Pent\u00e1gono, CIA, NASA e Departamento de Energia\n\nhttps://www.war.gov/UFO/?releaseDate=Release+02",
+          "engagement": "41K views",
+          "views": 41868
         },
         {
-          "handle": "@redpillb0t",
-          "url": "https://x.com/redpillb0t/status/2057547691341799469",
-          "headline": "Tartaria explained as real civilization with falsified history",
-          "body": "TARTARIA EXPLAINED\n\nA deep dive that covers the CIA Russia conspiracy of classified CIA documents that prove Tartaria was a real place, which had its history falsified and concealed.",
-          "engagement": "32K views",
-          "views": 32100
+          "handle": "remarks",
+          "url": "https://x.com/remarks/status/2057826374551814236",
+          "headline": "Pentagon releases video of a potential UFO",
+          "body": "JUST IN: \ud83c\uddfa\ud83c\uddf8 Pentagon releases video of a potential UFO.",
+          "engagement": "7K views",
+          "views": 7367
         }
       ]
     },
@@ -519,17 +511,9 @@
           "body": "anus\nbagos\nbuceta\nboquete\nbosta\nbrexa\nbrioco\nbronha\nbund\u00e3o\ncag\u00e3o\ncacete\ncu\nescroto\nesporro\nfenda n\u00e3o tem\nfoda\nfude\u00e7\u00e3o\nfurico\nmerda\npau\nperereca\npiru\npica nada disso\npiroca\nporra\npum\npunheta\nputaria\nsiririca\ntrolha\nvagina\nviado\nxavasca\nxereca\nxexeca\nxibiu e por \u00faltimo\nxoxota",
           "engagement": "139K views",
           "views": 139379
-        },
-        {
-          "handle": "CartoonsOTMoon",
-          "url": "https://x.com/CartoonsOTMoon/status/2057461564022669379",
-          "headline": "Avatar live action adapts Ba Sing Se meme",
-          "body": "El live action de Avatar ya adapt\u00f3 el meme de Ba Sing Se",
-          "engagement": "107K views",
-          "views": 107256
         }
       ]
     }
   },
-  "last_updated": "2026-05-22T10:52:12.239516"
+  "last_updated": "2026-05-22T14:41:14.082394"
 }
