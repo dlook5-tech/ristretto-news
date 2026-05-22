@@ -63,42 +63,26 @@
               "views": 477815
             }
           ]
-        },
-        {
-          "headline": "Angry crowds set fire to Ebola hospital tents in DR Congo amid outbreak fears",
-          "url": "https://x.com/BBCWorld/status/2057556231561040366",
-          "handle": "BBCWorld",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "World_Affairs11",
-              "url": "https://x.com/World_Affairs11/status/2057356356487889173",
-              "body": "BREAKING: World Health organization confirmed Ebola virus the most fatal and contiguous like COVID-19.",
-              "engagement": "37K views",
-              "views": 37727
-            },
-            {
-              "label": "Independent",
-              "handle": "BBCWorld",
-              "url": "https://x.com/BBCWorld/status/2057556231561040366",
-              "body": "Angry crowd sets Ebola hospital tents on fire in DR Congo",
-              "engagement": "149K views",
-              "views": 149627
-            },
-            {
-              "label": "Democrat",
-              "handle": "BBCWorld",
-              "url": "https://x.com/BBCWorld/status/2057556231561040366",
-              "body": "Angry crowd sets Ebola hospital tents on fire in DR Congo",
-              "engagement": "149K views",
-              "views": 149627
-            }
-          ]
         }
       ]
     },
     "usa": {
       "stories": [
+        {
+          "headline": "White House releases second batch of UAP files",
+          "url": "https://x.com/WhiteHouse/status/2057812941630505362",
+          "handle": "WhiteHouse",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "WhiteHouse",
+              "url": "https://x.com/WhiteHouse/status/2057812941630505362",
+              "body": "SECOND RELEASE OF UNIDENTIFIED ANOMALOUS PHENOMENA FILES \ud83d\udef8\u2b07\ufe0f",
+              "engagement": "2.5M views",
+              "views": 2556073
+            }
+          ]
+        },
         {
           "headline": "House Republicans cancel vote on resolution to limit Trump\u2019s Iran military actions after lacking votes",
           "url": "https://x.com/nytimes/status/2057597020232204327",
@@ -123,64 +107,25 @@
           ]
         },
         {
-          "headline": "US releases second batch of UAP/UFO files from Department of War",
-          "url": "https://x.com/WhiteHouse/status/2057812941630505362",
-          "handle": "WhiteHouse",
+          "headline": "House advances Sunshine Protection Act to make daylight saving time permanent",
+          "url": "https://x.com/EricLDaugh/status/2057604822732542239",
+          "handle": "EricLDaugh",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "WhiteHouse",
-              "url": "https://x.com/WhiteHouse/status/2057812941630505362",
-              "body": "SECOND RELEASE OF UNIDENTIFIED ANOMALOUS PHENOMENA FILES \ud83d\udef8\u2b07\ufe0f https://www.war.gov/UFO/",
-              "engagement": "620K views",
-              "views": 620051
+              "handle": "EricLDaugh",
+              "url": "https://x.com/EricLDaugh/status/2057604822732542239",
+              "body": "\ud83d\udea8 JUST IN: President Trump announces legislation has ADVANCED to make PERMANENT Daylight Saving Time through the Sunshine Protection Act \u2014 and demands Congress make it LAW \ud83d\udd25",
+              "engagement": "684K views",
+              "views": 684853
             },
             {
               "label": "Independent",
-              "handle": "UAPReportingCnt",
-              "url": "https://x.com/UAPReportingCnt/status/2057479773232807958",
-              "body": "\ud83d\udea8 Rep. Eric Burlison says out of 52 upcoming UFO videos, one left the entire room gasping. While some are just birds or balloons, this specific object instantly accelerated to Mach speed: \"There's not a single aerial thing that can do something like that.\"",
-              "engagement": "66K views",
-              "views": 66651
-            },
-            {
-              "label": "Democrat",
-              "handle": "TheMarcitect",
-              "url": "https://x.com/TheMarcitect/status/2057817663590777077",
-              "body": "A new batch of UFO files released and once again we are left stunned and amazed with these convincing videos and images of... For fuck sakes.",
-              "engagement": "1K views",
-              "views": 1366
-            }
-          ]
-        },
-        {
-          "headline": "Trump announces 5,000 U.S. troops to Poland after withdrawing from Germany",
-          "url": "https://x.com/nicksortor/status/2057561409827783013",
-          "handle": "nicksortor",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "nicksortor",
-              "url": "https://x.com/nicksortor/status/2057561409827783013",
-              "body": "\ud83d\udea8 JUST IN: Trump says he\u2019ll be deploying 5,000 troops to POLAND, shortly after WITHDRAWING 5,000 from Germany If our troops have to be in Europe, Poland is the place for them!",
-              "engagement": "28.2K likes",
-              "views": 796897
-            },
-            {
-              "label": "Independent",
-              "handle": "WhiteHouse",
-              "url": "https://x.com/WhiteHouse/status/2057229040126226616",
-              "body": "Justice will be served.",
-              "engagement": "67.5K likes",
-              "views": 2574335
-            },
-            {
-              "label": "Democrat",
-              "handle": "RollingStone",
-              "url": "https://x.com/RollingStone/status/2057524323003383870",
-              "body": "COMMENTARY: Let\u2019s say it plainly: There has never been a president as corrupt as Donald Trump. There is no close second in our history.",
-              "engagement": "58K likes",
-              "views": 805916
+              "handle": "Polymarket",
+              "url": "https://x.com/Polymarket/status/2057640749835997312",
+              "body": "JUST IN: House committee votes 48-1 to advance the \u201cSunshine Protection Act,\u201d which would make daylight saving time permanent.",
+              "engagement": "1M views",
+              "views": 1059402
             }
           ]
         }
@@ -189,33 +134,49 @@
     "business": {
       "stories": [
         {
-          "handle": "mert",
-          "url": "https://x.com/mert/status/2057807312056701409",
-          "headline": "Crypto speculators shifting markets toward short-term horizons",
-          "body": "crypto is dominated by speculators and younger traders who have virtually no time horizon or attention span\n\nas crypto takes over, same thing is happening to all markets\n\nin such a world, there's great edge in simply having a boomer time horizon\n\nall my big wins have been buying distressed assets, working to improve them, and thinking in terms of years vs. weeks",
-          "engagement": "33K views",
-          "views": 32733
+          "handle": "MrStevenSteele",
+          "url": "https://x.com/MrStevenSteele/status/2057889517466529966",
+          "headline": "Question on which stocks to buy now",
+          "body": "What stocks should I be buying right now??",
+          "engagement": "74K views",
+          "views": 73883
         },
         {
-          "handle": "NickTimiraos",
-          "url": "https://x.com/NickTimiraos/status/2057824468559446518",
-          "headline": "Waller delivers hawkish speech on recent inflation",
-          "body": "This is a hawkish speech from Waller. While he doesn\u2019t think hikes are needed in the near-term, he comes across as quite troubled by recent inflation developments. I\u2019ll thread a few highlights:",
-          "engagement": "23K views",
-          "views": 23413
+          "handle": "borsa_fisilti",
+          "url": "https://x.com/borsa_fisilti/status/2057910634117734589",
+          "headline": "Turkish investor notes missed gains in Europower stock",
+          "body": "O de\u011filde bu liste de europower dan olmaz diyenler 2x i ka\u00e7\u0131rd\u0131 nerdeyse:)",
+          "engagement": "11K views",
+          "views": 11010
         },
         {
-          "handle": "thestockwhale",
-          "url": "https://x.com/thestockwhale/status/2057872195133800772",
-          "headline": "StockWhale reports 92% win rate for May and previews next rotation.",
-          "body": "We had a 92% win rate for May together.\n\nNow it's time for the next rotation and cycle.\n\nGet ready.",
-          "engagement": "4K views",
-          "views": 3764
+          "handle": "bennybigbull",
+          "url": "https://x.com/bennybigbull/status/2057861671314436593",
+          "headline": "Investor celebrates reaching first $100K with specific stocks",
+          "body": "Charlie Munger was right, the first 100k is a bitch. But today\u2026 I finally achieved it!! Thank you $RKLB, $NBIS, $ASTS and $OUST.",
+          "engagement": "27K views",
+          "views": 27288
         }
       ]
     },
     "top": {
       "stories": [
+        {
+          "handle": "XBOX",
+          "url": "https://x.com/XBOX/status/2057855279287476620",
+          "headline": "Xbox announces GTA VI release date and wishlist link.",
+          "body": "November 19th\n\nWishlist Now: https://www.xbox.com/en-US/games/store/grand-theft-auto-vi/9NL3WWNZLZZN/0010?ocid=Evergreen_soc_omc_xbo_tw_Photo_buy_5.22.2",
+          "engagement": "15.2M views",
+          "views": 15247016
+        },
+        {
+          "handle": "Plettigoal",
+          "url": "https://x.com/Plettigoal/status/2057877267733184941",
+          "headline": "Transfer rumor: Enzo Fernandez linked to Manchester City.",
+          "body": "\ud83d\udea8\ud83e\udde8 EXCL | Enzo Fernandez is one of Manchester City\u2019s desired transfer targets for the summer. Strongly wanted by Enzo Maresca. #MCFC \n\nInitial talks behind the scenes have already taken place. The two Enzos share a top and very trusting relationship. @SkySportDE \ud83c\udde6\ud83c\uddf7",
+          "engagement": "1.29M views",
+          "views": 1293477
+        },
         {
           "handle": "AlNassrFC",
           "url": "https://x.com/AlNassrFC/status/2057591669990551994",
@@ -223,22 +184,6 @@
           "body": "\u0641\u0631\u062d\u0640\u0629 #\u0627\u0644\u0646\u0635\u0631 .. \u0645\u0648\u0633\u0645\u064d \u0643\u0627\u0645\u0644 \u0643\u0646\u0627 \u0646\u062d\u062a\u0641\u0640\u0644 \u0628\u0647\u0627 \u0633\u0648\u064a\u064b\u0627 \u0627\u0644\u064a\u0640\u0648\u0645 \u064a\u0642\u0640\u0648\u062f \u0627\u062d\u062a\u0641\u0627\u0644\u064a\u062a\u0646\u0627 \u0642\u0627\u0626\u062f\u0646\u0627 \ud83e\udd29",
           "engagement": "1M views",
           "views": 1002505
-        },
-        {
-          "handle": "DEATHDOL_NOTE",
-          "url": "https://x.com/DEATHDOL_NOTE/status/2057708651914379678",
-          "headline": "Report on a brutal home invasion robbery-murder case involving suspects including a minor.",
-          "body": "\u3010\u5bb3\u60aa\u5ea6SS+\u3011\n\n\u7af9\u524d\u7f8e\u7d50(25) \u6307\u793a\u5f79\n\u7af9\u524d\u6d77\u6597(28) \u6307\u793a\u5f79\n\u95c7\u30d0\u30a4\u30c8(16) 4\u4eba\n\n\u5099\u8003\n\u30fb\u6803\u6728\u770c\u306e\u8c6a\u90b8\u306b\u4fb5\u5165\u3057\u5f37\u76d7\u6bba\u4eba\n\u30fb\u88ab\u5bb3\u8005(69)\u3092\u30e1\u30c3\u30bf\u523a\u3057(20\u30f6\u6240)\n\u30fb\u88ab\u5bb3\u8005\u306e\u98fc\u3044\u72ac\u3082\u6bba\u5bb3\n\u30fb\u6307\u793a\u5f79\u306f\u6d77\u5916\u9003\u4ea1\u3092\u56f3\u308b\u3082\u7a7a\u6e2f\u3067\u902e\u6355\n\u30fb\u95c7\u30d0\u30a4\u30c8\u306e1\u4eba\u306f\u53cd\u7701\u306a\u3057(4\u679a\u76ee)",
-          "engagement": "540K views",
-          "views": 540070
-        },
-        {
-          "handle": "Harish_NS149",
-          "url": "https://x.com/Harish_NS149/status/2057829074806968695",
-          "headline": "Savukku Shankar thanks CMO for release and sends best wishes",
-          "body": "Savukku Shankar expresses gratitude to @CMOTamilnadu for the swift action leading to his release, and sends best wishes to the CMO!\n\n\"\u0b87\u0ba9\u0bcd\u0ba9\u0bbe\u0b9a\u0bc6\u0baf\u0bcd \u0ba4\u0bbe\u0bb0\u0bc8 \u0b92\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd \u0b85\u0bb5\u0bb0\u0bcd\u0ba8\u0bbe\u0ba3\n\u0ba8\u0ba9\u0bcd\u0ba9\u0baf\u0b9e\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0b9f\u0bb2\u0bcd.\"",
-          "engagement": "164K views",
-          "views": 164418
         }
       ]
     },
@@ -255,39 +200,15 @@
         {
           "handle": "nytimes",
           "url": "https://x.com/nytimes/status/2057646392022081833",
-          "headline": "Iran and Oman in talks over payment system for ships crossing Strait of Hormuz.",
+          "headline": "Iran and Oman in talks over payment system for ships in Strait of Hormuz.",
           "body": "Breaking News: Iran and Oman are in talks over a payment system for ships crossing the Strait of Hormuz, despite warnings from the Trump administration. https://www.nytimes.com/2026/05/21/world/middleeast/iran-strait-of-hormuz-tolls.html?smid=tw-nytimes&smtyp=cur",
-          "engagement": "297K views",
-          "views": 297205
-        },
-        {
-          "handle": "CNN",
-          "url": "https://x.com/CNN/status/2057575162464137630",
-          "headline": "President Trump says Reflecting Pool renovations price tag will be less than $20 million.",
-          "body": "President Donald Trump said the price tag for his Reflecting Pool renovations in Washington, DC, will be \u201cless than $20 million\u201d after he decided the exterior needed more work. https://www.cnn.com/2026/05/21/politics/reflecting-pool-20-million-lawsuit?Date=20260521&Profile=CNN&utm_content=1779397600&utm_medium=social&utm_source=twitter",
-          "engagement": "126K views",
-          "views": 126248
+          "engagement": "497K views",
+          "views": 497452
         }
       ]
     },
     "sports": {
       "stories": [
-        {
-          "handle": "Cristiano",
-          "url": "https://x.com/Cristiano/status/2057582069543252203",
-          "headline": "Cristiano Ronaldo celebrates Al Nassr's Saudi Pro League title win.",
-          "body": "It means so much to us \ud83c\udfc6 YALLA NASSR! \ud83d\udfe1\ud83d\udd35",
-          "engagement": "18.9M views",
-          "views": 18983123
-        },
-        {
-          "handle": "Cristiano",
-          "url": "https://x.com/Cristiano/status/2057553113574215734",
-          "headline": "Cristiano Ronaldo announces Al Nassr championship",
-          "body": "CHAMPIONS!!!!! \ud83c\udfc6 \ud83d\udfe1\ud83d\udd35",
-          "engagement": "12.4M views",
-          "views": 12420718
-        },
         {
           "handle": "KalshiSports",
           "url": "https://x.com/KalshiSports/status/2057848818419237170",
@@ -295,6 +216,22 @@
           "body": "Sports Illustrated ranks the Top-10 Players for the World Cup:\n\n1. Lamine Yamal\n2. Harry Kane\n3. Kylian Mbappe\n4. Pedri\n5. Ousmane Dembele\n6. Michael Olise\n7. Vinicius Junior\n8. Erling Haaland\n9. Raphinha\n10. Federico Valverde\n\nMbappe is the Golden Boot Favorite on Kalshi.",
           "engagement": "548K views",
           "views": 547607
+        },
+        {
+          "handle": "NBA",
+          "url": "https://x.com/NBA/status/2057866122322448472",
+          "headline": "SGA becomes only guard to average 30+ PPG on 55%+ shooting",
+          "body": "SGA: ONE OF ONE \ud83d\udd25\n\nEn route to his second @Kia NBA MVP\u2026 Shai Gilgeous-Alexander became the ONLY guard in NBA history to average 30+ PPG on 55%+ shooting for a season \ud83e\udd2f",
+          "engagement": "113K views",
+          "views": 113219
+        },
+        {
+          "handle": "NBA",
+          "url": "https://x.com/NBA/status/2057847941461623057",
+          "headline": "SGA leads Thunder to even series 1-1 in West Finals",
+          "body": "SGA (30p, 9a in Game 2) led a balanced OKC attack to even the series, marking the first time the WCF are tied 1-1 since GSW/HOU in '18.\n\nAs the series shifts to San Antonio, both teams seek a 2-1 lead in the NBA Conference Finals presented by @Google at 8:30pm/et on NBC/Peacock!",
+          "engagement": "100K views",
+          "views": 100202
         }
       ]
     },
@@ -302,27 +239,27 @@
       "stories": [
         {
           "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2057807177012613561",
+          "headline": "Western civilization is amazing",
+          "body": "Western civilization is amazing",
+          "engagement": "5.5M views",
+          "views": 5499042
+        },
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2057839480350834878",
+          "headline": "Elon Musk shares video",
+          "body": "https://t.co/yjHT8jvxKJ",
+          "engagement": "3.3M views",
+          "views": 3296331
+        },
+        {
+          "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2057610517556986199",
           "headline": "Elon Musk welcomes Nicki Minaj to Starbase",
           "body": "Welcome to Starbase, @NICKIMINAJ!",
           "engagement": "9.8M views",
           "views": 9826584
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2057726307346039282",
-          "headline": "Update on Grok image generation features",
-          "body": "Grok progress",
-          "engagement": "771K views",
-          "views": 771636
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2057805561698066609",
-          "headline": "Elon Musk shares imagined reaction to a product without personal use yet.",
-          "body": "Haven\u2019t used it yet, but this is how I imagine it to be, based on breathless discussions of those who have",
-          "engagement": "151K views",
-          "views": 151115
         }
       ]
     },
@@ -338,14 +275,6 @@
         },
         {
           "handle": "joeroganhq",
-          "url": "https://x.com/joeroganhq/status/2057559555073003769",
-          "headline": "Dr. Mary Talley Bowden discusses health issues from COVID shots on Rogan",
-          "body": "Dr. Mary Talley Bowden: \"With the COVID shots, I'm seeing people that were\u2026 perfectly healthy, and then bam\u2026 lives destroyed. I've never seen anything like this with any other product on the market.\"",
-          "engagement": "59K views",
-          "views": 58744
-        },
-        {
-          "handle": "joeroganhq",
           "url": "https://x.com/joeroganhq/status/2057602337041269072",
           "headline": "Funny clip about Jiu-Jitsu from Joe Rogan podcast",
           "body": "When that one friend claims Jiu-Jitsu isn\u2019t gay.",
@@ -357,28 +286,28 @@
     "pg6": {
       "stories": [
         {
+          "handle": "PopBase",
+          "url": "https://x.com/PopBase/status/2057905785284309205",
+          "headline": "Miley Cyrus receives star on Hollywood Walk of Fame",
+          "body": "Miley Cyrus has received her star on the Hollywood Walk of Fame.",
+          "engagement": "378K views",
+          "views": 378018
+        },
+        {
+          "handle": "DiscussingFilm",
+          "url": "https://x.com/DiscussingFilm/status/2057904853360255292",
+          "headline": "Miley Cyrus receives star on Hollywood Walk of Fame",
+          "body": "Miley Cyrus has received a star on the Hollywood Walk of Fame.",
+          "engagement": "265K views",
+          "views": 265492
+        },
+        {
           "handle": "DiscussingFilm",
           "url": "https://x.com/DiscussingFilm/status/2057598940250247412",
-          "headline": "Lionsgate confirms work on Michael 2 movie",
-          "body": "Lionsgate confirms they're working hard on development for \u2018MICHAEL 2\u2019.\n\n\u201cWe\u2019re very, very confident that we\u2019ve got an incredibly entertaining movie that will appeal once again to a global audience as the pieces come together.\u201d",
-          "engagement": "789K views",
-          "views": 789454
-        },
-        {
-          "handle": "HipHopAllDay",
-          "url": "https://x.com/HipHopAllDay/status/2057861527986659530",
-          "headline": "Drake's 'ICEMAN' has massive Spotify opening week",
-          "body": "Drake's 'ICEMAN' 453.4 MILLION streams in its opening week on Spotify \ud83d\udd25\ud83c\udfc6\n\nIt is the fifth biggest debut week ever for a rap album on the platform.",
-          "engagement": "42937 views",
-          "views": 42937
-        },
-        {
-          "handle": "NICKIMINAJ",
-          "url": "https://x.com/NICKIMINAJ/status/2057626166706549148",
-          "headline": "Nicki Minaj shares a video for the Barbz featuring #Starbase and #Starships",
-          "body": "Even did a lil video for the Barbz. #Starbase #Starships",
-          "engagement": "495K views",
-          "views": 495148
+          "headline": "Lionsgate confirms development for \u2018MICHAEL 2\u2019",
+          "body": "Lionsgate confirms they're working hard on development for \u2018MICHAEL 2\u2019. \u201cWe\u2019re very, very confident that we\u2019ve got an incredibly entertaining movie that will appeal once again to a global audience as the pieces come together.\u201d",
+          "engagement": "1.0M views",
+          "views": 1014282
         }
       ]
     },
@@ -393,20 +322,20 @@
           "views": 450371
         },
         {
-          "handle": "raorapanthera",
-          "url": "https://x.com/raorapanthera/status/2057678911400779786",
-          "headline": "Update on finding legendary pizza in the Far East",
-          "body": "UPDATE:\n\nWE FOUND MY SS TIER LEGENDARY PIZZA \u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
-          "engagement": "244K views",
-          "views": 244260
-        },
-        {
           "handle": "BR31_Icecream",
           "url": "https://x.com/BR31_Icecream/status/2057590055884218414",
           "headline": "31 Ice Cream launches new cheesecake flavor",
           "body": "\uff0f\n\uff13\uff11 \u30d1\u30c6\u30a3\u30b9\u30ea\u30fc\n\u300c\uff13\uff11 \u30b6\u30fb\u30c1\u30fc\u30ba\u30b1\u30fc\u30ad made from \u30c1\u30fc\u30ba\u30b1\u30fc\u30ad\u30d5\u30ec\u30fc\u30d0\u30fc\u30ba\u300d\n\u672c\u65e5\u65b0\u767a\u58f2\ud83c\udf89\n\uff3c\n\n\u62bd\u9078\u306731\u540d\u69d8\u306b\uff13\uff11 \u30d1\u30c6\u30a3\u30b9\u30ea\u30fceGift\u3092\u30d7\u30ec\u30bc\u30f3\u30c8\ud83c\udf81\n\n\ud83c\udf68\u5fdc\u52df\u65b9\u6cd5\n\u2460@BR31_Icecream\u3092\u30d5\u30a9\u30ed\u30fc\n\u2461\u300c#\u30b5\u30fc\u30c6\u30a3\u30ef\u30f3\u30d1\u30c6\u30a3\u30b9\u30ea\u30fc\u65b0\u4f5c\u300d\u3092\u4ed8\u3051\u3066\u30ea\u30d7\u30e9\u30a4\n5/22(\u91d1)23:59\u307e\u3067\u23f0",
           "engagement": "344K views",
           "views": 344784
+        },
+        {
+          "handle": "raorapanthera",
+          "url": "https://x.com/raorapanthera/status/2057678911400779786",
+          "headline": "Update on finding legendary pizza in the Far East",
+          "body": "UPDATE:\n\nWE FOUND MY SS TIER LEGENDARY PIZZA \u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+          "engagement": "244K views",
+          "views": 244260
         }
       ]
     },
@@ -429,17 +358,33 @@
           "views": 356728
         },
         {
-          "handle": "sean_n_wu",
-          "url": "https://x.com/sean_n_wu/status/2057831440390221837",
-          "headline": "AI models tested on forecasting real scientific breakthroughs",
-          "body": "AI is now a major part of scientific research \ud83d\udd2c. But can it actually forecast scientific progress?\n\nWe tested 6 frontier models on 4,760 real breakthroughs under strict knowledge cutoffs.\n\nThey recognize science. They can't forecast it. \ud83e\uddf5\u2b07\ufe0f",
-          "engagement": "4.5K views",
-          "views": 4536
+          "handle": "Profmutisya",
+          "url": "https://x.com/Profmutisya/status/2057833369115726067",
+          "headline": "Kenya-South Korea partnership advances science, technology, innovation and research collaboration",
+          "body": "Our partnership is anchored on mutual benefit and tangible outcomes, reflecting the enduring fruits of bilateral engagement between Kenya and South Korea. Through collaboration in science, technology, innovation, research, and human capital development, the two nations continue to strengthen ties that deliver meaningful impact to society and economic transformation.\n\n@Kenya_aist provides a strategic platform to deepen and expand this partnership by fostering joint research, academic exchange, technology transfer, industrial collaboration, and the development of world-class talent that will drive sustainable development.",
+          "engagement": "50K views",
+          "views": 50402
         }
       ]
     },
     "local": {
       "stories": [
+        {
+          "handle": "OCFireAuthority",
+          "url": "https://x.com/OCFireAuthority/status/2057906844455035379",
+          "headline": "Orange County Fire Authority announces press conference for Garden Grove hazardous materials incident.",
+          "body": "Press conference announcement \u2013 Garden Grove hazardous materials incident\n\nThe Orange County Fire Authority, Garden Grove Police Department, and elected officials will hold a press conference at 2 p.m. at the Los Alamitos Race Track. A PIO will be on scene to direct media.",
+          "engagement": "27.5K views",
+          "views": 27504
+        },
+        {
+          "handle": "KTLA",
+          "url": "https://x.com/KTLA/status/2057603736084853057",
+          "headline": "Newport Beach launches new fleet of open-air trolleys for easier summer travel.",
+          "body": "Getting around Newport Beach will be a lot easier this summer now that a new fleet of open-air trolleys are rolling through town. https://ktla.com/news/orange-county/newport-beach-launches-new-fleet-of-trolleys/",
+          "engagement": "29.6K views",
+          "views": 29592
+        },
         {
           "handle": "KTLA",
           "url": "https://x.com/KTLA/status/2057852201268342840",
@@ -447,22 +392,6 @@
           "body": "#BreakingNews: Thousands of Orange County residents are once again under evacuation orders Friday morning after a massive storage tank leak at an aerospace facility in Garden Grove continued to raise concerns overnight. https://ktla.com/news/local-news/thousands-evacuated-again-after-toxic-tank-leak-in-garden-grove/",
           "engagement": "6.6K views",
           "views": 6587
-        },
-        {
-          "handle": "KTLA",
-          "url": "https://x.com/KTLA/status/2057603736084853057",
-          "headline": "Newport Beach launches new fleet of open-air trolleys for summer",
-          "body": "Getting around Newport Beach will be a lot easier this summer now that a new fleet of open-air trolleys are rolling through town.",
-          "engagement": "27.5K views",
-          "views": 27500
-        },
-        {
-          "handle": "OCFireAuthority",
-          "url": "https://x.com/OCFireAuthority/status/2057624140396503278",
-          "headline": "OCFA responds to hazardous materials leak in Garden Grove",
-          "body": "OCFA hazardous materials teams are on scene of a leak in a large holding tank in Garden Grove. Out of an abundance of caution, areas north of Garden Grove Blvd, east of Monarch St., south of Orangewood, and west of Beach Blvd are being evacuated.",
-          "engagement": "20K views",
-          "views": 20459
         }
       ]
     },
@@ -477,20 +406,20 @@
           "views": 877873
         },
         {
-          "handle": "RonyVernet",
-          "url": "https://x.com/RonyVernet/status/2057791309146890396",
-          "headline": "U.S. government releases second batch of UFO and anomalous phenomena documents",
-          "body": "Governo dos EUA acaba de revelar o segundo lote de documentos sobre OVNIs e Fen\u00f4menos An\u00f4malos\n\nO novo lote cont\u00e9m v\u00eddeos e documentos do Pent\u00e1gono, CIA, NASA e Departamento de Energia\n\nhttps://www.war.gov/UFO/?releaseDate=Release+02",
-          "engagement": "41K views",
-          "views": 41868
+          "handle": "DC_Draino",
+          "url": "https://x.com/DC_Draino/status/2057915578216493166",
+          "headline": "Post claims Senate GOP opposes Trump\u2019s fund due to Deep State ties",
+          "body": "The reason John Thune and his corrupt friends are against Trump\u2019s Anti-Weaponization fund is b/c they work for the Deep State. They don\u2019t want Voter ID saving America from their rigged elections and they don\u2019t want money being paid to the victims they abused with a weaponized DOJ. It would expose the Deep State\u2019s guilt.",
+          "engagement": "49.9K views",
+          "views": 49925
         },
         {
-          "handle": "drawandstrike",
-          "url": "https://x.com/drawandstrike/status/2057633796455797042",
-          "headline": "Brian Cates on shadow government and plandemic to rig 2020 election",
-          "body": "This was made available six years ago. But you were told only CONSPIRACY THEORIST LUNATICS were believing any of this stuff. There WAS a Shadow Government. ... THE. PLANDEMIC. WAS. **ALWAYS** **ALWAYS** **ALWAYS** ABOUT. THE. FUCKING. ELECTION.",
-          "engagement": "36K views",
-          "views": 36181
+          "handle": "WarClandestine",
+          "url": "https://x.com/WarClandestine/status/2057910394207776865",
+          "headline": "Post praises Tulsi Gabbard for fighting Deep State conspiracies",
+          "body": "DNI Gabbard has been one of the best warriors in Trump\u2019s administration. She\u2019s been leading the grand conspiracy case against the Deep State, from Russiagate, to election fraud, to Covid, to US biolabs, etc. Anyone claiming Tulsi is anything other than a Patriot, is an idiot.",
+          "engagement": "14.9K views",
+          "views": 14926
         }
       ]
     },
@@ -507,5 +436,5 @@
       ]
     }
   },
-  "last_updated": "2026-05-22T17:52:50.389301"
+  "last_updated": "2026-05-22T21:11:17.475773"
 }
