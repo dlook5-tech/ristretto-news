@@ -3,33 +3,64 @@
     "world": {
       "stories": [
         {
-          "headline": "UK loosens Russian oil sanctions amid rising fuel prices",
-          "url": "https://x.com/BBCWorld/status/2056917989971099732",
-          "handle": "BBCWorld",
+          "headline": "PM Modi secures nearly $40 billion in investments from five-nation tour",
+          "url": "https://x.com/MeghUpdates/status/2057811556990431426",
+          "handle": "MeghUpdates",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "KemiBadenoch",
-              "url": "https://x.com/KemiBadenoch/status/2057505023899140288",
-              "body": "1,000 jobs are lost in our North Sea oil and gas sector every month, as a direct result of Labour's ban on new drilling licences.",
-              "engagement": "25K views",
-              "views": 25537
+              "handle": "Mrsinha",
+              "url": "https://x.com/Mrsinha/status/2057842074209390676",
+              "body": "You know how much investment PM Modi secured during his recent 5-country visit? -Answer: Approx. $40 billion. Sadly, nobody is talking about it. People are rather mocking him...",
+              "engagement": "26K views",
+              "views": 26153
             },
             {
               "label": "Independent",
-              "handle": "alon_mizrahi",
-              "url": "https://x.com/alon_mizrahi/status/2057476144971309087",
-              "body": "The Russians intercepted an RAF spy plane 20 miles from Russia and 2000 miles from the UK. UK accuses Russia of aggression.",
-              "engagement": "285K views",
-              "views": 285895
+              "handle": "MeghUpdates",
+              "url": "https://x.com/MeghUpdates/status/2057811556990431426",
+              "body": "\ud83d\udea8 BREAKING NEWS PM Modi\u2019s recent five-nation tour helped India secure an investment pipeline worth nearly $40 BILLION.",
+              "engagement": "179K views",
+              "views": 178669
             },
             {
               "label": "Democrat",
-              "handle": "SaulStaniforth",
-              "url": "https://x.com/SaulStaniforth/status/2057475145439027379",
-              "body": "If the Russian military had attacked civilian boats in intl waters & seized more than 400 people on board (including UK citizens) & then forcibly taken them to Russia, does anyone think the UK media would be describing what Russia had done as arresting them?",
-              "engagement": "3K views",
-              "views": 3091
+              "handle": "narendramodi",
+              "url": "https://x.com/narendramodi/status/2057039369941160348",
+              "body": "Met President Sergio Mattarella in Rome. We discussed different aspects relating to the India-Italy friendship, including trade, investment and cultural linkages.",
+              "engagement": "1M views",
+              "views": 1023474
+            }
+          ]
+        },
+        {
+          "headline": "Iran and Oman discuss toll system for Strait of Hormuz",
+          "url": "https://x.com/nytimes/status/2057646392022081833",
+          "handle": "nytimes",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "Osint613",
+              "url": "https://x.com/Osint613/status/2057209018213454323",
+              "body": "Iran\u2019s new definition of \u201cmanaging\u201d the Strait of Hormuz effectively extends its claimed regulatory zone into parts of UAE and Omani waters. This will not go well.",
+              "engagement": "324K views",
+              "views": 324579
+            },
+            {
+              "label": "Independent",
+              "handle": "IranObserver0",
+              "url": "https://x.com/IranObserver0/status/2057483545384300833",
+              "body": "\u26a1\ufe0fJUST IN: Iran and Oman are seriously discussing setting up a Permanent Toll System for the Strait of Hormuz",
+              "engagement": "49K views",
+              "views": 49421
+            },
+            {
+              "label": "Democrat",
+              "handle": "nytimes",
+              "url": "https://x.com/nytimes/status/2057646392022081833",
+              "body": "Breaking News: Iran and Oman are in talks over a payment system for ships crossing the Strait of Hormuz, despite warnings from the Trump administration.",
+              "engagement": "478K views",
+              "views": 477815
             }
           ]
         },
@@ -63,62 +94,31 @@
               "views": 149627
             }
           ]
-        },
-        {
-          "headline": "Global oil fears deepen amid Strait of Hormuz tensions and US-Iran talks",
-          "url": "https://x.com/firstpost/status/2057776220113084429",
-          "handle": "firstpost",
-          "perspectives": [
-            {
-              "label": "Independent",
-              "handle": "firstpost",
-              "url": "https://x.com/firstpost/status/2057776220113084429",
-              "body": "Your window to world news: Global oil fears deepen over Hormuz tensions, Israel deports Gaza flotilla activists, Trump sends more US troops to Poland, Democrats release their delayed 2024 election postmortem, and Yemen marks 35 years since reunification, here\u2019s your global roundup .",
-              "engagement": "819 views",
-              "views": 819
-            },
-            {
-              "label": "Conservative",
-              "handle": "TehLamboX",
-              "url": "https://x.com/TehLamboX/status/2057743872034476283",
-              "body": "ALL THAT HAPPENED IN THE PAST 24 HOURS \ud83c\udf0d\n\n\u2022 Trump announces the US is sending 5,000 additional troops to Poland\n\u2022 Reports claim a final US-Iran agreement has been reached with Pakistan mediating\n\u2022 US reportedly lost half of its interceptor missiles defending Israel from Iran",
-              "engagement": "1K views",
-              "views": 1048
-            }
-          ]
         }
       ]
     },
     "usa": {
       "stories": [
         {
-          "headline": "DOJ indicts Ra\u00fal Castro and others in conspiracy to kill U.S. nationals",
-          "url": "https://x.com/WhiteHouse/status/2057159651263652146",
-          "handle": "WhiteHouse",
+          "headline": "House Republicans cancel vote on resolution to limit Trump\u2019s Iran military actions after lacking votes",
+          "url": "https://x.com/nytimes/status/2057597020232204327",
+          "handle": "nytimes",
           "perspectives": [
             {
-              "label": "Conservative",
-              "handle": "WhiteHouse",
-              "url": "https://x.com/WhiteHouse/status/2057159651263652146",
-              "body": "\ud83d\udea8 The U.S. Department of Justice announces the indictment of Ra\u00fal Castro and several others with conspiracy to kill U.S. nationals. THE UNITED STATES & PRESIDENT TRUMP WILL NOT FORGET ITS CITIZENS.",
-              "engagement": "23K likes",
-              "views": 853097
-            },
-            {
               "label": "Independent",
-              "handle": "WhiteHouse",
-              "url": "https://x.com/WhiteHouse/status/2057500431371096306",
-              "body": "Another day, another costly Biden-era policy terminated. $2.4 BILLION SAVED \u2705",
-              "engagement": "13K likes",
-              "views": 225945
+              "handle": "nytimes",
+              "url": "https://x.com/nytimes/status/2057597020232204327",
+              "body": "Breaking News: House Republicans abruptly canceled a vote on a resolution directing President Trump to withdraw U.S. forces from Iran or win approval from Congress to continue the war, after it became clear they lacked the votes to defeat the measure.",
+              "engagement": "3K likes, 1K reposts",
+              "views": 1256489
             },
             {
               "label": "Democrat",
-              "handle": "BarackObama",
-              "url": "https://x.com/BarackObama/status/2057159543575191754",
-              "body": "Barney Frank was one of a kind. For more than three decades in Congress, he fought tirelessly for the people of Massachusetts...",
-              "engagement": "141K likes",
-              "views": 24826644
+              "handle": "TheDemocrats",
+              "url": "https://x.com/TheDemocrats/status/2057850990355698069",
+              "body": "Republicans knew the War Powers Resolution to rein in Trump\u2019s Iran War was about to pass\u2014so they pulled the bill off the floor. When they can\u2019t win, they hide. Vote them out.",
+              "engagement": "1K likes",
+              "views": 13553
             }
           ]
         },
@@ -189,6 +189,14 @@
     "business": {
       "stories": [
         {
+          "handle": "mert",
+          "url": "https://x.com/mert/status/2057807312056701409",
+          "headline": "Crypto speculators shifting markets toward short-term horizons",
+          "body": "crypto is dominated by speculators and younger traders who have virtually no time horizon or attention span\n\nas crypto takes over, same thing is happening to all markets\n\nin such a world, there's great edge in simply having a boomer time horizon\n\nall my big wins have been buying distressed assets, working to improve them, and thinking in terms of years vs. weeks",
+          "engagement": "33K views",
+          "views": 32733
+        },
+        {
           "handle": "NickTimiraos",
           "url": "https://x.com/NickTimiraos/status/2057824468559446518",
           "headline": "Waller delivers hawkish speech on recent inflation",
@@ -197,33 +205,17 @@
           "views": 23413
         },
         {
-          "handle": "HedgieMarkets",
-          "url": "https://x.com/HedgieMarkets/status/2057531661785628841",
-          "headline": "AI subsidy era ending as Microsoft cancels Claude licenses and enterprises face skyrocketing costs",
-          "body": "\ud83e\udd94Microsoft canceled its internal Claude Code licenses this week after token-based billing made the cost untenable, even for a company with effectively infinite cloud resources. Uber's CTO sent an internal memo warning the company burned through its entire 2026 AI budget in just four months. American AI software prices have jumped 20% to 37%, and GitHub (owned by Microsoft) is dropping flat-rate plans for usage-based billing across its products.\n\nMy Take\nThe AI subsidy era is ending in real time. The same company that put $13 billion into OpenAI and built the Azure infrastructure powering most of Anthropic's compute just looked at the bill from a competitor's coding tool and decided it was not worth paying. That is not a productivity failure on Anthropic's end. Token-based pricing is forcing every enterprise customer to confront the actual cost of running these models at scale, and the number turns out to be far higher than the flat-rate experiments suggested.\n\nThis ties directly to my Gemini Flash post yesterday. Anthropic, OpenAI, and Google all raised effective prices in the last six months. Enterprises that built workflows assuming AI costs would keep falling are now watching annual budgets evaporate in months. Two outcomes look likely from here. Either enterprises scale back AI usage to fit budgets, which slows the revenue ramp the labs need to justify their valuations ahead of IPOs, or the labs cut prices and absorb the losses, which makes the unit economics worse at exactly the wrong moment. Both paths land in the same place, the numbers stop working, and somebody has to take the writedown.\n\nHedgie\ud83e\udd17",
-          "engagement": "428K views",
-          "views": 428676
-        },
-        {
-          "handle": "mert",
-          "url": "https://x.com/mert/status/2057807312056701409",
-          "headline": "Crypto speculators shifting markets toward short-term horizons",
-          "body": "crypto is dominated by speculators and younger traders who have virtually no time horizon or attention span\n\nas crypto takes over, same thing is happening to all markets\n\nin such a world, there's great edge in simply having a boomer time horizon\n\nall my big wins have been buying distressed assets, working to improve them, and thinking in terms of years vs. weeks",
-          "engagement": "33K views",
-          "views": 32733
+          "handle": "thestockwhale",
+          "url": "https://x.com/thestockwhale/status/2057872195133800772",
+          "headline": "StockWhale reports 92% win rate for May and previews next rotation.",
+          "body": "We had a 92% win rate for May together.\n\nNow it's time for the next rotation and cycle.\n\nGet ready.",
+          "engagement": "4K views",
+          "views": 3764
         }
       ]
     },
     "top": {
       "stories": [
-        {
-          "handle": "eczozgurozel",
-          "url": "https://x.com/eczozgurozel/status/2057494200564801986",
-          "headline": "Turkish politician vows resilience and struggle over easy victory",
-          "body": "Ben size iktidara g\u00fcl bah\u00e7esinden ge\u00e7erek gitmeyi vadetmiyorum.\n\nBen size ac\u0131ya katlanmay\u0131 ama teslim olmamay\u0131 vadediyorum.\n\nBen size onur, haysiyet, cesaret ve m\u00fccadele vadediyorum!",
-          "engagement": "4.1M views",
-          "views": 4076103
-        },
         {
           "handle": "AlNassrFC",
           "url": "https://x.com/AlNassrFC/status/2057591669990551994",
@@ -239,6 +231,14 @@
           "body": "\u3010\u5bb3\u60aa\u5ea6SS+\u3011\n\n\u7af9\u524d\u7f8e\u7d50(25) \u6307\u793a\u5f79\n\u7af9\u524d\u6d77\u6597(28) \u6307\u793a\u5f79\n\u95c7\u30d0\u30a4\u30c8(16) 4\u4eba\n\n\u5099\u8003\n\u30fb\u6803\u6728\u770c\u306e\u8c6a\u90b8\u306b\u4fb5\u5165\u3057\u5f37\u76d7\u6bba\u4eba\n\u30fb\u88ab\u5bb3\u8005(69)\u3092\u30e1\u30c3\u30bf\u523a\u3057(20\u30f6\u6240)\n\u30fb\u88ab\u5bb3\u8005\u306e\u98fc\u3044\u72ac\u3082\u6bba\u5bb3\n\u30fb\u6307\u793a\u5f79\u306f\u6d77\u5916\u9003\u4ea1\u3092\u56f3\u308b\u3082\u7a7a\u6e2f\u3067\u902e\u6355\n\u30fb\u95c7\u30d0\u30a4\u30c8\u306e1\u4eba\u306f\u53cd\u7701\u306a\u3057(4\u679a\u76ee)",
           "engagement": "540K views",
           "views": 540070
+        },
+        {
+          "handle": "Harish_NS149",
+          "url": "https://x.com/Harish_NS149/status/2057829074806968695",
+          "headline": "Savukku Shankar thanks CMO for release and sends best wishes",
+          "body": "Savukku Shankar expresses gratitude to @CMOTamilnadu for the swift action leading to his release, and sends best wishes to the CMO!\n\n\"\u0b87\u0ba9\u0bcd\u0ba9\u0bbe\u0b9a\u0bc6\u0baf\u0bcd \u0ba4\u0bbe\u0bb0\u0bc8 \u0b92\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd \u0b85\u0bb5\u0bb0\u0bcd\u0ba8\u0bbe\u0ba3\n\u0ba8\u0ba9\u0bcd\u0ba9\u0baf\u0b9e\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0b9f\u0bb2\u0bcd.\"",
+          "engagement": "164K views",
+          "views": 164418
         }
       ]
     },
@@ -254,19 +254,19 @@
         },
         {
           "handle": "nytimes",
-          "url": "https://x.com/nytimes/status/2057510458219716654",
-          "headline": "Democrats release draft autopsy blaming Biden operation for Harris 2024 loss.",
-          "body": "Breaking News: Democrats released a draft autopsy on Kamala Harris\u2019s defeat in the 2024 election that partly blames Joe Biden\u2019s political operation, and arguing that it failed to position her for success in the race after he dropped out. https://www.nytimes.com/live/2026/05/21/us/dnc-report?smtyp=cur&smid=tw-nytimes",
-          "engagement": "873K views",
-          "views": 873571
-        },
-        {
-          "handle": "nytimes",
           "url": "https://x.com/nytimes/status/2057646392022081833",
           "headline": "Iran and Oman in talks over payment system for ships crossing Strait of Hormuz.",
           "body": "Breaking News: Iran and Oman are in talks over a payment system for ships crossing the Strait of Hormuz, despite warnings from the Trump administration. https://www.nytimes.com/2026/05/21/world/middleeast/iran-strait-of-hormuz-tolls.html?smid=tw-nytimes&smtyp=cur",
           "engagement": "297K views",
           "views": 297205
+        },
+        {
+          "handle": "CNN",
+          "url": "https://x.com/CNN/status/2057575162464137630",
+          "headline": "President Trump says Reflecting Pool renovations price tag will be less than $20 million.",
+          "body": "President Donald Trump said the price tag for his Reflecting Pool renovations in Washington, DC, will be \u201cless than $20 million\u201d after he decided the exterior needed more work. https://www.cnn.com/2026/05/21/politics/reflecting-pool-20-million-lawsuit?Date=20260521&Profile=CNN&utm_content=1779397600&utm_medium=social&utm_source=twitter",
+          "engagement": "126K views",
+          "views": 126248
         }
       ]
     },
@@ -289,12 +289,12 @@
           "views": 12420718
         },
         {
-          "handle": "FabrizioRomano",
-          "url": "https://x.com/FabrizioRomano/status/2057774811636543980",
-          "headline": "Enzo Maresca set to be announced as Manchester City manager",
-          "body": "\ud83d\udc99\ud83d\udd1c Up next at Manchester City: Enzo Maresca, set to be announced as #MCFC manager soon.",
-          "engagement": "795K views",
-          "views": 794739
+          "handle": "KalshiSports",
+          "url": "https://x.com/KalshiSports/status/2057848818419237170",
+          "headline": "Sports Illustrated ranks top 10 players for 2026 World Cup",
+          "body": "Sports Illustrated ranks the Top-10 Players for the World Cup:\n\n1. Lamine Yamal\n2. Harry Kane\n3. Kylian Mbappe\n4. Pedri\n5. Ousmane Dembele\n6. Michael Olise\n7. Vinicius Junior\n8. Erling Haaland\n9. Raphinha\n10. Federico Valverde\n\nMbappe is the Golden Boot Favorite on Kalshi.",
+          "engagement": "548K views",
+          "views": 547607
         }
       ]
     },
@@ -310,19 +310,19 @@
         },
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2057502564627681295",
-          "headline": "Response to Tesla design philosophy quote",
-          "body": "It is the answer",
-          "engagement": "8.4M views",
-          "views": 8430841
-        },
-        {
-          "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2057726307346039282",
           "headline": "Update on Grok image generation features",
           "body": "Grok progress",
           "engagement": "771K views",
           "views": 771636
+        },
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2057805561698066609",
+          "headline": "Elon Musk shares imagined reaction to a product without personal use yet.",
+          "body": "Haven\u2019t used it yet, but this is how I imagine it to be, based on breathless discussions of those who have",
+          "engagement": "151K views",
+          "views": 151115
         }
       ]
     },
@@ -365,20 +365,20 @@
           "views": 789454
         },
         {
+          "handle": "HipHopAllDay",
+          "url": "https://x.com/HipHopAllDay/status/2057861527986659530",
+          "headline": "Drake's 'ICEMAN' has massive Spotify opening week",
+          "body": "Drake's 'ICEMAN' 453.4 MILLION streams in its opening week on Spotify \ud83d\udd25\ud83c\udfc6\n\nIt is the fifth biggest debut week ever for a rap album on the platform.",
+          "engagement": "42937 views",
+          "views": 42937
+        },
+        {
           "handle": "NICKIMINAJ",
           "url": "https://x.com/NICKIMINAJ/status/2057626166706549148",
           "headline": "Nicki Minaj shares a video for the Barbz featuring #Starbase and #Starships",
           "body": "Even did a lil video for the Barbz. #Starbase #Starships",
           "engagement": "495K views",
           "views": 495148
-        },
-        {
-          "handle": "HBO",
-          "url": "https://x.com/HBO/status/2057510434270511146",
-          "headline": "HBO documentary on Earth, Wind & Fire premieres June 7.",
-          "body": "The music that moved everybody. #EarthWindandFireHBO premieres June 7 on @HBOMax.",
-          "engagement": "750K views",
-          "views": 750192
         }
       ]
     },
@@ -421,25 +421,33 @@
           "views": 771636
         },
         {
-          "handle": "kirawontmiss",
-          "url": "https://x.com/kirawontmiss/status/2057515263814254900",
-          "headline": "Injection developed to double cat lifespan to 30 years.",
-          "body": "This is the best news i\u2019ve ever heard in my life and i\u2019m not joking",
-          "engagement": "2.2M views",
-          "views": 2241629
-        },
-        {
           "handle": "OpenAI",
           "url": "https://x.com/OpenAI/status/2057617844800794878",
           "headline": "OpenAI Codex now enables secure app control on locked Mac from iPhone.",
           "body": "Highlights from today\u2019s Codex Thursday launches:\n\n1\ufe0f\u20e3 Codex can now securely use apps on your Mac from your phone, even when your Mac is locked and the screen is off.\n\nhttps://developers.openai.com/codex/app/computer-use",
           "engagement": "356K views",
           "views": 356728
+        },
+        {
+          "handle": "sean_n_wu",
+          "url": "https://x.com/sean_n_wu/status/2057831440390221837",
+          "headline": "AI models tested on forecasting real scientific breakthroughs",
+          "body": "AI is now a major part of scientific research \ud83d\udd2c. But can it actually forecast scientific progress?\n\nWe tested 6 frontier models on 4,760 real breakthroughs under strict knowledge cutoffs.\n\nThey recognize science. They can't forecast it. \ud83e\uddf5\u2b07\ufe0f",
+          "engagement": "4.5K views",
+          "views": 4536
         }
       ]
     },
     "local": {
       "stories": [
+        {
+          "handle": "KTLA",
+          "url": "https://x.com/KTLA/status/2057852201268342840",
+          "headline": "Thousands of Orange County residents under evacuation after toxic tank leak",
+          "body": "#BreakingNews: Thousands of Orange County residents are once again under evacuation orders Friday morning after a massive storage tank leak at an aerospace facility in Garden Grove continued to raise concerns overnight. https://ktla.com/news/local-news/thousands-evacuated-again-after-toxic-tank-leak-in-garden-grove/",
+          "engagement": "6.6K views",
+          "views": 6587
+        },
         {
           "handle": "KTLA",
           "url": "https://x.com/KTLA/status/2057603736084853057",
@@ -455,14 +463,6 @@
           "body": "OCFA hazardous materials teams are on scene of a leak in a large holding tank in Garden Grove. Out of an abundance of caution, areas north of Garden Grove Blvd, east of Monarch St., south of Orangewood, and west of Beach Blvd are being evacuated.",
           "engagement": "20K views",
           "views": 20459
-        },
-        {
-          "handle": "ABC7",
-          "url": "https://x.com/ABC7/status/2057617895341838506",
-          "headline": "Hundreds arrested and 40 children rescued in Southern California child exploitation sting",
-          "body": "Hundreds of suspects were arrested, and 40 children were rescued and identified across Southern California as the result of an investigation into internet crimes against children.",
-          "engagement": "4.3K views",
-          "views": 4346
         }
       ]
     },
@@ -485,25 +485,17 @@
           "views": 41868
         },
         {
-          "handle": "remarks",
-          "url": "https://x.com/remarks/status/2057826374551814236",
-          "headline": "Pentagon releases video of a potential UFO",
-          "body": "JUST IN: \ud83c\uddfa\ud83c\uddf8 Pentagon releases video of a potential UFO.",
-          "engagement": "7K views",
-          "views": 7367
+          "handle": "drawandstrike",
+          "url": "https://x.com/drawandstrike/status/2057633796455797042",
+          "headline": "Brian Cates on shadow government and plandemic to rig 2020 election",
+          "body": "This was made available six years ago. But you were told only CONSPIRACY THEORIST LUNATICS were believing any of this stuff. There WAS a Shadow Government. ... THE. PLANDEMIC. WAS. **ALWAYS** **ALWAYS** **ALWAYS** ABOUT. THE. FUCKING. ELECTION.",
+          "engagement": "36K views",
+          "views": 36181
         }
       ]
     },
     "comedy": {
       "stories": [
-        {
-          "handle": "LostMemeArchive",
-          "url": "https://x.com/LostMemeArchive/status/2057508216989237601",
-          "headline": "Backrooms meme image traced to real HobbyTown store",
-          "body": "The original Backrooms image was finally traced back to a real place.\n\nIt wasn\u2019t an abandoned office or a secret building.\n\nIt was a HobbyTown store in Oshkosh, Wisconsin, during renovations. The room is now reportedly part of an RC car racetrack.",
-          "engagement": "247K views",
-          "views": 246589
-        },
         {
           "handle": "qqrmeme",
           "url": "https://x.com/qqrmeme/status/2057600247946223789",
@@ -515,5 +507,5 @@
       ]
     }
   },
-  "last_updated": "2026-05-22T14:41:14.082394"
+  "last_updated": "2026-05-22T17:52:50.389301"
 }
