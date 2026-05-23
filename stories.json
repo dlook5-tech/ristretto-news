@@ -92,6 +92,37 @@
     "usa": {
       "stories": [
         {
+          "headline": "Trump admin finalizing Anthropic AI deal for US spy agencies",
+          "url": "https://x.com/WatcherGuru/status/2058219136874959285",
+          "handle": "WatcherGuru",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "SBA_Kelly",
+              "url": "https://x.com/SBA_Kelly/status/2058169940276851137",
+              "body": ".@POTUS has already cut billions in red tape... Now, SBA is teaming up with @SecretaryTurner and @HUDgov to unlock new capital for builders",
+              "engagement": "71K views",
+              "views": 71079
+            },
+            {
+              "label": "Independent",
+              "handle": "C_3C_3",
+              "url": "https://x.com/C_3C_3/status/2058212796102254851",
+              "body": "Thune and Senate GOP is using Pro Forma sessions to stop POTUS Trump from making recess appointments.",
+              "engagement": "8K views",
+              "views": 8491
+            },
+            {
+              "label": "Democrat",
+              "handle": "SenSanders",
+              "url": "https://x.com/SenSanders/status/2058210686820307073",
+              "body": "If you give a politician $5 to influence a vote, it\u2019s bribery. If billionaires spend $50 million to influence an election, it\u2019s legal.",
+              "engagement": "104K views",
+              "views": 104080
+            }
+          ]
+        },
+        {
           "headline": "Tulsi Gabbard resigns as Director of National Intelligence",
           "url": "https://x.com/DNIGabbard/status/2057877960783204419",
           "handle": "DNIGabbard",
@@ -152,34 +183,19 @@
               "views": 67745
             }
           ]
-        },
-        {
-          "headline": "Senate Majority Leader Thune faces primary threat from Scott Presler over failure to pass SAVE America Act for 2026 midterms",
-          "url": "https://x.com/ScottPresler/status/2057517713178644815",
-          "handle": "ScottPresler",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "ScottPresler",
-              "url": "https://x.com/ScottPresler/status/2057517713178644815",
-              "body": "If Senate Majority Leader Thune does NOT pass the SAVE America Act to go into effect for this November, \n\nI promise to lead the charge to primary & defeat him in 2028.",
-              "engagement": "73K views",
-              "views": 72988
-            },
-            {
-              "label": "Conservative",
-              "handle": "EricLDaugh",
-              "url": "https://x.com/EricLDaugh/status/2058158861345759561",
-              "body": "\ud83d\udea8 WOW! Scott Presler is officially planning to PRIMARY CHALLENGE Senate Leader John Thune if the SAVE America Act does not take effect for the 2026 midterms\n\n\u201cI promise to lead the charge to primary & defeat him in 2028.\u201d\n\nScott is PLAYING HARDBALL!",
-              "engagement": "49K views",
-              "views": 49453
-            }
-          ]
         }
       ]
     },
     "business": {
       "stories": [
+        {
+          "handle": "hdubugras",
+          "url": "https://x.com/hdubugras/status/2058200566346780800",
+          "headline": "Hiring AI-native investment team leads for credit, real estate, derivatives, equities, and quant roles.",
+          "body": "\u201cHire me! I'm a great senior engineer (code monkey)\u201d Hard pass.\n\nFinance bro relying on his \u201cquant guy\u201d? Harder pass.\n\nLLMs will out-do the best engineers and quants. That is the bare minimum.\n\nI want people obsessed with the problem, not the code.\n\nIf you\u2019re obsessed with credit, derivatives, real estate, or portfolio optimization, this tweet is for you.\n\nWe\u2019re building the most AI-native investment team on Earth. Not a fund though.\n\nI\u2019m not sharing the who or what yet, but here's what I can say: you\u2019ll be investing billions of dollars in your twenties, including all my proceeds from the Capital One acquisition.\n\nA few warnings:\n- 996 is easy. Here it\u2019s closer to 8am-10pm-7 days a week. Don\u2019t worry, I\u2019ll be in the office before you arrive and after you leave.\n\n-We pay really well, but we expect even more. You\u2019ll feel overpaid compared to your friends and underpaid compared to how much we expect. And let\u2019s be honest: nobody gets rich out of bonuses. Real generational wealth is built through tax-deferred equity.\n\n- We expect first-principles thinking for everything. And I mean everything. If someone asks you why you\u2019re doing something in this way, \u201cbecause this is how we did it at my last firm\u201d is not an acceptable answer.\n\n- We expect you to be full-stack. From vision, to building to execution. There is no \u201csupport\u201d. If you can't use claude code to support yourself, then wtf are you even doing?\n\n- You\u2019ll be expected to master complex concepts in a matter of days.\n\n- We will pair you with industry veterans so you can leverage their experience. Don\u2019t fuck it up.\n\nRoles we\u2019re hiring for:\n\n- Credit/Fixed income lead - do you think that emerging-market banks bonds provide a great risk reward, but most American investors are scared of it? Talk to us.\n\n- Real estate lead - are you up-to-date on all the new maps for OZs and have no patience for trophy assets that don\u2019t have great after-tax yield? Talk to us.\n\n- Derivatives lead - You're able to represent any view by stacking the right structured payoffs? Talk to us.\n\n- Equities lead - You like stock picking? Save your energy. You deeply understand how risk models work from first principles, how optimizers are god\u2019s gift to humanity and how every stock pick is never good or bad, it's  just part of a portfolio? Talk to us.\n\n- Quant infrastructure lead - You\u2019re obsessed with finding specific signals to generate alpha? Save your energy, Citadel is a better spot. You\u2019re into building infrastructure to test new strategies, manage risk and optimize portfolios? Talk to us.\n\nIf you think you\u2019re a good fit, email me at henrique@sharpe.com answering the following question: What about the investment process in the asset class you have the most experience with will most materially change with AI and why?\n\nHappy memorial weekend :)",
+          "engagement": "3M views",
+          "views": 3029617
+        },
         {
           "handle": "crackcobain__",
           "url": "https://x.com/crackcobain__/status/2057907418156126222",
@@ -189,33 +205,17 @@
           "views": 1271132
         },
         {
-          "handle": "business",
-          "url": "https://x.com/business/status/2058144692085096535",
-          "headline": "Nvidia CEO urges Super Micro to tighten compliance amid Taiwan AI server crackdown",
-          "body": "Nvidia CEO Jensen Huang urged Super Micro to tighten up on compliance after Taiwan detained three people this week for allegedly making fraudulent declarations about AI servers made by its US partner https://www.bloomberg.com/news/articles/2026-05-23/nvidia-ceo-urges-super-micro-to-tighten-up-amid-taiwan-crackdown?taid=6a118c3b3caffb0001216316&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-          "engagement": "19K views",
-          "views": 19094
-        },
-        {
-          "handle": "elerianm",
-          "url": "https://x.com/elerianm/status/2058149325432098993",
-          "headline": "Investors can't get enough of stocks despite wars, inflation and AI worries",
-          "body": "From the WSJ article. \"Investors Just Can\u2019t Get Enough of Stocks These Days: War, inflation and worries about the AI boom haven\u2019t kept stocks from records.\" #economy #markets #stocks #investing #investors @wsj",
-          "engagement": "13K views",
-          "views": 12875
+          "handle": "TheEconomist",
+          "url": "https://x.com/TheEconomist/status/2058226477624148053",
+          "headline": "Optimism drives company success more than pessimism does.",
+          "body": "Pessimism has its place, but it is optimism that makes things happen in a company. Register for free to discover the full story https://www.economist.com/business/2026/05/21/why-you-should-almost-always-look-on-the-bright-side-of-life?taid=6a11d86689c60900011c2a50&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+          "engagement": "8.4K views",
+          "views": 8407
         }
       ]
     },
     "top": {
       "stories": [
-        {
-          "handle": "XBOX",
-          "url": "https://x.com/XBOX/status/2057855279287476620",
-          "headline": "Xbox announces GTA VI release date and wishlist link.",
-          "body": "November 19th\n\nWishlist Now: https://www.xbox.com/en-US/games/store/grand-theft-auto-vi/9NL3WWNZLZZN/0010?ocid=Evergreen_soc_omc_xbo_tw_Photo_buy_5.22.2",
-          "engagement": "15.2M views",
-          "views": 15247016
-        },
         {
           "handle": "nicksortor",
           "url": "https://x.com/nicksortor/status/2057961275024400736",
@@ -225,25 +225,25 @@
           "views": 3376165
         },
         {
-          "handle": "Plettigoal",
-          "url": "https://x.com/Plettigoal/status/2057877267733184941",
-          "headline": "Transfer rumor: Enzo Fernandez linked to Manchester City.",
-          "body": "\ud83d\udea8\ud83e\udde8 EXCL | Enzo Fernandez is one of Manchester City\u2019s desired transfer targets for the summer. Strongly wanted by Enzo Maresca. #MCFC \n\nInitial talks behind the scenes have already taken place. The two Enzos share a top and very trusting relationship. @SkySportDE \ud83c\udde6\ud83c\uddf7",
-          "engagement": "1.29M views",
-          "views": 1293477
+          "handle": "DeadbyDaylight",
+          "url": "https://x.com/DeadbyDaylight/status/2058201762499002786",
+          "headline": "Dead by Daylight teases Jason Universe crossover trailer",
+          "body": "The mask is on. The machete is dripping. The massacre has begun.   Dead by Daylight: Jason. @JasonUniverse13 \n\n06. 16. 26.",
+          "engagement": "1.3M views",
+          "views": 1332112
+        },
+        {
+          "handle": "TeamAriana",
+          "url": "https://x.com/TeamAriana/status/2058209049066258904",
+          "headline": "Ariana Grande shares new music link teaser video",
+          "body": "https://arianagrande.lnk.to/htimylm",
+          "engagement": "272K views",
+          "views": 272655
         }
       ]
     },
     "msm": {
       "stories": [
-        {
-          "handle": "washingtonpost",
-          "url": "https://x.com/washingtonpost/status/2057881688307347553",
-          "headline": "Trump administration to require most green card applicants to apply from outside the U.S.",
-          "body": "Breaking news: The Trump administration will require most foreigners seeking green cards to apply from outside the U.S., a shift that lawyers said could affect thousands of people who file applications each year while living in America on temporary visas. https://www.washingtonpost.com/immigration/2026/05/22/new-rule-requires-most-green-card-applicants-apply-outside-us/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
-          "engagement": "584K views",
-          "views": 584655
-        },
         {
           "handle": "AP",
           "url": "https://x.com/AP/status/2057941948288143568",
@@ -273,20 +273,20 @@
           "views": 4471769
         },
         {
+          "handle": "NBA",
+          "url": "https://x.com/NBA/status/2058030843432427706",
+          "headline": "NBA highlights OKC bench scoring 76 points in Game 3 win",
+          "body": "OKC'S BENCH DROPPED 76 POINTS IN GAME 3!\n\nJared McCain: 24 PTS (postseason career-high)\nJaylin Williams: 18 PTS (postseason career-high)\nAlex Caruso: 15 PTS\nCason Wallace: 11 PTS\n\nThunder win Game 3 to take a 2-1 series lead in the Western Conference Finals \ud83c\udf7f",
+          "engagement": "1.6M views",
+          "views": 1594621
+        },
+        {
           "handle": "BleacherReport",
           "url": "https://x.com/BleacherReport/status/2057986639037665788",
           "headline": "Spurs start Game 3 with explosive 15-0 run in NBA playoffs",
           "body": "SPURS ALREADY OFF TO A 15-0 RUN TO START GAME 3 \ud83e\udd2f\n\nNOT PLAYING AROUND",
           "engagement": "647K views",
           "views": 647321
-        },
-        {
-          "handle": "SkySportsPL",
-          "url": "https://x.com/SkySportsPL/status/2058095866829828475",
-          "headline": "Bryan Mbeumo names most underrated Man Utd player",
-          "body": "Bryan Mbeumo reveals who he thinks the most underrated player in the Manchester United squad is \ud83d\udc40",
-          "engagement": "173K views",
-          "views": 173315
         }
       ]
     },
@@ -294,19 +294,19 @@
       "stories": [
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2058019329161973925",
-          "headline": "Elon Musk shares a video post.",
-          "body": "https://t.co/KotP1BmroT",
-          "engagement": "10.4M views",
-          "views": 10435611
+          "url": "https://x.com/elonmusk/status/2057974937923490301",
+          "headline": "Elon Musk shares video post",
+          "body": "https://t.co/w2mlKm3nTf",
+          "engagement": "34M views",
+          "views": 33977664
         },
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2057974937923490301",
-          "headline": "Elon Musk shares a video update",
-          "body": "https://t.co/w2mlKm3nTf",
-          "engagement": "8.4M views",
-          "views": 8373895
+          "url": "https://x.com/elonmusk/status/2058019329161973925",
+          "headline": "Elon Musk shares video post",
+          "body": "https://t.co/KotP1BmroT",
+          "engagement": "22.8M views",
+          "views": 22761804
         },
         {
           "handle": "elonmusk",
@@ -365,32 +365,24 @@
           "views": 5461415
         },
         {
-          "handle": "DailyNoud",
-          "url": "https://x.com/DailyNoud/status/2057869773547991259",
-          "headline": "Michael Jackson's Billie Jean tops global Spotify chart",
-          "body": "Michael Jackson's \"Billie Jean\" remains at #1 on the global Spotify chart with over 5.7 million streams. \n\nIt has now spent 7 days at #1.",
-          "engagement": "1.03M views",
-          "views": 1032632
+          "handle": "TeamAriana",
+          "url": "https://x.com/TeamAriana/status/2058209049066258904",
+          "headline": "Team Ariana shares teaser for Ariana Grande's 'hate that i made you love me' music video.",
+          "body": "https://arianagrande.lnk.to/htimylm",
+          "engagement": "273K views",
+          "views": 272655
         }
       ]
     },
     "recipe": {
       "stories": [
         {
-          "handle": "chefsevenn",
-          "url": "https://x.com/chefsevenn/status/2057879304009036153",
-          "headline": "Poll on what pairs with chili",
-          "body": "What goes well with chili \ud83e\udd63 but you can't say crackers",
-          "engagement": "99K views",
-          "views": 99374
-        },
-        {
-          "handle": "morisugi_warota",
-          "url": "https://x.com/morisugi_warota/status/2058145509815291923",
-          "headline": "Former cafe worker attempts authentic Napolitan pasta.",
-          "body": "\u5143\u55ab\u8336\u5e97\u5e97\u54e1\u306e\u30ef\u30a4\u304c\u3001\u4eca\u56de\u3053\u305d\u30de\u30b8\u30ac\u30c1\u3067\u7f8e\u5473\u3057\u3044\u30ca\u30dd\u30ea\u30bf\u30f3\u3092\u4f5c\u308a\u307e\u3059\u3088\u2026\u2757\ufe0f",
-          "engagement": "8K views",
-          "views": 8229
+          "handle": "moricalliope",
+          "url": "https://x.com/moricalliope/status/2058216388028752318",
+          "headline": "Announcement of anime-themed baking collab recipe stream.",
+          "body": "I asked who wanted to cook, and many hands were raised!! today's recipe is...\n\n...anime? ok\n\n@ 11:00 JST / 7pm PDT\n\n\u3010BAKING COLLAB\u3011\nhttps://www.youtube.com/live/5BaOYp1EBOI?feature=share",
+          "engagement": "22K views",
+          "views": 22070
         },
         {
           "handle": "biriyanijp",
@@ -399,6 +391,14 @@
           "body": "NHK \u304d\u3087\u3046\u306e\u6599\u7406 5/25(\u6708)\u306e\u6599\u7406\u304c\u300c\u30d3\u30ea\u30e4\u30cb\u300d\u3060\u3068\u30fc\u30fc\uff01\uff01\u3057\u304b\u3082\u3001\u65e5\u672c\u7c73\u3067\u306f\u306a\u304f\u3001\u30d0\u30b9\u30de\u30c6\u30a3\u3092\u4f7f\u3063\u305f\u672c\u683c\u7684\u306a\u30d3\u30ea\u30e4\u30cb\u307f\u305f\u3044\u3060\u305e\uff01https://www.nhk.jp/g/ts/XR5ZNJLM2Q/",
           "engagement": "41K views",
           "views": 41469
+        },
+        {
+          "handle": "morisugi_warota",
+          "url": "https://x.com/morisugi_warota/status/2058145509815291923",
+          "headline": "Former cafe worker attempts authentic Napolitan pasta.",
+          "body": "\u5143\u55ab\u8336\u5e97\u5e97\u54e1\u306e\u30ef\u30a4\u304c\u3001\u4eca\u56de\u3053\u305d\u30de\u30b8\u30ac\u30c1\u3067\u7f8e\u5473\u3057\u3044\u30ca\u30dd\u30ea\u30bf\u30f3\u3092\u4f5c\u308a\u307e\u3059\u3088\u2026\u2757\ufe0f",
+          "engagement": "8K views",
+          "views": 8229
         }
       ]
     },
@@ -413,20 +413,12 @@
           "views": 766601
         },
         {
-          "handle": "deepseek_ai",
-          "url": "https://x.com/deepseek_ai/status/2057854261699195173",
-          "headline": "DeepSeek makes V4-Pro discount permanent for users.",
-          "body": "We are making our discount permanent! \ud83c\udf89\n\nEnjoy building with DeepSeek-V4-Pro and bring your innovative ideas to life! \ud83d\ude80",
-          "engagement": "2.8M views",
-          "views": 2837011
-        },
-        {
-          "handle": "nypost",
-          "url": "https://x.com/nypost/status/2057835120262893846",
-          "headline": "Archaeologists discover Homer's Iliad text on ancient Egyptian mummy in unprecedented find",
-          "body": "Archaeologists stunned after finding Homer's 'Iliad' on Egyptian mummy in unprecedented discovery https://nypost.com/2026/05/22/science/experts-stunned-after-uncovering-homers-iliad-on-egyptian-mummy-in-unprecedented-find/?utm_source=twitter&utm_medium=social&utm_campaign=nypost",
-          "engagement": "1.25M views",
-          "views": 1253443
+          "handle": "BJP4India",
+          "url": "https://x.com/BJP4India/status/2058073971254329409",
+          "headline": "India rises to top-4 global AI ecosystem, highlighting innovation and youth talent.",
+          "body": "AI Ecosystem \u092e\u0947\u0902 \u092d\u093e\u0930\u0924 \u0915\u093e \u091c\u0932\u0935\u093e! \ud83c\uddee\ud83c\uddf3\ud83e\udd16\n\n\u0905\u092c \u092d\u093e\u0930\u0924 \u0938\u093f\u0930\u094d\u092b \u091f\u0947\u0915\u094d\u0928\u094b\u0932\u0949\u091c\u0940 \u0915\u093e \u0909\u092a\u092d\u094b\u0915\u094d\u0924\u093e \u0928\u0939\u0940\u0902, \u092c\u0932\u094d\u0915\u093f Innovation \u0915\u093e \u0917\u094d\u0932\u094b\u092c\u0932 \u0932\u0940\u0921\u0930 \u092c\u0928\u0915\u0930 \u0909\u092d\u0930 \u0930\u0939\u093e \u0939\u0948\u0964 \ud83d\ude80\n\n\u0926\u0941\u0928\u093f\u092f\u093e \u0915\u0947 Top-4 AI Ecosystem \u092e\u0947\u0902 \u0936\u093e\u092e\u093f\u0932 \u0939\u094b\u0915\u0930 \u092d\u093e\u0930\u0924 \u0928\u0947 \u0926\u093f\u0916\u093e \u0926\u093f\u092f\u093e \u0915\u093f \u092f\u0941\u0935\u093e \u092a\u094d\u0930\u0924\u093f\u092d\u093e, \u0938\u094d\u091f\u093e\u0930\u094d\u091f\u0905\u092a \u0915\u0932\u094d\u091a\u0930 \u0914\u0930 \u0921\u093f\u091c\u093f\u091f\u0932 \u0935\u093f\u091c\u093c\u0928 \u092e\u093f\u0932\u0915\u0930 \u0915\u094d\u092f\u093e \u0915\u092e\u093e\u0932 \u0915\u0930 \u0938\u0915\u0924\u0947 \u0939\u0948\u0902\u0964 \ud83c\uddee\ud83c\uddf3",
+          "engagement": "6.2K views",
+          "views": 6270
         }
       ]
     },
@@ -441,20 +433,20 @@
           "views": 401184
         },
         {
-          "handle": "ABC",
-          "url": "https://x.com/ABC/status/2058007477359198675",
-          "headline": "Tens of thousands in Southern California ordered to evacuate over chemical tank crisis at aerospace facility.",
-          "body": "Tens of thousands of people in Southern California have been told to leave their homes, with officials issuing a dire warning that a chemical tank at an aerospace facility is in \"crisis\" and will either leak or explode. https://abcnews.com/US/evacuation-orders-issued-california-city-chemical-tank-fails/story?id=133234846&cid=social_twitter_abcn",
-          "engagement": "198K views",
-          "views": 197973
+          "handle": "AP",
+          "url": "https://x.com/AP/status/2058223004459454841",
+          "headline": "Efforts underway to stabilize damaged chemical tank in Southern California amid mass evacuations.",
+          "body": "Efforts are on to stabilize a damaged chemical tank at a facility in Southern California where tens of thousands of people have been ordered out of their homes.",
+          "engagement": "23K views",
+          "views": 23802
         },
         {
-          "handle": "cnnbrk",
-          "url": "https://x.com/cnnbrk/status/2057989049093181541",
-          "headline": "Approximately 40,000 residents under evacuation orders in Southern California over toxic chemical tank concerns.",
-          "body": "Approximately 40,000 residents are under evacuation orders in Southern California as authorities are concerned that a tank filled with a toxic chemical will leak or explode. https://www.cnn.com/2026/05/22/us/chemical-spill-orange-county-california?Date=20260523&Profile=cnnbrk&utm_content=1779497792&utm_medium=social&utm_source=twitter",
-          "engagement": "143K views",
-          "views": 143930
+          "handle": "ABC",
+          "url": "https://x.com/ABC/status/2058007477359198675",
+          "headline": "Tens of thousands in Southern California ordered to evacuate over chemical tank crisis threat.",
+          "body": "Tens of thousands of people in Southern California have been told to leave their homes, with officials issuing a dire warning that a chemical tank at an aerospace facility is in \"crisis\" and will either leak or explode.",
+          "engagement": "339K views",
+          "views": 339895
         }
       ]
     },
@@ -489,6 +481,22 @@
     "comedy": {
       "stories": [
         {
+          "handle": "yabaleftonline",
+          "url": "https://x.com/yabaleftonline/status/2058163736142057500",
+          "headline": "Boyfriend replies to long apology with meme",
+          "body": "She sent her boyfriend a long epistle begging for forgiveness and he replied with a meme \ud83d\ude2d",
+          "engagement": "104K views",
+          "views": 104574
+        },
+        {
+          "handle": "AaryanPrateekX",
+          "url": "https://x.com/AaryanPrateekX/status/2058025813493367047",
+          "headline": "Meme about modern dating misery",
+          "body": "When I say modern-day dating has become miserable and is more of a humiliation ritual than love, this is what I mean.\n\nLook at his texts and the misery in his life. He tried to put in his best effort and wanted a reply, but instead, he became meme material on the internet because she wanted some likes and validation.",
+          "engagement": "229K views",
+          "views": 229582
+        },
+        {
           "handle": "burraookk",
           "url": "https://x.com/burraookk/status/2057899130890952955",
           "headline": "Meme image post",
@@ -499,5 +507,5 @@
       ]
     }
   },
-  "last_updated": "2026-05-23T13:26:39.849940"
+  "last_updated": "2026-05-23T17:00:37.507396"
 }
