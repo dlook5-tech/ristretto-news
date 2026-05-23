@@ -3,6 +3,37 @@
     "world": {
       "stories": [
         {
+          "headline": "Ebola outbreak in DR Congo declared very high risk with hospital riots",
+          "url": "https://x.com/NBCNews/status/2057904355034923215",
+          "handle": "NBCNews",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "NBCNews",
+              "url": "https://x.com/NBCNews/status/2057904355034923215",
+              "body": "People set fire to an Ebola treatment center in a town at the heart of the outbreak in the Democratic Republic of the Congo",
+              "engagement": "158K views",
+              "views": 158381
+            },
+            {
+              "label": "Independent",
+              "handle": "SABCNews",
+              "url": "https://x.com/SABCNews/status/2057897570026856823",
+              "body": "The World Health Organisation has raised the risk level of the Bundibugyo Ebola outbreak in the Democratic Republic of Congo to \u201cvery high\u201d",
+              "engagement": "2.2K views",
+              "views": 2284
+            },
+            {
+              "label": "Democrat",
+              "handle": "citizentvkenya",
+              "url": "https://x.com/citizentvkenya/status/2058059817399234992",
+              "body": "Riot hits DR Congo hospital as Ebola response angers victims' families",
+              "engagement": "823 views",
+              "views": 823
+            }
+          ]
+        },
+        {
           "headline": "Israel-Iran conflict escalates with Hormuz tensions and global oil fears",
           "url": "https://x.com/TuckerCarlson/status/2057842922796752939",
           "handle": "TuckerCarlson",
@@ -34,64 +65,33 @@
           ]
         },
         {
-          "headline": "PM Modi secures nearly $40 billion in investments from five-nation tour",
-          "url": "https://x.com/MeghUpdates/status/2057811556990431426",
-          "handle": "MeghUpdates",
+          "headline": "Gaza flotilla activists allege sexual assaults and abuse by Israeli forces",
+          "url": "https://x.com/thiagoavilabr/status/2057570882483003746",
+          "handle": "thiagoavilabr",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "Mrsinha",
-              "url": "https://x.com/Mrsinha/status/2057842074209390676",
-              "body": "You know how much investment PM Modi secured during his recent 5-country visit? -Answer: Approx. $40 billion. Sadly, nobody is talking about it. People are rather mocking him...",
+              "handle": "thiagoavilabr",
+              "url": "https://x.com/thiagoavilabr/status/2057570882483003746",
+              "body": "\ud83d\udea8 Warning: distressful content! Those genocidal maniacs RAPED humanitarian activist trying to take food and medicine to children in Gaza!",
+              "engagement": "875K views",
+              "views": 875721
+            },
+            {
+              "label": "Independent",
+              "handle": "gbsumudflotilla",
+              "url": "https://x.com/gbsumudflotilla/status/2057754459111862342",
+              "body": "At least 15 cases of sexual assaults, including rape. Shot with rubber bullets at close range.",
+              "engagement": "306K views",
+              "views": 306725
+            },
+            {
+              "label": "Democrat",
+              "handle": "AJEnglish",
+              "url": "https://x.com/AJEnglish/status/2057902539698315367",
+              "body": "\u201cWe were stripped, thrown to the ground...many of us were tasered, some were sexually assaulted.\u201d",
               "engagement": "26K views",
-              "views": 26153
-            },
-            {
-              "label": "Independent",
-              "handle": "MeghUpdates",
-              "url": "https://x.com/MeghUpdates/status/2057811556990431426",
-              "body": "\ud83d\udea8 BREAKING NEWS PM Modi\u2019s recent five-nation tour helped India secure an investment pipeline worth nearly $40 BILLION.",
-              "engagement": "179K views",
-              "views": 178669
-            },
-            {
-              "label": "Democrat",
-              "handle": "narendramodi",
-              "url": "https://x.com/narendramodi/status/2057039369941160348",
-              "body": "Met President Sergio Mattarella in Rome. We discussed different aspects relating to the India-Italy friendship, including trade, investment and cultural linkages.",
-              "engagement": "1M views",
-              "views": 1023474
-            }
-          ]
-        },
-        {
-          "headline": "Israel detains and beats Gaza aid flotilla activists including Turkish John Wick",
-          "url": "https://x.com/QudsNen/status/2057911684027830375",
-          "handle": "QudsNen",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "GuntherEagleman",
-              "url": "https://x.com/GuntherEagleman/status/2057965946103316700",
-              "body": "\ud83d\udea8 BOOM! Stephen Miller just DROPPED a brutal red pill on the Dems\u2019 Somali refugee disaster in Minnesota!",
-              "engagement": "677 likes",
-              "views": 14684
-            },
-            {
-              "label": "Independent",
-              "handle": "QudsNen",
-              "url": "https://x.com/QudsNen/status/2057911684027830375",
-              "body": "NEW | Turkish activist Omar Aslan known as the \u201cTurkish John Wick\u201d said he was beaten in five separate assaults by 27 Israeli soldiers after being detained aboard the Global Sumud Flotilla",
-              "engagement": "1.5K likes",
-              "views": 20476
-            },
-            {
-              "label": "Democrat",
-              "handle": "ShaykhSulaiman",
-              "url": "https://x.com/ShaykhSulaiman/status/2057973180094910490",
-              "body": "Foolish. You are about to take the World into war again. Israel controls you.",
-              "engagement": "1.7K likes",
-              "views": 54608
+              "views": 26858
             }
           ]
         }
@@ -99,37 +99,6 @@
     },
     "usa": {
       "stories": [
-        {
-          "headline": "Ivanka Trump targeted in Iranian assassination plot",
-          "url": "https://x.com/EricLDaugh/status/2057976081844465982",
-          "handle": "EricLDaugh",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "EricLDaugh",
-              "url": "https://x.com/EricLDaugh/status/2057976081844465982",
-              "body": "\ud83d\udea8 HOLY CRAP! President Trump's daughter Ivanka Trump was targeted in an ASSASSINATION plot by an Iranian IRGC-trained terrorist \u2014 NYP",
-              "engagement": "25748 likes",
-              "views": 1266365
-            },
-            {
-              "label": "Independent",
-              "handle": "sneako",
-              "url": "https://x.com/sneako/status/2058006880958423425",
-              "body": "BREAKING NEWS: a day before US/Israel plan to accelerate war in Iran, the dumbest terrorist of all time targets Ivanka Trump by tweeting a picture of her house in 2021.",
-              "engagement": "673 likes",
-              "views": 17207
-            },
-            {
-              "label": "Democrat",
-              "handle": "remarks",
-              "url": "https://x.com/remarks/status/2057997160520597690",
-              "body": "JUST IN: \ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Ivanka Trump targeted for assassination by Iranian military-trained Iraqi national, NYPost reports.",
-              "engagement": "1186 likes",
-              "views": 67745
-            }
-          ]
-        },
         {
           "headline": "Tulsi Gabbard resigns as Director of National Intelligence",
           "url": "https://x.com/DNIGabbard/status/2057877960783204419",
@@ -158,6 +127,37 @@
               "body": "I did not have Megan McCain stanning for Tulsi Gabbard in my Memorial Day Bingo Card.",
               "engagement": "1165 likes",
               "views": 41853
+            }
+          ]
+        },
+        {
+          "headline": "Ivanka Trump targeted in Iranian assassination plot",
+          "url": "https://x.com/EricLDaugh/status/2057976081844465982",
+          "handle": "EricLDaugh",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "EricLDaugh",
+              "url": "https://x.com/EricLDaugh/status/2057976081844465982",
+              "body": "\ud83d\udea8 HOLY CRAP! President Trump's daughter Ivanka Trump was targeted in an ASSASSINATION plot by an Iranian IRGC-trained terrorist \u2014 NYP",
+              "engagement": "25748 likes",
+              "views": 1266365
+            },
+            {
+              "label": "Independent",
+              "handle": "sneako",
+              "url": "https://x.com/sneako/status/2058006880958423425",
+              "body": "BREAKING NEWS: a day before US/Israel plan to accelerate war in Iran, the dumbest terrorist of all time targets Ivanka Trump by tweeting a picture of her house in 2021.",
+              "engagement": "673 likes",
+              "views": 17207
+            },
+            {
+              "label": "Democrat",
+              "handle": "remarks",
+              "url": "https://x.com/remarks/status/2057997160520597690",
+              "body": "JUST IN: \ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Ivanka Trump targeted for assassination by Iranian military-trained Iraqi national, NYPost reports.",
+              "engagement": "1186 likes",
+              "views": 67745
             }
           ]
         },
@@ -197,28 +197,28 @@
     "business": {
       "stories": [
         {
+          "handle": "crackcobain__",
+          "url": "https://x.com/crackcobain__/status/2057907418156126222",
+          "headline": "Recession odds at all-time low but user claims we are already in one",
+          "body": "Nigga we in a recession right now",
+          "engagement": "1.3M views",
+          "views": 1271132
+        },
+        {
+          "handle": "traderyamamoto",
+          "url": "https://x.com/traderyamamoto/status/2057983476172009769",
+          "headline": "Japanese investor buys 1 billion yen worth of Sanrio shares",
+          "body": "\u30b5\u30f3\u30ea\u30aa10\u5104\u8cb7\u3063\u3066\u307f\u305f\u203c\ufe0f\ud83d\ude24\n\u306f\u3063\u304d\u308a\u8a00\u3063\u3066\u30ad\u30c4\u3044\u3067\u3059(\uff65_\uff65;w\n\n\u5b89\u3044\u3068\u306f\u601d\u3046\u3093\u3067\u3059\u3051\u3069\u306d\u301c\n\u5f8c\u3067\u30b5\u30d6\u30b9\u30af\u3067\u7c21\u5358\u306b\u8cfc\u5165\u7406\u7531\u3092\u89e3\u8aac\u3057\u307e\u3059\ud83d\ude4b\u200d\u2642\ufe0f",
+          "engagement": "80.5K views",
+          "views": 80544
+        },
+        {
           "handle": "MrStevenSteele",
           "url": "https://x.com/MrStevenSteele/status/2057889517466529966",
           "headline": "Question on which stocks to buy now",
           "body": "What stocks should I be buying right now??",
           "engagement": "74K views",
           "views": 73883
-        },
-        {
-          "handle": "Cointelegraph",
-          "url": "https://x.com/Cointelegraph/status/2058005112677699846",
-          "headline": "Foreign investors poured $29 billion into Chinese stocks in April.",
-          "body": "\ud83c\udde8\ud83c\uddf3 UPDATE: Foreign investors poured $29 billion into Chinese stocks in April, marking one of the largest inflows on record.",
-          "engagement": "7016 views",
-          "views": 7016
-        },
-        {
-          "handle": "Forbes",
-          "url": "https://x.com/Forbes/status/2058005040112275907",
-          "headline": "Why Electric Utility Stocks Are A Smart Way To Bet On AI.",
-          "body": "Why Electric Utility Stocks Are A Smart Way To Bet On AI https://www.forbes.com/sites/baldwin/2026/03/31/why-electric-utility-stocks-are-a-smart-way-to-bet-on-ai/?utm_campaign=ForbesMainTwitter&utm_source=ForbesMainTwitter&utm_medium=social (\ud83d\udcf8: Jamel Toppin for Forbes)",
-          "engagement": "6516 views",
-          "views": 6516
         }
       ]
     },
@@ -261,32 +261,40 @@
           "views": 153255
         },
         {
+          "handle": "WSJ",
+          "url": "https://x.com/WSJ/status/2058029760492544091",
+          "headline": "The Trump administration\u2019s decision to provide tax immunity to President Trump, his family and his businesses is extraordinary and unprecedented",
+          "body": "The Trump administration\u2019s decision to provide tax immunity to President Trump, his family and his businesses is extraordinary and unprecedented. \n\nHere\u2019s what to know about the arrangement: https://www.wsj.com/politics/policy/what-to-know-about-the-trump-administration-ending-tax-audits-of-trump-5c1e81c1?mod=e2tw",
+          "engagement": "31.1K views",
+          "views": 31095
+        },
+        {
           "handle": "ABC",
           "url": "https://x.com/ABC/status/2057986786257764833",
           "headline": "Judge throws out Michael Wolff lawsuit against Melania Trump",
           "body": "A judge threw out author Michael Wolff\u2019s lawsuit against first lady Melania Trump, ruling that his \u201ccontorted\u201d attempt to prevent her from suing him for $1 billion over his statements about her and Jeffrey Epstein \u201cis not how the federal courts work.\u201d https://abcnews.com/US/wireStory/judge-throws-author-michael-wolffs-lawsuit-melania-trump-133238037?cid=social_twitter_abcn",
           "engagement": "28K views",
           "views": 28087
-        },
-        {
-          "handle": "WSJ",
-          "url": "https://x.com/WSJ/status/2057946466031669301",
-          "headline": "Tough job market for young college graduates",
-          "body": "It is a tough job market for young college graduates. For young people without a bachelor\u2019s degree, it is even tougher. \ud83d\udd17 https://www.wsj.com/economy/jobs/young-college-graduate-job-market-dd0f8d6e?mod=e2tw",
-          "engagement": "30K views",
-          "views": 30114
         }
       ]
     },
     "sports": {
       "stories": [
         {
+          "handle": "premierleague",
+          "url": "https://x.com/premierleague/status/2057794004792586622",
+          "headline": "Premier League celebrates Arsenal's title win with engraved trophy video",
+          "body": "Engraved into history \ud83d\udd8b @Arsenal",
+          "engagement": "2.1M views",
+          "views": 2121309
+        },
+        {
           "handle": "BleacherReport",
           "url": "https://x.com/BleacherReport/status/2057986639037665788",
-          "headline": "Spurs start Game 3 with 15-0 run against OKC",
+          "headline": "Spurs start Game 3 with explosive 15-0 run in NBA playoffs",
           "body": "SPURS ALREADY OFF TO A 15-0 RUN TO START GAME 3 \ud83e\udd2f\n\nNOT PLAYING AROUND",
-          "engagement": "326K views",
-          "views": 325518
+          "engagement": "647K views",
+          "views": 647321
         },
         {
           "handle": "statmuse",
@@ -295,14 +303,6 @@
           "body": "Scottie Barnes this season:\n\u2014 114 steals (9th)\n\u2014 116 blocks (6th)\n\u2014 First 100s/100b season of the 2020s\n\u2014 Most stocks in the East \n\nDidn't make 1st Team All-Defense.",
           "engagement": "473K views",
           "views": 473170
-        },
-        {
-          "handle": "premierleague",
-          "url": "https://x.com/premierleague/status/2057794004792586622",
-          "headline": "Arsenal engraved into history as champions",
-          "body": "Engraved into history \ud83d\udd8b @Arsenal",
-          "engagement": "2.0M views",
-          "views": 2037904
         }
       ]
     },
@@ -310,19 +310,19 @@
       "stories": [
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2057974937923490301",
-          "headline": "Elon Musk shares a video update",
-          "body": "https://t.co/w2mlKm3nTf",
-          "engagement": "8.4M views",
-          "views": 8373895
-        },
-        {
-          "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2057806372935254370",
           "headline": "Elon Musk shares a humorous video reply",
           "body": "lol",
           "engagement": "23.1M views",
           "views": 23070819
+        },
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2057974937923490301",
+          "headline": "Elon Musk shares a video update",
+          "body": "https://t.co/w2mlKm3nTf",
+          "engagement": "8.4M views",
+          "views": 8373895
         },
         {
           "handle": "elonmusk",
@@ -335,10 +335,43 @@
       ]
     },
     "pods": {
-      "stories": []
+      "stories": [
+        {
+          "handle": "KillaKreww",
+          "url": "https://x.com/KillaKreww/status/2057904323837731324",
+          "headline": "Clip from Joe Rogan podcast where Skylar Grey gets emotional about a Diddy song.",
+          "body": "Joe Rogan caught Skylar Grey OFF-GUARD after getting emotional and tearing up at the start of his podcast while revealing that his wife wants her hit song with Diddy \u201cI\u2019m Coming Home\u201d played at her funeral \ud83d\ude33\ud83d\udc40\n\u201cIt\u2019s such a crazy thought\u2026 then I listened to it in the gym and was like \u2018God damn\u2019\u201d \ud83d\ude2d",
+          "engagement": "1.86M views",
+          "views": 1860664
+        },
+        {
+          "handle": "newstart_2024",
+          "url": "https://x.com/newstart_2024/status/2057909157961871655",
+          "headline": "Matthew McConaughey discussing the positive side of ego on Theo Von's podcast.",
+          "body": "Matthew McConaughey straight up defended ego on Theo Von's podcast and honestly kinda blew my mind.\nHe said ego gets trashed too much. There's the toxic \"look at me\" version, sure. But the real one? That inner \"I\" where you know you're prepared, capable, and willing to go for it. The confidence that comes from judging yourself harder than anyone else. Without that, you got no real identity or direction.\nThis hit me. I spent years thinking killing the ego was the move. Now I'm rethinking it. That healthy drive feels necessary.\nWe've gone from arrogant show-offs to everyone acting fake-humble. A balanced ego might be what actually keeps you grounded and moving forward.\nDo you see ego as mostly toxic, or can the healthy version actually push you to be better?",
+          "engagement": "522K views",
+          "views": 522967
+        },
+        {
+          "handle": "joeroganhq",
+          "url": "https://x.com/joeroganhq/status/2057934525859233879",
+          "headline": "Johnny Knoxville laughing on JRE about why Fear Factor was cancelled.",
+          "body": "Johnny Knoxville bursts out laughing after Joe Rogan tells him the real reason why Fear Factor got cancelled.",
+          "engagement": "139K views",
+          "views": 139087
+        }
+      ]
     },
     "pg6": {
       "stories": [
+        {
+          "handle": "Variety",
+          "url": "https://x.com/Variety/status/2057904988622643613",
+          "headline": "Donatella Versace and Anya Taylor-Joy pose with Miley Cyrus at her Hollywood Walk of Fame ceremony",
+          "body": "Donatella Versace and Anya Taylor-Joy pose with #MileyCyrus at her Hollywood Walk of Fame ceremony",
+          "engagement": "4.38M views",
+          "views": 4380538
+        },
         {
           "handle": "PopBase",
           "url": "https://x.com/PopBase/status/2057905785284309205",
@@ -354,14 +387,6 @@
           "body": "Michael Jackson's \"Billie Jean\" remains at #1 on the global Spotify chart with over 5.7 million streams. \n\nIt has now spent 7 days at #1.",
           "engagement": "1.03M views",
           "views": 1032632
-        },
-        {
-          "handle": "DiscussingFilm",
-          "url": "https://x.com/DiscussingFilm/status/2057904853360255292",
-          "headline": "Miley Cyrus gets Hollywood Walk of Fame star",
-          "body": "Miley Cyrus has received a star on the Hollywood Walk of Fame.",
-          "engagement": "448K views",
-          "views": 447694
         }
       ]
     },
@@ -376,12 +401,12 @@
           "views": 41469
         },
         {
-          "handle": "raorapanthera",
-          "url": "https://x.com/raorapanthera/status/2057678911400779786",
-          "headline": "Update on finding legendary pizza in the Far East",
-          "body": "UPDATE:\n\nWE FOUND MY SS TIER LEGENDARY PIZZA \u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
-          "engagement": "244K views",
-          "views": 244260
+          "handle": "tasty",
+          "url": "https://x.com/tasty/status/2058061208754782316",
+          "headline": "Flavorsome rice recipes video.",
+          "body": "Flavorsome Rice Recipes",
+          "engagement": "2.1K views",
+          "views": 2096
         },
         {
           "handle": "chefsevenn",
@@ -396,6 +421,14 @@
     "science": {
       "stories": [
         {
+          "handle": "deepseek_ai",
+          "url": "https://x.com/deepseek_ai/status/2057854261699195173",
+          "headline": "DeepSeek makes V4-Pro discount permanent for users.",
+          "body": "We are making our discount permanent! \ud83c\udf89\n\nEnjoy building with DeepSeek-V4-Pro and bring your innovative ideas to life! \ud83d\ude80",
+          "engagement": "2.8M views",
+          "views": 2837011
+        },
+        {
           "handle": "nypost",
           "url": "https://x.com/nypost/status/2057835120262893846",
           "headline": "Archaeologists uncover Homer's Iliad on Egyptian mummy in rare find.",
@@ -404,20 +437,12 @@
           "views": 1043004
         },
         {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2057726307346039282",
-          "headline": "Elon Musk highlights Grok Imagine Agent Mode for improved AI-generated character consistency and storytelling.",
-          "body": "Grok progress",
-          "engagement": "771K views",
-          "views": 771636
-        },
-        {
-          "handle": "GoogleDeepMind",
-          "url": "https://x.com/GoogleDeepMind/status/2057985225100235022",
-          "headline": "Google DeepMind expands AI partnership with Singapore for scientific discovery.",
-          "body": "We\u2019re expanding our partnership with Singapore to help safely deploy AI at scale. \ud83c\uddf8\ud83c\uddec\n\nTogether with country experts, our new programs will focus on accelerating scientific discovery, advancing pandemic preparedness, and improving healthcare.\n\nFind out more \u2192",
-          "engagement": "10K views",
-          "views": 10864
+          "handle": "NASA",
+          "url": "https://x.com/NASA/status/2057930920577913249",
+          "headline": "Roscosmos cosmonauts to install solar radiation experiment on space station.",
+          "body": "Let's take a (space)walk!\n\nOn May 27, two Roscosmos cosmonauts will exit the @Space_Station to install a solar radiation experiment on the Zvezda service module. Learn how to watch live: https://www.nasa.gov/news-release/nasa-sets-coverage-for-roscosmos-spacewalk-outside-space-station-2/?utm_source=TWITTER&utm_medium=NASA&utm_campaign=NASASocial&linkId=947570854",
+          "engagement": "303K views",
+          "views": 303141
         }
       ]
     },
@@ -426,26 +451,26 @@
         {
           "handle": "ABC",
           "url": "https://x.com/ABC/status/2058007477359198675",
-          "headline": "Tens of thousands evacuated in Southern California over chemical tank crisis",
+          "headline": "Tens of thousands in Southern California told to evacuate over chemical tank crisis at aerospace facility.",
           "body": "Tens of thousands of people in Southern California have been told to leave their homes, with officials issuing a dire warning that a chemical tank at an aerospace facility is in \"crisis\" and will either leak or explode. https://abcnews.com/US/evacuation-orders-issued-california-city-chemical-tank-fails/story?id=133234846&cid=social_twitter_abcn",
-          "engagement": "29.7K views",
-          "views": 29710
+          "engagement": "153K views",
+          "views": 153597
         },
         {
-          "handle": "KTLA",
-          "url": "https://x.com/KTLA/status/2057852201268342840",
-          "headline": "Thousands under evacuation in Garden Grove due to toxic chemical tank leak",
-          "body": "#BreakingNews: Thousands of Orange County residents are once again under evacuation orders Friday morning after a massive storage tank leak at an aerospace facility in Garden Grove continued to raise concerns overnight. https://ktla.com/news/local-news/thousands-evacuated-again-after-toxic-tank-leak-in-garden-grove/",
-          "engagement": "175K views",
-          "views": 175195
+          "handle": "cnnbrk",
+          "url": "https://x.com/cnnbrk/status/2057989049093181541",
+          "headline": "Approximately 40,000 residents under evacuation orders in Southern California over toxic chemical tank concerns.",
+          "body": "Approximately 40,000 residents are under evacuation orders in Southern California as authorities are concerned that a tank filled with a toxic chemical will leak or explode. https://www.cnn.com/2026/05/22/us/chemical-spill-orange-county-california?Date=20260523&Profile=cnnbrk&utm_content=1779497792&utm_medium=social&utm_source=twitter",
+          "engagement": "143K views",
+          "views": 143930
         },
         {
-          "handle": "ABC7",
-          "url": "https://x.com/ABC7/status/2058006634509873371",
-          "headline": "OCFA urges public not to call with suggestions on chemical tank leak",
-          "body": "OCFA asks public to refrain from calling with suggestions on chemical tank leak https://abc7.com/live-updates/garden-grove-chemical-tank-emergency-leaking-toxic-chemicals-orange-county-will-spill-explode-officials-say/19152918/entry/19153516/",
-          "engagement": "12.7K views",
-          "views": 12740
+          "handle": "unhealthytruth",
+          "url": "https://x.com/unhealthytruth/status/2058025621138116758",
+          "headline": "Family under mandatory evacuation with 40k others in Orange County due to chemical tank that may explode or leak.",
+          "body": "Please pray for my immediate family who are under mandatory evacuation w 40k others in S.  California, where I used to live in Orange County and authorities are saying there can be math fatalities. The tank with MMA they say will explode or leak either way. Please pray.\ud83d\ude4f\ud83d\ude4f\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+          "engagement": "79K views",
+          "views": 79184
         }
       ]
     },
@@ -454,26 +479,26 @@
         {
           "handle": "DeptofWar",
           "url": "https://x.com/DeptofWar/status/2057799788003737844",
-          "headline": "U.S. Department of War shares link to second UFO document release",
+          "headline": "Pentagon shares new UAP footage and documents on unidentified aerial phenomena.",
           "body": "https://x.com/i/article/2057792138562207744",
-          "engagement": "877K views",
-          "views": 877873
+          "engagement": "2.1M views",
+          "views": 2120738
         },
         {
-          "handle": "TheSCIF",
-          "url": "https://x.com/TheSCIF/status/2058007778812100657",
-          "headline": "Trump officials trying to ban electronic voting machines amid conspiracy claims",
-          "body": "Trump officials are trying to ban half of electronic voting machines. Let's go!! Notice how Reuters uses the term \"conspiracy theories\" and doesn't say a word about how CISA, the CIA, and the FBI knew our electronic voting machines were compromised way before the 2020 election but cleared them for use anyway.",
-          "engagement": "7005 views",
-          "views": 7005
+          "handle": "ShadowofEzra",
+          "url": "https://x.com/ShadowofEzra/status/2057815333629473017",
+          "headline": "Newly released UFO files show US government tracking and destroying UAPs.",
+          "body": "Newly released UFO files confirm the U.S. government is actively tracking, engaging, and destroying unidentified aerial objects.\n\nWhy are these encounters escalating, and what exactly is being hidden from the public?",
+          "engagement": "430K views",
+          "views": 429776
         },
         {
-          "handle": "iluminatibot",
-          "url": "https://x.com/iluminatibot/status/2058005052850393597",
-          "headline": "My favorite part of being a conspiracy theorist",
-          "body": "My favorite part of being a \"conspiracy theorist\" is not having myocarditis.",
-          "engagement": "7691 views",
-          "views": 7691
+          "handle": "UAPJames",
+          "url": "https://x.com/UAPJames/status/2057956202483446050",
+          "headline": "Rep. Burchett calls new UFO files release a 'Deep State classic' disinformation tactic.",
+          "body": "Rep. Burchett calls today\u2019s UFO files release \u201cthe Deep State classic\u201d\n\n\u201cThey won\u2019t show y\u2019all some of the stuff that we\u2019ve seen. They\u2019re gonna show stuff that is easily identifiable.\u201d",
+          "engagement": "125K views",
+          "views": 125216
         }
       ]
     },
@@ -482,13 +507,13 @@
         {
           "handle": "pipervkoo",
           "url": "https://x.com/pipervkoo/status/2057789761893306720",
-          "headline": "New meme unlocked from short video clip",
+          "headline": "Video meme captioned 'new meme unlocked'",
           "body": "new meme unlocked",
-          "engagement": "370K views",
-          "views": 369830
+          "engagement": "441K views",
+          "views": 441482
         }
       ]
     }
   },
-  "last_updated": "2026-05-23T02:58:53.999139"
+  "last_updated": "2026-05-23T06:34:07.216029"
 }
