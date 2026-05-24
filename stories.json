@@ -3,7 +3,7 @@
     "world": {
       "stories": [
         {
-          "headline": "Iran agrees to give up enriched uranium in proposed US deal",
+          "headline": "Iran agrees to give up enriched uranium in proposed deal with Trump",
           "url": "https://x.com/BRICSinfo/status/2058355526782669141",
           "handle": "BRICSinfo",
           "perspectives": [
@@ -12,16 +12,8 @@
               "handle": "BRICSinfo",
               "url": "https://x.com/BRICSinfo/status/2058355526782669141",
               "body": "JUST IN: \ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Iran agreed to give up enriched uranium in proposed deal announced by President Trump, NYT reports.",
-              "engagement": "1.6M views",
-              "views": 1629033
-            },
-            {
-              "label": "Conservative",
-              "handle": "SecRubio",
-              "url": "https://x.com/SecRubio/status/2058184779808362843",
-              "body": "In New Delhi, I met with Indian Prime Minister @narendramodi to underscore the importance of the U.S.-India relationship. We discussed the situation in the Middle East...",
-              "engagement": "772K views",
-              "views": 772928
+              "engagement": "1.9M views",
+              "views": 1937345
             }
           ]
         },
@@ -57,17 +49,17 @@
           ]
         },
         {
-          "headline": "US-Iran draft agreement includes Iran committing to never seek nuclear weapons",
-          "url": "https://x.com/BRICSinfo/status/2058397225043054958",
+          "headline": "Russia launches hypersonic missile strike at Ukraine near Kyiv",
+          "url": "https://x.com/BRICSinfo/status/2058333293888631011",
           "handle": "BRICSinfo",
           "perspectives": [
             {
               "label": "Independent",
               "handle": "BRICSinfo",
-              "url": "https://x.com/BRICSinfo/status/2058397225043054958",
-              "body": "JUST IN: \ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 US-Iran draft agreement includes Iran committing to never seek nuclear weapons, Axios reports.",
-              "engagement": "84K views",
-              "views": 84170
+              "url": "https://x.com/BRICSinfo/status/2058333293888631011",
+              "body": "JUST IN: \ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Russia launches hypersonic missile strike at Ukraine near Kyiv.",
+              "engagement": "359K views",
+              "views": 359489
             }
           ]
         }
@@ -107,6 +99,37 @@
           ]
         },
         {
+          "headline": "White House placed on lockdown after shots fired nearby, suspect killed",
+          "url": "https://x.com/FoxNews/status/2058314799927136362",
+          "handle": "FoxNews",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "FoxNews",
+              "url": "https://x.com/FoxNews/status/2058314799927136362",
+              "body": "BREAKING: White House locked down after as many as 30 shots fired in vicinity.",
+              "engagement": "12.5M views",
+              "views": 12463434
+            },
+            {
+              "label": "Independent",
+              "handle": "sentdefender",
+              "url": "https://x.com/sentdefender/status/2058353939246895314",
+              "body": "The suspect in tonight\u2019s shooting near the White House has been identified as 21-year-old Nasire Best...",
+              "engagement": "252K views",
+              "views": 251986
+            },
+            {
+              "label": "Democrat",
+              "handle": "MeidasTouch",
+              "url": "https://x.com/MeidasTouch/status/2058407532981563518",
+              "body": "Trump uses today\u2019s shooting incident outside the White House to once again demand his ballroom",
+              "engagement": "91K views",
+              "views": 90529
+            }
+          ]
+        },
+        {
           "headline": "Shots fired near White House grounds, prompting lockdown; Trump confirmed safe",
           "url": "https://x.com/FBIDirectorKash/status/2058318050240184514",
           "handle": "FBIDirectorKash",
@@ -136,34 +159,19 @@
               "views": 10851453
             }
           ]
-        },
-        {
-          "headline": "White House locked down after shots fired nearby, suspect later dies",
-          "url": "https://x.com/FoxNews/status/2058314799927136362",
-          "handle": "FoxNews",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "FoxNews",
-              "url": "https://x.com/FoxNews/status/2058314799927136362",
-              "body": "BREAKING: White House locked down after as many as 30 shots fired in vicinity.",
-              "engagement": "8.7M views",
-              "views": 8663079
-            },
-            {
-              "label": "Independent",
-              "handle": "spectatorindex",
-              "url": "https://x.com/spectatorindex/status/2058338748698591324",
-              "body": "BREAKING: Suspect who was shot by Secret Service in vicinity of White House has died in hospital",
-              "engagement": "171K views",
-              "views": 171134
-            }
-          ]
         }
       ]
     },
     "business": {
       "stories": [
+        {
+          "handle": "InTheAssembly",
+          "url": "https://x.com/InTheAssembly/status/2058221350968242598",
+          "headline": "Nvidia CEO directs $45B into 8 AI companies including OpenAI and others",
+          "body": "Jensen Huang, CEO of Nvidia, is telling you where to invest in 2026.\n\nHe has personally directed Nvidia's capital into 8 specific companies for a combined total of over $45 BILLION.\n\nThis is where the most important company in the AI economy is putting its money.\n\nHere\u2019s the full list:\n\nOpenAI: $30 billion\n\nThe largest commitment of the 8. Nvidia is funding the buildout of OpenAI's compute infrastructure from the inside. OpenAI is also Nvidia's single largest customer.\n\nGLW Corning: $3.2 billion\nOptical glass and fiber to physically connect AI clusters. You cannot move data between millions of GPUs without it.\n\nIREN: $2.1 billion\nAI cloud provider with one of the deepest power positions in North America.\n\nMRVL Marvell: $2 billion\nCustom networking chips that move data between GPUs at massive scale.\n\nLITE Lumentum: $2 billion\nLasers and optical components for the fiber backbone of every AI data center.\n\nCOHR Coherent: $2 billion\nFiber optic transceivers that connect GPU clusters inside data centers.\n\nCRWV CoreWeave: $2 billion\nGPU-as-a-service provider. Nvidia's largest cloud customer outside the hyperscalers.\n\nNBIS Nebius: $2 billion\nAI cloud infrastructure company. Quietly building hyperscale GPU capacity for the AI labs.\n\nWhatever Nvidia is buying is where the money is going next.\n\nAt The Assembly, we\u2019re a team of 8 with one goal: help you find the right stocks early.\n\nTurn notifications on so you don\u2019t miss our alerts. This is VERY important.\n\nIf you\u2019re not following us yet, you will regret it later.",
+          "engagement": "5.6M views",
+          "views": 5591296
+        },
         {
           "handle": "hdubugras",
           "url": "https://x.com/hdubugras/status/2058200566346780800",
@@ -173,20 +181,12 @@
           "views": 3029617
         },
         {
-          "handle": "MAXXsiezq",
-          "url": "https://x.com/MAXXsiezq/status/2058482555637178559",
-          "headline": "Balkan Blockchain Summit highlights digital finance innovation with Binance participation.",
-          "body": "Balkan Blockchain Summit in Prishtina  a space where innovation, technology and the future of digital finance come together.\nBig respect to everyone building, learning and pushing the space forward. Excited to see Binance being part of it. \ud83c\uddfd\ud83c\uddf0\n\n#binancebalkansxbbs",
-          "engagement": "28.4K views",
-          "views": 28369
-        },
-        {
-          "handle": "alljon12",
-          "url": "https://x.com/alljon12/status/2058326229389021538",
-          "headline": "Japanese investor shares top 30 stock holdings totaling over 30B yen.",
-          "body": "\u79c1\u306e\u30dd\u30fc\u30c8\u30d5\u30a9\u30ea\u30aa\u4e0a\u4f4d30\u9298\u67c4\n\ud83c\uddfa\ud83c\uddf8NVIDIA 2.5\u5104\u5186\uff085.6%\uff09\n\ud83c\uddfa\ud83c\uddf8Apple 1.9\u5104\u5186\uff084.3%\uff09\n\ud83c\uddfa\ud83c\uddf8Google 1.9\u5104\u5186\uff084.2%\uff09\n\ud83c\uddfa\ud83c\uddf8Microsoft 1.3\u5104\u5186\uff082.8%\uff09\n\ud83c\uddfa\ud83c\uddf8Amazon 1.1\u5104\u5186\uff082.5%\uff09\n\ud83c\uddfa\ud83c\uddf8Broadcom 0.9\u5104\u5186\uff081.9%\uff09\n\ud83c\uddf9\ud83c\uddfcTSMC 0.8\u5104\u5186\uff081.7%\uff09\n\ud83c\uddfa\ud83c\uddf8Meta 0.6\u5104\u5186\uff081.3%\uff09\n\ud83c\uddfa\ud83c\uddf8Tesla 0.5\u5104\u5186\uff081.2%\uff09\n\ud83c\uddf0\ud83c\uddf7Samsung 0.4\u5104\u5186\uff080.9%\uff09\n\ud83c\uddfa\ud83c\uddf8Micron 0.4\u5104\u5186\uff080.9%\uff09\n\ud83c\uddfa\ud83c\uddf8JPMorgan 0.4\u5104\u5186\uff080.8%\uff09\n\ud83c\uddfa\ud83c\uddf8Eli Lilly 0.4\u5104\u5186\uff080.8%\uff09\n\ud83c\uddfa\ud83c\uddf8AMD 0.3\u5104\u5186\uff080.7%\uff09\n\ud83c\uddf0\ud83c\uddf7SK Hynix 0.3\u5104\u5186\uff080.7%\uff09\n\ud83c\uddfa\ud83c\uddf8Berkshire 0.3\u5104\u5186\uff080.7%\uff09\n\ud83c\uddfa\ud83c\uddf8Exxon Mobil 0.3\u5104\u5186\uff080.6%\uff09\n\ud83c\uddf3\ud83c\uddf1ASML 0.3\u5104\u5186\uff080.6%\uff09\n\ud83c\uddfa\ud83c\uddf8Walmart 0.3\u5104\u5186\uff080.6%\uff09\n\ud83c\uddfa\ud83c\uddf8J&J 0.2\u5104\u5186\uff080.5%\uff09\n\ud83c\uddfa\ud83c\uddf8Visa 0.2\u5104\u5186\uff080.5 %\uff09\n\ud83c\uddfa\ud83c\uddf8Intel 0.2\u5104\u5186\uff080.5%\uff09\n\ud83c\uddfa\ud83c\uddf8Costco 0.2\u5104\u5186\uff080.5%\uff09\n\ud83c\uddfa\ud83c\uddf8Cisco 0.2\u5104\u5186\uff080.4%\uff09\n\ud83c\uddfa\ud83c\uddf8Caterpillar 0.2\u5104\u5186\uff080.4%\uff09\n\ud83c\uddfa\ud83c\uddf8Mastercard 0.2\u5104\u5186\uff080.4%\uff09\n\ud83c\uddfa\ud83c\uddf8Lam Research 0.2\u5104\u5186\uff080.4%\uff09\n\ud83c\udde8\ud83c\uddf3Tencent 0.2\u5104\u5186\uff080.4%\uff09\n\ud83c\uddfa\ud83c\uddf8Netflix 0.2\u5104\u5186\uff080.4%\uff09\n\u4e0a\u8a18\u4ee5\u5916\u306b2450\u9298\u67c4\n\n\u2193\u6b21\u306b\u56fd\u5225\u3067\u898b\u308b\u3068\u3001",
-          "engagement": "499K views",
-          "views": 498836
+          "handle": "robin_j_brooks",
+          "url": "https://x.com/robin_j_brooks/status/2058216648260420001",
+          "headline": "Japanese Yen now world's weakest currency in real effective terms",
+          "body": "The Japanese Yen has just fallen below Turkish Lira in real effective terms and is now the world's weakest currency. If anyone out there is still peddling the myth that debt doesn't matter because you can always cap interest rates, show them this chart...\nhttps://robinjbrooks.substack.com/p/fiscal-distress-in-japan",
+          "engagement": "1.8M views",
+          "views": 1832022
         }
       ]
     },
@@ -221,6 +221,14 @@
     "msm": {
       "stories": [
         {
+          "handle": "BBCNews",
+          "url": "https://x.com/BBCNews/status/2058496505707639249",
+          "headline": "Judge spares teenage rapists jail time, sparking outrage from victim and attorney general review.",
+          "body": "A girl who was raped by two teenage boys has told the BBC that a judge's decision to spare them jail sentences was like a \"rock straight in my face\".\n\nThe attorney general is to review the sentence given by Judge Nicholas Rowland, who had said on Thursday he wanted to avoid \"criminalising\" the \"very young\" boys.\n\nRead more:",
+          "engagement": "95K views",
+          "views": 95980
+        },
+        {
           "handle": "Reuters",
           "url": "https://x.com/Reuters/status/2058444165797515509",
           "headline": "Powerful bomb explosion in Pakistan's Quetta wounds more than 30, AP reports",
@@ -235,47 +243,47 @@
           "body": "Dad never talked about the war, that's why I must https://www.bbc.com/news/articles/cm2px3dx2djo?xtor=AL-71-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_medium=social&at_campaign_type=owned&at_link_id=82DC65B0-5736-11F1-B55F-F73D05A326B3&at_bbc_team=editorial&at_format=link&at_link_origin=BBCWorld&at_link_type=web_link",
           "engagement": "41K views",
           "views": 41567
-        },
-        {
-          "handle": "AP",
-          "url": "https://x.com/AP/status/2058320621482762496",
-          "headline": "Law enforcement responds to reports of shots fired near the White House.",
-          "body": "BREAKING: Law enforcement are responding to reports of shots fired near the White House. https://apnews.com/article/white-house-gunshots-lockdown-secret-service-trump-204c429ab3888b3d0921cf724e0c0474?utm_campaign=trueAnthem%3A+New+Content+%28Feed%29&utm_medium=trueAnthem&utm_source=twitter",
-          "engagement": "78K views",
-          "views": 78410
         }
       ]
     },
     "sports": {
       "stories": [
         {
-          "handle": "premierleague",
-          "url": "https://x.com/premierleague/status/2058155988138733952",
-          "headline": "Premier League names Nico O'Reilly Young Player of the Season",
-          "body": "Introducing your Young Player of the Season...\n\n@mancity's Nico O'Reilly \ud83c\udf89",
-          "engagement": "6.55M views",
-          "views": 6551396
+          "handle": "SkySportsPL",
+          "url": "https://x.com/SkySportsPL/status/2058534843080720611",
+          "headline": "Premier League final day countdown",
+          "body": "The final day \u23f3",
+          "engagement": "53K views",
+          "views": 52864
         },
         {
-          "handle": "NBA",
-          "url": "https://x.com/NBA/status/2058382163175743778",
-          "headline": "Jalen Brunson praises Knicks fans support in Cleveland",
-          "body": "\"Knicks fans, they travel man. They're gonna be heard in whatever building they're in.\"\n\nJalen Brunson (30 PTS, 6 AST) sounds off on the support the team felt in Cleveland tonight \ud83d\ude4c\n\nKnicks are one win away from their first NBA Finals appearance since 1999!",
-          "engagement": "167K views",
-          "views": 167265
+          "handle": "bt3",
+          "url": "https://x.com/bt3/status/2058530049851089131",
+          "headline": "Cristiano Ronaldo post highlighting shared passion across backgrounds",
+          "body": "\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8 \u0627\u0644\u0623\u0633\u0637\u0648\u0631\u0629 \u0643\u0631\u0633\u062a\u064a\u0627\u0646\u0648 \u0631\u0648\u0646\u0627\u0644\u062f\u0648:\n\n\u062e\u0644\u0641\u064a\u0627\u062a \u0645\u062e\u062a\u0644\u0641\u0629 \u0644\u0643\u0646 \u0634\u063a\u0641 \u0648\u0627\u062d\u062f \u0645\u0634\u062a\u0631\u0643!",
+          "engagement": "35K views",
+          "views": 35372
         },
         {
-          "handle": "NBA",
-          "url": "https://x.com/NBA/status/2058379220162682941",
-          "headline": "Knicks win Game 3 and take 3-0 ECF lead, 10th team with 10 straight postseason wins",
-          "body": "10 STRAIGHT FOR NYK \ud83d\udea8\n\nThe Knicks win Game 3 on the road, take a 3-0 ECF lead and become the 10th team in NBA history to win 10 consecutive games in a single postseason!\n\nNBA Conference Finals presented by @Google",
-          "engagement": "147K views",
-          "views": 146710
+          "handle": "MarcoAlcaraz_",
+          "url": "https://x.com/MarcoAlcaraz_/status/2058512919130767608",
+          "headline": "Man Utd keen on 21yo Mateus Fernandes with price depending on West Ham fate",
+          "body": "\ud83c\uddf5\ud83c\uddf9 Meteus Fernandes\u2019 price hinges on West Ham\u2019s fate: around \u20ac55m if they\u2019re relegated, closer to \u20ac80m if they stay in the PL. Man Utd are very keen on the 21yo, with initial talks already held with his camp. Player open to joining #MUFC and personal terms won\u2019t be an issue.",
+          "engagement": "73K views",
+          "views": 73327
         }
       ]
     },
     "elon": {
       "stories": [
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2058442224644354130",
+          "headline": "Elon Musk replies 'Restore Britain' to Rupert Lowe MP post",
+          "body": "Restore Britain",
+          "engagement": "10.5M views",
+          "views": 10501584
+        },
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2058252485823750516",
@@ -291,14 +299,6 @@
           "body": "https://t.co/I5nhLtiD4z",
           "engagement": "914K views",
           "views": 914981
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2058442224644354130",
-          "headline": "Elon Musk replies 'Restore Britain' to post about political movement",
-          "body": "Restore Britain",
-          "engagement": "507K views",
-          "views": 507809
         }
       ]
     },
@@ -307,10 +307,18 @@
         {
           "handle": "joeroganhq",
           "url": "https://x.com/joeroganhq/status/2058186185105674573",
-          "headline": "Joe Rogan gets emotional with Skylar Grey over funeral song request from wife",
+          "headline": "Joe Rogan gets emotional discussing funeral song request from his wife.",
           "body": "Joe Rogan gets emotional with Skylar Grey because his wife told him that if he dies, she wants the song \"I\u2019m Coming Home\" played at his funeral.",
-          "engagement": "375K views",
-          "views": 375315
+          "engagement": "392K views",
+          "views": 392400
+        },
+        {
+          "handle": "joeroganhq",
+          "url": "https://x.com/joeroganhq/status/2058227707771859216",
+          "headline": "Adam Carolla criticizes Bernie Sanders while praising Elon Musk.",
+          "body": "Adam Carolla: \"Elon Musk creates millions of jobs and billions in tax revenue\u2026 He\u2019s doing all the stuff Bernie Sanders wants to take\u2026 Bernie Sanders is a useless sack of complaining sh*t who will never get anything done.\"",
+          "engagement": "112K views",
+          "views": 111962
         }
       ]
     },
@@ -345,12 +353,20 @@
     "recipe": {
       "stories": [
         {
+          "handle": "BR31_Icecream",
+          "url": "https://x.com/BR31_Icecream/status/2058390295876886725",
+          "headline": "Ice cream brand promotes at-home 31 ice cream challenge with giveaway.",
+          "body": "\uff0f\n#\u304a\u3046\u3061\u30b5\u30fc\u30c6\u30a3\u30ef\u30f3\u3057\u3088 \ud83c\udfe0\ud83c\udf68\n\uff3c\n\n\u6bce\u65e5\u53c2\u52a0\ud83c\udd972\u65e5\u76ee\u2763\ufe0f\n\u671f\u9593\u4e2d\u5408\u8a08310\u540d\u69d8\u306b\n\u30d0\u30e9\u30a8\u30c6\u30a3\u30dc\u30c3\u30af\u30b9\uff08\u30ec\u30ae\u30e5\u30e9\u30fc\uff096\u30b3\u5165\u308a\u3092\u30d7\u30ec\u30bc\u30f3\u30c8\ud83c\udf81\n\n\ud83c\udf68\u5fdc\u52df\u65b9\u6cd5 \n@BR31_Icecream \u3092\u30d5\u30a9\u30ed\u30fc\u3057\u3066\u672c\u6295\u7a3f\u3092\u30ea\u30dd\u30b9\u30c8\n\u5fdc\u52df\u306f5/24(\u65e5) 23:59\u307e\u3067\u23f0",
+          "engagement": "440K views",
+          "views": 440223
+        },
+        {
           "handle": "mos_burger",
           "url": "https://x.com/mos_burger/status/2058420264246096167",
-          "headline": "Mos Burger promoting their tea milk drink for tea lovers.",
+          "headline": "Moss Burger promotes their tea milk drink for tea lovers.",
           "body": "\u7d05\u8336\u597d\u304d\u3055\u3093\u306b\u5c4a\u3051\ud83d\udce3\n\u30e2\u30b9\u306e\u30c6\u30a3\u30fc\u30df\u30eb\u30af\u305c\u3072\u98f2\u3093\u3067\u307f\u3066\u304f\u3060\u3055\u3044\ud83d\udc81\u200d\u2640\ufe0f",
-          "engagement": "212K views",
-          "views": 212845
+          "engagement": "287K views",
+          "views": 286821
         },
         {
           "handle": "tetsublogorg",
@@ -359,34 +375,26 @@
           "body": "\u3010\u554f\u984c\u3011\n\u3053\u306e\u4e2d\u3067\u91ce\u83dc\u5ba4\u3067\u306f\u306a\u304f\u7d76\u5bfe\u306b\u51b7\u8535\u5ba4\u3067\u4fdd\u5b58\u3059\u308b\u3079\u304d\u3082\u306e\u304c\u3042\u308a\u307e\u3059\u3002\n\n\u3069\u308c\uff1f\n\n1. \u3082\u3084\u3057\n2. \u306a\u3059\n3. \u30c8\u30de\u30c8\n4. \u304d\u3085\u3046\u308a\n\n\u30ea\u30d7\u3067\u7b54\u3048\u3066\uff01\uff01",
           "engagement": "267K views",
           "views": 267863
-        },
-        {
-          "handle": "calbee_PR",
-          "url": "https://x.com/calbee_PR/status/2058352354664329272",
-          "headline": "Campaign giveaway for Kyushu soy sauce flavored potato snacks",
-          "body": "\uff0f\n\u5408\u8a08100\u540d\u69d8\u306b\u305d\u306e\u5834\u3067\u5f53\u305f\u308b\ud83c\udfaf\n\uff3c\n\n\u4e5d\u5dde\u3057\u3087\u3046\u3086\u5473\u8a70\u3081\u5408\u308f\u305b\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\u958b\u50ac\u2728\n\u300c\u5805\u3042\u3052\u30dd\u30c6\u30c8\u300d\u300c\u30dd\u30c6\u30c8\u30c1\u30c3\u30d7\u30b9\u300d\u300c\u3058\u3083\u304c\u308a\u3053\u300d\u306e\u4e5d\u5dde\u3057\u3087\u3046\u3086\u5473\u3092\u30015\u500b\u305a\u306415\u500b\u30bb\u30c3\u30c8\u3067\u30d7\u30ec\u30bc\u30f3\u30c8\ud83c\udf81\n\n\u2460\u672c\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u30d5\u30a9\u30ed\u30fc\n\u2461\u672c\u6295\u7a3f\u30925/24 23:59\u8fc4\u306b\u30ea\u30dd\u30b9\u30c8\n\u27a1\u5f53\u9078\u8005\u306b\u5373DM",
-          "engagement": "112K views",
-          "views": 112424
         }
       ]
     },
     "science": {
       "stories": [
         {
-          "handle": "PeterDiamandis",
-          "url": "https://x.com/PeterDiamandis/status/2058171651280261516",
-          "headline": "Starship as last major human-only engineering project before AI era.",
-          "body": "Starship was the greatest thing humanity ever built without AI assistance. It will be the last. Everything after this will be designed with AI. The era of human-only engineering is over.",
-          "engagement": "142K views",
-          "views": 141820
+          "handle": "XFreeze",
+          "url": "https://x.com/XFreeze/status/2058370643192594681",
+          "headline": "Elon Musk highlights Neuralink as major breakthrough for mind-controlled tech and medical miracles.",
+          "body": "Elon Musk just said Neuralink is a much bigger breakthrough than most people realize\n\nIt\u2019s now enabling people to control computers with their minds, helping paralysis patients regain independence, and potentially allowing blind people to see again\n\nWe\u2019re entering an era where technology is starting to achieve things humanity once considered impossible - and what can be described as \u201cJesus-level miracles\u201d",
+          "engagement": "16273 views",
+          "views": 16273
         },
         {
-          "handle": "StockSavvyShay",
-          "url": "https://x.com/StockSavvyShay/status/2058189984969204162",
-          "headline": "10 investment plays in robotics and autonomy for 2026.",
-          "body": "10 WAYS TO PLAY ROBOTICS IN 2026\n\n1. $TSLA building one of the most vertically integrated humanoid stacks combining Optimus Gen 3 hardware, its in-house AI5 inference chip & same FSD-based AI brain powering its vehicle fleet.\n\n2. $NVDA platform layer for entire robotics industry with Isaac GR00T foundation models, Cosmos world models for synthetic training data & Jetson Thor on-board compute. \n\n3. $PLTR Foundry & Warp Speed run mission control layer for robotic & autonomous fleets by turning sensor data & machine telemetry into a single deployable operating picture.\n\n4. $OUST leading public pure-play in 3D digital lidar where Rev8 native-color sensor line is now shipping to $GOOGL &  Volvo Autonomous while being integrated directly into Nvidia Jetson robotics stack.\n\n5. $AVGO supplies custom networking silicon, Tomahawk + Jericho switching ASICs & high-speed connectivity that move data between every robot, sensor & server in autonomy stack.\n\n6. $AVAV, $KTOS, $AVEX & $ONDS are building the UAV drone fleets that feed into the autonomous defense networks.\n\n7. $QCOM provides Snapdragon Ride autonomous platform & on-device AI inference SoCs that power the perception, decision & motor-control loops inside robots, drones & vehicles.\n\n8. $SYNA Astra multimodal edge AI processors run wireless connectivity & sensing inside smart appliances, factory automation & autonomous robotic systems with Core IoT product sales growing 31% YoY. \n\n9. $ISRG, $PRCT, $SYK & $MDT bring surgical robotics that are reshaping operating rooms.\n\n10. $AMZN deploys hundreds of thousands of warehouse robots to move & pick goods while $SYM & $SERV build the autonomous mobile robots that power fulfillment & last-mile retail logistics.",
-          "engagement": "60K views",
-          "views": 60045
+          "handle": "NextScience",
+          "url": "https://x.com/NextScience/status/2058378607760646539",
+          "headline": "French doctors implant lab-grown human trachea made from patient's stem cells.",
+          "body": "\ud83d\udea8 SCIENTISTS GREW A HUMAN AIRWAY USING STEM CELLS\n\nA medical breakthrough in France is turning science fiction into reality.\nDoctors successfully created a living human trachea using a patient\u2019s own stem cells and implanted it into the body. The lab-grown airway was built on a donor trachea scaffold, then slowly transformed into living tissue the body could recognize as its own.\n\nAfter surgery, blood vessels grew into the implant and the patient was able to breathe through the regenerated airway.\nThis technology could one day save people suffering from severe airway damage caused by cancer, trauma, or long-term ventilation.\n\nSource :\u2028Institut Pasteur & H\u00f4pital Foch. Medical research on tissue-engineered tracheal reconstruction and regenerative airway transplantation.",
+          "engagement": "3670 views",
+          "views": 3670
         },
         {
           "handle": "CharlesMullins2",
@@ -402,6 +410,14 @@
       "stories": [
         {
           "handle": "OCFireAuthority",
+          "url": "https://x.com/OCFireAuthority/status/2058281399745208773",
+          "headline": "OCFA provides update on Garden Grove chemical tank evacuation zones and risks.",
+          "body": "There is understandable concern about an explosion as one of the possible outcomes. OCFA Division Chief Nick Freeman and Dr. CK, the Orange County Health Officer, provide an operational and health care perspective on the evacuation zones that account for that possibility.",
+          "engagement": "259K views",
+          "views": 258729
+        },
+        {
+          "handle": "OCFireAuthority",
           "url": "https://x.com/OCFireAuthority/status/2058352023993729131",
           "headline": "OCFA provides latest critical incident update on Orange County chemical emergency",
           "body": "***CRITICAL INCIDENT UPDATE**",
@@ -410,32 +426,16 @@
         },
         {
           "handle": "OCFireAuthority",
-          "url": "https://x.com/OCFireAuthority/status/2058281399745208773",
-          "headline": "OCFA discusses explosion risks and evacuation zones for Garden Grove chemical tank emergency",
-          "body": "There is understandable concern about an explosion as one of the possible outcomes. OCFA Division Chief Nick Freeman and Dr. CK, the Orange County Health Officer, provide an operational and health care perspective on the evacuation zones that account for that possibility.",
-          "engagement": "254K views",
-          "views": 254166
-        },
-        {
-          "handle": "OCFireAuthority",
-          "url": "https://x.com/OCFireAuthority/status/2058402280517562812",
-          "headline": "OCFA shares critical incident update on Garden Grove tank crisis",
-          "body": "***CRITICAL INCIDENT UPDATE***",
-          "engagement": "82K views",
-          "views": 81576
+          "url": "https://x.com/OCFireAuthority/status/2058323129626452198",
+          "headline": "OCFA shares resources for shelters during Garden Grove chemical incident.",
+          "body": "For current, up-to-date information on shelters and care centers, please visit the Orange County Sheriff\u2019s \u201cResources During a Disaster\u201d page.\n\nhttps://www.ocsheriff.gov/resources-during-disaster",
+          "engagement": "144K views",
+          "views": 144405
         }
       ]
     },
     "conspiracy": {
       "stories": [
-        {
-          "handle": "MrJohnJnr",
-          "url": "https://x.com/MrJohnJnr/status/2058147235745935476",
-          "headline": "Account claims Deep State cabal forced through FISA extension via arm-twisting in House.",
-          "body": "HOUSE FLOOR MELTDOWN: After HOURS of brutal arm-twisting by Speaker Johnson, the House just FORCED THROUGH the FISA surveillance extension, Senate-passed DHS funding, and Farm Bill \u2014 FLIPPING up to SEVEN Republican NAYs in the process!\n\nThe Deep State cabal scores their spying powers again while We The People get ZERO election security like the SAVE ACT? The Swamp is fighting dirty as the walls close in FAST on their entire treasonous empire!",
-          "engagement": "115K views",
-          "views": 115020
-        },
         {
           "handle": "AskaPol_UAPs",
           "url": "https://x.com/AskaPol_UAPs/status/2058286270816854362",
@@ -457,6 +457,14 @@
     "comedy": {
       "stories": [
         {
+          "handle": "Taehyungimpact",
+          "url": "https://x.com/Taehyungimpact/status/2058521949358460977",
+          "headline": "New Taehyung meme unlocked",
+          "body": "NEW TAEHYUNG MEME UNLOCKED (gif version)",
+          "engagement": "64K views",
+          "views": 63971
+        },
+        {
           "handle": "yoxics",
           "url": "https://x.com/yoxics/status/2058249273133904380",
           "headline": "Comedy clip of Marlon reacting to kids moaning names on a train",
@@ -465,23 +473,15 @@
           "views": 624317
         },
         {
-          "handle": "rottedmedia",
-          "url": "https://x.com/rottedmedia/status/2058257005035368887",
-          "headline": "Little kid bouncing into fireplace reaction meme",
-          "body": "little kid bouncing into fireplace reaction video meme",
-          "engagement": "281K views",
-          "views": 280918
-        },
-        {
-          "handle": "lizzo",
-          "url": "https://x.com/lizzo/status/2058264262460510703",
-          "headline": "Lizzo comments on interacting with stan accounts on X.",
-          "body": "So\u2026 I haven\u2019t been on twitter in awhile so I\u2019m used to interacting w tweets that I think are funny. Didn\u2019t realize this whole bitch became stanland \ud83d\ude2d",
-          "engagement": "248K views",
-          "views": 248237
+          "handle": "peruvian_bull",
+          "url": "https://x.com/peruvian_bull/status/2058309160245264546",
+          "headline": "Meme caption stating someone is right",
+          "body": "the funny part is, he's right",
+          "engagement": "347K views",
+          "views": 347601
         }
       ]
     }
   },
-  "last_updated": "2026-05-24T09:55:25.972493"
+  "last_updated": "2026-05-24T13:27:28.016742"
 }
