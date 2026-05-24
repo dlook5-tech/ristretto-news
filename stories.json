@@ -3,56 +3,17 @@
     "world": {
       "stories": [
         {
-          "headline": "Iran shuts down airspace amid imminent war fears",
-          "url": "https://x.com/DailyIranNews/status/2057937652721111291",
-          "handle": "DailyIranNews",
+          "headline": "Italy says Palestine must be independent sovereign state",
+          "url": "https://x.com/World_Affairs11/status/2058210989406109838",
+          "handle": "World_Affairs11",
           "perspectives": [
             {
-              "label": "Conservative",
-              "handle": "GuntherEagleman",
-              "url": "https://x.com/GuntherEagleman/status/2057992503056359551",
-              "body": "\ud83d\udea8Iran Airspace Just Went Completely EMPTY Commercial traffic over Iran right now. CBS confirming the Trump Administration is possibly gearing up for possible military action.",
-              "engagement": "627K views",
-              "views": 627433
-            },
-            {
               "label": "Independent",
-              "handle": "jacksonhinkle",
-              "url": "https://x.com/jacksonhinkle/status/2058010440555237606",
-              "body": "\ud83c\uddee\ud83c\uddf7 Iran closes western airspace to night flights until Monday",
-              "engagement": "73K views",
-              "views": 73394
-            }
-          ]
-        },
-        {
-          "headline": "Israel-Iran conflict escalates with Hormuz tensions and global oil fears",
-          "url": "https://x.com/TuckerCarlson/status/2057842922796752939",
-          "handle": "TuckerCarlson",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "TuckerCarlson",
-              "url": "https://x.com/TuckerCarlson/status/2057842922796752939",
-              "body": "Virtually every major war begins under false pretenses. German economist Richard Werner explains what the current global conflict is actually about.",
-              "engagement": "5.1K likes",
-              "views": 407355
-            },
-            {
-              "label": "Independent",
-              "handle": "Polymarket",
-              "url": "https://x.com/Polymarket/status/2057990529934102716",
-              "body": "JUST IN: World Bank document reveals 27 countries seeking \u201crapid\u201d access to crisis funds since the start of the Iran conflict.",
-              "engagement": "552 likes",
-              "views": 76887
-            },
-            {
-              "label": "Democrat",
-              "handle": "ProudSocialist",
-              "url": "https://x.com/ProudSocialist/status/2057994238646796341",
-              "body": "I don\u2019t buy this story being reported tonight by the New York Post, Fox News, and MAGA world that an Iranian-linked \u201cterrorist\u201d was plotting to assassinate Ivanka Trump.",
-              "engagement": "791 likes",
-              "views": 15266
+              "handle": "World_Affairs11",
+              "url": "https://x.com/World_Affairs11/status/2058210989406109838",
+              "body": "BREAKING: Italy says Palestine must be independent state, it has right to be sovereign country.",
+              "engagement": "49K views",
+              "views": 49888
             }
           ]
         }
@@ -61,95 +22,79 @@
     "usa": {
       "stories": [
         {
-          "headline": "Trump achieves breakthrough in Iran talks with major agreement expected soon",
-          "url": "https://x.com/EricLDaugh/status/2058251668060266501",
-          "handle": "EricLDaugh",
+          "headline": "White House locked down after shots fired nearby, suspect later dies",
+          "url": "https://x.com/FoxNews/status/2058314799927136362",
+          "handle": "FoxNews",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "EricLDaugh",
-              "url": "https://x.com/EricLDaugh/status/2058251668060266501",
-              "body": "\ud83d\udea8 JUST IN: President Trump and Iran are CLOSING IN on a MAJOR agreement to end the war as 47, Vance and other top officials meet at the White House \u2014 Axios",
-              "engagement": "340K views",
-              "views": 340067
+              "handle": "FoxNews",
+              "url": "https://x.com/FoxNews/status/2058314799927136362",
+              "body": "BREAKING: White House locked down after as many as 30 shots fired in vicinity.",
+              "engagement": "8.7M views",
+              "views": 8663079
             },
             {
               "label": "Independent",
-              "handle": "nicksortor",
-              "url": "https://x.com/nicksortor/status/2058267642717196506",
-              "body": "\ud83d\udea8 JUST IN: PRESIDENT TRUMP has achieved a \"BREAKTHROUGH\" in a \"VERY POSITIVE\" call regarding Iran talks at the White House \u2014 Fox",
-              "engagement": "102K views",
-              "views": 102468
-            },
-            {
-              "label": "Democrat",
-              "handle": "SenSanders",
-              "url": "https://x.com/SenSanders/status/2058210686820307073",
-              "body": "If you give a politician $5 to influence a vote, it\u2019s bribery. If billionaires spend $50 million to influence an election, it\u2019s legal. That is what a corrupt campaign finance system looks like.",
-              "engagement": "400K views",
-              "views": 400840
+              "handle": "spectatorindex",
+              "url": "https://x.com/spectatorindex/status/2058338748698591324",
+              "body": "BREAKING: Suspect who was shot by Secret Service in vicinity of White House has died in hospital",
+              "engagement": "171K views",
+              "views": 171134
             }
           ]
         },
         {
-          "headline": "Tulsi Gabbard resigns as Director of National Intelligence",
-          "url": "https://x.com/DNIGabbard/status/2057877960783204419",
-          "handle": "DNIGabbard",
+          "headline": "Trump announces largely negotiated US-Iran agreement for peace and security",
+          "url": "https://x.com/WhiteHouse/status/2058287270373855556",
+          "handle": "WhiteHouse",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "DNIGabbard",
-              "url": "https://x.com/DNIGabbard/status/2057877960783204419",
-              "body": "Today, with great humility and sincere appreciation, I shared the below letter with President Trump. It has been a profound honor to serve the American people as DNI.",
-              "engagement": "39259 likes",
-              "views": 1833202
+              "handle": "WhiteHouse",
+              "url": "https://x.com/WhiteHouse/status/2058287270373855556",
+              "body": "\ud83d\udea8 \"An Agreement has been largely negotiated, subject to finalization between the United States of America, the Islamic Republic of Iran, and the various other Countries, as listed...\" - President Donald J. Trump",
+              "engagement": "4.7M views",
+              "views": 4694969
             },
             {
               "label": "Independent",
-              "handle": "cenkuygur",
-              "url": "https://x.com/cenkuygur/status/2058000068079481026",
-              "body": "1. Trump doesn\u2019t go to his son\u2019s wedding. 2. He goes to White House instead of his normal trip to NJ. 3. Tulsi Gabbard steps down. 4. China trip over. 5. Reports Trump is considering bombing again. 6. Massie loses. Israel firmly in control. All signs point to imminent attack.",
-              "engagement": "3123 likes",
-              "views": 72226
+              "handle": "SenLummis",
+              "url": "https://x.com/SenLummis/status/2058338938385842608",
+              "body": "Great to have a President who is totally focused on putting America first and securing peace and lasting security in the Middle East! President Trump has never stopped working to create a deal that ensures Iran is never again a threat to the United States.",
+              "engagement": "55K views",
+              "views": 55192
             },
             {
               "label": "Democrat",
-              "handle": "TheRickWilson",
-              "url": "https://x.com/TheRickWilson/status/2057976173766865075",
-              "body": "I did not have Megan McCain stanning for Tulsi Gabbard in my Memorial Day Bingo Card.",
-              "engagement": "1165 likes",
-              "views": 41853
+              "handle": "BernieSanders",
+              "url": "https://x.com/BernieSanders/status/2058294592051548399",
+              "body": "Being anti-Trump is not good enough. Democrats need a progressive agenda.",
+              "engagement": "169K views",
+              "views": 169067
             }
           ]
         },
         {
-          "headline": "Ivanka Trump targeted in Iranian assassination plot",
-          "url": "https://x.com/EricLDaugh/status/2057976081844465982",
-          "handle": "EricLDaugh",
+          "headline": "Federal subpoenas served to Hasan Piker and CodePink over Cuba sanctions probe",
+          "url": "https://x.com/FoxNews/status/2058345370023821621",
+          "handle": "FoxNews",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "EricLDaugh",
-              "url": "https://x.com/EricLDaugh/status/2057976081844465982",
-              "body": "\ud83d\udea8 HOLY CRAP! President Trump's daughter Ivanka Trump was targeted in an ASSASSINATION plot by an Iranian IRGC-trained terrorist \u2014 NYP",
-              "engagement": "25748 likes",
-              "views": 1266365
+              "handle": "FoxNews",
+              "url": "https://x.com/FoxNews/status/2058345370023821621",
+              "body": "Federal officials have served subpoenas to Marxist political influencer Hasan Piker and CodePink cofounder Susan Medea Benjamin as part of a wider investigation into whether U.S. organizations and leaders violated U.S. laws and sanctions in supporting Cuba's communist regime, Fox News Digital has learned.",
+              "engagement": "2.6M views",
+              "views": 2628823
             },
             {
-              "label": "Independent",
-              "handle": "sneako",
-              "url": "https://x.com/sneako/status/2058006880958423425",
-              "body": "BREAKING NEWS: a day before US/Israel plan to accelerate war in Iran, the dumbest terrorist of all time targets Ivanka Trump by tweeting a picture of her house in 2021.",
-              "engagement": "673 likes",
-              "views": 17207
-            },
-            {
-              "label": "Democrat",
-              "handle": "remarks",
-              "url": "https://x.com/remarks/status/2057997160520597690",
-              "body": "JUST IN: \ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Ivanka Trump targeted for assassination by Iranian military-trained Iraqi national, NYPost reports.",
-              "engagement": "1186 likes",
-              "views": 67745
+              "label": "Conservative",
+              "handle": "GuntherEagleman",
+              "url": "https://x.com/GuntherEagleman/status/2058360882434855111",
+              "body": "Good.",
+              "engagement": "28K views",
+              "views": 27666
             }
           ]
         }
@@ -166,33 +111,25 @@
           "views": 3029617
         },
         {
-          "handle": "PeterDiamandis",
-          "url": "https://x.com/PeterDiamandis/status/2058272493966618901",
-          "headline": "OpenAI, Anthropic, and SpaceX set to go public in coming months",
-          "body": "OpenAI, Anthropic, SpaceX. Three of the most important companies in human history. All are going public within months of each other. These IPOs will be unlike anything in the history of financial markets.",
-          "engagement": "21525 views",
-          "views": 21525
+          "handle": "KobeissiLetter",
+          "url": "https://x.com/KobeissiLetter/status/2058329863279485045",
+          "headline": "Global tech funds see record $9B weekly inflows.",
+          "body": "BREAKING: Global technology funds posted +$9.0 billion in inflows last week, the largest weekly inflow since October 2025.\n\nThis also marks the 3rd-largest weekly inflow on record.\n\nAs a result, 4-week average net inflows rose to +$4.0 billion, the 2nd-highest since early 2021.\n\nTechnology funds have now seen inflows for 7 consecutive weeks.\n\nMeanwhile, US space-related ETFs have attracted $1.3 billion over the last month, bringing assets under management to a record $3.3 billion.\n\nWe are seeing historic inflows into stocks right now.",
+          "engagement": "83K views",
+          "views": 83072
         },
         {
-          "handle": "carolecadwalla",
-          "url": "https://x.com/carolecadwalla/status/2058247648176419100",
-          "headline": "Crypto millions linked to UK far-right politics under scrutiny",
-          "body": "Fantastic to see this @nerve_news investigation trending.\n\nThe crypto millions fuelling Britain\u2019s far-right turn (the exact same playbook as Trump) requires much, much more scrutiny.",
-          "engagement": "20717 views",
-          "views": 20717
+          "handle": "BullTheoryio",
+          "url": "https://x.com/BullTheoryio/status/2058358792308638088",
+          "headline": "Bitcoin surges $2000 to $77K on Iran deal news.",
+          "body": "BREAKING: Bitcoin jumped +$2000 to $77,000 after President Trump said a deal with Iran is close to being finalized.\n\nOver $250M shorts liquidated in last few hours.",
+          "engagement": "15K views",
+          "views": 14584
         }
       ]
     },
     "top": {
       "stories": [
-        {
-          "handle": "nicksortor",
-          "url": "https://x.com/nicksortor/status/2057961275024400736",
-          "headline": "President Trump returns to DC amid canceled plans",
-          "body": "\ud83d\udea8 NOW: President Trump is now BACK in Washington, DC after CANCELLING his weekend plans in New Jersey\n\nCBS is reporting intelligence officials have ALSO canceled Memorial Day plans, and are on standby.\n\nSomething may be imminent \ud83d\udc40",
-          "engagement": "3.3M views",
-          "views": 3376165
-        },
         {
           "handle": "EricLDaugh",
           "url": "https://x.com/EricLDaugh/status/2058213496202863082",
@@ -208,39 +145,55 @@
           "body": "The mask is on. The machete is dripping. The massacre has begun.   \nDead by Daylight: Jason. @JasonUniverse13 \n\n06. 16. 26.",
           "engagement": "2.7M views",
           "views": 2722906
+        },
+        {
+          "handle": "peleasclub",
+          "url": "https://x.com/peleasclub/status/2058352612819316791",
+          "headline": "Woman confronts husband attempting suicide with broom and rope",
+          "body": "\ud83c\udde7\ud83c\uddf7 \"TIRA ESSA CORDA, SEU FILHO DA P***\": mulher flagra marido tentando se enforcar e d\u00e1 \"conselhos\" com vassoura e o pr\u00f3prio barbante!!!",
+          "engagement": "536K views",
+          "views": 536126
         }
       ]
     },
     "msm": {
       "stories": [
         {
-          "handle": "ABC",
-          "url": "https://x.com/ABC/status/2058199591602807125",
-          "headline": "Pentagon releases new batch of declassified UFO files",
-          "body": "The Pentagon has unveiled another batch of its so-called UFO files, part of a rolling release of once-classified material ordered by President Trump.",
-          "engagement": "39K views",
-          "views": 39003
+          "handle": "CNN",
+          "url": "https://x.com/CNN/status/2058344702559084939",
+          "headline": "Secret Service shoots and kills person who fired at checkpoint near White House.",
+          "body": "The Secret Service says officers shot and killed a person who approached a security checkpoint near the White House and fired at them. A bystander was also wounded. https://www.cnn.com/2026/05/23/politics/white-house-area-gunshots?Date=20260524&Profile=CNN&utm_content=1779582469&utm_medium=social&utm_source=twitter",
+          "engagement": "59K views",
+          "views": 59620
         },
         {
-          "handle": "CBSNews",
-          "url": "https://x.com/CBSNews/status/2057953602795180299",
-          "headline": "US preparing new military strikes against Iran",
-          "body": "The U.S. is preparing for new military strikes against Iran, but a final decision hasn't been reached, sources say.",
-          "engagement": "61K views",
-          "views": 61096
+          "handle": "AP",
+          "url": "https://x.com/AP/status/2058320621482762496",
+          "headline": "Law enforcement responds to reports of shots fired near the White House.",
+          "body": "BREAKING: Law enforcement are responding to reports of shots fired near the White House. https://apnews.com/article/white-house-gunshots-lockdown-secret-service-trump-204c429ab3888b3d0921cf724e0c0474?utm_campaign=trueAnthem%3A+New+Content+%28Feed%29&utm_medium=trueAnthem&utm_source=twitter",
+          "engagement": "78K views",
+          "views": 78410
         },
         {
-          "handle": "washingtonpost",
-          "url": "https://x.com/washingtonpost/status/2057997722704093517",
-          "headline": "Actor Noah Wyle joins Capitol Hill rally for healthcare workforce support.",
-          "body": "Actor Noah Wyle joined bipartisan lawmakers and hundreds of health care workers on Capitol Hill for a \"Healthcare is Human\" rally calling for stronger support for the nation's healthcare workforce.",
-          "engagement": "52K views",
-          "views": 51968
+          "handle": "WSJ",
+          "url": "https://x.com/WSJ/status/2058351048180338967",
+          "headline": "Trump postpones AI executive order after adviser warning on China competition.",
+          "body": "President Trump postponed signing an order on the dangers posed by artificial intelligence after an adviser warned that industry guardrails could slow down U.S. models in the race against tools from China. https://www.wsj.com/politics/policy/david-sacks-trump-ai-executive-order-6019242d?mod=e2tw",
+          "engagement": "34K views",
+          "views": 34251
         }
       ]
     },
     "sports": {
       "stories": [
+        {
+          "handle": "premierleague",
+          "url": "https://x.com/premierleague/status/2058125787208077519",
+          "headline": "Bruno Fernandes named EASPORTSFC Player of the Season",
+          "body": "A season for the history books \ud83d\udcd6\n\n@manutd's Bruno Fernandes is @EASPORTSFC Player of the Season \u2764\ufe0f",
+          "engagement": "8.8M views",
+          "views": 8843473
+        },
         {
           "handle": "premierleague",
           "url": "https://x.com/premierleague/status/2058155988138733952",
@@ -250,25 +203,25 @@
           "views": 6551396
         },
         {
-          "handle": "premierleague",
-          "url": "https://x.com/premierleague/status/2058125787208077519",
-          "headline": "Premier League names Bruno Fernandes Player of the Season",
-          "body": "A season for the history books \ud83d\udcd6\n\n@manutd's Bruno Fernandes is @EASPORTSFC Player of the Season \u2764\ufe0f",
-          "engagement": "7.23M views",
-          "views": 7230470
-        },
-        {
-          "handle": "NBA",
-          "url": "https://x.com/NBA/status/2058030843432427706",
-          "headline": "NBA highlights OKC bench scoring 76 points in Game 3 win",
-          "body": "OKC'S BENCH DROPPED 76 POINTS IN GAME 3!\n\nJared McCain: 24 PTS (postseason career-high)\nJaylin Williams: 18 PTS (postseason career-high)\nAlex Caruso: 15 PTS\nCason Wallace: 11 PTS\n\nThunder win Game 3 to take a 2-1 series lead in the Western Conference Finals \ud83c\udf7f",
-          "engagement": "1.6M views",
-          "views": 1594621
+          "handle": "ManUtd",
+          "url": "https://x.com/ManUtd/status/2058125794665206053",
+          "headline": "Bruno Fernandes is Premier League Player of the Year",
+          "body": "No-one does it like him.\n\nBruno Fernandes is the Premier League Player of the Year \ud83e\udd29\u2764\ufe0f",
+          "engagement": "2.7M views",
+          "views": 2684938
         }
       ]
     },
     "elon": {
       "stories": [
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2058252485823750516",
+          "headline": "Elon Musk reposts Boring Company video on Prufrock mining machines and traffic solutions.",
+          "body": "Boring Company\u2019s goal is to solve traffic in cities and one day build Hyperloop high-speed transit between city centers",
+          "engagement": "12.5M views",
+          "views": 12531945
+        },
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2058220599583920153",
@@ -279,19 +232,11 @@
         },
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2058252485823750516",
-          "headline": "Elon Musk explains Boring Company goal for traffic and Hyperloop.",
-          "body": "Boring Company\u2019s goal is to solve traffic in cities and one day build Hyperloop high-speed transit between city centers",
-          "engagement": "5.2M views",
-          "views": 5159527
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2057974937923490301",
-          "headline": "Elon Musk shares video post",
-          "body": "https://t.co/w2mlKm3nTf",
-          "engagement": "34M views",
-          "views": 33977664
+          "url": "https://x.com/elonmusk/status/2058381280182497503",
+          "headline": "Elon Musk shares update on Starlink satellites tracking Starship through plasma gap.",
+          "body": "They said it couldn\u2019t be done.\n\nDozens of Starlink satellites simultaneously track Starship at all times and close the link through a gap in the plasma that is located in the leeward region towards the aft end of the rocket.",
+          "engagement": "39.1K views",
+          "views": 39126
         }
       ]
     },
@@ -300,10 +245,10 @@
         {
           "handle": "joeroganhq",
           "url": "https://x.com/joeroganhq/status/2058186185105674573",
-          "headline": "Joe Rogan gets emotional discussing funeral song with Skylar Grey",
+          "headline": "Joe Rogan gets emotional discussing funeral song request from his wife.",
           "body": "Joe Rogan gets emotional with Skylar Grey because his wife told him that if he dies, she wants the song \"I\u2019m Coming Home\" played at his funeral.",
-          "engagement": "207K views",
-          "views": 206662
+          "engagement": "343K views",
+          "views": 343315
         }
       ]
     },
@@ -312,10 +257,18 @@
         {
           "handle": "FilmUpdates",
           "url": "https://x.com/FilmUpdates/status/2058276799117758955",
-          "headline": "Renate Reinsve\u2019s Cannes history updated with 2026 win.",
+          "headline": "Renate Reinsve wins Palme d\u2019Or at Cannes 2026",
           "body": "Renate Reinsve\u2019s Cannes history: \u2022 2021 - \u2018THE WORST PERSON IN THE WORLD\u2019 (Best Actress Winner) \u2022 2024 - \u2018ARMAND\u2019 (Camera d\u2019Or) \u2022 2025 - \u2018SENTIMENTAL VALUE\u2019 (Grand Prix) \u2022 2026 - \u2018FJORD\u2019 (Palme d\u2019Or)",
-          "engagement": "108K views",
-          "views": 107809
+          "engagement": "524K views",
+          "views": 523602
+        },
+        {
+          "handle": "PopBase",
+          "url": "https://x.com/PopBase/status/2058209596322328755",
+          "headline": "Ariana Grande teases new music video",
+          "body": "Ariana Grande teases the music video to \u2018hate that i made you love me.\u2019 Out May 29th.",
+          "engagement": "766K views",
+          "views": 766137
         },
         {
           "handle": "TeamAriana",
@@ -324,19 +277,19 @@
           "body": "https://arianagrande.lnk.to/htimylm",
           "engagement": "273K views",
           "views": 272655
-        },
-        {
-          "handle": "FilmUpdates",
-          "url": "https://x.com/FilmUpdates/status/2058214684726276432",
-          "headline": "Film Updates reports on 'OBSESSION' potentially grossing over 200x its budget.",
-          "body": "\u2018OBSESSION\u2019 could potentially become the first Hollywood film since \u2018PARANORMAL ACTIVITY\u2019 (2009) to gross over 200x its reported production budget.",
-          "engagement": "217K views",
-          "views": 217002
         }
       ]
     },
     "recipe": {
       "stories": [
+        {
+          "handle": "calbee_PR",
+          "url": "https://x.com/calbee_PR/status/2058352354664329272",
+          "headline": "Campaign giveaway for Kyushu soy sauce flavored potato snacks",
+          "body": "\uff0f\n\u5408\u8a08100\u540d\u69d8\u306b\u305d\u306e\u5834\u3067\u5f53\u305f\u308b\ud83c\udfaf\n\uff3c\n\n\u4e5d\u5dde\u3057\u3087\u3046\u3086\u5473\u8a70\u3081\u5408\u308f\u305b\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\u958b\u50ac\u2728\n\u300c\u5805\u3042\u3052\u30dd\u30c6\u30c8\u300d\u300c\u30dd\u30c6\u30c8\u30c1\u30c3\u30d7\u30b9\u300d\u300c\u3058\u3083\u304c\u308a\u3053\u300d\u306e\u4e5d\u5dde\u3057\u3087\u3046\u3086\u5473\u3092\u30015\u500b\u305a\u306415\u500b\u30bb\u30c3\u30c8\u3067\u30d7\u30ec\u30bc\u30f3\u30c8\ud83c\udf81\n\n\u2460\u672c\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u30d5\u30a9\u30ed\u30fc\n\u2461\u672c\u6295\u7a3f\u30925/24 23:59\u8fc4\u306b\u30ea\u30dd\u30b9\u30c8\n\u27a1\u5f53\u9078\u8005\u306b\u5373DM",
+          "engagement": "112K views",
+          "views": 112424
+        },
         {
           "handle": "moricalliope",
           "url": "https://x.com/moricalliope/status/2058216388028752318",
@@ -346,20 +299,12 @@
           "views": 50496
         },
         {
-          "handle": "coookwithchris",
-          "url": "https://x.com/coookwithchris/status/2058285288548372669",
-          "headline": "Egg cups recipe with sausage, cottage cheese and gruyere",
-          "body": "Egg cups with sausage, cottage cheese and gruyere",
-          "engagement": "1K views",
-          "views": 1045
-        },
-        {
-          "handle": "MyWay2546357845",
-          "url": "https://x.com/MyWay2546357845/status/2058183726505288123",
-          "headline": "User shares story of bestie cooking double dinner",
-          "body": "Bestie came to cook but served double dinner \ud83e\udd17\nA thread",
-          "engagement": "19K views",
-          "views": 19371
+          "handle": "F0ODHub",
+          "url": "https://x.com/F0ODHub/status/2058321228692181008",
+          "headline": "Poll asking preferred sauce for a food item",
+          "body": "Ketchup, mayo, or no sauce?",
+          "engagement": "15.9K views",
+          "views": 15940
         }
       ]
     },
@@ -402,32 +347,32 @@
           "views": 236869
         },
         {
-          "handle": "MarioNawfal",
-          "url": "https://x.com/MarioNawfal/status/2058282104891572691",
-          "headline": "California declares state of emergency in Orange County over chemical incident",
-          "body": "\ud83c\uddfa\ud83c\uddf8 California just declared a state of emergency in Orange County.\n\nA hazardous chemical incident at an aerospace facility sent tens of thousands of people running, and Newsom signed an emergency declaration fast enough that the ink was barely dry before state agencies were being directed to move in. Extra powers unlocked, fairgrounds on standby as shelters, full state machinery activated.\n\nCrews are still on the ground trying to contain whatever is in that facility. A toxic tank explosion is still on the table.\n\n40,000 people out of their homes on a Saturday night, and nobody is telling them when they can go back.\n\nSource: NY Post",
-          "engagement": "37K views",
-          "views": 36674
+          "handle": "OCFireAuthority",
+          "url": "https://x.com/OCFireAuthority/status/2058323129626452198",
+          "headline": "OC Fire Authority shares shelter info amid Garden Grove hazmat incident",
+          "body": "For current, up-to-date information on shelters and care centers, please visit the Orange County Sheriff\u2019s \u201cResources During a Disaster\u201d page.\n\nhttps://www.ocsheriff.gov/resources-during-disaster",
+          "engagement": "103K views",
+          "views": 103362
         },
         {
-          "handle": "cnnbrk",
-          "url": "https://x.com/cnnbrk/status/2058277019515822576",
-          "headline": "State of emergency declared in Orange County over rising chemical tank temperature",
-          "body": "State of emergency declared in Orange County as temperature rises inside tank with toxic chemical and 50,000 residents remain under evacuation order. https://www.cnn.com/2026/05/22/us/chemical-spill-orange-county-california?Date=20260523&Profile=cnnbrk&utm_content=1779566430&utm_medium=social&utm_source=twitter",
-          "engagement": "52K views",
-          "views": 51637
+          "handle": "WallStreetApes",
+          "url": "https://x.com/WallStreetApes/status/2058357913018921324",
+          "headline": "Wall Street Apes updates on leaking chemical tank in Garden Grove with 44k evacuated",
+          "body": "The leaking chemical tank in Garden Grove, Orange County is still pouring out toxic chemicals\n\nEvacuation orders are still in effect for roughly 44,000 people across parts of Garden Grove and nearby cities",
+          "engagement": "32K views",
+          "views": 31957
         }
       ]
     },
     "conspiracy": {
       "stories": [
         {
-          "handle": "RealSLokhova",
-          "url": "https://x.com/RealSLokhova/status/2057937581674021238",
-          "headline": "Historian details Obama and Brennan's London-based plot against Trump via Russiagate operatives.",
-          "body": "Both Obama and Brennan flew to London the moment the Grand Conspiracy Grand Jury in Florida was announced \n\nThat's because they launched Russiagate from London, England. \n\nGina Haspel was the CIA Station Chief in London. \n\nBritish operative Christopher Steele and CIA operative Stefan Halper operated out of London. \n\nPeter Strzok travelled to London,",
-          "engagement": "1.9M views",
-          "views": 1899185
+          "handle": "RogerJStoneJr",
+          "url": "https://x.com/RogerJStoneJr/status/2058384573533130866",
+          "headline": "Pompeo plotted against Trump and knew about Russian collusion Hoax conspiracy but didn't warn him.",
+          "body": "Pompeo was certain Trump would never get back to the White House and was plotting a run for the presidency. Pompeo knew about the Russian collusion Hoax conspiracy but didn't warn Trump.",
+          "engagement": "15K views",
+          "views": 15431
         },
         {
           "handle": "MrJohnJnr",
@@ -438,17 +383,25 @@
           "views": 115020
         },
         {
-          "handle": "UAPJames",
-          "url": "https://x.com/UAPJames/status/2057956202483446050",
-          "headline": "Rep. Burchett calls UFO files release a Deep State classic",
-          "body": "Rep. Burchett calls today\u2019s UFO files release \u201cthe Deep State classic\u201d\n\n\u201cThey won\u2019t show y\u2019all some of the stuff that we\u2019ve seen. They\u2019re gonna show stuff that is easily identifiable.\u201d",
-          "engagement": "141K views",
-          "views": 141683
+          "handle": "PaulGoldEagle",
+          "url": "https://x.com/PaulGoldEagle/status/2058235403090776184",
+          "headline": "Symbolic image shows political figures removing masks to reveal reptilian forms as hidden truth emerges in new golden era.",
+          "body": "\ud83d\uded1 BREAKING: THE MASK IS COMING OFF \u2014 HIDDEN TRUTH WILL BE REVEALED SOON \ud83d\uded1\nThe veil is lifting. The deception that has controlled humanity for decades is crumbling before our eyes.\nIn this powerful visual, we see the symbolic moment the world has been waiting for. The public face of global power is being torn away, revealing what many have suspected for years \u2014 a hidden layer operating behind the scenes.\nThe New Golden Era is activating.\nFor too long, the world has been led by figures who wore carefully crafted masks \u2014 smiling in public while advancing agendas that never truly served the people. But the time of revelation is here. The activation of a higher consciousness, spiritual awakening, and the return of truth is shifting everything.\nKey Elements in This Image:\nFormer Secretary of State and presidential candidate Hillary Clinton dramatically removing her human mask\nBarack Obama and key members of his inner circle shown in the same process of revelation\nAdvanced reptilian physiology emerging \u2014 symbolizing cold, calculated, non-human intelligence behind major world decisions\nA glowing red LED alert border signaling EMERGENCY DISCLOSURE\nBold declarations: \u201cHIDDEN TRUTH WILL BE REVEALED SOON\u201d and \u201cTHE MASK WILL BE OPENED \u2014 NEW GOLDEN ERA ACTIVATED\u201d\nFinal warning: \u201cTHE DECEPTION ENDS NOW\u201d\nThis is not just art. This is prophetic symbolism for the Great Awakening currently unfolding across the planet.\nWhat This Means:\nThe old system of control, manipulation, and hidden influence is collapsing\nHumanity is entering a New Golden Era of truth, sovereignty, and spiritual evolution\nThe entities that hid behind political, financial, and media power structures are being exposed\nLight is overcoming darkness\nThe people are waking up in unprecedented numbers\nMany researchers, whistleblowers, and truth seekers have pointed to this reality for years. From ancient texts describing \u201cserpent beings\u201d and \u201cshape-shifters\u201d to modern accounts of underground bases, advanced technology, and bloodline control \u2014 the dots are finally connecting.\nThis is your wake-up call.\nShare this post if you\u2019re ready for full disclosure. Comment \u201cI SEE IT\u201d if you understand what\u2019s happening. Tag friends and family who still believe the mainstream narrative.\nThe golden age is not coming \u2014 it is already here for those with eyes to see.\nWARNING: THE DECEPTION ENDS NOW.\nThe mask will be fully opened.\nTruth will prevail.\nA new era has begun.\n\ud83d\udd25 Share",
+          "engagement": "4K views",
+          "views": 4121
         }
       ]
     },
     "comedy": {
       "stories": [
+        {
+          "handle": "lizzo",
+          "url": "https://x.com/lizzo/status/2058264262460510703",
+          "headline": "Lizzo comments on interacting with stan accounts on X.",
+          "body": "So\u2026 I haven\u2019t been on twitter in awhile so I\u2019m used to interacting w tweets that I think are funny. Didn\u2019t realize this whole bitch became stanland \ud83d\ude2d",
+          "engagement": "248K views",
+          "views": 248237
+        },
         {
           "handle": "denetric_malope",
           "url": "https://x.com/denetric_malope/status/2058140898987266407",
@@ -464,17 +417,9 @@
           "body": "TSK TSK TSK FIX YOUR GAME IMMEDIATELY / guy angry at a disconnection ban from a roblox game on his computer, hilariously swinging his middle finger in front of the pc left and right duffy duck voice / reaction video meme",
           "engagement": "129K views",
           "views": 129265
-        },
-        {
-          "handle": "AaryanPrateekX",
-          "url": "https://x.com/AaryanPrateekX/status/2058025813493367047",
-          "headline": "Meme about modern dating misery",
-          "body": "When I say modern-day dating has become miserable and is more of a humiliation ritual than love, this is what I mean.\n\nLook at his texts and the misery in his life. He tried to put in his best effort and wanted a reply, but instead, he became meme material on the internet because she wanted some likes and validation.",
-          "engagement": "229K views",
-          "views": 229582
         }
       ]
     }
   },
-  "last_updated": "2026-05-23T20:53:57.485999"
+  "last_updated": "2026-05-24T03:39:48.312759"
 }
