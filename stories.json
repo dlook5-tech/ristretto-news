@@ -18,17 +18,17 @@
           ]
         },
         {
-          "headline": "Turkey opposition CHP party offices stormed by police in leadership standoff",
-          "url": "https://x.com/AP/status/2058517828035129849",
-          "handle": "AP",
+          "headline": "Heatwave hits 31\u00b0C and London transport descends into chaos",
+          "url": "https://x.com/CrimeLdn/status/2058579553044357546",
+          "handle": "CrimeLdn",
           "perspectives": [
             {
               "label": "Independent",
-              "handle": "AP",
-              "url": "https://x.com/AP/status/2058517828035129849",
-              "body": "BREAKING: Police stormed the offices of Turkey\u2019s main opposition CHP party, firing tear gas and rubber bullets at a crowd of party supporters and officials gathered outside the gates.",
-              "engagement": "191K views",
-              "views": 191238
+              "handle": "CrimeLdn",
+              "url": "https://x.com/CrimeLdn/status/2058579553044357546",
+              "body": "heatwave hits 31\u00b0C and London transport descends into chaos again. Packed platforms, blocked entrances, unbearable tube temperatures ( dinendra_haria )",
+              "engagement": "2556 likes",
+              "views": 470939
             }
           ]
         },
@@ -51,6 +51,37 @@
     },
     "usa": {
       "stories": [
+        {
+          "headline": "Trump administration advances Iran nuclear negotiations and deal talks",
+          "url": "https://x.com/realDonaldTrump/status/2057968277062582378",
+          "handle": "realDonaldTrump",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "realDonaldTrump",
+              "url": "https://x.com/realDonaldTrump/status/2057968277062582378",
+              "body": "https://t.co/LU644jFVH2",
+              "engagement": "881K likes",
+              "views": 90023746
+            },
+            {
+              "label": "Independent",
+              "handle": "KobeissiLetter",
+              "url": "https://x.com/KobeissiLetter/status/2058613648503832958",
+              "body": "BREAKING: President Trump releases a statement on the Iran deal.",
+              "engagement": "2.4K likes",
+              "views": 219227
+            },
+            {
+              "label": "Democrat",
+              "handle": "RepJeffries",
+              "url": "https://x.com/RepJeffries/status/2058584202321260862",
+              "body": "Republicans own this reckless war of choice in Iran. And the out of control gas prices crushing the American people. You deserve better.",
+              "engagement": "1.1K likes",
+              "views": 48964
+            }
+          ]
+        },
         {
           "headline": "President Trump delivers commencement address at US Coast Guard Academy",
           "url": "https://x.com/WhiteHouse/status/2057619827406020715",
@@ -112,65 +143,34 @@
               "views": 90529
             }
           ]
-        },
-        {
-          "headline": "Shots fired near White House grounds, prompting lockdown; Trump confirmed safe",
-          "url": "https://x.com/FBIDirectorKash/status/2058318050240184514",
-          "handle": "FBIDirectorKash",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "nicksortor",
-              "url": "https://x.com/nicksortor/status/2058336889405366561",
-              "body": "BREAKING: The suspect who opened fire on the White House has DIED, the White House has confirmed President Trump WAS at the White House tonight, but is UNAFFECTED. He is CONTINUING to work. This President is an absolute FIGHTER. 47 will NOT let the terrorists win! \ud83c\uddfa\ud83c\uddf8",
-              "engagement": "1.1M views",
-              "views": 1156829
-            },
-            {
-              "label": "Independent",
-              "handle": "PopBase",
-              "url": "https://x.com/PopBase/status/2058320891042464127",
-              "body": "Law enforcement is responding to shots fired near the White House.",
-              "engagement": "1.5M views",
-              "views": 1571527
-            },
-            {
-              "label": "Conservative",
-              "handle": "FoxNews",
-              "url": "https://x.com/FoxNews/status/2058314799927136362",
-              "body": "BREAKING: White House locked down after as many as 30 shots fired in vicinity.",
-              "engagement": "10.8M views",
-              "views": 10851453
-            }
-          ]
         }
       ]
     },
     "business": {
       "stories": [
         {
+          "handle": "chasedownleads",
+          "url": "https://x.com/chasedownleads/status/2058558216196219101",
+          "headline": "Dave Ramsey joke on becoming a millionaire via investing",
+          "body": "Dave Ramsey reveals how you can become a millionaire in just two months:\n\n\u201cInvest just $500k per month and you\u2019ll have one million dollars in just 60 days,\u201d\n\nWow\n\nThis is the kind of practical advice we all need to hear",
+          "engagement": "81.9K views",
+          "views": 81919
+        },
+        {
           "handle": "SecScottBessent",
-          "url": "https://x.com/SecScottBessent/status/2058577064274407477",
-          "headline": "Treasury Secretary announces $1,000 initial contribution for eligible children's TrumpAccounts",
+          "url": "https://x.com/SecScottBessent/status/2058576696463229092",
+          "headline": "Treasury Secretary on TrumpAccounts for kids",
           "body": ".@TrumpAccounts are designed to strengthen financial foundations early in life.\n\nEach eligible child will receive an initial $1,000 contribution from the U.S. Treasury to support long-term growth.\n\nhttps://trumpaccounts.gov/",
-          "engagement": "24.6K views",
-          "views": 24590
+          "engagement": "44.1K views",
+          "views": 44145
         },
         {
           "handle": "WSJ",
-          "url": "https://x.com/WSJ/status/2058576699135021542",
-          "headline": "WSJ reports on India's superfast delivery boom attracting billions in investment",
-          "body": "India has become ground zero for superfast deliveries\u2014often in under 10 minutes\u2014of everything from eggs to electronics, fueling a boom that has attracted billions of dollars https://www.wsj.com/business/logistics/in-india-you-can-get-milk-delivered-faster-than-it-takes-to-make-coffee-aa211a54?mod=e2tw",
-          "engagement": "22.2K views",
-          "views": 22186
-        },
-        {
-          "handle": "business",
-          "url": "https://x.com/business/status/2058571972271841304",
-          "headline": "Bloomberg: Nigerian President Tinubu secures ruling party nomination for 2027 election",
-          "body": "Nigerian President Bola Tinubu further strengthened his hand as the ruling party\u2019s top candidate in next year\u2019s presidential elections after winning overwhelming support in primaries against sole challenger Stanley Osifo. https://www.bloomberg.com/news/articles/2026-05-24/nigeria-s-tinubu-secures-nomination-for-2027-presidential-vote?taid=6a131a2b3caffb0001216eef&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-          "engagement": "15.6K views",
-          "views": 15630
+          "url": "https://x.com/WSJ/status/2058595371215888484",
+          "headline": "WSJ on stock market optimism vs consumer sentiment",
+          "body": "Stocks are partying like it\u2019s 1999, but Americans haven\u2019t felt this bad in 70 years https://www.wsj.com/economy/consumers/stock-market-consumer-sentiment-af088e87?mod=e2tw",
+          "engagement": "32.3K views",
+          "views": 32286
         }
       ]
     },
@@ -179,82 +179,82 @@
         {
           "handle": "arashi5official",
           "url": "https://x.com/arashi5official/status/2058473081346077100",
-          "headline": "ARASHI announces live stream for 2026 tour final at Tokyo Dome",
+          "headline": "ARASHI announces live stream for tour final.",
           "body": "\u201c\u307f\u3093\u306a\u3078\u3042\u308a\u304c\u3068\u3046\u201d\n\nARASHI LIVE TOUR 2026 \u300cWe are ARASHI\u300dTOUR FINAL\n5/31(\u65e5) \u6771\u4eac\u30c9\u30fc\u30e0\u516c\u6f14 \u751f\u914d\u4fe1!!\n\n#WeareARASHI_FINAL\n\n\u25a0\u751f\u914d\u4fe1\u65e5\u6642\uff1a5/31(\u65e5)18:00\u301c\n\u203b\u958b\u6f14\u524d\u306e15:00\u3088\u308a\u7279\u5225\u6620\u50cf\u3092\u914d\u4fe1\u4e88\u5b9a\n\n\u25a0\u898b\u9003\u3057\u914d\u4fe1\uff1a\u6e96\u5099\u3067\u304d\u6b21\u7b2c\u301c6/15(\u6708)23:59\n\n\ud83c\udfab \u8996\u8074\u30c1\u30b1\u30c3\u30c8\u8ca9\u58f2\u4e2d\n\u8a73\u7d30\u306f\u201dFAMILY CLUB online\u201d\u306e\u30b5\u30a4\u30c8\u3092\u3054\u78ba\u8a8d\u304f\u3060\u3055\u3044\nhttps://t.co/Aj6zGVneAJ\n\n#531\u306f\u304a\u30a6\u30c1\u3067\u5d50\n#\u5d50 #ARASHI\n#WeareARASHI",
-          "engagement": "3.1M views",
-          "views": 3079390
+          "engagement": "9.1M views",
+          "views": 9127205
         },
         {
-          "handle": "sd_bt",
-          "url": "https://x.com/sd_bt/status/2058536093860196535",
-          "headline": "Ultra Express official shares Aloha movement video clip",
-          "body": "\u3010VIDEO \u66f4\u65b0\uff01\u3011\n\n\u30a2\u30ed\u30cf\u306e\u5927\u79fb\u52d5\ud83c\udfc3\ud83d\udca8\n\n\ud83d\udd17https://www.tiktok.com/@bullettrain_8/video/7643444431953104148?_r=1&_t=ZS-96d3UjrFaYG\n\n#\u8d85\u7279\u6025_\u30ac\u30c1\u5922\u4e2d\uff01\n#\u8d85\u7279\u6025 #\u30a2\u30ed\u30cf",
-          "engagement": "715K views",
-          "views": 715323
+          "handle": "eczozgurozel",
+          "url": "https://x.com/eczozgurozel/status/2058509985978397073",
+          "headline": "Turkish politician posts video message to the nation.",
+          "body": "Milletimize\u2026",
+          "engagement": "6.7M views",
+          "views": 6712891
         },
         {
-          "handle": "aespa_official",
-          "url": "https://x.com/aespa_official/status/2058569856023429516",
-          "headline": "aespa releases LEMONADE highlight medley video",
-          "body": "aespa \uc5d0\uc2a4\ud30c 'LEMONADE' Highlight Medley \n\nhttps://www.youtube.com/watch?v=lLaFR89_cFY&feature=youtu.be\n\naespa \uc5d0\uc2a4\ud30c The 2nd Album \u3016LEMONADE\u3017\n\u27ab 2026.05.29 1PM (KST) / 12AM (EDT)\n\n\ud83d\udd17 https://aespa.com\n\ud83c\udf4b Pre-order&save\u00a0\nhttps://aespa.lnk.to/lemonadepreorder\n\n#aespa #\u00e6spa #\uc5d0\uc2a4\ud30c\n#LEMONADE #aespaLEMONADE",
-          "engagement": "576K views",
-          "views": 575658
+          "handle": "aviationbrk",
+          "url": "https://x.com/aviationbrk/status/2058593929646248017",
+          "headline": "Video of paraglider collision with plane in Austria.",
+          "body": "\ud83d\udea8 WATCH: A paraglider gets hit by a Cessna 172 near the Austrian town of Zell am See.\n\nThe paraglider was able to pull her rescue parachute and land safely shortly after the incident on Saturday.\n\nAccording to police, the 44-year-old Austrian had started from Schmittenh\u00f6he in the direction of Piesendorf. Above the Pinzgauer H\u00fctte, she collided at 1:15 p.m. with the Cessna piloted by a 28-year-old.\n\nThe pilot of the Cessna, which flew from the Glemm Valley in the direction of Zell am See, was able to land the aircraft safely at Zell am See Airport.\n\nVideo: sab_thi",
+          "engagement": "1M views",
+          "views": 1037159
         }
       ]
     },
     "msm": {
       "stories": [
         {
-          "handle": "AP",
-          "url": "https://x.com/AP/status/2058272843482231037",
-          "headline": "Iran\u2019s soccer team moves base camp for World Cup to Mexico from the US.",
-          "body": "BREAKING: Iran\u2019s soccer team has moved its base camp for the World Cup to Mexico from the United States, the president of the Iran Football Federation said. https://apnews.com/article/iran-world-cup-mexico-d787422e4f946a25a2a25f45a87b21e8?utm_campaign=trueAnthem%3A+New+Content+%28Feed%29&utm_medium=trueAnthem&utm_source=twitter",
-          "engagement": "379K views",
-          "views": 379244
+          "handle": "WSJ",
+          "url": "https://x.com/WSJ/status/2058496392016896183",
+          "headline": "Employers seek nurse practitioners as hottest job in healthcare due to demand and lower costs.",
+          "body": "Employers are clamoring for workers who can do doctor-like work but who are trained faster and can cost them less.",
+          "engagement": "766K views",
+          "views": 765797
         },
         {
-          "handle": "BBCNews",
-          "url": "https://x.com/BBCNews/status/2058496505707639249",
-          "headline": "Judge spares teenage rapists jail time, sparking outrage from victim and attorney general review.",
-          "body": "A girl who was raped by two teenage boys has told the BBC that a judge's decision to spare them jail sentences was like a \"rock straight in my face\".\n\nThe attorney general is to review the sentence given by Judge Nicholas Rowland, who had said on Thursday he wanted to avoid \"criminalising\" the \"very young\" boys.\n\nRead more:",
-          "engagement": "95K views",
-          "views": 95980
+          "handle": "nytimes",
+          "url": "https://x.com/nytimes/status/2058581219059868043",
+          "headline": "Rep. Debbie Wasserman Schultz to run in new district after GOP redistricting.",
+          "body": "Rep. Debbie Wasserman Schultz, a Democrat from Florida, said on Friday that she would run in a majority-minority district after the GOP eliminated her seat under a newly drawn congressional map, stoking tensions with Black Democrats.",
+          "engagement": "122K views",
+          "views": 121743
         },
         {
-          "handle": "AP",
-          "url": "https://x.com/AP/status/2058352352503980543",
-          "headline": "Police storm Turkey opposition party offices firing tear gas and rubber bullets.",
-          "body": "BREAKING: Police stormed the offices of Turkey\u2019s main opposition CHP party, firing tear gas and rubber bullets at a crowd of party supporters and officials gathered outside the gates. https://apnews.com/article/turkey-opposition-chp-standoff-2eee5ef016ff6ac1eeda368aff7588e0?taid=6a12e7be3caffb0001216d37&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
-          "engagement": "191K views",
-          "views": 191238
+          "handle": "WSJ",
+          "url": "https://x.com/WSJ/status/2058628906857484452",
+          "headline": "Texas Senate primary runoff between John Cornyn and Ken Paxton seen as GOP future barometer.",
+          "body": "Texas Sen. John Cornyn\u2019s primary runoff against firebrand state Attorney General Ken Paxton this week is being closely watched as a barometer of the Republican Party\u2019s future in Texas and the country",
+          "engagement": "25K views",
+          "views": 24780
         }
       ]
     },
     "sports": {
       "stories": [
         {
-          "handle": "premierleague",
-          "url": "https://x.com/premierleague/status/2058573143581573220",
-          "headline": "Bruno Fernandes breaks Premier League assists record",
-          "body": "In a league of his own. \n\nBruno Fernandes breaks the record for the most assists in a Premier League season!",
+          "handle": "darrenrovell",
+          "url": "https://x.com/darrenrovell/status/2058623810249576596",
+          "headline": "Tatis Jr. paid out $35 million from $2M loan deal on MLB earnings.",
+          "body": "Tatis Jr. took a $2M loan that came in exchange for 10% of his lifetime MLB earnings.\n\nSo far, he will have paid out $35 million.",
+          "engagement": "1.1M views",
+          "views": 1110792
+        },
+        {
+          "handle": "mikedeportes",
+          "url": "https://x.com/mikedeportes/status/2058594301483831701",
+          "headline": "Fernando Tatis Jr. loses lawsuit over $2M loan tied to future MLB earnings.",
+          "body": "Fernando Tatis Jr. pierde demanda contra la empresa Big League Advance. Cuando era prospecto, Tatis recibi\u00f3 un pr\u00e9stamo de $2 millones a cambio del 10% de sus ganancias futuras en MLB y ahora le toca pagar. Con su contrato actual de $340 millones, deber\u00e1 desembolsar alrededor de $34 millones, m\u00e1s de $240 mil en honorarios legales y tambi\u00e9n el 10% de los $3.4 millones obtenidos en arbitraje. #FernandoTatisJr",
           "engagement": "1.7M views",
-          "views": 1684745
+          "views": 1661290
         },
         {
-          "handle": "FabrizioRomano",
-          "url": "https://x.com/FabrizioRomano/status/2058583710115459370",
-          "headline": "Bruno Fernandes hits 30 G/A this Premier League season",
-          "body": "3\ufe0f\u20e30\ufe0f\u20e3\u2728 Bruno Fernandes reaches 30 G/A in Premier League this season.\n\n21 assists, 9 goals.",
-          "engagement": "428K views",
-          "views": 427983
-        },
-        {
-          "handle": "premierleague",
-          "url": "https://x.com/premierleague/status/2058586110939308220",
-          "headline": "Mohamed Salah breaks another Premier League assists record",
-          "body": "Another @LFC record for Mohamed Salah. \ud83c\uddea\ud83c\uddec\ud83d\udc51\n\nIn his final match at Anfield he overtakes Steven Gerrard's Premier League assists total!",
-          "engagement": "195K views",
-          "views": 194679
+          "handle": "NBA",
+          "url": "https://x.com/NBA/status/2058343994526929168",
+          "headline": "Travis Kelce and Taylor Swift courtside at Knicks playoff game.",
+          "body": "Travis Kelce and Taylor Swift are courtside for Knicks/Cavaliers Game 3 \ud83d\udc40",
+          "engagement": "8.0M views",
+          "views": 7985044
         }
       ]
     },
@@ -265,8 +265,8 @@
           "url": "https://x.com/elonmusk/status/2058438480334664146",
           "headline": "Elon Musk shares video link",
           "body": "https://t.co/I5nhLtiD4z",
-          "engagement": "25.5M views",
-          "views": 25460115
+          "engagement": "30.8M views",
+          "views": 30796569
         },
         {
           "handle": "elonmusk",
@@ -275,54 +275,54 @@
           "body": "Restore Britain",
           "engagement": "10.5M views",
           "views": 10501584
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2058252485823750516",
-          "headline": "Elon Musk reposts Boring Company video on Prufrock mining machines and traffic solutions.",
-          "body": "Boring Company\u2019s goal is to solve traffic in cities and one day build Hyperloop high-speed transit between city centers",
-          "engagement": "12.5M views",
-          "views": 12531945
         }
       ]
     },
     "pods": {
       "stories": [
         {
+          "handle": "TheoVon",
+          "url": "https://x.com/TheoVon/status/2058441212206498066",
+          "headline": "Theo Von comments on peak entertainment from recent commentary event",
+          "body": "the @Ninadrama @SStricklandMMA @6ix9ine @ArmanUfc @adinross commentary tnite was peak entertainment. unreal. \ud83d\udc4f \ud83d\udc4f",
+          "engagement": "123K views",
+          "views": 123230
+        },
+        {
           "handle": "joeroganhq",
-          "url": "https://x.com/joeroganhq/status/2058296913565491523",
-          "headline": "Clip of Sam Harris commenting on Trump's performance",
-          "body": "Sam Harris on Trump: \"He's been better than many people could have hoped and certainly than really any Democrat would have been expected to be. It causes me a fair amount of pain to admit that, but I just think it's true.\"",
-          "engagement": "434K views",
-          "views": 434292
+          "url": "https://x.com/joeroganhq/status/2058390028242616705",
+          "headline": "Andrew Huberman quote on belief in God from studying the brain",
+          "body": "Andrew Huberman: \"I don\u2019t care if you\u2019re atheist, agnostic, or a believer \u2014 when you truly study the brain, neuroplasticity, and biology at the level I have, you have to step back and just say: Wow. I believe in God.\"",
+          "engagement": "42K views",
+          "views": 42456
         }
       ]
     },
     "pg6": {
       "stories": [
         {
-          "handle": "FilmUpdates",
-          "url": "https://x.com/FilmUpdates/status/2058276799117758955",
-          "headline": "Renate Reinsve wins Palme d\u2019Or at Cannes 2026",
-          "body": "Renate Reinsve\u2019s Cannes history: \u2022 2021 - \u2018THE WORST PERSON IN THE WORLD\u2019 (Best Actress Winner) \u2022 2024 - \u2018ARMAND\u2019 (Camera d\u2019Or) \u2022 2025 - \u2018SENTIMENTAL VALUE\u2019 (Grand Prix) \u2022 2026 - \u2018FJORD\u2019 (Palme d\u2019Or)",
-          "engagement": "524K views",
-          "views": 523602
+          "handle": "BuzzingPop",
+          "url": "https://x.com/BuzzingPop/status/2058564693799637406",
+          "headline": "Taylor Swift goes viral over her face card.",
+          "body": "Taylor Swift goes viral over her face card.",
+          "engagement": "916K views",
+          "views": 916962
         },
         {
-          "handle": "TheCinesthetic",
-          "url": "https://x.com/TheCinesthetic/status/2058502433429766524",
-          "headline": "Scarlett Johansson performing with the Pussycat Dolls in 2004",
-          "body": "Scarlett Johansson performing with the Pussycat Dolls at the Viper Room in West Hollywood, 2004",
-          "engagement": "60.6K views",
-          "views": 60579
+          "handle": "PopCrave",
+          "url": "https://x.com/PopCrave/status/2058600352509841707",
+          "headline": "\u2018The Devil Wears Prada 2\u2019 has surpassed $600 million at the global box office.",
+          "body": "\u2018The Devil Wears Prada 2\u2019 has surpassed $600 million at the global box office.",
+          "engagement": "119K views",
+          "views": 119640
         },
         {
-          "handle": "Ishmenon",
-          "url": "https://x.com/Ishmenon/status/2058539707966115999",
-          "headline": "Old Hollywood inspired look with multiple photos",
-          "body": "Channelling timeless old Hollywood      \ud83c\udfac\ud83e\udd40\ud83e\udd42",
-          "engagement": "15.4K views",
-          "views": 15358
+          "handle": "HollywoodHandle",
+          "url": "https://x.com/HollywoodHandle/status/2058569368930258947",
+          "headline": "\u2018THE MANDALORIAN AND GROGU\u2019 crossed $140M globally.",
+          "body": "\u2018THE MANDALORIAN AND GROGU\u2019 crossed $140M globally. Budget was $165M.",
+          "engagement": "127K views",
+          "views": 127400
         }
       ]
     },
@@ -345,17 +345,25 @@
           "views": 286821
         },
         {
-          "handle": "tetsublogorg",
-          "url": "https://x.com/tetsublogorg/status/2058352785977225240",
-          "headline": "Japanese post quizzing on which vegetable to store in fridge vs vegetable drawer.",
-          "body": "\u3010\u554f\u984c\u3011\n\u3053\u306e\u4e2d\u3067\u91ce\u83dc\u5ba4\u3067\u306f\u306a\u304f\u7d76\u5bfe\u306b\u51b7\u8535\u5ba4\u3067\u4fdd\u5b58\u3059\u308b\u3079\u304d\u3082\u306e\u304c\u3042\u308a\u307e\u3059\u3002\n\n\u3069\u308c\uff1f\n\n1. \u3082\u3084\u3057\n2. \u306a\u3059\n3. \u30c8\u30de\u30c8\n4. \u304d\u3085\u3046\u308a\n\n\u30ea\u30d7\u3067\u7b54\u3048\u3066\uff01\uff01",
-          "engagement": "267K views",
-          "views": 267863
+          "handle": "gourmetroad5",
+          "url": "https://x.com/gourmetroad5/status/2058496122847650301",
+          "headline": "New Seven-Eleven oil soba launch with vinegar and chili oil.",
+          "body": "\uff15\u6708\uff12\uff17\u65e5\u3088\u308a\u30bb\u30d6\u30f3\u30a4\u30ec\u30d6\u30f3\u304b\u3089\u3001\u5225\u6dfb\u306e\u7c73\u9162\u3068\u30e9\u30fc\u6cb9\u3067\u5473\u5909\u304c\u697d\u3057\u3081\u308b\u3001\u91a4\u6cb9\u30d9\u30fc\u30b9\u306e\u6fc3\u539a\u306a\u30bf\u30ec\u3092\u6975\u592a\u9eba\u306b\u7d61\u3081\u3066\u5473\u308f\u3046\u6cb9\u305d\u3070\u300c\u6975\u592a\u9eba\u3000\u6fc3\u539a\u91a4\u6cb9\u306e\u6cb9\u305d\u3070\u300d\u304c\u65b0\u767a\u58f2\u3055\u308c\u307e\u3059\u2728",
+          "engagement": "191K views",
+          "views": 191020
         }
       ]
     },
     "science": {
       "stories": [
+        {
+          "handle": "ScienceFocusonX",
+          "url": "https://x.com/ScienceFocusonX/status/2058329998285476143",
+          "headline": "Korean scientists reverse colon cancer cells into healthy ones using gene network switches.",
+          "body": "They didn't kill the cancer. They told it to go home. A team of Korean scientists at KAIST just pulled off something that sounds like science fiction. Instead of nuking colon cancer cells with chemo or radiation, they convinced them to turn back into normal, healthy colon cells. No killing. No collateral damage. Just a quiet U-turn at the cellular level. Here's how it works. Led by Professor Kwang-Hyun Cho at the Department of Bio and Brain Engineering, the team built a \"digital twin\" of the gene network that controls how a normal cell becomes cancerous. They ran simulations. They hunted for the exact moment a healthy cell flips into a malignant one. Then they found the switches. Three master regulator genes \u2014 MYB, HDAC2, and FOXA2 \u2014 were the keys to the whole transformation. Flip those switches back, and the cancer cell stops behaving like a cancer cell. It starts looking and acting like a normal enterocyte, the kind of cell that lines a healthy intestine. No gene editing. No permanent rewiring. Just the body's own natural signals, used in reverse. The team confirmed it in molecular experiments, cellular experiments, and animal studies. The malignant cells stopped multiplying out of control and went back to doing their actual job. The research has already been handed off to a company called BioRevert Inc. to develop into real-world treatments. This isn't a cure tomorrow. But it rewrites the entire playbook for how we think about cancer. You don't always have to destroy the enemy. Sometimes you just have to remind it who it used to be. Source: KAIST / Advanced Science (Gong et al., 2024) via ScienceDaily and OncoDaily",
+          "engagement": "485K views",
+          "views": 484892
+        },
         {
           "handle": "XFreeze",
           "url": "https://x.com/XFreeze/status/2058370643192594681",
@@ -371,14 +379,6 @@
           "body": "Monarch butterflies make one of the most extraordinary migrations in the natural world, often traveling thousands of miles across North America. Now, scientists are using new tracking technology to get a greater understanding of those journeys. https://www.pbs.org/newshour/show/scientists-use-new-technology-to-track-individual-monarch-butterfly-migrations",
           "engagement": "4.4K views",
           "views": 4400
-        },
-        {
-          "handle": "NextScience",
-          "url": "https://x.com/NextScience/status/2058378607760646539",
-          "headline": "French doctors implant lab-grown human trachea made from patient's stem cells.",
-          "body": "\ud83d\udea8 SCIENTISTS GREW A HUMAN AIRWAY USING STEM CELLS\n\nA medical breakthrough in France is turning science fiction into reality.\nDoctors successfully created a living human trachea using a patient\u2019s own stem cells and implanted it into the body. The lab-grown airway was built on a donor trachea scaffold, then slowly transformed into living tissue the body could recognize as its own.\n\nAfter surgery, blood vessels grew into the implant and the patient was able to breathe through the regenerated airway.\nThis technology could one day save people suffering from severe airway damage caused by cancer, trauma, or long-term ventilation.\n\nSource :\u2028Institut Pasteur & H\u00f4pital Foch. Medical research on tissue-engineered tracheal reconstruction and regenerative airway transplantation.",
-          "engagement": "3670 views",
-          "views": 3670
         }
       ]
     },
@@ -386,39 +386,39 @@
       "stories": [
         {
           "handle": "OCFireAuthority",
-          "url": "https://x.com/OCFireAuthority/status/2058283804427444506",
-          "headline": "OCFA officials address explosion concerns and evacuation zones for Garden Grove chemical tank incident",
-          "body": "There is understandable concern about an explosion as one of the possible outcomes. OCFA Division Chief Nick Freeman and Dr. CK, the Orange County Health Officer, provide an operational and health care perspective on the evacuation zones that account for that possibility.",
-          "engagement": "270K views",
-          "views": 270509
-        },
-        {
-          "handle": "OCFireAuthority",
-          "url": "https://x.com/OCFireAuthority/status/2058281399745208773",
-          "headline": "OCFA provides update on Garden Grove chemical tank evacuation zones and risks.",
-          "body": "There is understandable concern about an explosion as one of the possible outcomes. OCFA Division Chief Nick Freeman and Dr. CK, the Orange County Health Officer, provide an operational and health care perspective on the evacuation zones that account for that possibility.",
-          "engagement": "259K views",
-          "views": 258729
-        },
-        {
-          "handle": "OCFireAuthority",
           "url": "https://x.com/OCFireAuthority/status/2058352023993729131",
           "headline": "OCFA provides latest critical incident update on Orange County chemical emergency",
           "body": "***CRITICAL INCIDENT UPDATE**",
           "engagement": "170K views",
           "views": 169600
+        },
+        {
+          "handle": "Cal_OES",
+          "url": "https://x.com/Cal_OES/status/2058302608146833716",
+          "headline": "Orange County residents can access city-specific emergency updates, shelter information, and local guidance related to the Governor\u2019s State of Emergency on the chemical incident in Garden Grove.",
+          "body": "\u26a0\ufe0f Orange County residents can access city-specific emergency updates, shelter information, and local guidance related to the Governor\u2019s State of Emergency on the chemical incident in Garden Grove.\n\nFind your city\u2019s emergency updates here:",
+          "engagement": "23K views",
+          "views": 23374
         }
       ]
     },
     "conspiracy": {
       "stories": [
         {
-          "handle": "AskaPol_UAPs",
-          "url": "https://x.com/AskaPol_UAPs/status/2058286270816854362",
-          "headline": "Rep. Tim Burchett says Pentagon UFO releases making disclosure mainstream",
-          "body": "NEW EXCLUSIVE:\nIs Pentagon\u2019s release of UFO files waking Congress up? \u201cAbsolutely,\u201d Burchett tells us. \"Been great\u201d\n\nAsk a Pol UAP asks:\nSince the Pentagon started releasing the \u2018UFO files,\u2019 have other members of Congress been talking to you more about it? Like, has it made it a little more mainstream?\n\nKey Burchett:\n\u201cYeah. Oh, absolutely,\u201d Rep. Tim Burchett exclusively tells Ask a Pol UAP.\n \u201dThanks to y\u2019all, people like yourself, it\u2019s been great.\u201d\n\nWhat\u2019s next? Another hearing?\n\u201cWe\u2019ve had enough hearings. We just need disclosure,\u201d Burchett says.",
-          "engagement": "48.6K views",
-          "views": 48624
+          "handle": "WSJ",
+          "url": "https://x.com/WSJ/status/2058638766013661682",
+          "headline": "AI can sometimes talk people out of conspiracy theories.",
+          "body": "AI can sometimes talk people out of conspiracy theories. Humans can learn something from how that works.",
+          "engagement": "19.6K views",
+          "views": 19615
+        },
+        {
+          "handle": "SMQKEDQG",
+          "url": "https://x.com/SMQKEDQG/status/2058484771697643530",
+          "headline": "Conspiracy theories and doomer narratives often signal market bottoms.",
+          "body": "\u201cHistorically, periods dominated by CONSPIRACY THEORIES and DOOMER NARRATIVES have often coincided with cyclical BOTTOMS rather than structural suppression.\u201d\ud83d\udcaf",
+          "engagement": "11.2K views",
+          "views": 11168
         },
         {
           "handle": "RogerJStoneJr",
@@ -441,23 +441,23 @@
           "views": 1297281
         },
         {
-          "handle": "yoxics",
-          "url": "https://x.com/yoxics/status/2058249273133904380",
-          "headline": "Comedy clip of Marlon reacting to kids moaning names on a train",
-          "body": "Marlon was uncomfortable after a group of kids in Greece started moaning Yonna and Marta Diaz's name on a train he was on despite having a girlfriend who he is public with \ud83d\ude33 \"chill out that sh*t is not funny bro\"",
-          "engagement": "624K views",
-          "views": 624317
+          "handle": "tboydirtbag",
+          "url": "https://x.com/tboydirtbag/status/2058537675691323528",
+          "headline": "Joke about Germans reacting to humor",
+          "body": "god forbid u try to make a joke to a german person",
+          "engagement": "500K views",
+          "views": 500243
         },
         {
-          "handle": "peruvian_bull",
-          "url": "https://x.com/peruvian_bull/status/2058309160245264546",
-          "headline": "The funny part is he's right meme",
-          "body": "the funny part is, he's right",
-          "engagement": "504K views",
-          "views": 504524
+          "handle": "LetsGoGifs",
+          "url": "https://x.com/LetsGoGifs/status/2058393852806066267",
+          "headline": "Green screen clip shared for meme creation",
+          "body": "If anyone needs the clueless reporter Green Screen, here is it, for all your meme making purposes:",
+          "engagement": "1.07M views",
+          "views": 1066002
         }
       ]
     }
   },
-  "last_updated": "2026-05-24T17:02:08.732145"
+  "last_updated": "2026-05-24T20:56:58.523397"
 }
