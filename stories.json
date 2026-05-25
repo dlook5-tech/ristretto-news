@@ -3,17 +3,56 @@
     "world": {
       "stories": [
         {
-          "headline": "Heatwave hits 31\u00b0C and London transport descends into chaos",
-          "url": "https://x.com/CrimeLdn/status/2058579553044357546",
-          "handle": "CrimeLdn",
+          "headline": "Turkish police evict ousted opposition leaders from party headquarters",
+          "url": "https://x.com/Reuters/status/2058566188226203745",
+          "handle": "Reuters",
           "perspectives": [
             {
               "label": "Independent",
-              "handle": "CrimeLdn",
-              "url": "https://x.com/CrimeLdn/status/2058579553044357546",
-              "body": "heatwave hits 31\u00b0C and London transport descends into chaos again. Packed platforms, blocked entrances, unbearable tube temperatures ( dinendra_haria )",
-              "engagement": "2556 likes",
-              "views": 470939
+              "handle": "Reuters",
+              "url": "https://x.com/Reuters/status/2058566188226203745",
+              "body": "Turkish riot police fired tear gas and forced their way into the main opposition party's headquarters to evict its ousted leadership, deepening a crisis at the heart of Turkey's democracy",
+              "engagement": "9.5K likes",
+              "views": 725293
+            },
+            {
+              "label": "Conservative",
+              "handle": "koshercockney",
+              "url": "https://x.com/koshercockney/status/2058847606663434470",
+              "body": "Erdogan just being corrupt as fuck once again. He wants his Islamist dictatorship to be permanent. Turkey will end up like every other country where Islamic extremists eliminated any kind of opposition and killed democracy.",
+              "engagement": "1.2K likes",
+              "views": 22967
+            },
+            {
+              "label": "Democrat",
+              "handle": "democrats_eu",
+              "url": "https://x.com/democrats_eu/status/2058813153777995846",
+              "body": "Yesterday, \u00d6zg\u00fcr \u00d6zel, leader of Turkey\u2019s main opposition party, removed from his role through a decision widely seen as driven by Erdo\u011fan\u2019s grip on the judiciary, marched to Parliament in Ankara under the rain. ... Erdo\u011fan is choking democratic choice.",
+              "engagement": "6.5K likes",
+              "views": 106454
+            }
+          ]
+        },
+        {
+          "headline": "PM Modi\u2019s five-nation tour secures $40 billion investment pipeline for India",
+          "url": "https://x.com/NewsAlgebraIND/status/2058767514914455616",
+          "handle": "NewsAlgebraIND",
+          "perspectives": [
+            {
+              "label": "Independent",
+              "handle": "NewsAlgebraIND",
+              "url": "https://x.com/NewsAlgebraIND/status/2058767514914455616",
+              "body": "HUGE \ud83d\udea8 PM Modi\u2019s five-nation tour secures $40 billion investment pipeline for India.",
+              "engagement": "8.5K likes",
+              "views": 82129
+            },
+            {
+              "label": "Conservative",
+              "handle": "chasing_highs",
+              "url": "https://x.com/chasing_highs/status/2058361133757850020",
+              "body": "Cost of Trump's invite to Modi : $500 Billion",
+              "engagement": "2.7K likes",
+              "views": 34387
             }
           ]
         }
@@ -22,79 +61,40 @@
     "usa": {
       "stories": [
         {
-          "headline": "Trump administration advances Iran nuclear negotiations and deal talks",
-          "url": "https://x.com/realDonaldTrump/status/2057968277062582378",
-          "handle": "realDonaldTrump",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "realDonaldTrump",
-              "url": "https://x.com/realDonaldTrump/status/2057968277062582378",
-              "body": "https://t.co/LU644jFVH2",
-              "engagement": "881K likes",
-              "views": 90023746
-            },
-            {
-              "label": "Independent",
-              "handle": "KobeissiLetter",
-              "url": "https://x.com/KobeissiLetter/status/2058613648503832958",
-              "body": "BREAKING: President Trump releases a statement on the Iran deal.",
-              "engagement": "2.4K likes",
-              "views": 219227
-            },
-            {
-              "label": "Democrat",
-              "handle": "RepJeffries",
-              "url": "https://x.com/RepJeffries/status/2058584202321260862",
-              "body": "Republicans own this reckless war of choice in Iran. And the out of control gas prices crushing the American people. You deserve better.",
-              "engagement": "1.1K likes",
-              "views": 48964
-            }
-          ]
-        },
-        {
-          "headline": "Trump announces largely negotiated US-Iran agreement",
-          "url": "https://x.com/WhiteHouse/status/2058287270373855556",
+          "headline": "President Trump leads Memorial Day wreath-laying at Arlington National Cemetery",
+          "url": "https://x.com/WhiteHouse/status/2058959791054082252",
           "handle": "WhiteHouse",
           "perspectives": [
             {
               "label": "Conservative",
               "handle": "WhiteHouse",
-              "url": "https://x.com/WhiteHouse/status/2058287270373855556",
-              "body": "\ud83d\udea8 \"An Agreement has been largely negotiated, subject to finalization between the United States of America, the Islamic Republic of Iran, and the various other Countries, as listed...\" - President Donald J. Trump",
-              "engagement": "67K likes",
-              "views": 6774374
+              "url": "https://x.com/WhiteHouse/status/2058959791054082252",
+              "body": "GOD BLESS THE UNITED STATES MILITARY AND ALL OF OUR FALLEN SOLDIERS \ud83c\uddfa\ud83c\uddf8\u2764\ufe0f",
+              "engagement": "2.5K likes",
+              "views": 33698
             },
             {
               "label": "Independent",
-              "handle": "BRICSinfo",
-              "url": "https://x.com/BRICSinfo/status/2058597804071661918",
-              "body": "JUST IN: \ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Iranian state media says there is a possibility the US-Iran draft agreement will be canceled.",
-              "engagement": "6.8K likes",
-              "views": 506108
+              "handle": "cspan",
+              "url": "https://x.com/cspan/status/2058957007722312102",
+              "body": "President Trump Wreath Laying at Arlington National Cemetery (@ArlingtonNatl).",
+              "engagement": "25 likes",
+              "views": 2975
             }
           ]
         },
         {
-          "headline": "Bernie Sanders rallies in Maine for Graham Platner campaign",
-          "url": "https://x.com/BernieSanders/status/2058601198026981818",
-          "handle": "BernieSanders",
+          "headline": "Newly released FBI documents claim DNC planned to overthrow government on January 6",
+          "url": "https://x.com/Real_RobN/status/2058779924090302728",
+          "handle": "Real_RobN",
           "perspectives": [
             {
-              "label": "Democrat",
-              "handle": "BernieSanders",
-              "url": "https://x.com/BernieSanders/status/2058601198026981818",
-              "body": "On our way to Bangor, Maine for a rally with @grahamformaine. The crises facing our country are too serious for establishment politics and tinkering around the edges. We need candidates like Graham who will take on the greed of the oligarchs and deliver for working families.",
-              "engagement": "2.1M views",
-              "views": 2188703
-            },
-            {
               "label": "Conservative",
-              "handle": "ScottPresler",
-              "url": "https://x.com/ScottPresler/status/2058563446623391871",
-              "body": "\ud83d\udea8Texas Senate Election is NOT Over\ud83d\udea8 While President Trump has endorsed Ken Paxton, we still need Texans to get out & vote.",
-              "engagement": "111K views",
-              "views": 111831
+              "handle": "Real_RobN",
+              "url": "https://x.com/Real_RobN/status/2058779924090302728",
+              "body": "Here it is: A seditious conspiracy to disrupt the official proceedings of the United States Congress and the overthrow of the United States government. \ud83d\udea8Newly hidden FBI documents released by @FBIDirectorKash CONFIRM: Not only did the FBI staged January 6 five months before it even happened the DNC planned \u2014to overthrow the United States government on January 6.",
+              "engagement": "7.1K likes",
+              "views": 78442
             }
           ]
         }
@@ -102,6 +102,14 @@
     },
     "business": {
       "stories": [
+        {
+          "handle": "REDBOXINDIA",
+          "url": "https://x.com/REDBOXINDIA/status/2058909653644542435",
+          "headline": "Indian Finance Minister open to reviewing tax system based on stock market investor input",
+          "body": "FINANCE MINISTER NIRMALA SITHARAMAN SAYS GOVT IS OPEN TO RE-EVALUATING TAX SYSTEM, WILL LISTEN TO STOCK MARKET INVESTORS\u2019 DEMANDS AND INPUTS",
+          "engagement": "599K views",
+          "views": 599422
+        },
         {
           "handle": "KobeissiLetter",
           "url": "https://x.com/KobeissiLetter/status/2058681496223855027",
@@ -117,14 +125,6 @@
           "body": "$LPK turned out pretty well.",
           "engagement": "142K views",
           "views": 141885
-        },
-        {
-          "handle": "unusual_whales",
-          "url": "https://x.com/unusual_whales/status/2058896112480821346",
-          "headline": "Russia's economy is much worse than it seems with elites alarmed.",
-          "body": "Russia\u2019s economy is much worse than it seems, and \u2018elites are increasingly alarmed,' per FORTUNE",
-          "engagement": "87K views",
-          "views": 87012
         }
       ]
     },
@@ -139,12 +139,12 @@
           "views": 1284377
         },
         {
-          "handle": "aviationbrk",
-          "url": "https://x.com/aviationbrk/status/2058593929646248017",
-          "headline": "Video of paraglider collision with plane in Austria.",
-          "body": "\ud83d\udea8 WATCH: A paraglider gets hit by a Cessna 172 near the Austrian town of Zell am See.\n\nThe paraglider was able to pull her rescue parachute and land safely shortly after the incident on Saturday.\n\nAccording to police, the 44-year-old Austrian had started from Schmittenh\u00f6he in the direction of Piesendorf. Above the Pinzgauer H\u00fctte, she collided at 1:15 p.m. with the Cessna piloted by a 28-year-old.\n\nThe pilot of the Cessna, which flew from the Glemm Valley in the direction of Zell am See, was able to land the aircraft safely at Zell am See Airport.\n\nVideo: sab_thi",
-          "engagement": "1M views",
-          "views": 1037159
+          "handle": "koba_nikkan",
+          "url": "https://x.com/koba_nikkan/status/2058930820774240657",
+          "headline": "Baseball manager's car departs police station in Shibuya",
+          "body": "\u3010\u901f\u5831\u3011\n\u4eca\u3001\u963f\u90e8\u614e\u4e4b\u52a9\u76e3\u7763\u3092\u4e57\u305b\u305f\u3068\u898b\u3089\u308c\u308b\u8eca\u304c\u6e0b\u8c37\u8b66\u5bdf\u7f72\u3092\u51fa\u767a\u3057\u307e\u3057\u305f",
+          "engagement": "1.2M views",
+          "views": 1219588
         },
         {
           "handle": "premierleague",
@@ -187,28 +187,12 @@
     "sports": {
       "stories": [
         {
-          "handle": "premierleague",
-          "url": "https://x.com/premierleague/status/2058597270895862234",
-          "headline": "Premier League 2025/26 season concludes.",
-          "body": "The Premier League season is complete.",
-          "engagement": "2.79M views",
-          "views": 2786284
-        },
-        {
           "handle": "BleacherReport",
           "url": "https://x.com/BleacherReport/status/2058720721455485366",
           "headline": "Wemby hits half-court shot in Game 4.",
           "body": "WEMBY FROM HALF COURT WHY NOT LET IT FLYYYY \ud83d\udd25\ud83d\udd25\ud83d\udd25",
           "engagement": "1.66M views",
           "views": 1663068
-        },
-        {
-          "handle": "premierleague",
-          "url": "https://x.com/premierleague/status/2058604961852735498",
-          "headline": "Premier League awards Bruno Fernandes Playmaker of the season",
-          "body": "A record season \ud83e\udd29\n\nBruno Fernandes picks up the Coca-Cola Playmaker award \ud83c\udfc6",
-          "engagement": "2.3M views",
-          "views": 2333852
         }
       ]
     },
@@ -224,14 +208,6 @@
         },
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2058563554161172843",
-          "headline": "Elon Musk posts a video link",
-          "body": "https://t.co/6FLU7czkNX",
-          "engagement": "30.8M views",
-          "views": 30757858
-        },
-        {
-          "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2058784357003780479",
           "headline": "Elon Musk replies about Grok Build updates.",
           "body": "The team is gathering speed",
@@ -243,33 +219,33 @@
     "pods": {
       "stories": [
         {
-          "handle": "lennysan",
-          "url": "https://x.com/lennysan/status/2058591865205866826",
-          "headline": "Lenny Rachitsky announces new AI podcast episode with Dan Shipper.",
-          "body": "Automation is a lie. CLIs are over. The SaaSpocalypse is dumb.\n\nA year ago @danshipper came on the podcast to predict where AI was heading. He was remarkably right\u2014including the call that everyone was sleeping on Claude Code.\n\nDan has a unique lens into where things are going because his team at @every is possibly the most AI-pilled group of people in tech. I always learn a ton talking to Dan.\n\nSo I brought him back for round two. We'll score these in exactly a year:\n\ud83d\udd38 Every company will have one \u201csuper-agent\u201d in Slack.\n\ud83d\udd38 Codex and Claude Code will become the new operating system for knowledge work.\n\ud83d\udd38 The AI job apocalypse is not happening.\n\ud83d\udd38 PMs and designers will thrive.\n\ud83d\udd38 We will read way more AI-generated writing and we will like it.\n\ud83d\udd38 \"I would buy SaaS stocks right now.\"\n\nListen now \ud83d\udc47",
-          "engagement": "955K views",
-          "views": 955659
+          "handle": "hubermanlab",
+          "url": "https://x.com/hubermanlab/status/2058928471855005701",
+          "headline": "Huberman announces new episode with Jeff Cavaliere on muscle building and posture.",
+          "body": "The new Huberman Lab episode is out: Build Muscle, Great Posture & Resilience to Injury | Jeff Cavaliere\n0:00 Jeff Cavaliere\n2:43 Lower Back, Back Pain\n10:06 Tool: Exercises for Lower Back Pain & Strengthen Glutes\n15:29 Sponsors: David & Our Place\n18:05 Walking Exercises to Strengthen Glutes\n23:23 Small Focused Exercises & Timing; Workout Soreness & Pain\n27:08 Tools: \"Old Man\" Test, Functional Strength Tests\n35:08 Sports, Movement Imbalance\n40:57 Tool: Training Like An Athlete\n46:44 Sponsor: AG1\n48:28 Inner Elbow Pain, Tool: Grip Modification\n54:21 Shoulder, Rotator Cuff Training, Tool: External Rotation Exercise\n1:06:50 Tool: Neck Training; Women, Posture\n1:15:20 Longevity, Strength & Agility; Pain & Construction Zone Analogy\n1:19:50 Sponsor: Joovv\n1:21:12 Cardio, Bike, Jumping Rope; Fat Loss: Zone 2 or HIIT?\n1:29:27 Nutrition, Tools: Calorie Counting; Plate Method\n1:40:18 Foot Stability, Tool: Foot Strength Test; Longevity\n1:48:15 Sponsor: Function\n1:49:53 Warm-Up Sets; Reps in Reserve or Train to Failure?; Work Sets\n2:00:30 Training Frequency; Tool: Real-Life Constraints, Split the Splits\n2:13:58 Zero-Cost Support, YouTube, Spotify & Apple Follow, Reviews & Feedback, Sponsors, Protocols Book, Social Media, Neural Network Newsletter\n\nIncludes paid partnerships.",
+          "engagement": "68K views",
+          "views": 68565
         },
         {
-          "handle": "rBillSimmonsPod",
-          "url": "https://x.com/rBillSimmonsPod/status/2058613170529313121",
-          "headline": "r/BillSimmons Podcast shares post about journalists entering video podcasting.",
-          "body": "https://t.co/W11lUg4TcV",
-          "engagement": "497K views",
-          "views": 497510
-        },
-        {
-          "handle": "iluminatibot",
-          "url": "https://x.com/iluminatibot/status/2058578830810620259",
-          "headline": "Clip of Joe Rogan and Theo Von joking about nuclear weapons and Israel",
-          "body": "Joe Rogan: \"I dont think anybody should have nuclear weapons.\"\n\nTheo Von: \"Israel gets to have them.\" \n\nJoe Rogan: \"Allegedly.\"\n\nTheo Von: \"Everything is allegedly with them. Except for the genocide.\"",
-          "engagement": "100K views",
-          "views": 100909
+          "handle": "hubermanlab",
+          "url": "https://x.com/hubermanlab/status/2058929547404513764",
+          "headline": "Huberman elaborates on small daily exercises for posture and strength from new episode.",
+          "body": "The small things everyone should do at every age to ensure you can do the big things that really move the needle for the health and longevity of your body. And directly improve your posture and make you stronger too. @trainer2thepros on Huberman Lab podcast out now.",
+          "engagement": "38K views",
+          "views": 38813
         }
       ]
     },
     "pg6": {
       "stories": [
+        {
+          "handle": "milk_info",
+          "url": "https://x.com/milk_info/status/2058872775411154957",
+          "headline": "M!LK announces 'Sukisugite Metsu!' MV surpasses 100 million views",
+          "body": "\u2763\ufe0f\u2763\ufe0f\u2763\ufe0f\u2763\ufe0f\u2763\ufe0f\nM!LK\u300c\u597d\u304d\u3059\u304e\u3066\u6ec5\uff01\u300d\nMV\u518d\u751f\u56de\u6570 1\u5104\u56de\u7a81\u7834\ud83c\udf89\n\u2763\ufe0f\u2763\ufe0f\u2763\ufe0f\u2763\ufe0f\u2763\ufe0f\n\n\u307f\uff01\u308b\u304d\u30fc\u305a\u306e\u7686\u3055\u307e\u306e\u304a\u304b\u3052\u3067\u3059\uff01\n\u305f\u304f\u3055\u3093\u306e\u3054\u8996\u8074\u3001\u30b3\u30e1\u30f3\u30c8\u3092\u3044\u305f\u3060\u304d\u3001\n\u672c\u5f53\u306b\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\uff01\uff01\uff01\uff01\uff01\n\n\ud83d\udcf9MUSIC VIDEO\n\ud83d\udd17 https://www.youtube.com/watch?si=58_7m07jbgO0f3Ui&v=ZVUxJsPfoX8&feature=youtu.be\n\n#\u597d\u304d\u3059\u304e\u3066\u6ec5\n#MILK",
+          "engagement": "1.7M views",
+          "views": 1700616
+        },
         {
           "handle": "AboutMusicYT",
           "url": "https://x.com/AboutMusicYT/status/2058835463943733691",
@@ -279,20 +255,12 @@
           "views": 255786
         },
         {
-          "handle": "SpidermanMovieJ",
-          "url": "https://x.com/SpidermanMovieJ/status/2058744876251103435",
-          "headline": "New Spider-Man: Brand New Day movie promo image released.",
-          "body": "\u4e16\u754c\u304c\u50d5\u3092\u5fd8\u308c\u3066\u3082\u2500\u2500 \u300e\u30b9\u30d1\u30a4\u30c0\u30fc\u30de\u30f3\uff1a\u30d6\u30e9\u30f3\u30c9\u30fb\u30cb\u30e5\u30fc\u30fb\u30c7\u30a4\u300f 7\u670831\u65e5(\u91d1) \uff1c\u65b0\u7ae0\u958b\u5e55\uff1e #\u3044\u307e\u5927\u3044\u306a\u308b\u529b\u304c\u76ee\u899a\u3081\u308b",
-          "engagement": "252K views",
-          "views": 251592
-        },
-        {
-          "handle": "aespa_official",
-          "url": "https://x.com/aespa_official/status/2058782650085802129",
-          "headline": "aespa's Karina in W Korea with CHANEL Beauty.",
-          "body": "W Korea with KARINA X CHANEL Beauty\n\n#aespa #\u00e6spa #\uc5d0\uc2a4\ud30c\n#KARINA #\uce74\ub9ac\ub098 \n#wkorea\n#CHANELBeauty #\uc0e4\ub12c\ubdf0\ud2f0 #\uc0e4\ub12c\uba54\uc774\ud06c\uc5c5",
-          "engagement": "138K views",
-          "views": 138216
+          "handle": "PopBase",
+          "url": "https://x.com/PopBase/status/2058910970936697209",
+          "headline": "Michael Jackson's 'Billie Jean' tops Global Spotify chart for 9th day",
+          "body": "\u2018Billie Jean\u2019 by Michael Jackson remains at #1 on the Global Spotify chart with 5.59 million streams.\n\nIt has now spent 9 days at #1.",
+          "engagement": "64K views",
+          "views": 64492
         }
       ]
     },
@@ -307,32 +275,40 @@
           "views": 2055927
         },
         {
-          "handle": "mapo_nongsusan",
-          "url": "https://x.com/mapo_nongsusan/status/2058882750380449843",
-          "headline": "Korean account posts about enjoying fresh fish and spicy noodles after a festival.",
-          "body": "\ud568\uc548 \ub099\ud654\ub180\uc774\ub97c \ub2e4\ub140\uc654\uc2b5\ub2c8\ub2e4 ^ ^\n\ubd88\uaf43\uc774 \ud3ec\ub974\ub974\n\uc0b4\uc544\uc0dd\uc804 \uc774\ub807\uac8c \uc544\ub984\ub2e4\uc6b4 \uad11\uacbd\uc744 \ubcf8 \uc801\uc774 \uc5c6\uc5b4\uc694..\n\uc606\ub3d9\ub124 \ub9c8\uc0b0\uc73c\ub8e8 \ub118\uc5b4\uac00\uc11c\n\uc81c\ud53c\uac00\ub8e8 \ub4ec\ubfcd\ub123\uc740 \ucd08\uc7a5 \ud3ed \ucc0d\uc5b4\uba39\ub294 \ud5a5\uc5b4\ud68c\uc5d0\n\uc9ec\ubf55\uc778\ub4ef \uc544\ub2cc\ub4ef,.\n\uc5bc\ud070\ud55c \uc804\ubcf5\uad6d\uc218\ub450 \ud55c\uadf8\ub987 \ud558\uad6c\uc694..\n\uafc8\ub9cc\uac19\uc740 \uc2dc\uac04\uc744 \ubcf4\ub0b4\uad6c \uc654\ub124\uc694 . .\n\ud589\ubcf5\ud558\uc138\uc694, \uc800\ub3c4 \ud589\ubcf5\ud560\uac8c\uc694.,",
-          "engagement": "44.9K views",
-          "views": 44882
+          "handle": "livedoornews",
+          "url": "https://x.com/livedoornews/status/2058725991170576732",
+          "headline": "Lawson launches oversized food challenges with extra portions",
+          "body": "\u3010\u767a\u8868\u3011\u30ed\u30fc\u30bd\u30f3\u300c\u8d85\u30cf\u30c3\u30d4\u30fc\u3059\u304e\uff01\u30c1\u30e3\u30ec\u30f3\u30b8\u300d\u59cb\u52d5 \u300c\u76db\u308a\u3059\u304e\u30c1\u30e3\u30ec\u30f3\u30b8\u300d\u306f51\uff05\u5897\u91cf\nhttps://news.livedoor.com/article/detail/31363145/\n\n\u65b0\u305f\u306b2\u5546\u54c1\u3092\u7d44\u307f\u5408\u308f\u305b\u305f\u300c\u5408\u308f\u305b\u3059\u304e\u30c1\u30e3\u30ec\u30f3\u30b8\u300d\u3084\u3001\u5473\u3092\u6fc3\u304f\u3057\u305f\u300c\u6fc3\u3059\u304e\u30c1\u30e3\u30ec\u30f3\u30b8\u300d\u306a\u3069\u3082\u767b\u5834\u3002\u307e\u305f\u30016\u67083\u65e5\u306e\u300c\u30ed\u30fc\u30bd\u30f3\u306e\u65e5\u300d\u306b\u306f\u3001\u7d0463\uff05\u5897\u91cf\u5546\u54c1\u3082\u767a\u58f2\u3059\u308b\u3002",
+          "engagement": "788K views",
+          "views": 788112
         },
         {
-          "handle": "redpropriety",
-          "url": "https://x.com/redpropriety/status/2058733785122807950",
-          "headline": "Photo of a dish with caption 'Always cooking.'",
-          "body": "Always cooking.",
-          "engagement": "79K views",
-          "views": 79047
+          "handle": "syunkon0507",
+          "url": "https://x.com/syunkon0507/status/2058838494672490687",
+          "headline": "Cookpad Plus summer issue features easy noodle recipes",
+          "body": "\u3010\u672c\u65e5\u767a\u58f2\u3011 #\u30af\u30c3\u30af\u30d1\u30c3\u30c9\u30d7\u30e9\u30b9 2026\u5e74\u590f\u53f7\u306b\u3066\u3001\u590f\u306e\u30e9\u30af\u3046\u307e\u9eba\u30922\u54c1\u7d39\u4ecb\u3057\u3066\u307e\u3059\u203c\ufe0f\n\n\uff1c\u7279\u5225\u4ed8\u9332\uff1e\n\u901a\u5e38\u53f7\uff1a\u30b9\u30cc\u30fc\u30d4\u30fc\u8d85BIG\u4fdd\u51b7\u30d0\u30c3\u30b0 \u203b\u307b\u3093\u307e\u5927\u5bb9\u91cf\u3067\u3059\uff01(\u5bfe\u4fa1\u91cd\u91cf10kg)\u30d5\u30a1\u30b9\u30ca\u30fc\u4ed8\n\n\u5897\u520a\u53f7\uff1a\u30b9\u30cc\u30fc\u30d4\u30fc\u30cf\u30f3\u30c7\u30a3\u6247\u98a8\u6a5f\uff08USB\u5145\u96fb\u30b1\u30fc\u30d6\u30eb\u3064\u304d\uff09\nhttps://www.amazon.co.jp/dp/B0GQCD5HJ7 #PR \n\n\u672c\u8a8c\u306e\u5185\u5bb9\u306f\u2193",
+          "engagement": "146K views",
+          "views": 145696
         }
       ]
     },
     "science": {
       "stories": [
         {
-          "handle": "levie",
-          "url": "https://x.com/levie/status/2058582370253701432",
-          "headline": "CEOs prone to AI psychosis due to distance from implementation work.",
-          "body": "CEOs are uniquely prone to AI psychosis because they\u2019re sufficiently distant from the last mile of work that still has to happen to generate most value with AI.\n\nSo when they play with AI, they see the happy path results, often not considering the next 10 or 20 things that have to happen to get sustainable results from agents. \n\n\u201cLook I made this awesome product prototype\u201d. Yes but you didn\u2019t have to review the code before it went into production and fix a bunch of issues.\n\n\u201cLook I generated a contract\u201d. Yes but you didn\u2019t verify all the terms before it goes out to the counterparty and didn\u2019t have to wire up all the past contracts to work with.\n\nThe best thing you can do as a CEO is to use AI a *ton* to figure out the real implications of agents in the enterprise, and come out the other side with an appreciation for both the upside and the real work that goes into them.",
-          "engagement": "606K views",
-          "views": 606429
+          "handle": "AndrewCurran_",
+          "url": "https://x.com/AndrewCurran_/status/2058756156542365783",
+          "headline": "Huawei claims 1.4nm chip breakthrough by 2031",
+          "body": "Huawei says it has made a breakthrough and expects to design high-end chips with transistor density equivalent to 1.4 nm processes by 2031.",
+          "engagement": "98.1K views",
+          "views": 98140
+        },
+        {
+          "handle": "zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2058840690218701005",
+          "headline": "Huawei pushing hybrid bonding innovation for chip scaling",
+          "body": "Huawei is pushing hybrid bonding to the extreme The success of their \"tau scaling\" depends on the HB contact acting as a damn good intra-circuit routing layer and not just package I/O. This is the biggest innovation here and what separates their tech from normal 3D stacking The vertical interconnects between the stacks generally act as the interface, but they have reduced the pitch so much that it can become a part of the timing path",
+          "engagement": "53.2K views",
+          "views": 53212
         },
         {
           "handle": "business",
@@ -341,14 +317,6 @@
           "body": "Huawei says it has come up with a new pathway to shorten its gap with industry leader TSMC, potentially achieving a breakthrough in making advanced semiconductors without cutting-edge equipment https://www.bloomberg.com/news/articles/2026-05-25/huawei-touts-chipmaking-breakthrough-to-shorten-gap-with-tsmc?taid=6a13a877acead50001d7fc67&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
           "engagement": "68K views",
           "views": 68242
-        },
-        {
-          "handle": "rohanpaul_ai",
-          "url": "https://x.com/rohanpaul_ai/status/2058807460572606946",
-          "headline": "Huawei proposes Tau Scaling Law for chip design to achieve 1.4nm density under sanctions.",
-          "body": "\ud83c\udde8\ud83c\uddf3 Huawei reveals a new chip design  breakthrough under US sanctions pressure.\n\nA design approach meant to close the gap with TSMC and Intel without relying only on smaller transistors, by making chip signals travel less distance.\n\nThey want 1.4nm-class density without owning the world\u2019s best lithography tools  i.e. they are trying to replace Moore\u2019s Law with Tau Scaling Law.\n\nTo  note, Huawei has been blocked from normal access to TSMC since the US tightened foreign direct product rules around Huawei in 2020, and TSMC later said it had not supplied Huawei since mid-September 2020.\n\nProposed \u03c4 Scaling as a new way to make chips faster when shrinking transistors is no longer delivering the same gains.\n\nSaid its next Kirin phone chip will be the first full test of Tau Scaling Law,\n\nOld chip progress mostly came from making every transistor smaller, but Huawei\u2019s idea shifts the target from smaller geometry to shorter signal delay, meaning less time wasted while electrical signals crawl through wires, gates, memory paths, and system links.\n\nLogicFolding attacks the circuit layout itself by folding logic blocks closer together, shortening critical wires, reducing resistance and parasitic capacitance, and letting signals switch faster with denser placement.\n\nSo LogicFolding is the circuit-level piece: it tries to place related logic closer together, shorten key wires, cut electrical drag from resistance and parasitic capacitance, and raise performance without needing a full manufacturing-node leap.\n\nHuawei is also pushing the same timing idea across the full stack: transistors, circuits, chip architecture, software scheduling, and system interconnects all get tuned to reduce \u03c4, the delay constant that limits speed and efficiency.\n\nThe bold claim is that Huawei has already mass-produced 381 chips using this thinking, and future high-end chips could reach density comparable to 14\u00c5, or 1.4nm, without relying only on classic process shrinkage.\n\nSays this path could reach 1.4nm-class, or 14\u00c5-class, density by 2031, while TSMC and Intel target similar physical nodes around 2029.\n\nHuawei calls it Her\u2019s Law, after He Tingbo, the chip leader who helped turn HiSilicon into Huawei\u2019s survival engine after US export controls.\n\nhuawei. com/en/news/2026/5/ieee-iscas-tau-scaling",
-          "engagement": "22512 views",
-          "views": 22512
         }
       ]
     },
@@ -385,10 +353,10 @@
         {
           "handle": "iluminatibot",
           "url": "https://x.com/iluminatibot/status/2058668653286191179",
-          "headline": "Hug a conspiracy theorist today because we were right",
-          "body": "Hug a conspiracy theorist today. Because we were right.",
-          "engagement": "115K views",
-          "views": 115242
+          "headline": "Post encouraging support for conspiracy theorists",
+          "body": "Hug a conspiracy theorist today.\n\nBecause we were right.",
+          "engagement": "128K views",
+          "views": 128559
         },
         {
           "handle": "iluminatibot",
@@ -411,6 +379,14 @@
     "comedy": {
       "stories": [
         {
+          "handle": "Taehyungimpact",
+          "url": "https://x.com/Taehyungimpact/status/2058750625588871524",
+          "headline": "New Taehyung meme unlocked",
+          "body": "NEW TAEHYUNG MEME UNLOCKED (gif version)",
+          "engagement": "458K views",
+          "views": 458440
+        },
+        {
           "handle": "MinModulation",
           "url": "https://x.com/MinModulation/status/2058754658303095032",
           "headline": "Funny observation on Twitter backend names",
@@ -419,23 +395,15 @@
           "views": 248485
         },
         {
-          "handle": "mazemoore",
-          "url": "https://x.com/mazemoore/status/2058588995265700081",
-          "headline": "Reporter creates viral meme template",
-          "body": "This reporter gave us such a great meme template. Thanks!",
-          "engagement": "271K views",
-          "views": 271169
-        },
-        {
-          "handle": "jlobrasil",
-          "url": "https://x.com/jlobrasil/status/2058596538222260709",
-          "headline": "Iconic meme about JLo Brasil admin selection",
-          "body": "Esse meme \u00e9 ic\u00f4nico mas nunca teve processo seletivo pra ser adm do JLo Brasil kkkkkkkkkk \ud83d\ude02",
-          "engagement": "83K views",
-          "views": 82940
+          "handle": "invincicat",
+          "url": "https://x.com/invincicat/status/2058882735251595441",
+          "headline": "Joke about image context in comic",
+          "body": "whenever ppl joke about this image it always is the funniest to me bc they use it in the correct context of the comic everytime",
+          "engagement": "87K views",
+          "views": 86586
         }
       ]
     }
   },
-  "last_updated": "2026-05-25T14:55:13.768972"
+  "last_updated": "2026-05-25T17:44:35.811307"
 }
