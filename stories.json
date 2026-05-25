@@ -61,6 +61,60 @@
     "usa": {
       "stories": [
         {
+          "headline": "Trump indicates he will sign bill making daylight saving time permanent",
+          "url": "https://x.com/LeadingReport/status/2058920345382388001",
+          "handle": "LeadingReport",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "LeadingReport",
+              "url": "https://x.com/LeadingReport/status/2058920345382388001",
+              "body": "President Trump indicates he will sign bill making daylight saving time permanent.",
+              "engagement": "2.5M views",
+              "views": 2528312
+            },
+            {
+              "label": "Independent",
+              "handle": "NewsWire_US",
+              "url": "https://x.com/NewsWire_US/status/2058898570682487007",
+              "body": "Trump Indicates He'll Sign Bill Making Daylight Saving Time Permanent",
+              "engagement": "355K views",
+              "views": 355192
+            },
+            {
+              "label": "Democrat",
+              "handle": "zerohedge",
+              "url": "https://x.com/zerohedge/status/2058714693573677453",
+              "body": "Trump Indicates He'll Sign Bill Making Daylight Saving Time Permanent https://www.zerohedge.com/political/trump-indicates-hell-sign-bill-making-daylight-saving-time-permanent",
+              "engagement": "125K views",
+              "views": 125443
+            }
+          ]
+        },
+        {
+          "headline": "Democrats introduce plan to dismantle Trump's corporate mergers",
+          "url": "https://x.com/DemzDeliver/status/2058718785356570814",
+          "handle": "DemzDeliver",
+          "perspectives": [
+            {
+              "label": "Democrat",
+              "handle": "DemzDeliver",
+              "url": "https://x.com/DemzDeliver/status/2058718785356570814",
+              "body": "\ud83d\udea8 Democrats introduce plan to dismantle Trump's massive corporate mergers immediately after he leaves office.",
+              "engagement": "355K views",
+              "views": 355759
+            },
+            {
+              "label": "Conservative",
+              "handle": "ScottPresler",
+              "url": "https://x.com/ScottPresler/status/2058713557634625656",
+              "body": "President Trump just DOUBLED DOWN on his endorsement for Ken Paxton. This comes before the Texas Senate runoff on \ud83d\uddd3\ufe0f Tuesday, May 26th. Pass the SAVE America Act!",
+              "engagement": "77K views",
+              "views": 77497
+            }
+          ]
+        },
+        {
           "headline": "President Trump leads Memorial Day wreath-laying at Arlington National Cemetery",
           "url": "https://x.com/WhiteHouse/status/2058959791054082252",
           "handle": "WhiteHouse",
@@ -82,21 +136,6 @@
               "views": 2975
             }
           ]
-        },
-        {
-          "headline": "Newly released FBI documents claim DNC planned to overthrow government on January 6",
-          "url": "https://x.com/Real_RobN/status/2058779924090302728",
-          "handle": "Real_RobN",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "Real_RobN",
-              "url": "https://x.com/Real_RobN/status/2058779924090302728",
-              "body": "Here it is: A seditious conspiracy to disrupt the official proceedings of the United States Congress and the overthrow of the United States government. \ud83d\udea8Newly hidden FBI documents released by @FBIDirectorKash CONFIRM: Not only did the FBI staged January 6 five months before it even happened the DNC planned \u2014to overthrow the United States government on January 6.",
-              "engagement": "7.1K likes",
-              "views": 78442
-            }
-          ]
         }
       ]
     },
@@ -105,10 +144,10 @@
         {
           "handle": "REDBOXINDIA",
           "url": "https://x.com/REDBOXINDIA/status/2058909653644542435",
-          "headline": "Indian Finance Minister open to reviewing tax system based on stock market investor input",
+          "headline": "Finance Minister Nirmala Sitharaman says govt open to re-evaluating tax system for stock market investors",
           "body": "FINANCE MINISTER NIRMALA SITHARAMAN SAYS GOVT IS OPEN TO RE-EVALUATING TAX SYSTEM, WILL LISTEN TO STOCK MARKET INVESTORS\u2019 DEMANDS AND INPUTS",
-          "engagement": "599K views",
-          "views": 599422
+          "engagement": "743K views",
+          "views": 743692
         },
         {
           "handle": "KobeissiLetter",
@@ -119,17 +158,25 @@
           "views": 887687
         },
         {
-          "handle": "aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2058879435726836152",
-          "headline": "$LPK stock performs well after restructuring.",
-          "body": "$LPK turned out pretty well.",
-          "engagement": "142K views",
-          "views": 141885
+          "handle": "KobeissiLetter",
+          "url": "https://x.com/KobeissiLetter/status/2058912973519753332",
+          "headline": "US birthrate down 30% since pre-2008 while financial wealth at record highs, signaling K-shaped economy crisis",
+          "body": "What is happening here? The US birthrate is now down -30% since pre-2008 levels while financial wealth is at record highs. Why? Because only asset owners are able to afford this economy.",
+          "engagement": "244K views",
+          "views": 244393
         }
       ]
     },
     "top": {
       "stories": [
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2059004438401167777",
+          "headline": "Elon Musk comments on space solar power trend continuing",
+          "body": "This trend will continue for many years",
+          "engagement": "2.7M views",
+          "views": 2717761
+        },
         {
           "handle": "Cho_KaguyaHime",
           "url": "https://x.com/Cho_KaguyaHime/status/2058835468913893705",
@@ -145,14 +192,6 @@
           "body": "\u3010\u901f\u5831\u3011\n\u4eca\u3001\u963f\u90e8\u614e\u4e4b\u52a9\u76e3\u7763\u3092\u4e57\u305b\u305f\u3068\u898b\u3089\u308c\u308b\u8eca\u304c\u6e0b\u8c37\u8b66\u5bdf\u7f72\u3092\u51fa\u767a\u3057\u307e\u3057\u305f",
           "engagement": "1.2M views",
           "views": 1219588
-        },
-        {
-          "handle": "premierleague",
-          "url": "https://x.com/premierleague/status/2058684468752175184",
-          "headline": "Premier League season conclusion announcement with video.",
-          "body": "It's done.",
-          "engagement": "415K views",
-          "views": 414971
         }
       ]
     },
@@ -193,6 +232,22 @@
           "body": "WEMBY FROM HALF COURT WHY NOT LET IT FLYYYY \ud83d\udd25\ud83d\udd25\ud83d\udd25",
           "engagement": "1.66M views",
           "views": 1663068
+        },
+        {
+          "handle": "ChampionsLeague",
+          "url": "https://x.com/ChampionsLeague/status/2058986459080630750",
+          "headline": "Cristiano Ronaldo UCL tribute",
+          "body": "Cristiano \ud83c\udfc6\n\n#UCLfinal",
+          "engagement": "143K views",
+          "views": 143093
+        },
+        {
+          "handle": "ChampionsLeague",
+          "url": "https://x.com/ChampionsLeague/status/2058956261966872601",
+          "headline": "Paolo Maldini tribute ahead of UCL final",
+          "body": "Paolo Maldini \u2764\ufe0f\ud83d\udda4\n\n#UCLfinal",
+          "engagement": "192K views",
+          "views": 191582
         }
       ]
     },
@@ -247,20 +302,20 @@
           "views": 1700616
         },
         {
+          "handle": "HollywoodHandle",
+          "url": "https://x.com/HollywoodHandle/status/2058962850505228318",
+          "headline": "Alan Cumming to voice Bullseye in Toy Story 5",
+          "body": "Bullseye will speak for the first time in \u2018TOY STORY 5\u2019\n\nAlan Cumming will be voicing him.",
+          "engagement": "163K views",
+          "views": 163856
+        },
+        {
           "handle": "AboutMusicYT",
           "url": "https://x.com/AboutMusicYT/status/2058835463943733691",
           "headline": "Poll on Best Male Kpop Artist at 2026 AMAs",
           "body": "Who do you think deserves to win Best Male Kpop Artist at the 2026 American Music Awards out of the nominees?",
           "engagement": "256K views",
           "views": 255786
-        },
-        {
-          "handle": "PopBase",
-          "url": "https://x.com/PopBase/status/2058910970936697209",
-          "headline": "Michael Jackson's 'Billie Jean' tops Global Spotify chart for 9th day",
-          "body": "\u2018Billie Jean\u2019 by Michael Jackson remains at #1 on the Global Spotify chart with 5.59 million streams.\n\nIt has now spent 9 days at #1.",
-          "engagement": "64K views",
-          "views": 64492
         }
       ]
     },
@@ -283,53 +338,45 @@
           "views": 788112
         },
         {
-          "handle": "syunkon0507",
-          "url": "https://x.com/syunkon0507/status/2058838494672490687",
-          "headline": "Cookpad Plus summer issue features easy noodle recipes",
-          "body": "\u3010\u672c\u65e5\u767a\u58f2\u3011 #\u30af\u30c3\u30af\u30d1\u30c3\u30c9\u30d7\u30e9\u30b9 2026\u5e74\u590f\u53f7\u306b\u3066\u3001\u590f\u306e\u30e9\u30af\u3046\u307e\u9eba\u30922\u54c1\u7d39\u4ecb\u3057\u3066\u307e\u3059\u203c\ufe0f\n\n\uff1c\u7279\u5225\u4ed8\u9332\uff1e\n\u901a\u5e38\u53f7\uff1a\u30b9\u30cc\u30fc\u30d4\u30fc\u8d85BIG\u4fdd\u51b7\u30d0\u30c3\u30b0 \u203b\u307b\u3093\u307e\u5927\u5bb9\u91cf\u3067\u3059\uff01(\u5bfe\u4fa1\u91cd\u91cf10kg)\u30d5\u30a1\u30b9\u30ca\u30fc\u4ed8\n\n\u5897\u520a\u53f7\uff1a\u30b9\u30cc\u30fc\u30d4\u30fc\u30cf\u30f3\u30c7\u30a3\u6247\u98a8\u6a5f\uff08USB\u5145\u96fb\u30b1\u30fc\u30d6\u30eb\u3064\u304d\uff09\nhttps://www.amazon.co.jp/dp/B0GQCD5HJ7 #PR \n\n\u672c\u8a8c\u306e\u5185\u5bb9\u306f\u2193",
-          "engagement": "146K views",
-          "views": 145696
+          "handle": "evilwizardbunny",
+          "url": "https://x.com/evilwizardbunny/status/2058968441672151547",
+          "headline": "Tips for cooking Miffy-shaped eggs in a silicone mold for jammy yolks.",
+          "body": "good morning~ many questions on how i did this so i took more photos to clarify\ud83c\udf1f 1. oil the mold before dropping eggs in, they\u2019ll stick if you don\u2019t 2. fill pan 1/4-1/2 way up the side of the mold w/ water, it\u2019s just there for steam 3. cook 6-6.5min w lid on for jammy yolk~\ud83e\udd5a\ud83c\udf73",
+          "engagement": "120K views",
+          "views": 120377
         }
       ]
     },
     "science": {
       "stories": [
         {
-          "handle": "AndrewCurran_",
-          "url": "https://x.com/AndrewCurran_/status/2058756156542365783",
-          "headline": "Huawei claims 1.4nm chip breakthrough by 2031",
-          "body": "Huawei says it has made a breakthrough and expects to design high-end chips with transistor density equivalent to 1.4 nm processes by 2031.",
-          "engagement": "98.1K views",
-          "views": 98140
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2059002244305973472",
+          "headline": "SpaceX scaling space-based solar power rapidly across Starlink generations.",
+          "body": "This trend will continue for many years",
+          "engagement": "2.7M views",
+          "views": 2696117
         },
         {
-          "handle": "zephyr_z9",
-          "url": "https://x.com/zephyr_z9/status/2058840690218701005",
-          "headline": "Huawei pushing hybrid bonding innovation for chip scaling",
-          "body": "Huawei is pushing hybrid bonding to the extreme The success of their \"tau scaling\" depends on the HB contact acting as a damn good intra-circuit routing layer and not just package I/O. This is the biggest innovation here and what separates their tech from normal 3D stacking The vertical interconnects between the stacks generally act as the interface, but they have reduced the pitch so much that it can become a part of the timing path",
-          "engagement": "53.2K views",
-          "views": 53212
+          "handle": "NazologyInfo",
+          "url": "https://x.com/NazologyInfo/status/2058866920330314207",
+          "headline": "Vienna researchers mathematically model spacetime crystals forming just before black holes.",
+          "body": "\u30d6\u30e9\u30c3\u30af\u30db\u30fc\u30eb\u304c\u751f\u307e\u308c\u308b\u76f4\u524d\u3001\u300c\u6642\u7a7a\u306f\u7d50\u6676\u300d\u306b\u306a\u308b\u2015\u2015\u6642\u7a7a\u7d50\u6676\u306e\u6570\u5f0f\u5316\u306b\u6210\u529f\nhttps://nazology.kusuguru.co.jp/archives/195535\n\n\u30a6\u30a3\u30fc\u30f3\u5de5\u79d1\u5927\u3089\u306f\u7a7a\u9593\u3068\u6642\u9593\u305d\u306e\u3082\u306e\u304c\u300c\u7d50\u6676\u300d\u306e\u3088\u3046\u306b\u898f\u5247\u6b63\u3057\u3044\u6a21\u69d8\u3092\u63cf\u304d\u305d\u3053\u304b\u3089\u30d6\u30e9\u30c3\u30af\u30db\u30fc\u30eb\u304c\u751f\u307e\u308c\u308b\u77ac\u9593\u3092\u521d\u3081\u3066\u6570\u5f0f\u3067\u8868\u3059\u3053\u3068\u306b\u6210\u529f\u3002\u6642\u7a7a\u306e\u7d50\u6676\u3068\u306f\u3069\u3093\u306a\u72b6\u614b\u306a\u306e\u3067\u3057\u3087\u3046\uff1f",
+          "engagement": "286K views",
+          "views": 286682
         },
         {
-          "handle": "business",
-          "url": "https://x.com/business/status/2058724761513918822",
-          "headline": "Huawei claims chipmaking breakthrough to close gap with TSMC by 2031.",
-          "body": "Huawei says it has come up with a new pathway to shorten its gap with industry leader TSMC, potentially achieving a breakthrough in making advanced semiconductors without cutting-edge equipment https://www.bloomberg.com/news/articles/2026-05-25/huawei-touts-chipmaking-breakthrough-to-shorten-gap-with-tsmc?taid=6a13a877acead50001d7fc67&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-          "engagement": "68K views",
-          "views": 68242
+          "handle": "NVIDIAAI",
+          "url": "https://x.com/NVIDIAAI/status/2058921531481510074",
+          "headline": "NVIDIA highlights 16 local AI agents running simultaneously on DGX Sparks with MiniMax model.",
+          "body": "(2x DGX Sparks) + MiniMax M2.7 NVFP4 = 16 local AI agents running simultaneously \ud83d\udc40",
+          "engagement": "87K views",
+          "views": 87496
         }
       ]
     },
     "local": {
       "stories": [
-        {
-          "handle": "FoxNews",
-          "url": "https://x.com/FoxNews/status/2058909936705220858",
-          "headline": "Hazmat emergency in Southern California with chemical tank crack and evacuations.",
-          "body": "An unprecedented hazmat emergency is unfolding in southern California after officials found a crack in a chemical tank.\n\nFire officials say they've been conducting an all-night mission monitoring the overheated tank to see if the threat of an explosion has passed, as Governor Gavin Newsom declares a state of emergency.\n\nMore than 40,000 people are now under evacuation orders, @Max_Gorden reports.",
-          "engagement": "75K views",
-          "views": 75292
-        },
         {
           "handle": "Breaking911",
           "url": "https://x.com/Breaking911/status/2058707643732992080",
@@ -337,6 +384,14 @@
           "body": "A crack has formed in an overheating chemical tank feared to be at risk of exploding, prompting evacuations for around 50,000 people in Orange County, California.",
           "engagement": "327K views",
           "views": 327479
+        },
+        {
+          "handle": "FoxNews",
+          "url": "https://x.com/FoxNews/status/2058909936705220858",
+          "headline": "Hazmat emergency in Southern California with chemical tank crack and evacuations.",
+          "body": "An unprecedented hazmat emergency is unfolding in southern California after officials found a crack in a chemical tank.\n\nFire officials say they've been conducting an all-night mission monitoring the overheated tank to see if the threat of an explosion has passed, as Governor Gavin Newsom declares a state of emergency.\n\nMore than 40,000 people are now under evacuation orders, @Max_Gorden reports.",
+          "engagement": "75K views",
+          "views": 75292
         },
         {
           "handle": "GuntherEagleman",
@@ -353,10 +408,18 @@
         {
           "handle": "iluminatibot",
           "url": "https://x.com/iluminatibot/status/2058668653286191179",
-          "headline": "Post encouraging support for conspiracy theorists",
-          "body": "Hug a conspiracy theorist today.\n\nBecause we were right.",
-          "engagement": "128K views",
-          "views": 128559
+          "headline": "Call to hug conspiracy theorists because they were right",
+          "body": "Hug a conspiracy theorist today. Because we were right.",
+          "engagement": "138K views",
+          "views": 138275
+        },
+        {
+          "handle": "TrueOnX",
+          "url": "https://x.com/TrueOnX/status/2058773286323105983",
+          "headline": "2014 documentary on New World Order system promoted as red pilled truth",
+          "body": "\ud83d\udea8 MIND-BLOWING THROWBACK ALERT \ud83d\udea8 This 2014 documentary just hit different in 2026... THE NEW WORLD ORDER SYSTEM FULL 102 MINUTE EXPOS\u00c9 They told you it was \"just a conspiracy theory.\" But this film was dropping RED PILLS over a DECADE AGO about the global machine printing money from nothing, engineering crises, building the police state, and herding humanity into total control. David Rockefeller quotes. Federal Reserve secrets. Military docs. The whole blueprint. This isn't \"coming\"... it's been running in the background the entire time. And now? You\u2019re living in the final chapters. Watch it. Share it. Wake up your timeline before they scrub it. What\u2019s the ONE thing in this doc that shocked you the most when you first saw it (or now)? If this system has been in motion for decades... how deep do you think it actually goes in 2026? Drop your biggest takeaway. Let me know what you think, and SHARE THIS so that others may too! and if you're not already following @TrueOnX... What the heck are you doing?!",
+          "engagement": "47K views",
+          "views": 47906
         },
         {
           "handle": "iluminatibot",
@@ -365,14 +428,6 @@
           "body": "THE NEW WORLD ORDER SYSTEM  Full 2014 Documentary  A throwback documentary from 2014 explaining the just how deep the NWO runs.  This has been going on long before the masses were awakened to the fact that there even existed a worldwide conspiracy to enslave the people.",
           "engagement": "43K views",
           "views": 43036
-        },
-        {
-          "handle": "WallStreetApes",
-          "url": "https://x.com/WallStreetApes/status/2058754443177521550",
-          "headline": "NBC News video debunking tick conspiracy theory ahead of Pfizer vaccine.",
-          "body": "You literally can\u2019t make this up\n\nNBC News is now making videos \u201cDebunking the tick conspiracy theory\u201d\n\nThey\u2019re \u201cconsulting with the experts\u201d and have found there is no connection to the rise in ticks and Lyme disease right as Pfizer is about to release a vaccine\n\nYou literally don\u2019t hate the media enough",
-          "engagement": "43K views",
-          "views": 43498
         }
       ]
     },
@@ -387,23 +442,23 @@
           "views": 458440
         },
         {
+          "handle": "storkiiofficial",
+          "url": "https://x.com/storkiiofficial/status/2058915025885221277",
+          "headline": "Send images to turn weird challenge",
+          "body": "its time again.\n\nsend me any kind of images and ill turn them weird :-)\n\nno number reply limit this time, ill do any kind of images as long as that i find it funny/interesting",
+          "engagement": "113K views",
+          "views": 113775
+        },
+        {
           "handle": "MinModulation",
           "url": "https://x.com/MinModulation/status/2058754658303095032",
           "headline": "Funny observation on Twitter backend names",
           "body": "so funny all the backend is still all Twitter name shit",
           "engagement": "248K views",
           "views": 248485
-        },
-        {
-          "handle": "invincicat",
-          "url": "https://x.com/invincicat/status/2058882735251595441",
-          "headline": "Joke about image context in comic",
-          "body": "whenever ppl joke about this image it always is the funniest to me bc they use it in the correct context of the comic everytime",
-          "engagement": "87K views",
-          "views": 86586
         }
       ]
     }
   },
-  "last_updated": "2026-05-25T17:44:35.811307"
+  "last_updated": "2026-05-25T21:07:41.734967"
 }
