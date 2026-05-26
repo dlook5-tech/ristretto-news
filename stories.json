@@ -3,6 +3,29 @@
     "world": {
       "stories": [
         {
+          "headline": "Israel approves Operation Arrows of Fire against Hezbollah in Lebanon",
+          "url": "https://x.com/MOSSADil/status/2059002141834977742",
+          "handle": "MOSSADil",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "MOSSADil",
+              "url": "https://x.com/MOSSADil/status/2059002141834977742",
+              "body": "\ud83d\udea8 BREAKING: ISRAEL DECLARES FULL WAR ON HEZBOLLAH Israel has reportedly approved Operation Arrows of Fire against Hezbollah in Lebanon, signaling a return to full-scale war.",
+              "engagement": "440K views",
+              "views": 440573
+            },
+            {
+              "label": "Independent",
+              "handle": "Osint613",
+              "url": "https://x.com/Osint613/status/2058970840671101043",
+              "body": "Senior Israeli official to Channel 12: Containment is over. Israel has decided to launch a major strike against Hezbollah.",
+              "engagement": "120K views",
+              "views": 120722
+            }
+          ]
+        },
+        {
           "headline": "Russia warns foreigners to leave Kyiv immediately amid planned strikes",
           "url": "https://x.com/Polymarket/status/2058921716231905458",
           "handle": "Polymarket",
@@ -53,21 +76,6 @@
               "body": "Yesterday, \u00d6zg\u00fcr \u00d6zel, leader of Turkey\u2019s main opposition party, removed from his role through a decision widely seen as driven by Erdo\u011fan\u2019s grip on the judiciary, marched to Parliament in Ankara under the rain. ... Erdo\u011fan is choking democratic choice.",
               "engagement": "6.5K likes",
               "views": 106454
-            }
-          ]
-        },
-        {
-          "headline": "Mexico agrees to host Iran's World Cup football team after US declines",
-          "url": "https://x.com/AJENews/status/2058929006485835945",
-          "handle": "AJENews",
-          "perspectives": [
-            {
-              "label": "Independent",
-              "handle": "BRICSinfo",
-              "url": "https://x.com/BRICSinfo/status/2059036359189262485",
-              "body": "JUST IN: \ud83c\uddf2\ud83c\uddfd\ud83c\uddfa\ud83c\uddf8 Mexican President Sheinbaum says she sees \"no issue\" with hosting Iran's World Cup team.",
-              "engagement": "95K views",
-              "views": 95148
             }
           ]
         }
@@ -122,17 +130,33 @@
           ]
         },
         {
-          "headline": "White House posts Memorial Day tribute from Arlington National Cemetery",
-          "url": "https://x.com/WhiteHouse/status/2059058022454886889",
-          "handle": "WhiteHouse",
+          "headline": "Texas Senate runoff election features Trump-endorsed Ken Paxton push amid SAVE America Act demands",
+          "url": "https://x.com/ScottPresler/status/2059016714738692450",
+          "handle": "ScottPresler",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "WhiteHouse",
-              "url": "https://x.com/WhiteHouse/status/2059058022454886889",
-              "body": "We remember the fallen. We honor their sacrifice. We cherish the freedom they paid for with their lives. Memorial Day 2026 | Arlington National Cemetery \ud83c\uddfa\ud83c\uddf8",
-              "engagement": "23K likes",
-              "views": 290790
+              "handle": "ScottPresler",
+              "url": "https://x.com/ScottPresler/status/2059016714738692450",
+              "body": "BREAKING If Ken Paxton wins by +10, democrats have pledged to LEAVE Texas & find another home. This is a huge endorsement for Ken Paxton!",
+              "engagement": "49K likes",
+              "views": 290458
+            },
+            {
+              "label": "Independent",
+              "handle": "RightScopee",
+              "url": "https://x.com/RightScopee/status/2059058901169942843",
+              "body": "President Trump indicates he will sign bill making daylight saving time permanent. What's your response to this......??",
+              "engagement": "2K likes",
+              "views": 40896
+            },
+            {
+              "label": "Democrat",
+              "handle": "RpsAgainstTrump",
+              "url": "https://x.com/RpsAgainstTrump/status/2059104955642835272",
+              "body": "Laser focused",
+              "engagement": "2K likes",
+              "views": 61456
             }
           ]
         }
@@ -141,28 +165,28 @@
     "business": {
       "stories": [
         {
+          "handle": "IndianTechGuide",
+          "url": "https://x.com/IndianTechGuide/status/2059137476048859150",
+          "headline": "Taiwan overtakes India as world's fifth-largest stock market.",
+          "body": "\ud83d\udea8 Taiwan overtakes India as world's fifth-largest stock market.",
+          "engagement": "184K views",
+          "views": 184273
+        },
+        {
           "handle": "REDBOXINDIA",
           "url": "https://x.com/REDBOXINDIA/status/2058909653644542435",
-          "headline": "Indian Finance Minister open to re-evaluating tax system and listening to stock market investors",
+          "headline": "Finance Minister Nirmala Sitharaman open to re-evaluating tax system and listening to stock market investors.",
           "body": "FINANCE MINISTER NIRMALA SITHARAMAN SAYS GOVT IS OPEN TO RE-EVALUATING TAX SYSTEM, WILL LISTEN TO STOCK MARKET INVESTORS\u2019 DEMANDS AND INPUTS",
-          "engagement": "924K views",
-          "views": 923970
+          "engagement": "1.05M views",
+          "views": 1051871
         },
         {
-          "handle": "nikkei",
-          "url": "https://x.com/nikkei/status/2059092819285770388",
-          "headline": "Japanese yen ranks as weakest currency compared to Turkish lira amid falling purchasing power and high oil prices",
-          "body": "\u65e5\u672c\u5186\u3001\u300c\u6700\u5f31\u300d\u30c8\u30eb\u30b3\u306b\u898b\u52a3\u308a\u3000\u8cfc\u8cb7\u529b\u306e\u4f4e\u4e0b\u306b\u539f\u6cb9\u9ad8\u304c\u62cd\u8eca",
-          "engagement": "89K views",
-          "views": 88862
-        },
-        {
-          "handle": "aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2059073941734662551",
-          "headline": "Light communication supply chain insights helping investors build positions in related stocks",
-          "body": "\u78ba\u304b\u306b\u305d\u3046\uff01\u3082\u3057\u3042\u306a\u305f\u304c\u5149\u901a\u4fe1\u7523\u696d\u5168\u4f53\u3092\u4e0a\u6d41\u306eInP\uff08\u30ea\u30f3\u5316\u30a4\u30f3\u30b8\u30a6\u30e0\uff09\u57fa\u677f\u304b\u3089\u4e0b\u6d41\u306e\u5149\u30e2\u30b8\u30e5\u30fc\u30eb\u5b8c\u6210\u54c1\u30e1\u30fc\u30ab\u30fc\u307e\u3067\u30b9\u30e9\u30b9\u30e9\u3068\u8a00\u3048\u306a\u3044\u306a\u3089...",
-          "engagement": "154K views",
-          "views": 154273
+          "handle": "zerohedge",
+          "url": "https://x.com/zerohedge/status/2059087510043582586",
+          "headline": "Taiwan's stock market cap rises to $4.95 trillion, overtaking India.",
+          "body": "TAIWAN'S MARKET CAP RISES TO $4.95 TRILLION TO OVERTAKE INDIA",
+          "engagement": "327K views",
+          "views": 326571
         }
       ]
     },
@@ -177,20 +201,20 @@
           "views": 2717761
         },
         {
-          "handle": "foodtown_JP",
-          "url": "https://x.com/foodtown_JP/status/2058822973017215324",
-          "headline": "Promotion for FamilyMart custard shoe giveaway.",
-          "body": "\uff0f \n\u305d\u306e\u5834\u3067\u5f53\u305f\u308b\ud83c\udfaf\n\n\u5f53\u9078\u8005\u306b\u306f\u76f4\u63a5DM\u304c\u5c4a\u304f\ud83d\udce9\n\uff3c \n\n\u30d5\u30a1\u30df\u30de \u6fc3\u539a\u30ab\u30b9\u30bf\u30fc\u30c9\u30b7\u30e5\u30fc\n\n1\ufe0f\u20e3 \u5f53\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u30d5\u30a9\u30ed\u30fc \n2\ufe0f\u20e3 \u3053\u306e\u6295\u7a3f\u3092\u30ea\u30dd\u30b9\u30c8 &\u3044\u3044\u306d\n\n\u671f\u9593: 05/29 11:59\u307e\u3067",
-          "engagement": "2.6M views",
-          "views": 2639068
-        },
-        {
           "handle": "Cho_KaguyaHime",
           "url": "https://x.com/Cho_KaguyaHime/status/2058835468913893705",
           "headline": "Announcement for Nico Nico live MV viewing event on May 26.",
           "body": "\uff3f\u4eba\u4eba\u4eba\u4eba\u4eba\u4eba\u4eba\u4eba\u4eba\u4eba\uff3f\n\uff1e  5\u670826\u65e5(\u706b)21:00\u306f  \uff1c\n\uff1e  \u30cb\u30b3\u30cb\u30b3\u306b\u96c6\u307e\u308c\uff01   \uff1c\n\uffe3Y^Y^ Y^Y^Y^Y^Y^Y\uffe3\n\n\u300eray \u8d85\u304b\u3050\u3084\u59eb\uff01Version\u300fMV\nYouTube\u518d\u751f\u65702,000\u4e07\u56de\u7a81\u7834\u8a18\u5ff5\ud83c\udf8a\n\n\u30cb\u30b3\u30cb\u30b3\u52d5\u753b\u306b\u3066\n5\u670826\u65e5(\u706b)21:00\u3088\u308a\u30e9\u30a4\u30d6\u516c\u958b\u6c7a\u5b9a\uff01\n\n\u4e00\u7dd2\u306b\u8996\u8074\u3057\u3066\u3001\u3081\u3067\u305f\u3057\u3057\u3061\u3083\u304a\uff5e\uff01",
           "engagement": "1.28M views",
           "views": 1284377
+        },
+        {
+          "handle": "bdemgmr",
+          "url": "https://x.com/bdemgmr/status/2059143811407000029",
+          "headline": "Short video clip shared via link",
+          "body": "https://t.co/JwQSjD5eRN",
+          "engagement": "497K views",
+          "views": 496902
         }
       ]
     },
@@ -205,12 +229,12 @@
           "views": 868256
         },
         {
-          "handle": "WSJ",
-          "url": "https://x.com/WSJ/status/2059078020678197478",
-          "headline": "Developer targets Denver to convert vacant commercial space into residential units",
-          "body": "Developer Asher Luzzatto has targeted Denver for a radical experiment in converting vacant commercial space into residential units. https://www.wsj.com/real-estate/commercial/america-s-emptiest-downtown-f1f4cdf1?mod=e2tw",
-          "engagement": "37K views",
-          "views": 36758
+          "handle": "AP",
+          "url": "https://x.com/AP/status/2059175364060950920",
+          "headline": "Quad foreign ministers meet in New Delhi on Indo-Pacific cooperation and China concerns.",
+          "body": "Foreign ministers from the Quad countries of Australia, India, Japan, and the United States are meeting in New Delhi to strengthen cooperation in the Indo-Pacific and address their concern over China's growing influence in the region.",
+          "engagement": "7K views",
+          "views": 6904
         },
         {
           "handle": "AP",
@@ -225,6 +249,14 @@
     "sports": {
       "stories": [
         {
+          "handle": "NBA",
+          "url": "https://x.com/NBA/status/2059100684763443606",
+          "headline": "Knicks head to NBA Finals for first time since 1999",
+          "body": "FOR THE FIRST TIME SINCE 1999, THE NEW YORK KNICKS ARE HEADED TO THE NBA FINALS \ud83d\udea8 4-0 SERIES WIN OVER CLEVELAND. 11 STRAIGHT POSTSEASON VICTORIES.",
+          "engagement": "981K views",
+          "views": 981641
+        },
+        {
           "handle": "BleacherReport",
           "url": "https://x.com/BleacherReport/status/2059097654949261619",
           "headline": "Jalen Brunson leads Knicks to first NBA Finals appearance in 27 years",
@@ -233,20 +265,12 @@
           "views": 689692
         },
         {
-          "handle": "BleacherReport",
-          "url": "https://x.com/BleacherReport/status/2059106081188520191",
-          "headline": "Jalen Brunson unanimously wins Eastern Conference Finals MVP",
-          "body": "Jalen Brunson UNANIMOUSLY wins Eastern Conference Finals MVP \ud83c\udfc6\n\nWell deserved \ud83d\udc4f",
-          "engagement": "280K views",
-          "views": 280243
-        },
-        {
-          "handle": "TheHoopCentral",
-          "url": "https://x.com/TheHoopCentral/status/2059096189740716503",
-          "headline": "Knicks advance to NBA Finals",
-          "body": "THE KNICKS ARE GOING TO THE NBA FINALS \n\nWHAT A TIME. \ud83c\udf7f\ud83d\udd25",
-          "engagement": "147K views",
-          "views": 147106
+          "handle": "NBA",
+          "url": "https://x.com/NBA/status/2059112422875574547",
+          "headline": "Jalen Brunson wins Eastern Conference Finals MVP",
+          "body": "JALEN BRUNSON WINS EASTERN CONFERENCE FINALS MVP \ud83c\udfc6 \ud83d\uddfd 25.5 PPG \ud83d\uddfd 7.8 APG \ud83d\uddfd 3.3 REB \ud83d\uddfd 47.8 FG% FOR THE FIRST TIME SINCE 1999, THE NEW YORK KNICKS ARE HEADED TO THE NBA FINALS!",
+          "engagement": "381K views",
+          "views": 380518
         }
       ]
     },
@@ -270,11 +294,11 @@
         },
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2058790017313415380",
-          "headline": "Elon Musk agrees with a post about a stabbing incident",
-          "body": "\ud83d\udcaf",
-          "engagement": "28.9M views",
-          "views": 28937635
+          "url": "https://x.com/elonmusk/status/2058914860226793475",
+          "headline": "Elon Musk comments on political figure",
+          "body": "I wonder who wrote it for him. He\u2019s just a puppet.",
+          "engagement": "592K views",
+          "views": 591940
         }
       ]
     },
@@ -299,10 +323,10 @@
         {
           "handle": "hubermanlab",
           "url": "https://x.com/hubermanlab/status/2058928471855005701",
-          "headline": "Huberman announces new episode with Jeff Cavaliere on muscle building and posture.",
-          "body": "The new Huberman Lab episode is out: Build Muscle, Great Posture & Resilience to Injury | Jeff Cavaliere\n0:00 Jeff Cavaliere\n2:43 Lower Back, Back Pain\n10:06 Tool: Exercises for Lower Back Pain & Strengthen Glutes\n15:29 Sponsors: David & Our Place\n18:05 Walking Exercises to Strengthen Glutes\n23:23 Small Focused Exercises & Timing; Workout Soreness & Pain\n27:08 Tools: \"Old Man\" Test, Functional Strength Tests\n35:08 Sports, Movement Imbalance\n40:57 Tool: Training Like An Athlete\n46:44 Sponsor: AG1\n48:28 Inner Elbow Pain, Tool: Grip Modification\n54:21 Shoulder, Rotator Cuff Training, Tool: External Rotation Exercise\n1:06:50 Tool: Neck Training; Women, Posture\n1:15:20 Longevity, Strength & Agility; Pain & Construction Zone Analogy\n1:19:50 Sponsor: Joovv\n1:21:12 Cardio, Bike, Jumping Rope; Fat Loss: Zone 2 or HIIT?\n1:29:27 Nutrition, Tools: Calorie Counting; Plate Method\n1:40:18 Foot Stability, Tool: Foot Strength Test; Longevity\n1:48:15 Sponsor: Function\n1:49:53 Warm-Up Sets; Reps in Reserve or Train to Failure?; Work Sets\n2:00:30 Training Frequency; Tool: Real-Life Constraints, Split the Splits\n2:13:58 Zero-Cost Support, YouTube, Spotify & Apple Follow, Reviews & Feedback, Sponsors, Protocols Book, Social Media, Neural Network Newsletter\n\nIncludes paid partnerships.",
-          "engagement": "68K views",
-          "views": 68565
+          "headline": "Huberman Lab posts new episode with Jeff Cavaliere on building muscle and posture.",
+          "body": "The new Huberman Lab episode is out: Build Muscle, Great Posture & Resilience to Injury | Jeff Cavaliere",
+          "engagement": "201K views",
+          "views": 201347
         }
       ]
     },
@@ -325,17 +349,25 @@
           "views": 918925
         },
         {
-          "handle": "btschartsxdaily",
-          "url": "https://x.com/btschartsxdaily/status/2059092348345156003",
-          "headline": "BTS wins Song of the Summer at 2026 AMAs with 'Swim'",
-          "body": "\ud83c\udfc6 #BTS has won \u201cSong Of The Summer\u201d with \u201cSwim\u201d at the American Music Awards 2026! \ud83c\uddfa\ud83c\uddf8 \n\nCONGRATULATIONS BTS\n#BTSonAMAs",
-          "engagement": "240K views",
-          "views": 240411
+          "handle": "21metgala",
+          "url": "https://x.com/21metgala/status/2059021531150266739",
+          "headline": "XG attends the 52nd American Music Awards.",
+          "body": "XG attends the 52nd American Music Awards.",
+          "engagement": "696K views",
+          "views": 696115
         }
       ]
     },
     "recipe": {
       "stories": [
+        {
+          "handle": "_UMEBOYS_1904",
+          "url": "https://x.com/_UMEBOYS_1904/status/2059171457146785945",
+          "headline": "Tip for pickling umeboshi with vinegar soak",
+          "body": "\u6885\u5e72\u3057\u3092\u6f2c\u3051\u308b\u3068\u304d\u306f\u30fb\u30fb\u30fb\n\u751f\u306e\u6885\u3092\u4e00\u5ea6\u6885\u9162\u306b\u304f\u3050\u3089\u305b\u3066\u304f\u3060\u3055\u3044\uff01\n\u305d\u306e\u3042\u3068\u5869\u3092\u3059\u308a\u3053\u3080\u3068\u3001\u6885\u9162\u306e\u4e0a\u304c\u308a\u304c\u65e9\u304f\u306a\u308a\u307e\u3059\uff01\uff01",
+          "engagement": "9.3K views",
+          "views": 9250
+        },
         {
           "handle": "evilwizardbunny",
           "url": "https://x.com/evilwizardbunny/status/2058968441672151547",
@@ -345,20 +377,12 @@
           "views": 120377
         },
         {
-          "handle": "steakgusto029",
-          "url": "https://x.com/steakgusto029/status/2059077167137300813",
-          "headline": "All-you-can-eat steak campaign giveaway",
-          "body": "\uff3c\u98df\u3079\u653e\u984c\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\u958b\u50ac\ud83c\udf89\uff0f\n\u305d\u306e\u5834\u3067\u5f53\u305f\u308b\uff01\n29\u540d\u69d8\u306b1,000\u5186\u5206\u306e\u304a\u98df\u4e8b\u5238\ud83c\udf81\n@steakgusto029 \u3092\u30d5\u30a9\u30ed\u30fc&\n#\u30b9\u30c6\u30fc\u30ad\u98df\u3079\u653e\u984c \u3092\u4ed8\u3051\u3066\n\u98df\u3079\u305f\u3044\u30e1\u30cb\u30e5\u30fc\u3092\u5f15\u7528\u30dd\u30b9\u30c8\ud83d\udcf1\n\u2460\u30ab\u30c3\u30c8\u30b9\u30c6\u30fc\u30ad\n\u2461\u70ad\u713c\u304d\u98a8\u30c1\u30ad\u30f3\n\u2462\u30df\u30cb\u30cf\u30f3\u30d0\u30fc\u30b0\n\u2463\u6d0b\u98a8\u725b\u716e\u8fbc\u307f\n\u4e00\u756a\u98df\u3079\u305f\u3044\u306e\u306f\u3069\u308c\u3067\u3059\u304b\uff1f\ud83e\udd24",
-          "engagement": "22K views",
-          "views": 22488
-        },
-        {
-          "handle": "pokkasapporo",
-          "url": "https://x.com/pokkasapporo/status/2059077134413599016",
-          "headline": "Corn tea giveaway campaign with video",
-          "body": "\u6bce\u65e5\u5fdc\u52df \ud83c\udd97 \ud83c\udfb6\n\uff0f\n\u590f\u5e06\u3055\u3093\u3054\u51fa\u6f14\n\u52d5\u753b\u516c\u958b\u8a18\u5ff5\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\ud83c\udf81\n\uff3c\n\u7518\u304f\u3001\u9999\u3070\u3057\u304f\u3001\u5fc3\u5730\u3088\u304f\u3002\n\u5317\u6d77\u9053\u30b3\u30fc\u30f3\u8336\uff08525ml\uff0924\u672c\u304c\u305d\u306e\u5834\u3067\u5f53\u305f\u308b\ud83c\udf3d\n\u5fdc\u52df\u65b9\u6cd5\n1\u20e3@pokkasapporo \u3092\u30d5\u30a9\u30ed\u30fc\n2\u20e3\u3053\u306e\u6295\u7a3f\u30925/27 9:59\u307e\u3067\u306b\u30ea\u30dd\u30b9\u30c8\n3\u20e3\u5f53\u9078\u8005\u306e\u307fDM\n\u3055\u3089\u306b\uff01\u5b09\u3057\u3044W\u30c1\u30e3\u30f3\u30b9\u3082\u2728\n\u30b9\u30ec\u30c3\u30c9\u3092\u30c1\u30a7\u30c3\u30af\ud83d\udc47",
-          "engagement": "22K views",
-          "views": 22432
+          "handle": "skanayaneko",
+          "url": "https://x.com/skanayaneko/status/2059093304877400068",
+          "headline": "Post sharing first catch sashimi",
+          "body": "\u4eca\u30b7\u30fc\u30ba\u30f3\u521d\u7269\u3001\u304a\u523a\u8eab\u3067\u9802\u304d\u307e\u3059\u3002\u304a\u9b5a\u306e\u540d\u524d\u5206\u304b\u308b\u304b\u306a\u2753",
+          "engagement": "35.7K views",
+          "views": 35651
         }
       ]
     },
@@ -395,18 +419,10 @@
         {
           "handle": "OCFireAuthority",
           "url": "https://x.com/OCFireAuthority/status/2059078026672193566",
-          "headline": "Orange County Fire Authority updates evacuation map for chemical tank incident",
-          "body": "***UPDATED INCIDENT MAP***\n\nEffective as of Monday, May 25 at 6pm, the red shaded area represents the newest evacuation zone, while the red outline represents the previous evacuation zone.",
-          "engagement": "150K views",
-          "views": 150995
-        },
-        {
-          "handle": "ABC",
-          "url": "https://x.com/ABC/status/2059097457921794536",
-          "headline": "Evacuation zone shrinks around failing chemical tank in Southern California",
-          "body": "The evacuation zone around a failing chemical tank in Southern California is shrinking after officials said the \"worst-case scenario\" of a catastrophic explosion has been averted.",
-          "engagement": "23K views",
-          "views": 23075
+          "headline": "Updated evacuation map for Garden Grove chemical incident in Orange County",
+          "body": "***UPDATED INCIDENT MAP*** Effective as of Monday, May 25 at 6pm, the red shaded area represents the newest evacuation zone, while the red outline represents the previous evacuation zone.",
+          "engagement": "195K views",
+          "views": 195685
         },
         {
           "handle": "Breaking911",
@@ -415,18 +431,34 @@
           "body": "Officials ruled out the threat of a catastrophic explosion Monday after discovering a crack in a failing chemical tank at GKN Aerospace in Orange County, California, though concerns over a smaller blast still remain.",
           "engagement": "43K views",
           "views": 43364
+        },
+        {
+          "handle": "ABC",
+          "url": "https://x.com/ABC/status/2059097457921794536",
+          "headline": "Evacuation zone shrinks around failing chemical tank in Southern California",
+          "body": "The evacuation zone around a failing chemical tank in Southern California is shrinking after officials said the \"worst-case scenario\" of a catastrophic explosion has been averted.",
+          "engagement": "23K views",
+          "views": 23075
         }
       ]
     },
     "conspiracy": {
       "stories": [
         {
-          "handle": "iluminatibot",
-          "url": "https://x.com/iluminatibot/status/2058763409056026928",
-          "headline": "2014 documentary on New World Order conspiracy systems",
-          "body": "THE NEW WORLD ORDER SYSTEM  \n\nFull 2014 Documentary \n\nA throwback documentary from 2014 explaining the just how deep the NWO runs. \n\nThis has been going on long before the masses were awakened to the fact that there even existed a worldwide conspiracy to enslave the people.",
-          "engagement": "68K views",
-          "views": 68198
+          "handle": "Daily_MailUS",
+          "url": "https://x.com/Daily_MailUS/status/2058991765311398398",
+          "headline": "CIA accused of using Ancestry and 23andMe to 'hunt down' alien bloodlines in millions of DNA tests",
+          "body": "CIA accused of using Ancestry and 23andMe to 'hunt down' alien bloodlines in millions of DNA tests",
+          "engagement": "4.45M views",
+          "views": 4454357
+        },
+        {
+          "handle": "Daily_MailUS",
+          "url": "https://x.com/Daily_MailUS/status/2059053037885247692",
+          "headline": "UFO files reveal new evidence of secret invasion by mysterious silver spheres",
+          "body": "UFO files reveal new evidence of secret invasion by mysterious silver spheres https://www.dailymail.com/sciencetech/article-15841235/ufo-files-secret-invasion-silver-spheres.html?ns_mchannel=rss&ns_campaign=1490&ito=social-twitter_dailymailus",
+          "engagement": "20K views",
+          "views": 20002
         },
         {
           "handle": "UAPGERB",
@@ -435,19 +467,19 @@
           "body": "I simply cannot stress enough how important it is @RepEricBurlison specifically mentions the @MITREcorp here in regards to private contractors holding the proverbial keys of UFO retrieval and exploitation programs. \n\nFounded in 1958/1959 as a spinoff from MIT Lincoln Labs, MITRE was initially formed as a military think tank that pushes the boundaries of \"innovation from sea to space.\"\n\nToday, MITRE is a non-profit that operates several FFRDCs (Federally Funded Research and Development Centers) for US Government sponsors, specializing in defense & intelligence, aerospace & transportation, homeland security, etc. Important to note, MITRE receives around 99% of its funding from the US Government.\n\nOutside of MITRE's prized Independent Research and Development (IRAD) efforts to \"respond to urgent challenges and anticipate the future for our government sponsors and the nation\" and MITRE Labs that \"inspires breakthroughs in applied science and advanced technology to transform the future of U.S. scientific and economic leadership\", one of MITRE's FFRDCs of particular interest in regards to UFO legacy programs is the National Security Engineering Center (NSEC) sponsored by the Department of Defense.\n\nAs a direct spinoff of @MITLL's Semi-Automatic Ground Environment (SAGE) air-defense radar system, for decades, NSEC has operated to deliver \"research, engineering, and analytical solutions to the Department of Defense and the Intelligence Community.\"\n\nI understand that NSEC, MITRE Labs, and other elements of MITRE are considered an \"R&D ace\" and an elite science and technology institution with unrivaled expertise operating across a swath of activities housed under several agencies/services within the US Intelligence Community and Armed Forces tasked with retrieval and exploitation of non-human intelligence technical vehicles.\n\nSpecifically, MITRE works closely with the US Navy for tracking, monitoring, retrieval, and exploitation of UFO/USO within maritime environments. \n\nWith how crucial MITRE is to USG-sponsored covert UFO recovery and exploitation efforts, it's always elft a bad taste in my mouth that beginning in 2025, disgraced ex @DoW_AARO director Sean Kirkpatrick and his company \"Nonlinear Solutions LLC\" were awarded contracts to subcontract under MITRE for USSPACECOM (IDC W56KGU18D0004).\n\nIf this were a one-off, it wouldn't be a big deal, but remember following AARO, Dr. Kirkpatrick also fled to @ORNL, a DOE/NNSA FFRDC National Lab, as cTO for Defense and Intelligence Programs!",
           "engagement": "30K views",
           "views": 30217
-        },
-        {
-          "handle": "TrueOnX",
-          "url": "https://x.com/TrueOnX/status/2058773286323105983",
-          "headline": "2014 New World Order documentary resurfacing in 2026",
-          "body": "\ud83d\udea8 MIND-BLOWING THROWBACK ALERT \ud83d\udea8\nThis 2014 documentary just hit different in 2026...\n\nTHE NEW WORLD ORDER SYSTEM\nFULL 102 MINUTE EXPOS\u00c9\n\nThey told you it was \"just a conspiracy theory.\"\n\nBut this film was dropping RED PILLS over a DECADE AGO about the global machine printing money from nothing, engineering crises, building the police state, and herding humanity into total control.\n\nDavid Rockefeller quotes.\nFederal Reserve secrets.\nMilitary docs.\nThe whole blueprint.\n\nThis isn't \"coming\"... it's been running in the background the entire time.\n\nAnd now?\n\nYou\u2019re living in the final chapters.\n\nWatch it. Share it.\nWake up your timeline before they scrub it.\n\nWhat\u2019s the ONE thing in this doc that shocked\nyou the most when you first saw it (or now)?\n\nIf this system has been in motion for decades... how deep do you think it actually goes in 2026?\n\nDrop your biggest takeaway.\n\nLet me know what you think,\nand SHARE THIS so that others may too!\n\nand if you're not already following @TrueOnX...\nWhat the heck are you doing?!",
-          "engagement": "52K views",
-          "views": 51883
         }
       ]
     },
     "comedy": {
       "stories": [
+        {
+          "handle": "fuckyouiquit",
+          "url": "https://x.com/fuckyouiquit/status/2058940316976304437",
+          "headline": "Joke about 4-day work weeks versus holidays",
+          "body": "Funny how a 4 day work week gets treated like some impossible fantasy, yet long holiday weekends never seem to break the economy. It\u2019s almost like every weekend should just\u2026be a long weekend?",
+          "engagement": "218K views",
+          "views": 218764
+        },
         {
           "handle": "PardonMyMeme",
           "url": "https://x.com/PardonMyMeme/status/2059098872274632755",
@@ -463,17 +495,9 @@
           "body": "THE NEW YORK KNICKS ARE GOING TO THE FINALS",
           "engagement": "54K views",
           "views": 54073
-        },
-        {
-          "handle": "fuckyouiquit",
-          "url": "https://x.com/fuckyouiquit/status/2058940316976304437",
-          "headline": "Joke about 4-day work weeks versus holidays",
-          "body": "Funny how a 4 day work week gets treated like some impossible fantasy, yet long holiday weekends never seem to break the economy. It\u2019s almost like every weekend should just\u2026be a long weekend?",
-          "engagement": "218K views",
-          "views": 218764
         }
       ]
     }
   },
-  "last_updated": "2026-05-26T03:36:51.207148"
+  "last_updated": "2026-05-26T07:49:20.708675"
 }
