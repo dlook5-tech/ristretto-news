@@ -3,6 +3,37 @@
     "world": {
       "stories": [
         {
+          "headline": "US launches self-defense strikes on Iranian targets amid escalating conflict",
+          "url": "https://x.com/Breaking911/status/2058963282870858083",
+          "handle": "Breaking911",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "PapiTrumpo",
+              "url": "https://x.com/PapiTrumpo/status/2058963654268055903",
+              "body": "IRAN WILL NEVER HAVE A NUCLEAR WEAPON!!!",
+              "engagement": "32K likes",
+              "views": 32385
+            },
+            {
+              "label": "Independent",
+              "handle": "BenjaminNorton",
+              "url": "https://x.com/BenjaminNorton/status/2059171587149226455",
+              "body": "The US started a war of aggression against Iran. Tehran retaliated in self-defense. But now the US is bombing Iran again, and claiming to act in \"self-defense\", after it started the war in the first place! Aggressors cannot act in self-defense, by definition.",
+              "engagement": "3K likes",
+              "views": 48980
+            },
+            {
+              "label": "Democrat",
+              "handle": "ABC",
+              "url": "https://x.com/ABC/status/2059052438192046482",
+              "body": "BREAKING: U.S. forces on Monday launched what U.S. Central Command described as \"self-defense strikes\" in southern Iran.",
+              "engagement": "442 likes",
+              "views": 1387790
+            }
+          ]
+        },
+        {
           "headline": "Partial restoration of internet in Iran after 88-day nationwide blackout",
           "url": "https://x.com/netblocks/status/2059256883274240508",
           "handle": "netblocks",
@@ -18,40 +49,25 @@
           ]
         },
         {
-          "headline": "US Navy resumes 'Project Freedom' ship escorts through Strait of Hormuz near Iran",
-          "url": "https://x.com/sentdefender/status/2059292213700354392",
-          "handle": "sentdefender",
+          "headline": "African countries seek Turkey security deals modeled on Somali partnership",
+          "url": "https://x.com/ConflictTR/status/2059293228948406305",
+          "handle": "ConflictTR",
           "perspectives": [
             {
               "label": "Independent",
-              "handle": "sentdefender",
-              "url": "https://x.com/sentdefender/status/2059292213700354392",
-              "body": "The U.S. Navy has resumed operations in the Strait of Hormuz under \u201cProject Freedom,\u201d a previously announced and quickly suspended initiative to escort commercial vessels - including cargo ships and tankers - through the vital shipping corridor near Iran, U.S. military officials tell The Wall Street Journal.",
-              "engagement": "20K views",
-              "views": 20167
-            }
-          ]
-        },
-        {
-          "headline": "Russia warns foreigners to leave Kyiv immediately amid planned strikes",
-          "url": "https://x.com/Polymarket/status/2058921716231905458",
-          "handle": "Polymarket",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "DougAMacgregor",
-              "url": "https://x.com/DougAMacgregor/status/2058949323086258206",
-              "body": "BREAKING: Russia warns foreigners to leave Kyiv.",
-              "engagement": "534K views",
-              "views": 533925
+              "handle": "ConflictTR",
+              "url": "https://x.com/ConflictTR/status/2059293228948406305",
+              "body": "Middle East Eye: Afrika \u00fclkeleri, T\u00fcrkiye'nin Somali ile kurdu\u011fu askeri ve ekonomi i\u015f birliklerine benzer \u015fekilde, T\u00fcrkiye ile anla\u015fmalar yapmak istiyor. T\u00fcrkiye, Afrika \u00fclkelerinden gelen talepleri de\u011ferlendiriyor.",
+              "engagement": "588 likes",
+              "views": 38237
             },
             {
               "label": "Independent",
-              "handle": "DD_Geopolitics",
-              "url": "https://x.com/DD_Geopolitics/status/2058907074331906531",
-              "body": "\ud83d\udea8 BREAKING | Russian Foreign Ministry warns foreigners to leave Kiev immediately!",
-              "engagement": "152K views",
-              "views": 152498
+              "handle": "SireneOznur",
+              "url": "https://x.com/SireneOznur/status/2059303436374425996",
+              "body": "Middle East Eye: \u2796\"Afrika \u00fclkeleri, T\u00fcrkiye ile \u201cSomali modeli\u201d \u00fczerinden g\u00fcvenlik ili\u015fkileri kurmak istiyor Ankara, T\u00fcrkiye ile daha yak\u0131n g\u00fcvenlik ve ekonomik ili\u015fkiler geli\u015ftirmek isteyen Afrika \u00fclkelerinden gelen talepleri de\u011ferlendiriyor.\"",
+              "engagement": "507 likes",
+              "views": 4787
             }
           ]
         }
@@ -59,6 +75,68 @@
     },
     "usa": {
       "stories": [
+        {
+          "headline": "Trump raises US refugee ceiling by 10,000 for white South Africans",
+          "url": "https://x.com/Polymarket/status/2059294238534246883",
+          "handle": "Polymarket",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "Polymarket",
+              "url": "https://x.com/Polymarket/status/2059294238534246883",
+              "body": "NEW: Trump officially raises the refugee ceiling by 10,000 to admit more white South Africans.",
+              "engagement": "4K likes",
+              "views": 201459
+            },
+            {
+              "label": "Independent",
+              "handle": "DeItaone",
+              "url": "https://x.com/DeItaone/status/2059285878812410185",
+              "body": "TRUMP RAISES REFUGEE CEILING BY 10,000 TO BRING IN MORE WHITE SOUTH AFRICANS - WHITE HOUSE DOCUMENT",
+              "engagement": "819 likes",
+              "views": 272166
+            },
+            {
+              "label": "Democrat",
+              "handle": "MarioNawfal",
+              "url": "https://x.com/MarioNawfal/status/2059320156187496465",
+              "body": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddff\ud83c\udde6 Trump raised the refugee ceiling by 10,000 to bring in more white South Africans. The U.S. has already admitted 6,000 Afrikaners in four months flat. Global refugee admissions? Still frozen. The White House justifies it by citing \"incitement of racially motivated violence\" against Afrikaners by the South African government. Source: Reuters",
+              "engagement": "181 likes",
+              "views": 23493
+            }
+          ]
+        },
+        {
+          "headline": "Texas Senate runoff election day with Trump backing Paxton",
+          "url": "https://x.com/ScottPresler/status/2059258237791158522",
+          "handle": "ScottPresler",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "ScottPresler",
+              "url": "https://x.com/ScottPresler/status/2059258237791158522",
+              "body": "President Trump just TRIPLED DOWN on his support for Ken Paxton. Today is Election Day!",
+              "engagement": "14K likes",
+              "views": 143407
+            },
+            {
+              "label": "Independent",
+              "handle": "KenPaxtonTX",
+              "url": "https://x.com/KenPaxtonTX/status/2059243471064469837",
+              "body": "Thank you, @DonaldTrump! Polls are now open. Bring five friends with you. Post your photos to remind Texans that today is election day! Let's work together to make Texas great.",
+              "engagement": "23K likes",
+              "views": 140867
+            },
+            {
+              "label": "Democrat",
+              "handle": "GOP__Ls",
+              "url": "https://x.com/GOP__Ls/status/2059054488749527187",
+              "body": "\ud83d\udea8Over 64% of Americans now disapprove of Trump, This is a new all time low.",
+              "engagement": "7K likes",
+              "views": 389548
+            }
+          ]
+        },
         {
           "headline": "President Trump\u2019s Big Beautiful Bill and Iran-related spending projected to cause $2 trillion federal budget deficit in 2026",
           "url": "https://x.com/RepThomasMassie/status/2059228473487405551",
@@ -73,88 +151,34 @@
               "views": 458465
             }
           ]
-        },
-        {
-          "headline": "Trump to convene first Cabinet meeting at Camp David amid ongoing Iran negotiations",
-          "url": "https://x.com/FoxNews/status/2059289444419530884",
-          "handle": "FoxNews",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "FoxNews",
-              "url": "https://x.com/FoxNews/status/2059289444419530884",
-              "body": "BREAKING: President Trump will convene a rare Cabinet meeting at Camp David on Wednesday as negotiations with Iran enter a critical phase. All Cabinet members are expected to attend the meeting, Fox News has confirmed, including outgoing Director of National Intelligence Tulsi Gabbard. The gathering comes as the administration weighs next steps in high-stakes negotiations aimed at securing a broader agreement with Tehran amid a fraying ceasefire.",
-              "engagement": "17K views",
-              "views": 17716
-            },
-            {
-              "label": "Independent",
-              "handle": "CNBC",
-              "url": "https://x.com/CNBC/status/2059284766315171941",
-              "body": "Trump to host Cabinet meeting at Camp David on Wednesday as Iran talks continue https://www.cnbc.com/2026/05/26/trump-camp-david-iran-cabinet.html?taid=6a15b20242698e0001d2b943&utm_campaign=trueanthem&utm_content=main&utm_medium=social&utm_source=twitter",
-              "engagement": "7K views",
-              "views": 7407
-            }
-          ]
-        },
-        {
-          "headline": "Texas Senate runoff election features Trump-endorsed Ken Paxton push amid SAVE America Act demands",
-          "url": "https://x.com/ScottPresler/status/2059016714738692450",
-          "handle": "ScottPresler",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "ScottPresler",
-              "url": "https://x.com/ScottPresler/status/2059016714738692450",
-              "body": "BREAKING If Ken Paxton wins by +10, democrats have pledged to LEAVE Texas & find another home. This is a huge endorsement for Ken Paxton!",
-              "engagement": "49K likes",
-              "views": 290458
-            },
-            {
-              "label": "Independent",
-              "handle": "RightScopee",
-              "url": "https://x.com/RightScopee/status/2059058901169942843",
-              "body": "President Trump indicates he will sign bill making daylight saving time permanent. What's your response to this......??",
-              "engagement": "2K likes",
-              "views": 40896
-            },
-            {
-              "label": "Democrat",
-              "handle": "RpsAgainstTrump",
-              "url": "https://x.com/RpsAgainstTrump/status/2059104955642835272",
-              "body": "Laser focused",
-              "engagement": "2K likes",
-              "views": 61456
-            }
-          ]
         }
       ]
     },
     "business": {
       "stories": [
         {
-          "handle": "unusual_whales",
-          "url": "https://x.com/unusual_whales/status/2059268059530228129",
-          "headline": "MicroStrategy completes $1.5B convertible notes repurchase",
-          "body": "Strategy, $MSTR, has completed the repurchase of $1.5 billion of its 2029 Convertible Notes at an ~8% discount to par, generating an incremental 0.7% BTC Yield and lowering aggregate debt to $6.7 billion.",
-          "engagement": "55K views",
-          "views": 54979
+          "handle": "cryptorover",
+          "url": "https://x.com/cryptorover/status/2059316977814913468",
+          "headline": "US Federal Reserve set to inject $7 billion into economy next week.",
+          "body": "THIS IS HUGE! \n\n\ud83c\uddfa\ud83c\uddf8 THE FED IS INJECTING $7,000,000,000.00 INTO THE ECONOMY NEXT WEEK.",
+          "engagement": "104K views",
+          "views": 104324
         },
         {
-          "handle": "unusual_whales",
-          "url": "https://x.com/unusual_whales/status/2059247427157148152",
-          "headline": "Michael Burry comments on NVIDIA demand concentration",
-          "body": "\"NVIDIA is benefitting from strong demand, but is selling into a concentrated set of buyers whose own demand is being distorted by a training and benchmarking phase that will not last,\" Michael Burry has said.",
-          "engagement": "93.7K views",
-          "views": 93706
+          "handle": "ClayTravis",
+          "url": "https://x.com/ClayTravis/status/2059274103505191089",
+          "headline": "S&P 500 hits another all-time high amid market recovery.",
+          "body": "The S&P 500 just hit another all time high. The stock market is now up over 50% since this past April when economic \u201cexperts\u201d told you the economy was collapsing. And for \u201cI can\u2019t afford stocks,\u201d guy in mentions. Stop being a pussy. Buy index funds. Start with $5 or $10 a week.",
+          "engagement": "263K views",
+          "views": 263847
         },
         {
           "handle": "zerohedge",
-          "url": "https://x.com/zerohedge/status/2059087510043582586",
-          "headline": "Taiwan's stock market cap rises to $4.95 trillion, overtaking India.",
-          "body": "TAIWAN'S MARKET CAP RISES TO $4.95 TRILLION TO OVERTAKE INDIA",
-          "engagement": "327K views",
-          "views": 326571
+          "url": "https://x.com/zerohedge/status/2059316289777127615",
+          "headline": "Stock-treasury correlation reaches new record negatives.",
+          "body": "The realized correlation between stocks and treasuries keeps getting ever more negative, with new records set every day",
+          "engagement": "42K views",
+          "views": 42727
         }
       ]
     },
@@ -189,56 +213,56 @@
     "msm": {
       "stories": [
         {
+          "handle": "nytimes",
+          "url": "https://x.com/nytimes/status/2059329748266811539",
+          "headline": "Trump administration plans to use plutonium from nuclear warheads for power plants.",
+          "body": "Breaking News: The Trump administration is moving forward with a plan to use plutonium from nuclear warheads to fuel power plants. https://www.nytimes.com/2026/05/26/climate/plutonium-nuclear-weapons-fuel.html?smid=tw-nytimes&smtyp=cur",
+          "engagement": "45.2K views",
+          "views": 45212
+        },
+        {
+          "handle": "nytimes",
+          "url": "https://x.com/nytimes/status/2059317805242007736",
+          "headline": "SpaceX corporate arrangements benefit Elon Musk at shareholders' expense.",
+          "body": "SpaceX\u2019s unconventional corporate arrangements appear to benefit Elon Musk at the expense of other shareholders, experts said. https://www.nytimes.com/2026/05/26/technology/spacex-elon-musk-pay-board-governance.html?smtyp=cur&smid=tw-nytimes",
+          "engagement": "56.5K views",
+          "views": 56510
+        },
+        {
           "handle": "BBCWorld",
           "url": "https://x.com/BBCWorld/status/2059234319743267150",
           "headline": "Senegal's sacked PM Sonko elected parliamentary Speaker.",
           "body": "Senegal's sacked PM Sonko elected parliamentary Speaker in challenge to president",
           "engagement": "159K views",
           "views": 159939
-        },
-        {
-          "handle": "CNN",
-          "url": "https://x.com/CNN/status/2059054422513082551",
-          "headline": "Michael Phelps advocates for mental health and water safety post-retirement.",
-          "body": "Olympian Michael Phelps has found a new calling since stepping out of the pool, becoming one of the most prominent and outspoken advocates for mental health and well-being in sports and beyond.",
-          "engagement": "194K views",
-          "views": 194691
-        },
-        {
-          "handle": "nytimes",
-          "url": "https://x.com/nytimes/status/2059057717222797699",
-          "headline": "Jazz legend Sonny Rollins dies at age 95.",
-          "body": "Breaking News: Sonny Rollins, a jazz great with a forceful and imaginative approach to the tenor saxophone, has died at 95.",
-          "engagement": "157K views",
-          "views": 157681
         }
       ]
     },
     "sports": {
       "stories": [
         {
+          "handle": "ChampionsLeague",
+          "url": "https://x.com/ChampionsLeague/status/2059198760844960176",
+          "headline": "Champions League teases the next champion after final",
+          "body": "\ud83c\udfc6 Who's next? \n\n#UCLfinal",
+          "engagement": "23.2M views",
+          "views": 23214487
+        },
+        {
           "handle": "NBA",
           "url": "https://x.com/NBA/status/2059100684763443606",
-          "headline": "New York Knicks head to NBA Finals for first time since 1999",
+          "headline": "New York Knicks reach NBA Finals for first time since 1999",
           "body": "FOR THE FIRST TIME SINCE 1999, THE NEW YORK KNICKS ARE HEADED TO THE NBA FINALS \ud83d\udea8\n\n4-0 SERIES WIN OVER CLEVELAND.\n\n11 STRAIGHT POSTSEASON VICTORIES.",
-          "engagement": "1.5M views",
-          "views": 1560772
+          "engagement": "1.63M views",
+          "views": 1631708
         },
         {
           "handle": "premierleague",
-          "url": "https://x.com/premierleague/status/2058958775000997941",
-          "headline": "Arsenal crowned Premier League champions",
-          "body": "The scene of @Arsenal's crowning glory \u2764\ufe0f\n\n\ud83d\udcca @Microsoft",
-          "engagement": "2.0M views",
-          "views": 2076805
-        },
-        {
-          "handle": "BleacherReport",
-          "url": "https://x.com/BleacherReport/status/2059097654949261619",
-          "headline": "Jalen Brunson leads Knicks to first NBA Finals appearance in 27 years",
-          "body": "JALEN BRUNSON DID IT\n\nFIRST KNICKS FINALS APPEARANCE IN 27 YEARS \ud83d\uddfd",
-          "engagement": "690K views",
-          "views": 689692
+          "url": "https://x.com/premierleague/status/2059228553284047020",
+          "headline": "Premier League calls for final Player of the Matchweek votes",
+          "body": "For one final time in 2025/26, it's time to vote for your Player of the Matchweek!\n\nWho impressed you the most on The Final Day? \u2935\ufe0f",
+          "engagement": "383K views",
+          "views": 382858
         }
       ]
     },
@@ -246,32 +270,40 @@
       "stories": [
         {
           "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2059080740881502364",
+          "headline": "Elon Musk shares how to use Grok Build",
+          "body": "How to use Grok Build",
+          "engagement": "58M views",
+          "views": 58228144
+        },
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2059287487273382024",
+          "headline": "Elon Musk recommends pasting screenshots into Grok Build",
+          "body": "Paste screenshots into Grok Build",
+          "engagement": "8.5M views",
+          "views": 8508509
+        },
+        {
+          "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2059002579707654199",
           "headline": "Elon Musk agrees with a quote about homeless plans in LA",
           "body": "True",
           "engagement": "31.7M views",
           "views": 31722973
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2059287487273382024",
-          "headline": "Elon Musk suggests pasting screenshots into Grok Build",
-          "body": "Paste screenshots into Grok Build",
-          "engagement": "913K views",
-          "views": 913838
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2059080740881502364",
-          "headline": "Elon Musk shares a guide on using Grok Build.",
-          "body": "How to use Grok Build",
-          "engagement": "16.5M views",
-          "views": 16472426
         }
       ]
     },
     "pods": {
       "stories": [
+        {
+          "handle": "stevehou",
+          "url": "https://x.com/stevehou/status/2059252171502211324",
+          "headline": "Lex Fridman hitchhikes with truckers in China using ChatGPT.",
+          "body": "Lex Fridman is hitchhiking with truckers in China using ChatGPT translator. Looks a bit sketch but seems to be having a good time.",
+          "engagement": "565K views",
+          "views": 565150
+        },
         {
           "handle": "JamieVernon",
           "url": "https://x.com/JamieVernon/status/2059057612398764267",
@@ -283,30 +315,22 @@
         {
           "handle": "joeroganhq",
           "url": "https://x.com/joeroganhq/status/2058994007305486700",
-          "headline": "Joe Rogan Podcast News shares clip of Rogan reacting to George Washington story.",
+          "headline": "Joe Rogan reacts in disbelief to how George Washington died.",
           "body": "Joe Rogan couldn't believe his own ears after learning how George Washington died: \"Oh God.\"",
-          "engagement": "256K views",
-          "views": 256956
+          "engagement": "272K views",
+          "views": 271915
         }
       ]
     },
     "pg6": {
       "stories": [
         {
-          "handle": "PopBase",
-          "url": "https://x.com/PopBase/status/2059269556590231653",
-          "headline": "Jennie performs unreleased song at Chanel event",
-          "body": "JENNIE performed an unreleased song at a Chanel event.",
-          "engagement": "162K views",
-          "views": 161622
-        },
-        {
           "handle": "AMAs",
           "url": "https://x.com/AMAs/status/2059102633336693039",
-          "headline": "BTS wins Artist of the Year at 2026 AMAs",
+          "headline": "BTS wins Artist of the Year at the AMAs",
           "body": "You voted and ARTIST OF THE YEAR at the #AMAs is... @bts_bighit! \ud83c\udf1f\ud83d\udc4f",
-          "engagement": "938K views",
-          "views": 938781
+          "engagement": "1.7M views",
+          "views": 1724429
         },
         {
           "handle": "livedoornews",
@@ -315,34 +339,42 @@
           "body": "\u3010\u7570\u4f8b\u3011\u300e\u30ad\u30bf\u30cb\u30bf\u30c4\u30e4\u306eANN0\u300f\u96fb\u6483\u7d42\u4e86\u3092\u767a\u8868 \u300c\u7cbe\u795e\u3084\u4f53\u529b\u9762\u3067\u8ca0\u8377\u304c\u2026\u300d\nhttps://news.livedoor.com/article/detail/31371030/\n\n6\u6708\u672b\u3092\u3082\u3063\u3066\u7d42\u4e86\u3059\u308b\u3053\u3068\u3092\u767a\u8868\u3002\u300c\u7cbe\u795e\u3084\u4f53\u529b\u9762\u3067\u3082\u306a\u304b\u306a\u304b\u306e\u8ca0\u8377\u3068\u306a\u3063\u3066\u304a\u308a\u3001\u79c1\u306e\u65b9\u304b\u3089\u201c\u4e00\u533a\u5207\u308a\u3064\u3051\u3055\u305b\u3066\u304f\u308c\u201d\u3068\u7533\u3057\u51fa\u307e\u3057\u305f\u300d\u3068\u7406\u7531\u3092\u8aac\u660e\u3057\u305f\u3002",
           "engagement": "918K views",
           "views": 918925
+        },
+        {
+          "handle": "PopBase",
+          "url": "https://x.com/PopBase/status/2059269556590231653",
+          "headline": "Jennie performs unreleased song at Chanel event",
+          "body": "JENNIE performed an unreleased song at a Chanel event.",
+          "engagement": "162K views",
+          "views": 161622
         }
       ]
     },
     "recipe": {
       "stories": [
         {
-          "handle": "kongjiro_",
-          "url": "https://x.com/kongjiro_/status/2059291571716243566",
-          "headline": "Kong.Jiro teases new creative menu item",
-          "body": "\u0e1d\u0e32\u0e01\u0e23\u0e2d\u0e15\u0e34\u0e14\u0e15\u0e32\u0e21 \u0e40\u0e21\u0e19\u0e39\u0e43\u0e2b\u0e21\u0e48\u0e46\u0e15\u0e48\u0e2d\u0e44\u0e1b\u0e14\u0e49\u0e27\u0e22\u0e04\u0e23\u0e31\u0e1a \u0e01\u0e33\u0e25\u0e31\u0e07\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e02\u0e31\u0e49\u0e19\u0e15\u0e2d\u0e19\u0e43\u0e0a\u0e49\u0e04\u0e27\u0e32\u0e21\u0e04\u0e34\u0e14\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e2a\u0e23\u0e23\u0e04\u0e4c5555 #fatfries",
-          "engagement": "17K views",
-          "views": 17311
+          "handle": "wstgoat7",
+          "url": "https://x.com/wstgoat7/status/2059303332980605366",
+          "headline": "User shares photo of McDonald's meal",
+          "body": "McDonald\u2019s eats",
+          "engagement": "994K views",
+          "views": 994147
         },
         {
-          "handle": "711SEJ",
-          "url": "https://x.com/711SEJ/status/2059207920303403205",
-          "headline": "7-Eleven promotes thick noodle oil soba dish",
-          "body": "\ud83d\udca5\ud83c\udf5c\u98df\u3079\u308b\u7bb8\u304c\u3068\u307e\u3089\u306a\u3044\ud83c\udf5c\ud83d\udca5\n\n\u25e4\uffe3\uffe3\uffe3\uffe3\uffe3\uffe3\uffe3\uffe3\uffe3\uffe3\n\u3000\u3000\u3000\u3000\u6975\u592a\u9eba\n\u3000\u6fc3\u539a\u91a4\u6cb9\u306e\u6cb9\u305d\u3070\n\uff3f\uff3f\uff3f\uff3f\uff3f\uff3f\uff3f\uff3f\uff3f\uff3f\u25e2\n\n\u91a4\u6cb9\u30fb\u306b\u3093\u306b\u304f\u30fb\u9d8f\u3068\u8c5a\u306e\u30ac\u30e9\u30b9\u30fc\u30d7\u3092\n\u5408\u308f\u305b\u305f\u6fc3\u539a\u306a\u30bf\u30ec\u304c\u3084\u307f\u3064\u304d\u306a\u304a\u3044\u3057\u3055\ud83e\udd24\n\u304a\u9162\u3068\u30e9\u30fc\u6cb9\u3067\u5473\u5909\u3082\u697d\u3057\u3081\u308b\ud83e\udd62\n\n\u98df\u3079\u305f\u3044\u3063\uff01\u3063\u3066\u4eba\u306f\u21d2\u3044\u3044\u306d\u2764\ufe0f",
-          "engagement": "157K views",
-          "views": 157534
+          "handle": "yamada_hitsuzi",
+          "url": "https://x.com/yamada_hitsuzi/status/2059080593296781334",
+          "headline": "Tip on freezing bananas for smoothies shared",
+          "body": "\u4eca\u5e74\u3082\u305d\u308d\u305d\u308d\u2026\u59cb\u3081\u305f\u65b9\u304c\u3044\u308b\u3063\u307d\u3044(RP\u901a\u77e5\u304c\u6765\u308b\u3088\u3046\u306b\u306a\u3063\u305f)\u306e\u3067\u79c1\u3082\u59cb\u3081\u3088\u3046\u304b\u306a\ud83c\udf4c\n#\u51b7\u51cd\u30d0\u30ca\u30ca\u958b\u304d",
+          "engagement": "491K views",
+          "views": 490938
         },
         {
-          "handle": "kewpie_official",
-          "url": "https://x.com/kewpie_official/status/2059184033318506654",
-          "headline": "Kewpie shares easy microwave banbanji recipe",
-          "body": "\u6df1\u3054\u307e:\u713c\u8089\u306e\u305f\u308c\uff1d1:1\u3067\u5473\u304c\u6c7a\u307e\u308b\uff01\n\u96fb\u5b50\u30ec\u30f3\u30b8\u3067\u7c21\u5358\u30d0\u30f3\u30d0\u30f3\u30b8\u30fc\ud83d\ude0b\n\n\u3010\u4f5c\u308a\u65b9\u3011(2\u4eba\u5206)\n\u9d8f\u3080\u306d\u8089(1\u679a)\u306f\u8010\u71b1\u5bb9\u5668\u306b\u5165\u308c\u3001\u5869\u5c11\u3005\u3001\u9152\u3068\u6c34\u5404\u5927\u3055\u30581\u3092\u3075\u308a\u30e9\u30c3\u30d7\u3092\u3057\u3001\u30ec\u30f3\u30b8\u3067\u706b\u304c\u901a\u308b\u307e\u3067\u52a0\u71b1\u3002\u7c97\u71b1\u3092\u3068\u308a\u592a\u3081\u306b\u3055\u304f\u3002\u62cd\u5b50\u6728\u5207\u308a\u306b\u3057\u305f\u304d\u3085\u3046\u308a\u3068\u4e00\u7dd2\u306b\u3001\u713c\u8089\u306e\u305f\u308c\u3068\u6df1\u714e\u308a\u3054\u307e\u30c9\u30ec\u30c3\u30b7\u30f3\u30b0\u30921:1\u3067\u6df7\u305c\u305f\u305f\u308c\u3092\u304b\u3051\u308b\u3002",
-          "engagement": "62K views",
-          "views": 62244
+          "handle": "calbee_PR",
+          "url": "https://x.com/calbee_PR/status/2059182779821380083",
+          "headline": "Snack giveaway promotion posted with images",
+          "body": "\uff3c\u5408\u8a08100\u540d\u69d8\u306b\u305d\u306e\u5834\u3067\u5f53\u305f\u308b\ud83c\udfaf\uff0f\n\n#\u3057\u3087\u3046\u3086W\u30de\u30e8\nW\u3092W\u3067\u30d7\u30ec\u30bc\u30f3\u30c8\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\u2728\n\u30b3\u30f3\u30d3\u30cb\u30a8\u30f3\u30b9\u30b9\u30c8\u30a2\u9650\u5b9a\u306e\u5927\u4eba\u6c17\u5b9a\u756a\u300c\u30b3\u30f3\u30bd\u30e1W\u30d1\u30f3\u30c1\u300d6\u888b\u3068\u300c\u3057\u3087\u3046\u3086W\u30de\u30e8\u300d6\u888b\u3092\u5408\u308f\u305b\u3066\u30d7\u30ec\u30bc\u30f3\u30c8\ud83c\udf81\n\n1\u20e3\u672c\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u30d5\u30a9\u30ed\u30fc\n2\u20e3\u672c\u6295\u7a3f\u30925/27 16:59\u8fc4\u306b\u30ea\u30dd\u30b9\u30c8\n\u27a1\u5f53\u9078\u8005\u306b\u5373DM",
+          "engagement": "251K views",
+          "views": 251020
         }
       ]
     },
@@ -405,20 +437,20 @@
     "conspiracy": {
       "stories": [
         {
-          "handle": "Daily_MailUS",
-          "url": "https://x.com/Daily_MailUS/status/2058991765311398398",
-          "headline": "CIA accused of using Ancestry and 23andMe to 'hunt down' alien bloodlines in millions of DNA tests",
-          "body": "CIA accused of using Ancestry and 23andMe to 'hunt down' alien bloodlines in millions of DNA tests",
-          "engagement": "4.45M views",
-          "views": 4454357
+          "handle": "AutistDivision",
+          "url": "https://x.com/AutistDivision/status/2059218927742263603",
+          "headline": "AutistDivision shares Trump Q post about Deep State being over.",
+          "body": "Trump is in Q mood today.\n\ud83d\ude0e\n\nGAME OVER DEEP STATE.\n\n(Q and Q+)\n\nYou see it, right?!\n\nCongrats to our Sister @SpiritualSF_17 \nAnother repost by Q+\n\ud83d\udc38\ud83d\udd25\ud83d\udc4a",
+          "engagement": "29.7K views",
+          "views": 29685
         },
         {
-          "handle": "WarClandestine",
-          "url": "https://x.com/WarClandestine/status/2058937219423801537",
-          "headline": "Trump using moment to expand Abraham Accords and invite Iran.",
-          "body": "VERY big deal.\n\nTrump is now using this moment to expand the Abraham Accords, and is even inviting Iran to join.\n\nThe end goal is a lasting peace and stability in the Middle East, and the world, after Deep State tentacles have been cut.\n\nTrump began setting this up years ago.",
-          "engagement": "62K views",
-          "views": 61918
+          "handle": "clashreport",
+          "url": "https://x.com/clashreport/status/2059238490789880050",
+          "headline": "Clash Report notes Trump posts about the deep state.",
+          "body": "Trump posts about the \u201cdeep state.\u201d",
+          "engagement": "22.7K views",
+          "views": 22724
         },
         {
           "handle": "Daily_MailUS",
@@ -433,31 +465,31 @@
     "comedy": {
       "stories": [
         {
+          "handle": "FunnySight",
+          "url": "https://x.com/FunnySight/status/2059143193447551256",
+          "headline": "Comedy clip showing funny visual effects",
+          "body": "Funny visual effects",
+          "engagement": "6.45M views",
+          "views": 6457499
+        },
+        {
+          "handle": "diostuitero",
+          "url": "https://x.com/diostuitero/status/2059288278335991994",
+          "headline": "Viral meme clip becoming social media history",
+          "body": "Este meme ya es historia de las redes sociales.",
+          "engagement": "68K views",
+          "views": 68154
+        },
+        {
           "handle": "PardonMyMeme",
           "url": "https://x.com/PardonMyMeme/status/2059098872274632755",
           "headline": "Sports meme about Knicks coach",
           "body": "Kenny Atkinson at the press conference figuring out a way that they won",
           "engagement": "68K views",
           "views": 68436
-        },
-        {
-          "handle": "PardonMyMeme",
-          "url": "https://x.com/PardonMyMeme/status/2059098219066339452",
-          "headline": "Joke claiming Knicks going to finals",
-          "body": "THE NEW YORK KNICKS ARE GOING TO THE FINALS",
-          "engagement": "54K views",
-          "views": 54073
-        },
-        {
-          "handle": "MichaelRosenYes",
-          "url": "https://x.com/MichaelRosenYes/status/2059228237914341478",
-          "headline": "Mention of an Israeli joke about schools in Gaza",
-          "body": "I gather there\u2019s an Israeli joke about there not being any schools left in Gaza. Can you remind us of it?",
-          "engagement": "7.8K views",
-          "views": 7780
         }
       ]
     }
   },
-  "last_updated": "2026-05-26T15:31:44.020525"
+  "last_updated": "2026-05-26T18:27:11.385913"
 }
