@@ -3,25 +3,32 @@
     "world": {
       "stories": [
         {
-          "headline": "Israel approves Operation Arrows of Fire against Hezbollah in Lebanon",
-          "url": "https://x.com/MOSSADil/status/2059002141834977742",
-          "handle": "MOSSADil",
+          "headline": "Partial restoration of internet in Iran after 88-day nationwide blackout",
+          "url": "https://x.com/netblocks/status/2059256883274240508",
+          "handle": "netblocks",
           "perspectives": [
             {
-              "label": "Conservative",
-              "handle": "MOSSADil",
-              "url": "https://x.com/MOSSADil/status/2059002141834977742",
-              "body": "\ud83d\udea8 BREAKING: ISRAEL DECLARES FULL WAR ON HEZBOLLAH Israel has reportedly approved Operation Arrows of Fire against Hezbollah in Lebanon, signaling a return to full-scale war.",
-              "engagement": "440K views",
-              "views": 440573
-            },
+              "label": "Independent",
+              "handle": "netblocks",
+              "url": "https://x.com/netblocks/status/2059256883274240508",
+              "body": "\ud83d\udcc8 Confirmed: Live metrics show a partial restoration to internet connectivity in #Iran on day 88, after 2093 hours of near-total isolation from international networks, the longest nationwide internet shutdown in modern history. It is unclear if the restoration will be sustained.",
+              "engagement": "228K views",
+              "views": 228750
+            }
+          ]
+        },
+        {
+          "headline": "US Navy resumes 'Project Freedom' ship escorts through Strait of Hormuz near Iran",
+          "url": "https://x.com/sentdefender/status/2059292213700354392",
+          "handle": "sentdefender",
+          "perspectives": [
             {
               "label": "Independent",
-              "handle": "Osint613",
-              "url": "https://x.com/Osint613/status/2058970840671101043",
-              "body": "Senior Israeli official to Channel 12: Containment is over. Israel has decided to launch a major strike against Hezbollah.",
-              "engagement": "120K views",
-              "views": 120722
+              "handle": "sentdefender",
+              "url": "https://x.com/sentdefender/status/2059292213700354392",
+              "body": "The U.S. Navy has resumed operations in the Strait of Hormuz under \u201cProject Freedom,\u201d a previously announced and quickly suspended initiative to escort commercial vessels - including cargo ships and tankers - through the vital shipping corridor near Iran, U.S. military officials tell The Wall Street Journal.",
+              "engagement": "20K views",
+              "views": 20167
             }
           ]
         },
@@ -47,85 +54,46 @@
               "views": 152498
             }
           ]
-        },
-        {
-          "headline": "Turkish police evict ousted opposition leaders from party headquarters",
-          "url": "https://x.com/Reuters/status/2058566188226203745",
-          "handle": "Reuters",
-          "perspectives": [
-            {
-              "label": "Independent",
-              "handle": "Reuters",
-              "url": "https://x.com/Reuters/status/2058566188226203745",
-              "body": "Turkish riot police fired tear gas and forced their way into the main opposition party's headquarters to evict its ousted leadership, deepening a crisis at the heart of Turkey's democracy",
-              "engagement": "9.5K likes",
-              "views": 725293
-            },
-            {
-              "label": "Conservative",
-              "handle": "koshercockney",
-              "url": "https://x.com/koshercockney/status/2058847606663434470",
-              "body": "Erdogan just being corrupt as fuck once again. He wants his Islamist dictatorship to be permanent. Turkey will end up like every other country where Islamic extremists eliminated any kind of opposition and killed democracy.",
-              "engagement": "1.2K likes",
-              "views": 22967
-            },
-            {
-              "label": "Democrat",
-              "handle": "democrats_eu",
-              "url": "https://x.com/democrats_eu/status/2058813153777995846",
-              "body": "Yesterday, \u00d6zg\u00fcr \u00d6zel, leader of Turkey\u2019s main opposition party, removed from his role through a decision widely seen as driven by Erdo\u011fan\u2019s grip on the judiciary, marched to Parliament in Ankara under the rain. ... Erdo\u011fan is choking democratic choice.",
-              "engagement": "6.5K likes",
-              "views": 106454
-            }
-          ]
         }
       ]
     },
     "usa": {
       "stories": [
         {
-          "headline": "Trump indicates he will sign bill making daylight saving time permanent",
-          "url": "https://x.com/LeadingReport/status/2058920345382388001",
-          "handle": "LeadingReport",
+          "headline": "President Trump\u2019s Big Beautiful Bill and Iran-related spending projected to cause $2 trillion federal budget deficit in 2026",
+          "url": "https://x.com/RepThomasMassie/status/2059228473487405551",
+          "handle": "RepThomasMassie",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "LeadingReport",
-              "url": "https://x.com/LeadingReport/status/2058920345382388001",
-              "body": "President Trump indicates he will sign bill making daylight saving time permanent.",
-              "engagement": "2.5M views",
-              "views": 2528312
-            },
-            {
-              "label": "Independent",
-              "handle": "NewsWire_US",
-              "url": "https://x.com/NewsWire_US/status/2058898570682487007",
-              "body": "Trump Indicates He'll Sign Bill Making Daylight Saving Time Permanent",
-              "engagement": "355K views",
-              "views": 355192
-            },
-            {
-              "label": "Democrat",
-              "handle": "zerohedge",
-              "url": "https://x.com/zerohedge/status/2058714693573677453",
-              "body": "Trump Indicates He'll Sign Bill Making Daylight Saving Time Permanent https://www.zerohedge.com/political/trump-indicates-hell-sign-bill-making-daylight-saving-time-permanent",
-              "engagement": "125K views",
-              "views": 125443
+              "handle": "RepThomasMassie",
+              "url": "https://x.com/RepThomasMassie/status/2059228473487405551",
+              "body": "The President\u2019s Big Beautiful Bill, the Iran War, and Republican spending bills will create a $2 trillion budget DEFICIT in 2026. Financing just the new debt costs more than all federal road & bridge projects, and we will be making those new interest payments each year, forever.",
+              "engagement": "458K views",
+              "views": 458465
             }
           ]
         },
         {
-          "headline": "Trump demands countries sign Abraham Accords as condition for Iran deal",
-          "url": "https://x.com/DropSiteNews/status/2058914081046724838",
-          "handle": "DropSiteNews",
+          "headline": "Trump to convene first Cabinet meeting at Camp David amid ongoing Iran negotiations",
+          "url": "https://x.com/FoxNews/status/2059289444419530884",
+          "handle": "FoxNews",
           "perspectives": [
             {
+              "label": "Conservative",
+              "handle": "FoxNews",
+              "url": "https://x.com/FoxNews/status/2059289444419530884",
+              "body": "BREAKING: President Trump will convene a rare Cabinet meeting at Camp David on Wednesday as negotiations with Iran enter a critical phase. All Cabinet members are expected to attend the meeting, Fox News has confirmed, including outgoing Director of National Intelligence Tulsi Gabbard. The gathering comes as the administration weighs next steps in high-stakes negotiations aimed at securing a broader agreement with Tehran amid a fraying ceasefire.",
+              "engagement": "17K views",
+              "views": 17716
+            },
+            {
               "label": "Independent",
-              "handle": "DropSiteNews",
-              "url": "https://x.com/DropSiteNews/status/2058914081046724838",
-              "body": "\ud83d\udea8 Trump demands Saudi Arabia, Qatar, Turkey, Egypt, Jordan, Pakistan sign Abraham Accords as condition of Iran deal",
-              "engagement": "2.4K likes",
-              "views": 1595748
+              "handle": "CNBC",
+              "url": "https://x.com/CNBC/status/2059284766315171941",
+              "body": "Trump to host Cabinet meeting at Camp David on Wednesday as Iran talks continue https://www.cnbc.com/2026/05/26/trump-camp-david-iran-cabinet.html?taid=6a15b20242698e0001d2b943&utm_campaign=trueanthem&utm_content=main&utm_medium=social&utm_source=twitter",
+              "engagement": "7K views",
+              "views": 7407
             }
           ]
         },
@@ -165,20 +133,20 @@
     "business": {
       "stories": [
         {
-          "handle": "IndianTechGuide",
-          "url": "https://x.com/IndianTechGuide/status/2059137476048859150",
-          "headline": "Taiwan overtakes India as world's fifth-largest stock market.",
-          "body": "\ud83d\udea8 Taiwan overtakes India as world's fifth-largest stock market.",
-          "engagement": "184K views",
-          "views": 184273
+          "handle": "unusual_whales",
+          "url": "https://x.com/unusual_whales/status/2059268059530228129",
+          "headline": "MicroStrategy completes $1.5B convertible notes repurchase",
+          "body": "Strategy, $MSTR, has completed the repurchase of $1.5 billion of its 2029 Convertible Notes at an ~8% discount to par, generating an incremental 0.7% BTC Yield and lowering aggregate debt to $6.7 billion.",
+          "engagement": "55K views",
+          "views": 54979
         },
         {
-          "handle": "REDBOXINDIA",
-          "url": "https://x.com/REDBOXINDIA/status/2058909653644542435",
-          "headline": "Finance Minister Nirmala Sitharaman open to re-evaluating tax system and listening to stock market investors.",
-          "body": "FINANCE MINISTER NIRMALA SITHARAMAN SAYS GOVT IS OPEN TO RE-EVALUATING TAX SYSTEM, WILL LISTEN TO STOCK MARKET INVESTORS\u2019 DEMANDS AND INPUTS",
-          "engagement": "1.05M views",
-          "views": 1051871
+          "handle": "unusual_whales",
+          "url": "https://x.com/unusual_whales/status/2059247427157148152",
+          "headline": "Michael Burry comments on NVIDIA demand concentration",
+          "body": "\"NVIDIA is benefitting from strong demand, but is selling into a concentrated set of buyers whose own demand is being distorted by a training and benchmarking phase that will not last,\" Michael Burry has said.",
+          "engagement": "93.7K views",
+          "views": 93706
         },
         {
           "handle": "zerohedge",
@@ -201,48 +169,48 @@
           "views": 2717761
         },
         {
-          "handle": "Cho_KaguyaHime",
-          "url": "https://x.com/Cho_KaguyaHime/status/2058835468913893705",
-          "headline": "Announcement for Nico Nico live MV viewing event on May 26.",
-          "body": "\uff3f\u4eba\u4eba\u4eba\u4eba\u4eba\u4eba\u4eba\u4eba\u4eba\u4eba\uff3f\n\uff1e  5\u670826\u65e5(\u706b)21:00\u306f  \uff1c\n\uff1e  \u30cb\u30b3\u30cb\u30b3\u306b\u96c6\u307e\u308c\uff01   \uff1c\n\uffe3Y^Y^ Y^Y^Y^Y^Y^Y\uffe3\n\n\u300eray \u8d85\u304b\u3050\u3084\u59eb\uff01Version\u300fMV\nYouTube\u518d\u751f\u65702,000\u4e07\u56de\u7a81\u7834\u8a18\u5ff5\ud83c\udf8a\n\n\u30cb\u30b3\u30cb\u30b3\u52d5\u753b\u306b\u3066\n5\u670826\u65e5(\u706b)21:00\u3088\u308a\u30e9\u30a4\u30d6\u516c\u958b\u6c7a\u5b9a\uff01\n\n\u4e00\u7dd2\u306b\u8996\u8074\u3057\u3066\u3001\u3081\u3067\u305f\u3057\u3057\u3061\u3083\u304a\uff5e\uff01",
-          "engagement": "1.28M views",
-          "views": 1284377
-        },
-        {
           "handle": "bdemgmr",
           "url": "https://x.com/bdemgmr/status/2059143811407000029",
           "headline": "Short video clip shared via link",
           "body": "https://t.co/JwQSjD5eRN",
           "engagement": "497K views",
           "views": 496902
+        },
+        {
+          "handle": "1_Q_X",
+          "url": "https://x.com/1_Q_X/status/2059279871591817334",
+          "headline": "Emotional video clip shared by user",
+          "body": "\u0627\u0642\u0633\u0645 \u0628\u0627\u0644\u0644\u0647 \u0627\u0628\u0643\u0627\u0646\u064a \u2764\ufe0f",
+          "engagement": "53K views",
+          "views": 53581
         }
       ]
     },
     "msm": {
       "stories": [
         {
-          "handle": "AP",
-          "url": "https://x.com/AP/status/2058844972753822023",
-          "headline": "Pope Leo XIV apologizes for Holy See's historical role in slavery",
-          "body": "BREAKING: Pope Leo XIV makes historic apology for Holy See's own role in legitimizing slavery and for failing to condemn it for centuries.",
-          "engagement": "868K views",
-          "views": 868256
+          "handle": "BBCWorld",
+          "url": "https://x.com/BBCWorld/status/2059234319743267150",
+          "headline": "Senegal's sacked PM Sonko elected parliamentary Speaker.",
+          "body": "Senegal's sacked PM Sonko elected parliamentary Speaker in challenge to president",
+          "engagement": "159K views",
+          "views": 159939
         },
         {
-          "handle": "AP",
-          "url": "https://x.com/AP/status/2059175364060950920",
-          "headline": "Quad foreign ministers meet in New Delhi on Indo-Pacific cooperation and China concerns.",
-          "body": "Foreign ministers from the Quad countries of Australia, India, Japan, and the United States are meeting in New Delhi to strengthen cooperation in the Indo-Pacific and address their concern over China's growing influence in the region.",
-          "engagement": "7K views",
-          "views": 6904
+          "handle": "CNN",
+          "url": "https://x.com/CNN/status/2059054422513082551",
+          "headline": "Michael Phelps advocates for mental health and water safety post-retirement.",
+          "body": "Olympian Michael Phelps has found a new calling since stepping out of the pool, becoming one of the most prominent and outspoken advocates for mental health and well-being in sports and beyond.",
+          "engagement": "194K views",
+          "views": 194691
         },
         {
-          "handle": "AP",
-          "url": "https://x.com/AP/status/2058851551041446266",
-          "headline": "Pope Leo XIV calls for robust AI regulation in new manifesto",
-          "body": "Pope Leo XIV called for robust regulation of artificial intelligence and for its developers to work for the common good rather than profit, issuing a sweeping manifesto on safeguarding humankind as the technology impacts everything from work to war.",
-          "engagement": "135K views",
-          "views": 135686
+          "handle": "nytimes",
+          "url": "https://x.com/nytimes/status/2059057717222797699",
+          "headline": "Jazz legend Sonny Rollins dies at age 95.",
+          "body": "Breaking News: Sonny Rollins, a jazz great with a forceful and imaginative approach to the tenor saxophone, has died at 95.",
+          "engagement": "157K views",
+          "views": 157681
         }
       ]
     },
@@ -251,10 +219,18 @@
         {
           "handle": "NBA",
           "url": "https://x.com/NBA/status/2059100684763443606",
-          "headline": "Knicks head to NBA Finals for first time since 1999",
-          "body": "FOR THE FIRST TIME SINCE 1999, THE NEW YORK KNICKS ARE HEADED TO THE NBA FINALS \ud83d\udea8 4-0 SERIES WIN OVER CLEVELAND. 11 STRAIGHT POSTSEASON VICTORIES.",
-          "engagement": "981K views",
-          "views": 981641
+          "headline": "New York Knicks head to NBA Finals for first time since 1999",
+          "body": "FOR THE FIRST TIME SINCE 1999, THE NEW YORK KNICKS ARE HEADED TO THE NBA FINALS \ud83d\udea8\n\n4-0 SERIES WIN OVER CLEVELAND.\n\n11 STRAIGHT POSTSEASON VICTORIES.",
+          "engagement": "1.5M views",
+          "views": 1560772
+        },
+        {
+          "handle": "premierleague",
+          "url": "https://x.com/premierleague/status/2058958775000997941",
+          "headline": "Arsenal crowned Premier League champions",
+          "body": "The scene of @Arsenal's crowning glory \u2764\ufe0f\n\n\ud83d\udcca @Microsoft",
+          "engagement": "2.0M views",
+          "views": 2076805
         },
         {
           "handle": "BleacherReport",
@@ -263,14 +239,6 @@
           "body": "JALEN BRUNSON DID IT\n\nFIRST KNICKS FINALS APPEARANCE IN 27 YEARS \ud83d\uddfd",
           "engagement": "690K views",
           "views": 689692
-        },
-        {
-          "handle": "NBA",
-          "url": "https://x.com/NBA/status/2059112422875574547",
-          "headline": "Jalen Brunson wins Eastern Conference Finals MVP",
-          "body": "JALEN BRUNSON WINS EASTERN CONFERENCE FINALS MVP \ud83c\udfc6 \ud83d\uddfd 25.5 PPG \ud83d\uddfd 7.8 APG \ud83d\uddfd 3.3 REB \ud83d\uddfd 47.8 FG% FOR THE FIRST TIME SINCE 1999, THE NEW YORK KNICKS ARE HEADED TO THE NBA FINALS!",
-          "engagement": "381K views",
-          "views": 380518
         }
       ]
     },
@@ -278,60 +246,60 @@
       "stories": [
         {
           "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2059002579707654199",
+          "headline": "Elon Musk agrees with a quote about homeless plans in LA",
+          "body": "True",
+          "engagement": "31.7M views",
+          "views": 31722973
+        },
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2059287487273382024",
+          "headline": "Elon Musk suggests pasting screenshots into Grok Build",
+          "body": "Paste screenshots into Grok Build",
+          "engagement": "913K views",
+          "views": 913838
+        },
+        {
+          "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2059080740881502364",
           "headline": "Elon Musk shares a guide on using Grok Build.",
           "body": "How to use Grok Build",
           "engagement": "16.5M views",
           "views": 16472426
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2059002244305973472",
-          "headline": "Elon Musk comments on SpaceX increasing solar power in space with Starlink satellites.",
-          "body": "This trend will continue for many years",
-          "engagement": "12.0M views",
-          "views": 12047992
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2058914860226793475",
-          "headline": "Elon Musk comments on political figure",
-          "body": "I wonder who wrote it for him. He\u2019s just a puppet.",
-          "engagement": "592K views",
-          "views": 591940
         }
       ]
     },
     "pods": {
       "stories": [
         {
+          "handle": "JamieVernon",
+          "url": "https://x.com/JamieVernon/status/2059057612398764267",
+          "headline": "Joe Rogan producer announces early release of Tom Segura podcast episode.",
+          "body": "Accidentally published tomorrow's podcast with Tom Segura, so it's out now! #BadThoughts https://open.spotify.com/episode/7lPfDiR4NVRtpHeMM8rfA4?si=1F-cNSPGTxuOZ2tDpdP0Gg",
+          "engagement": "358K views",
+          "views": 358637
+        },
+        {
           "handle": "joeroganhq",
-          "url": "https://x.com/joeroganhq/status/2058899635268461024",
-          "headline": "Mark Zuckerberg comments on Apple's lack of recent innovation.",
-          "body": "Mark Zuckerberg on Apple: \"They haven't really invented anything great in a while. Steve Jobs invented the iPhone, and now they're kind of sitting on it 20 years later.\"",
-          "engagement": "795K views",
-          "views": 795411
-        },
-        {
-          "handle": "hubermanlab",
-          "url": "https://x.com/hubermanlab/status/2058935405362450574",
-          "headline": "Andrew Huberman shares a daily mobility test for flexibility and balance.",
-          "body": "A quick real world test of mobility & flexibility that, were you to do it every day, would offset substantial age related decline in your mobility, balance and flexibility. Can you do the Put On (& Tie) Your Socks and Shoes While Standing Test? @trainer2thepros on Huberman Lab",
-          "engagement": "205K views",
-          "views": 205108
-        },
-        {
-          "handle": "hubermanlab",
-          "url": "https://x.com/hubermanlab/status/2058928471855005701",
-          "headline": "Huberman Lab posts new episode with Jeff Cavaliere on building muscle and posture.",
-          "body": "The new Huberman Lab episode is out: Build Muscle, Great Posture & Resilience to Injury | Jeff Cavaliere",
-          "engagement": "201K views",
-          "views": 201347
+          "url": "https://x.com/joeroganhq/status/2058994007305486700",
+          "headline": "Joe Rogan Podcast News shares clip of Rogan reacting to George Washington story.",
+          "body": "Joe Rogan couldn't believe his own ears after learning how George Washington died: \"Oh God.\"",
+          "engagement": "256K views",
+          "views": 256956
         }
       ]
     },
     "pg6": {
       "stories": [
+        {
+          "handle": "PopBase",
+          "url": "https://x.com/PopBase/status/2059269556590231653",
+          "headline": "Jennie performs unreleased song at Chanel event",
+          "body": "JENNIE performed an unreleased song at a Chanel event.",
+          "engagement": "162K views",
+          "views": 161622
+        },
         {
           "handle": "AMAs",
           "url": "https://x.com/AMAs/status/2059102633336693039",
@@ -347,42 +315,34 @@
           "body": "\u3010\u7570\u4f8b\u3011\u300e\u30ad\u30bf\u30cb\u30bf\u30c4\u30e4\u306eANN0\u300f\u96fb\u6483\u7d42\u4e86\u3092\u767a\u8868 \u300c\u7cbe\u795e\u3084\u4f53\u529b\u9762\u3067\u8ca0\u8377\u304c\u2026\u300d\nhttps://news.livedoor.com/article/detail/31371030/\n\n6\u6708\u672b\u3092\u3082\u3063\u3066\u7d42\u4e86\u3059\u308b\u3053\u3068\u3092\u767a\u8868\u3002\u300c\u7cbe\u795e\u3084\u4f53\u529b\u9762\u3067\u3082\u306a\u304b\u306a\u304b\u306e\u8ca0\u8377\u3068\u306a\u3063\u3066\u304a\u308a\u3001\u79c1\u306e\u65b9\u304b\u3089\u201c\u4e00\u533a\u5207\u308a\u3064\u3051\u3055\u305b\u3066\u304f\u308c\u201d\u3068\u7533\u3057\u51fa\u307e\u3057\u305f\u300d\u3068\u7406\u7531\u3092\u8aac\u660e\u3057\u305f\u3002",
           "engagement": "918K views",
           "views": 918925
-        },
-        {
-          "handle": "21metgala",
-          "url": "https://x.com/21metgala/status/2059021531150266739",
-          "headline": "XG attends the 52nd American Music Awards.",
-          "body": "XG attends the 52nd American Music Awards.",
-          "engagement": "696K views",
-          "views": 696115
         }
       ]
     },
     "recipe": {
       "stories": [
         {
-          "handle": "_UMEBOYS_1904",
-          "url": "https://x.com/_UMEBOYS_1904/status/2059171457146785945",
-          "headline": "Tip for pickling umeboshi with vinegar soak",
-          "body": "\u6885\u5e72\u3057\u3092\u6f2c\u3051\u308b\u3068\u304d\u306f\u30fb\u30fb\u30fb\n\u751f\u306e\u6885\u3092\u4e00\u5ea6\u6885\u9162\u306b\u304f\u3050\u3089\u305b\u3066\u304f\u3060\u3055\u3044\uff01\n\u305d\u306e\u3042\u3068\u5869\u3092\u3059\u308a\u3053\u3080\u3068\u3001\u6885\u9162\u306e\u4e0a\u304c\u308a\u304c\u65e9\u304f\u306a\u308a\u307e\u3059\uff01\uff01",
-          "engagement": "9.3K views",
-          "views": 9250
+          "handle": "kongjiro_",
+          "url": "https://x.com/kongjiro_/status/2059291571716243566",
+          "headline": "Kong.Jiro teases new creative menu item",
+          "body": "\u0e1d\u0e32\u0e01\u0e23\u0e2d\u0e15\u0e34\u0e14\u0e15\u0e32\u0e21 \u0e40\u0e21\u0e19\u0e39\u0e43\u0e2b\u0e21\u0e48\u0e46\u0e15\u0e48\u0e2d\u0e44\u0e1b\u0e14\u0e49\u0e27\u0e22\u0e04\u0e23\u0e31\u0e1a \u0e01\u0e33\u0e25\u0e31\u0e07\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e02\u0e31\u0e49\u0e19\u0e15\u0e2d\u0e19\u0e43\u0e0a\u0e49\u0e04\u0e27\u0e32\u0e21\u0e04\u0e34\u0e14\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e2a\u0e23\u0e23\u0e04\u0e4c5555 #fatfries",
+          "engagement": "17K views",
+          "views": 17311
         },
         {
-          "handle": "evilwizardbunny",
-          "url": "https://x.com/evilwizardbunny/status/2058968441672151547",
-          "headline": "Tips for cooking Miffy-shaped eggs in a silicone mold for jammy yolks.",
-          "body": "good morning~ many questions on how i did this so i took more photos to clarify\ud83c\udf1f 1. oil the mold before dropping eggs in, they\u2019ll stick if you don\u2019t 2. fill pan 1/4-1/2 way up the side of the mold w/ water, it\u2019s just there for steam 3. cook 6-6.5min w lid on for jammy yolk~\ud83e\udd5a\ud83c\udf73",
-          "engagement": "120K views",
-          "views": 120377
+          "handle": "711SEJ",
+          "url": "https://x.com/711SEJ/status/2059207920303403205",
+          "headline": "7-Eleven promotes thick noodle oil soba dish",
+          "body": "\ud83d\udca5\ud83c\udf5c\u98df\u3079\u308b\u7bb8\u304c\u3068\u307e\u3089\u306a\u3044\ud83c\udf5c\ud83d\udca5\n\n\u25e4\uffe3\uffe3\uffe3\uffe3\uffe3\uffe3\uffe3\uffe3\uffe3\uffe3\n\u3000\u3000\u3000\u3000\u6975\u592a\u9eba\n\u3000\u6fc3\u539a\u91a4\u6cb9\u306e\u6cb9\u305d\u3070\n\uff3f\uff3f\uff3f\uff3f\uff3f\uff3f\uff3f\uff3f\uff3f\uff3f\u25e2\n\n\u91a4\u6cb9\u30fb\u306b\u3093\u306b\u304f\u30fb\u9d8f\u3068\u8c5a\u306e\u30ac\u30e9\u30b9\u30fc\u30d7\u3092\n\u5408\u308f\u305b\u305f\u6fc3\u539a\u306a\u30bf\u30ec\u304c\u3084\u307f\u3064\u304d\u306a\u304a\u3044\u3057\u3055\ud83e\udd24\n\u304a\u9162\u3068\u30e9\u30fc\u6cb9\u3067\u5473\u5909\u3082\u697d\u3057\u3081\u308b\ud83e\udd62\n\n\u98df\u3079\u305f\u3044\u3063\uff01\u3063\u3066\u4eba\u306f\u21d2\u3044\u3044\u306d\u2764\ufe0f",
+          "engagement": "157K views",
+          "views": 157534
         },
         {
-          "handle": "skanayaneko",
-          "url": "https://x.com/skanayaneko/status/2059093304877400068",
-          "headline": "Post sharing first catch sashimi",
-          "body": "\u4eca\u30b7\u30fc\u30ba\u30f3\u521d\u7269\u3001\u304a\u523a\u8eab\u3067\u9802\u304d\u307e\u3059\u3002\u304a\u9b5a\u306e\u540d\u524d\u5206\u304b\u308b\u304b\u306a\u2753",
-          "engagement": "35.7K views",
-          "views": 35651
+          "handle": "kewpie_official",
+          "url": "https://x.com/kewpie_official/status/2059184033318506654",
+          "headline": "Kewpie shares easy microwave banbanji recipe",
+          "body": "\u6df1\u3054\u307e:\u713c\u8089\u306e\u305f\u308c\uff1d1:1\u3067\u5473\u304c\u6c7a\u307e\u308b\uff01\n\u96fb\u5b50\u30ec\u30f3\u30b8\u3067\u7c21\u5358\u30d0\u30f3\u30d0\u30f3\u30b8\u30fc\ud83d\ude0b\n\n\u3010\u4f5c\u308a\u65b9\u3011(2\u4eba\u5206)\n\u9d8f\u3080\u306d\u8089(1\u679a)\u306f\u8010\u71b1\u5bb9\u5668\u306b\u5165\u308c\u3001\u5869\u5c11\u3005\u3001\u9152\u3068\u6c34\u5404\u5927\u3055\u30581\u3092\u3075\u308a\u30e9\u30c3\u30d7\u3092\u3057\u3001\u30ec\u30f3\u30b8\u3067\u706b\u304c\u901a\u308b\u307e\u3067\u52a0\u71b1\u3002\u7c97\u71b1\u3092\u3068\u308a\u592a\u3081\u306b\u3055\u304f\u3002\u62cd\u5b50\u6728\u5207\u308a\u306b\u3057\u305f\u304d\u3085\u3046\u308a\u3068\u4e00\u7dd2\u306b\u3001\u713c\u8089\u306e\u305f\u308c\u3068\u6df1\u714e\u308a\u3054\u307e\u30c9\u30ec\u30c3\u30b7\u30f3\u30b0\u30921:1\u3067\u6df7\u305c\u305f\u305f\u308c\u3092\u304b\u3051\u308b\u3002",
+          "engagement": "62K views",
+          "views": 62244
         }
       ]
     },
@@ -397,12 +357,12 @@
           "views": 2696117
         },
         {
-          "handle": "ScienceFocusonX",
-          "url": "https://x.com/ScienceFocusonX/status/2058936055391297920",
-          "headline": "FDA approves new eye drop VIZZ that sharpens near vision for up to 10 hours daily.",
-          "body": "Reading glasses might be done.\n\nThe FDA just approved a once-daily eye drop called VIZZ that sharpens near vision in about 30 minutes and keeps it sharp for up to 10 hours.\n\nOne drop. Each eye. Per day.\n\nThat's it.\n\nThe active ingredient is aceclidine, a compound first used back in 1975 to treat glaucoma. Scientists figured out it could be repurposed to gently shrink the pupil, creating a \"pinhole effect\" that pulls close-up text back into focus, the same trick your eye does when you squint.\n\nUnlike Vuity, the 2021 drop that came before it, VIZZ doesn't mess with your focusing muscles. So no blurry distance vision. No brow ache. No weird zoom effect.\n\nIt was tested across more than 30,000 treatment days with no major complications.\n\nCost is roughly $2 a day.\n\nThis matters because presbyopia, the age-related slide that hits most people between 40 and 45, already affects more than 120 million Americans. By 2030, the World Health Organization expects around 2 billion people worldwide to have it.\n\nLENZ Therapeutics, the maker, started rolling out samples in October.\n\nThe squint era is ending.\n\nSource: Ynetnews, FOX 26 Houston, Yahoo News",
-          "engagement": "538K views",
-          "views": 538353
+          "handle": "HIVEDigitalTech",
+          "url": "https://x.com/HIVEDigitalTech/status/2059284037441880470",
+          "headline": "AI compressing drug discovery timelines with new compute infrastructure",
+          "body": "AI is compressing drug discovery timelines.\n\nHIVE's @BUZZHPC is building the sovereign compute that gives Canadian researchers the tools to go further, faster.\n\nThe science is accelerating. \nThe infrastructure has to keep up.",
+          "engagement": "25K views",
+          "views": 25275
         },
         {
           "handle": "Faisal",
@@ -419,26 +379,26 @@
         {
           "handle": "OCFireAuthority",
           "url": "https://x.com/OCFireAuthority/status/2059078026672193566",
-          "headline": "Updated evacuation map for Garden Grove chemical incident in Orange County",
-          "body": "***UPDATED INCIDENT MAP*** Effective as of Monday, May 25 at 6pm, the red shaded area represents the newest evacuation zone, while the red outline represents the previous evacuation zone.",
-          "engagement": "195K views",
-          "views": 195685
-        },
-        {
-          "handle": "Breaking911",
-          "url": "https://x.com/Breaking911/status/2059073691468603663",
-          "headline": "Officials rule out catastrophic explosion risk at Orange County chemical tank",
-          "body": "Officials ruled out the threat of a catastrophic explosion Monday after discovering a crack in a failing chemical tank at GKN Aerospace in Orange County, California, though concerns over a smaller blast still remain.",
-          "engagement": "43K views",
-          "views": 43364
+          "headline": "OCFA updates evacuation zones for Garden Grove chemical incident",
+          "body": "***UPDATED INCIDENT MAP***\n\nEffective as of Monday, May 25 at 6pm, the red shaded area represents the newest evacuation zone, while the red outline represents the previous evacuation zone.",
+          "engagement": "221K views",
+          "views": 221667
         },
         {
           "handle": "ABC",
-          "url": "https://x.com/ABC/status/2059097457921794536",
+          "url": "https://x.com/ABC/status/2059273822831022459",
           "headline": "Evacuation zone shrinks around failing chemical tank in Southern California",
-          "body": "The evacuation zone around a failing chemical tank in Southern California is shrinking after officials said the \"worst-case scenario\" of a catastrophic explosion has been averted.",
-          "engagement": "23K views",
-          "views": 23075
+          "body": "The evacuation zone around a failing chemical tank in Southern California is shrinking after officials said the \"worst-case scenario\" of a catastrophic explosion has been averted.\n\nABC News\u2019 Trevor Ault has the latest. \n\nRead more at the link in bio. https://abcnews.com/US/chemical-tank-southern-california-longer-threat-explosion-officials/story?utm_source=twitter&utm_medium=social&utm_campaign=dhtwitter&utm_content=app.dashsocial.com/abcnews/library/media/677194743&id=133286870",
+          "engagement": "13K views",
+          "views": 13553
+        },
+        {
+          "handle": "foxnewspolitics",
+          "url": "https://x.com/foxnewspolitics/status/2059267179154124884",
+          "headline": "Owner of pro-Trump house in Escondido dies after assault",
+          "body": "Owner of iconic pro-Trump 'Trump House' in southern California dead after a stranger allegedly punched him in the jaw, then struck him repeatedly in the head outside his own property.\n\nKerry Sheron, 69, a U.S. Army veteran, spent years decorating his Escondido home with American flags and Trump memorabilia \u2014 and spent years enduring complaints and vandalism because of it.\n\nThe suspect, 32-year-old Thomas Caleb Butler, faces attempted murder charges. The DA's office now reviews whether to upgrade them.\n\nCredit: Kerry Sheron via Facebook",
+          "engagement": "13K views",
+          "views": 13585
         }
       ]
     },
@@ -453,33 +413,25 @@
           "views": 4454357
         },
         {
+          "handle": "WarClandestine",
+          "url": "https://x.com/WarClandestine/status/2058937219423801537",
+          "headline": "Trump using moment to expand Abraham Accords and invite Iran.",
+          "body": "VERY big deal.\n\nTrump is now using this moment to expand the Abraham Accords, and is even inviting Iran to join.\n\nThe end goal is a lasting peace and stability in the Middle East, and the world, after Deep State tentacles have been cut.\n\nTrump began setting this up years ago.",
+          "engagement": "62K views",
+          "views": 61918
+        },
+        {
           "handle": "Daily_MailUS",
           "url": "https://x.com/Daily_MailUS/status/2059053037885247692",
           "headline": "UFO files reveal new evidence of secret invasion by mysterious silver spheres",
           "body": "UFO files reveal new evidence of secret invasion by mysterious silver spheres https://www.dailymail.com/sciencetech/article-15841235/ufo-files-secret-invasion-silver-spheres.html?ns_mchannel=rss&ns_campaign=1490&ito=social-twitter_dailymailus",
           "engagement": "20K views",
           "views": 20002
-        },
-        {
-          "handle": "UAPGERB",
-          "url": "https://x.com/UAPGERB/status/2058917368458625504",
-          "headline": "MITRE Corporation role in UFO retrieval programs",
-          "body": "I simply cannot stress enough how important it is @RepEricBurlison specifically mentions the @MITREcorp here in regards to private contractors holding the proverbial keys of UFO retrieval and exploitation programs. \n\nFounded in 1958/1959 as a spinoff from MIT Lincoln Labs, MITRE was initially formed as a military think tank that pushes the boundaries of \"innovation from sea to space.\"\n\nToday, MITRE is a non-profit that operates several FFRDCs (Federally Funded Research and Development Centers) for US Government sponsors, specializing in defense & intelligence, aerospace & transportation, homeland security, etc. Important to note, MITRE receives around 99% of its funding from the US Government.\n\nOutside of MITRE's prized Independent Research and Development (IRAD) efforts to \"respond to urgent challenges and anticipate the future for our government sponsors and the nation\" and MITRE Labs that \"inspires breakthroughs in applied science and advanced technology to transform the future of U.S. scientific and economic leadership\", one of MITRE's FFRDCs of particular interest in regards to UFO legacy programs is the National Security Engineering Center (NSEC) sponsored by the Department of Defense.\n\nAs a direct spinoff of @MITLL's Semi-Automatic Ground Environment (SAGE) air-defense radar system, for decades, NSEC has operated to deliver \"research, engineering, and analytical solutions to the Department of Defense and the Intelligence Community.\"\n\nI understand that NSEC, MITRE Labs, and other elements of MITRE are considered an \"R&D ace\" and an elite science and technology institution with unrivaled expertise operating across a swath of activities housed under several agencies/services within the US Intelligence Community and Armed Forces tasked with retrieval and exploitation of non-human intelligence technical vehicles.\n\nSpecifically, MITRE works closely with the US Navy for tracking, monitoring, retrieval, and exploitation of UFO/USO within maritime environments. \n\nWith how crucial MITRE is to USG-sponsored covert UFO recovery and exploitation efforts, it's always elft a bad taste in my mouth that beginning in 2025, disgraced ex @DoW_AARO director Sean Kirkpatrick and his company \"Nonlinear Solutions LLC\" were awarded contracts to subcontract under MITRE for USSPACECOM (IDC W56KGU18D0004).\n\nIf this were a one-off, it wouldn't be a big deal, but remember following AARO, Dr. Kirkpatrick also fled to @ORNL, a DOE/NNSA FFRDC National Lab, as cTO for Defense and Intelligence Programs!",
-          "engagement": "30K views",
-          "views": 30217
         }
       ]
     },
     "comedy": {
       "stories": [
-        {
-          "handle": "fuckyouiquit",
-          "url": "https://x.com/fuckyouiquit/status/2058940316976304437",
-          "headline": "Joke about 4-day work weeks versus holidays",
-          "body": "Funny how a 4 day work week gets treated like some impossible fantasy, yet long holiday weekends never seem to break the economy. It\u2019s almost like every weekend should just\u2026be a long weekend?",
-          "engagement": "218K views",
-          "views": 218764
-        },
         {
           "handle": "PardonMyMeme",
           "url": "https://x.com/PardonMyMeme/status/2059098872274632755",
@@ -495,9 +447,17 @@
           "body": "THE NEW YORK KNICKS ARE GOING TO THE FINALS",
           "engagement": "54K views",
           "views": 54073
+        },
+        {
+          "handle": "MichaelRosenYes",
+          "url": "https://x.com/MichaelRosenYes/status/2059228237914341478",
+          "headline": "Mention of an Israeli joke about schools in Gaza",
+          "body": "I gather there\u2019s an Israeli joke about there not being any schools left in Gaza. Can you remind us of it?",
+          "engagement": "7.8K views",
+          "views": 7780
         }
       ]
     }
   },
-  "last_updated": "2026-05-26T07:49:20.708675"
+  "last_updated": "2026-05-26T15:31:44.020525"
 }
