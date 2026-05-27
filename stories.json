@@ -3,55 +3,95 @@
     "world": {
       "stories": [
         {
-          "headline": "Papua Selatan residents sue Indonesian minister over land conversion for food and bioenergy project",
-          "url": "https://x.com/TrendAsia_Org/status/2059238050170048970",
-          "handle": "TrendAsia_Org",
+          "headline": "World Cup 2026 hype surges with squad announcements and matchups",
+          "url": "https://x.com/WorldCupMedia/status/2059288803664331120",
+          "handle": "WorldCupMedia",
           "perspectives": [
             {
-              "label": "Independent",
-              "handle": "TrendAsia_Org",
-              "url": "https://x.com/TrendAsia_Org/status/2059238050170048970",
-              "body": "BREAKING! Warga Papua Selatan hari ini resmi gugat Menteri Kehutanan RI... Gugatan ini jadi bukti bahwa \u201cPesta Babi\u201d adalah realita yang terjadi di Papua Selatan hari ini.",
-              "engagement": "323K views",
-              "views": 323041
-            }
-          ]
-        },
-        {
-          "headline": "Partial restoration of internet in Iran after 88-day nationwide blackout",
-          "url": "https://x.com/netblocks/status/2059256883274240508",
-          "handle": "netblocks",
-          "perspectives": [
-            {
-              "label": "Independent",
-              "handle": "netblocks",
-              "url": "https://x.com/netblocks/status/2059256883274240508",
-              "body": "\ud83d\udcc8 Confirmed: Live metrics show a partial restoration to internet connectivity in #Iran on day 88, after 2093 hours of near-total isolation from international networks, the longest nationwide internet shutdown in modern history. It is unclear if the restoration will be sustained.",
-              "engagement": "228K views",
-              "views": 228750
-            }
-          ]
-        },
-        {
-          "headline": "African countries seek Turkey security deals modeled on Somali partnership",
-          "url": "https://x.com/ConflictTR/status/2059293228948406305",
-          "handle": "ConflictTR",
-          "perspectives": [
-            {
-              "label": "Independent",
-              "handle": "ConflictTR",
-              "url": "https://x.com/ConflictTR/status/2059293228948406305",
-              "body": "Middle East Eye: Afrika \u00fclkeleri, T\u00fcrkiye'nin Somali ile kurdu\u011fu askeri ve ekonomi i\u015f birliklerine benzer \u015fekilde, T\u00fcrkiye ile anla\u015fmalar yapmak istiyor. T\u00fcrkiye, Afrika \u00fclkelerinden gelen talepleri de\u011ferlendiriyor.",
-              "engagement": "588 likes",
-              "views": 38237
+              "label": "Conservative",
+              "handle": "EricLDaugh",
+              "url": "https://x.com/EricLDaugh/status/2059633424181215725",
+              "body": "\ud83d\udea8 HUGE DEVELOPMENT: Sec. Markwayne Mullin announces DHS is drawing up plans to BLOCK ALL international flights into sanctuary cities",
+              "engagement": "274K views",
+              "views": 274972
             },
             {
               "label": "Independent",
-              "handle": "SireneOznur",
-              "url": "https://x.com/SireneOznur/status/2059303436374425996",
-              "body": "Middle East Eye: \u2796\"Afrika \u00fclkeleri, T\u00fcrkiye ile \u201cSomali modeli\u201d \u00fczerinden g\u00fcvenlik ili\u015fkileri kurmak istiyor Ankara, T\u00fcrkiye ile daha yak\u0131n g\u00fcvenlik ve ekonomik ili\u015fkiler geli\u015ftirmek isteyen Afrika \u00fclkelerinden gelen talepleri de\u011ferlendiriyor.\"",
-              "engagement": "507 likes",
-              "views": 4787
+              "handle": "PopBase",
+              "url": "https://x.com/PopBase/status/2059488515545870612",
+              "body": "Today is World Otter Day.",
+              "engagement": "2.7M views",
+              "views": 2734217
+            },
+            {
+              "label": "Democrat",
+              "handle": "JoJoFromJerz",
+              "url": "https://x.com/JoJoFromJerz/status/2059606703423869415",
+              "body": "The State Department has already drawn $1.25 billion from international peacekeeping and disaster relief programs",
+              "engagement": "8.7K views",
+              "views": 8720
+            }
+          ]
+        },
+        {
+          "headline": "North Korea tests replica of US HIMARS missile system",
+          "url": "https://x.com/BRICSinfo/status/2059581988210688221",
+          "handle": "BRICSinfo",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "EricLDaugh",
+              "url": "https://x.com/EricLDaugh/status/2059633424181215725",
+              "body": "\ud83d\udea8 HUGE DEVELOPMENT: Sec. Markwayne Mullin announces DHS is drawing up plans to BLOCK ALL international flights into sanctuary cities",
+              "engagement": "274K views",
+              "views": 274972
+            },
+            {
+              "label": "Independent",
+              "handle": "BRICSinfo",
+              "url": "https://x.com/BRICSinfo/status/2059617031284998538",
+              "body": "JUST IN: \ud83c\uddf7\ud83c\uddfa\ud83c\uddee\ud83c\uddf7 Russia says its proposal to remove Iran's highly enriched uranium \"remains fully on the table.\"",
+              "engagement": "81K views",
+              "views": 80997
+            },
+            {
+              "label": "Democrat",
+              "handle": "Keir_Starmer",
+              "url": "https://x.com/Keir_Starmer/status/2059641422194540634",
+              "body": "The challenges we face in Europe demand strong partnerships.",
+              "engagement": "63K views",
+              "views": 63221
+            }
+          ]
+        },
+        {
+          "headline": "Ukrainian forces strike Russian airbase and logistics targets",
+          "url": "https://x.com/Osinttechnical/status/2059465716445688215",
+          "handle": "Osinttechnical",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "EricLDaugh",
+              "url": "https://x.com/EricLDaugh/status/2059633424181215725",
+              "body": "\ud83d\udea8 HUGE DEVELOPMENT: Sec. Markwayne Mullin announces DHS is drawing up plans to BLOCK ALL international flights into sanctuary cities",
+              "engagement": "274K views",
+              "views": 274972
+            },
+            {
+              "label": "Independent",
+              "handle": "WarMonitor3",
+              "url": "https://x.com/WarMonitor3/status/2059619617463562682",
+              "body": "A Ukrainian commander has told me that he thinks a turning point has occurred",
+              "engagement": "71K views",
+              "views": 71282
+            },
+            {
+              "label": "Democrat",
+              "handle": "DefenceU",
+              "url": "https://x.com/DefenceU/status/2059612029367750658",
+              "body": "We are launching a \"logistics lockdown\" for the Russian army.",
+              "engagement": "28K views",
+              "views": 28120
             }
           ]
         }
@@ -59,6 +99,60 @@
     },
     "usa": {
       "stories": [
+        {
+          "headline": "Ken Paxton defeats John Cornyn in Texas Senate GOP primary",
+          "url": "https://x.com/bennyjohnson/status/2059444540944048323",
+          "handle": "bennyjohnson",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "bennyjohnson",
+              "url": "https://x.com/bennyjohnson/status/2059444540944048323",
+              "body": "Retard Right: \u201cMAGA is Dead!\u201d Reality: President Trump is 117/117 in the 2026 primaries \u2014 That\u2019s 100%. MAGA is alive and well \ud83c\uddfa\ud83c\uddf8",
+              "engagement": "486K views",
+              "views": 486902
+            },
+            {
+              "label": "Independent",
+              "handle": "burgessev",
+              "url": "https://x.com/burgessev/status/2059245444144738377",
+              "body": "Suddenly Republicans are dealing with a big congressional pile-up: Senate scheduled to be in 11 weeks before election...",
+              "engagement": "21K views",
+              "views": 21011
+            },
+            {
+              "label": "Democrat",
+              "handle": "jamestalarico",
+              "url": "https://x.com/jamestalarico/status/2059654773729599611",
+              "body": "Ken Paxton should be nowhere near the U.S. Senate. So we\u2019re hitting the road to stop him.",
+              "engagement": "12K views",
+              "views": 12583
+            }
+          ]
+        },
+        {
+          "headline": "Trump admin cracks down on billions in Medicare and federal fraud",
+          "url": "https://x.com/WhiteHouse/status/2059333498301735131",
+          "handle": "WhiteHouse",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "WhiteHouse",
+              "url": "https://x.com/WhiteHouse/status/2059333498301735131",
+              "body": "Crushing BILLIONS of dollars in medicare, hospice, childcare and many more types of FRAUD. The Trump Administration is bringing accountability and justice back to the American taxpayer.",
+              "engagement": "238K views",
+              "views": 238702
+            },
+            {
+              "label": "Independent",
+              "handle": "BRICSinfo",
+              "url": "https://x.com/BRICSinfo/status/2059646466671452427",
+              "body": "JUST IN: \ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 White House says US-Iran draft agreement published by Iranian state media is \"complete fabrication.\"",
+              "engagement": "154K views",
+              "views": 154079
+            }
+          ]
+        },
         {
           "headline": "Stephen Miller says welfare fraud could balance entire federal budget",
           "url": "https://x.com/nicksortor/status/2059344808716509554",
@@ -73,92 +167,46 @@
               "views": 1749129
             }
           ]
-        },
-        {
-          "headline": "Memorial Day 2026 honored at Arlington National Cemetery",
-          "url": "https://x.com/WhiteHouse/status/2059058022454886889",
-          "handle": "WhiteHouse",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "SharrellAnne2",
-              "url": "https://x.com/SharrellAnne2/status/2059035133487845812",
-              "body": "Last night, I made a simple request on X. I asked if anybody visiting Arlington National Cemetery for Memorial Day would stop by Alan\u2019s grave and leave a photo for our family. What happened next honestly caught me off guard. By this afternoon, dozens of Americans from all walks of life had made the walk to Section 60 to visit SSG Alan W. Shaw.",
-              "engagement": "1.2M views",
-              "views": 1236476
-            },
-            {
-              "label": "Independent",
-              "handle": "IDF",
-              "url": "https://x.com/IDF/status/2058927311034917369",
-              "body": "Today, on U.S. Memorial Day, we honor the American troops who risked their lives for their country \ud83c\uddfa\ud83c\uddf8\ud83d\udd6f\ufe0f",
-              "engagement": "244K views",
-              "views": 244511
-            },
-            {
-              "label": "Democrat",
-              "handle": "ArlingtonNatl",
-              "url": "https://x.com/ArlingtonNatl/status/2059357364306751758",
-              "body": "Beginning with the annual \u201cFlags In\u201d tradition, followed by Flowers of Remembrance Day at the Tomb of the Unknown Soldier, Memorial Day weekend is a time of remembrance and reflection at Arlington National Cemetery.",
-              "engagement": "1K views",
-              "views": 1249
-            }
-          ]
-        },
-        {
-          "headline": "Trump endorsed candidates win all 117 races in 2026 primaries",
-          "url": "https://x.com/bennyjohnson/status/2059451321292353701",
-          "handle": "bennyjohnson",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "bennyjohnson",
-              "url": "https://x.com/bennyjohnson/status/2059451321292353701",
-              "body": "Lesson of Tonight: Trump is the Undisputed King of Republicans Massie - GONE Cornyn - GONE Cassidy - GONE Indiana Senate - GONE Trump has endorsed 117 candidates in 2026 - and has won all 117 races. 100% win rate. Smoked! Bush, Cheney, Romney and McConnell dynasties are DEAD",
-              "engagement": "27.2K likes",
-              "views": 357852
-            }
-          ]
         }
       ]
     },
     "business": {
       "stories": [
         {
-          "handle": "Polymarket",
-          "url": "https://x.com/Polymarket/status/2059265311640019242",
-          "headline": "Uber COO questions justification for heavy AI spending due to unclear consumer payoffs.",
-          "body": "JUST IN: Uber\u2019s COO says heavy AI spending is getting harder to justify, as higher token usage fails to show a clear payoff in consumer features.",
-          "engagement": "7.5M views",
-          "views": 7580411
+          "handle": "unusual_whales",
+          "url": "https://x.com/unusual_whales/status/2059584900727005363",
+          "headline": "Samsung union approves $340k average bonus for chip workers",
+          "body": "Samsung's largest union voted in favor of a compensation deal that will hand chip workers an average bonus of about $340,000",
+          "engagement": "89.6K views",
+          "views": 89563
         },
         {
-          "handle": "iPopBase",
-          "url": "https://x.com/iPopBase/status/2059241864289808591",
-          "headline": "Indonesian rupiah hits record low of 17,845 per US dollar.",
-          "body": "The rupiah continues to fall to a new record low of 17,845 per US dollar.",
-          "engagement": "1.2M views",
-          "views": 1227327
+          "handle": "Mr_Derivatives",
+          "url": "https://x.com/Mr_Derivatives/status/2059602503902412889",
+          "headline": "Japan, Taiwan, Korea markets at ATH while China lags",
+          "body": "Japan stock market = ath\nTaiwan stock market = ath\nKorea stock market = ath\nChina\u2019s Hang Seng stock market = multi month low\n\ud83e\udd37\ud83c\udffc\u200d\u2642\ufe0f",
+          "engagement": "61.5K views",
+          "views": 61501
         },
         {
-          "handle": "TrendSpider",
-          "url": "https://x.com/TrendSpider/status/2059309052522324406",
-          "headline": "Micron joins the $1T market cap club in record time driven by memory demand.",
-          "body": "\ud83d\udea8 Micron has officially joined the $1T club, delivering one of the fastest $100B \u2192 $1T valuation runs the market has ever seen. Nvidia did it in 4 years. $NVDA Micron did it in 1... $MU",
-          "engagement": "620K views",
-          "views": 620683
+          "handle": "unusual_whales",
+          "url": "https://x.com/unusual_whales/status/2059579615799357495",
+          "headline": "Taiwan overtakes India as world's 5th largest stock market",
+          "body": "Taiwan has surpassed India as the 5th largest stock market in the world.",
+          "engagement": "59.4K views",
+          "views": 59418
         }
       ]
     },
     "top": {
       "stories": [
         {
-          "handle": "SkySportsNews",
-          "url": "https://x.com/SkySportsNews/status/2059296826700726345",
-          "headline": "Manchester City confirms multiple staff departures including Pep Lijnders.",
-          "body": "BREAKING: Manchester City have confirmed Pep Lijnders, Kolo Toure, Lorenzo Buenaventura, Manel Estiarte and Xabi Mancisidor will all leave the club \ud83d\udea8",
-          "engagement": "2M views",
-          "views": 1981222
+          "handle": "AlertesInfos",
+          "url": "https://x.com/AlertesInfos/status/2059614604230033789",
+          "headline": "French rapper's music video depicts murder of politician.",
+          "body": "\ud83c\uddeb\ud83c\uddf7 FLASH | Le rappeur Soli a mis en sc\u00e8ne un tabassage \u00e0 mort de Jordan Bardella dans son dernier clip : \"Coup de pied, coup de pied dans la t\u00eate d\u2019un facho hmmm quelle bonne saveur un bon raciste, c\u2019est un raciste blotti dans son cercueil\".",
+          "engagement": "595K views",
+          "views": 594767
         },
         {
           "handle": "MarvelRivals",
@@ -169,17 +217,33 @@
           "views": 564592
         },
         {
-          "handle": "Afc_news360",
-          "url": "https://x.com/Afc_news360/status/2059477321959006525",
-          "headline": "Video of a soccer highlight or news clip.",
-          "body": "https://t.co/t2Ac6y5wQL",
-          "engagement": "75K views",
-          "views": 75415
+          "handle": "le_sserafim",
+          "url": "https://x.com/le_sserafim/status/2059613457696391255",
+          "headline": "LE SSERAFIM shares BOYNEXTDOOR members in BOOMPALA teaser.",
+          "body": "#BOYNEXTDOOR #SUNGHO #WOONHAK \u270a\ud83d\ude4f \ud835\udc01\ud835\udc0e\ud835\udc0e\ud835\udc0c\ud835\udc0f\ud835\udc00\ud835\udc0b\ud835\udc00 \u25aa\ufe0f https://www.instagram.com/reel/DY15fE7yYHj/ \u25aa\ufe0f https://www.tiktok.com/@le_sserafim/video/7644547469514198279?_r=1&_t=ZS-96i6oZs4iSl \u25aa\ufe0f https://www.youtube.com/shorts/Gy579TydEdI #LE_SSERAFIM #\ub974\uc138\ub77c\ud54c #HUHYUNJIN #HONGEUNCHAE #PUREFLOW_pt1 #BOOMPALA",
+          "engagement": "166K views",
+          "views": 165701
         }
       ]
     },
     "msm": {
       "stories": [
+        {
+          "handle": "CNN",
+          "url": "https://x.com/CNN/status/2059591377122443361",
+          "headline": "Thousands of Cuban migrants deported from US face rights violations in Mexico, per Human Rights Watch report.",
+          "body": "Thousands of Cuban migrants deported from the United States have faced violations of their rights and are currently in \u201ca legal limbo\u201d in Mexico, where they have difficulties regularizing their situation and even obtaining medical care, according to a new report from Human Rights Watch.",
+          "engagement": "91648 views",
+          "views": 91648
+        },
+        {
+          "handle": "AP",
+          "url": "https://x.com/AP/status/2059605611013173257",
+          "headline": "North Korea says latest launches involved multiple weapons systems including nuclear-capable cruise missile.",
+          "body": "North Korea says its latest launches involved multiple weapons systems, including a nuclear-capable cruise missile that leader Kim Jong Un plans to deploy with front-line units facing South Korea. https://apnews.com/article/north-korea-kim-ballistic-cruise-missiles-nuclear-720cea7dfc5f7ec555ff9bb1f423507c?taid=6a16dcd1b2348a00016094a0&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
+          "engagement": "34796 views",
+          "views": 34796
+        },
         {
           "handle": "nytimes",
           "url": "https://x.com/nytimes/status/2059446733252313096",
@@ -187,27 +251,19 @@
           "body": "Breaking News: The Minneapolis police chief who took over the department after the killing of George Floyd resigned after an internal investigation. https://www.nytimes.com/2026/05/26/us/minneapolis-police-chief-resigns.html?smtyp=cur&smid=tw-nytimes",
           "engagement": "92.8K views",
           "views": 92763
-        },
-        {
-          "handle": "Reuters",
-          "url": "https://x.com/Reuters/status/2059217983147536562",
-          "headline": "Starbucks Korea faces sales drop after 'Tank Day' campaign backlash.",
-          "body": "Starbucks Korea saw a \u2018very significant\u2019 sales drop after 'Tank Day' marketing campaign, coinciding with the anniversary of the 1980 Gwangju Uprising, triggered a public outcry https://www.reuters.com/world/asia-pacific/shinsegae-chairman-makes-public-apology-amid-backlash-over-starbucks-korea-2026-05-26/?utm_medium=Social&utm_source=Facebook",
-          "engagement": "300K views",
-          "views": 299886
-        },
-        {
-          "handle": "CBSNews",
-          "url": "https://x.com/CBSNews/status/2059281304236020052",
-          "headline": "Supreme Court allows Brian Flores racial discrimination suit against NFL to proceed.",
-          "body": "The Supreme Court turned away an appeal by the NFL stemming from coach Brian Flores' racial discrimination suit, allowing his case to proceed in federal court. https://www.cbsnews.com/news/supreme-court-nfl-brian-flores-lawsuit/?ftag=CNM-00-10aab7e&linkId=950498372",
-          "engagement": "66.1K views",
-          "views": 66104
         }
       ]
     },
     "sports": {
       "stories": [
+        {
+          "handle": "FootbalTimeX",
+          "url": "https://x.com/FootbalTimeX/status/2059575974317240549",
+          "headline": "MLS has twice as many players as Saudi League at 2026 World Cup",
+          "body": "\ud83d\udea8| MLS has twice as many players as the Saudi League at the 2026 World Cup.",
+          "engagement": "638K views",
+          "views": 638434
+        },
         {
           "handle": "FabrizioRomano",
           "url": "https://x.com/FabrizioRomano/status/2059533814028710010",
@@ -223,14 +279,6 @@
           "body": "This move from Shai was filthy\u2026 made Wemby touch the earth \ud83d\ude33",
           "engagement": "659K views",
           "views": 658823
-        },
-        {
-          "handle": "NBA",
-          "url": "https://x.com/NBA/status/2059458117377663429",
-          "headline": "Jared McCain wild and-1 in Thunder vs Spurs Game 5",
-          "body": "HOW DID MCCAIN MAKE THIS??? A wild and-1 \ud83e\udd2f Thunder lead by 18 in Q3 of Game 5!",
-          "engagement": "140K views",
-          "views": 139577
         }
       ]
     },
@@ -246,19 +294,19 @@
         },
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2059287487273382024",
-          "headline": "Elon Musk recommends pasting screenshots into Grok Build",
-          "body": "Paste screenshots into Grok Build",
-          "engagement": "8.5M views",
-          "views": 8508509
+          "url": "https://x.com/elonmusk/status/2059572715003281681",
+          "headline": "Elon Musk reports late-night work at SpaceXAI suggesting possible training breakthrough.",
+          "body": "I just left the SpaceXAI office at ~2:45am and people were still going.\n\nI think we might be close to a significant breakthrough in training.",
+          "engagement": "621K views",
+          "views": 621235
         },
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2059299542277697565",
-          "headline": "Elon Musk affirms focus on self-sustainable colonies on Moon and Mars.",
-          "body": "Mostly true. What matters is securing the long-term future of consciousness, both on Earth and other heavenly bodies. \n\nWe cannot just focus on Earth, because there are irreducible external (eg massive meteor) and internal (eg global nuclear war) cataclysmic risks. \n\nThe Moon is faster to make self-growing, but is more susceptible to problems on Earth. Mars will take longer to make self-growing, because it is so hard to reach, but is more secure from Earth disasters for that same reason. \n\nBoth the Moon and Mars should have self-growing civilizations. Making this happen is the prime directive of SpaceX.",
-          "engagement": "7.24M views",
-          "views": 7237908
+          "url": "https://x.com/elonmusk/status/2059571998574129564",
+          "headline": "Elon Musk posts a single skeptical emoji.",
+          "body": "\ud83e\udd28",
+          "engagement": "106K views",
+          "views": 105802
         }
       ]
     },
@@ -273,48 +321,48 @@
           "views": 1571252
         },
         {
-          "handle": "stevehou",
-          "url": "https://x.com/stevehou/status/2059252171502211324",
-          "headline": "Lex Fridman hitchhiking with truckers in China using ChatGPT",
-          "body": "Lex Fridman is hitchhiking with truckers in China using ChatGPT translator. Looks a bit sketch but seems to be having a good time.",
-          "engagement": "1.30M views",
-          "views": 1304129
-        },
-        {
           "handle": "scubaryan_",
           "url": "https://x.com/scubaryan_/status/2059351113040609533",
-          "headline": "iShowSpeed reacts to Theo Von chewing 12 pieces of gum at once",
+          "headline": "iShowSpeed reacts to Theo Von chewing 12 pieces of gum at once.",
           "body": "when iShowSpeed was shocked after finding out that Theo Von chews on 12 pieces of gum at the same time because it helps with recovering from his previous dr*g addiction \ud83d\udc40",
-          "engagement": "615K views",
-          "views": 615220
+          "engagement": "907K views",
+          "views": 906724
+        },
+        {
+          "handle": "newstart_2024",
+          "url": "https://x.com/newstart_2024/status/2059388718906011856",
+          "headline": "Theo Von shares intense ketamine therapy experience on Joe Rogan podcast.",
+          "body": "Theo Von opened up about his ketamine therapy experience on Joe Rogan, and it was raw as hell. He did six IV sessions. During one, he started talking about his dad (who passed 20 years ago) and suddenly felt like he was actually with him again \u2014 real enough to cry and tell him he loved him. He also got to see his mom as a happy little kid. At times it felt like sliding off the edge of the universe with no ropes. Theo\u2019s honesty about chasing relief from grief and anger through this was heavy, but powerful. This one really stuck with me. The way he describes those moments is so human and vulnerable. So many people are quietly struggling with grief, anger, and mental health. Hearing someone like Theo explore intense therapies with complete candor helps remove some of the stigma. Theo Von is one of the most real, funny, and courageous voices out there right now. Respect.",
+          "engagement": "584K views",
+          "views": 583501
         }
       ]
     },
     "pg6": {
       "stories": [
         {
-          "handle": "PopBase",
-          "url": "https://x.com/PopBase/status/2059359641910534437",
-          "headline": "Drake breaks Michael Jackson record for most #1s by male soloist",
-          "body": "Drake shares post after breaking Michael Jackson\u2019s record for most #1\u2019s by a male soloist.",
-          "engagement": "1.18M views",
-          "views": 1183080
+          "handle": "TeamAriana",
+          "url": "https://x.com/TeamAriana/status/2059651184974057883",
+          "headline": "Ariana Grande shares link to new single teaser",
+          "body": "https://arianagrande.lnk.to/htimylm",
+          "engagement": "233K views",
+          "views": 233574
+        },
+        {
+          "handle": "PopCrave",
+          "url": "https://x.com/PopCrave/status/2059651627124937160",
+          "headline": "Ariana Grande shares new teaser for upcoming single",
+          "body": "Ariana Grande shares new teaser for upcoming single \u201chate that i made you love me.\u201d Song out Friday, video out Monday.",
+          "engagement": "57K views",
+          "views": 57146
         },
         {
           "handle": "PopBase",
-          "url": "https://x.com/PopBase/status/2059305949815570512",
-          "headline": "Olivia Rodrigo unveils tracklist for new album",
-          "body": "Olivia Rodrigo unveils tracklist for her new album \u2018you seem pretty sad for a girl so in love.\u2019 Out June 12th.",
-          "engagement": "1.09M views",
-          "views": 1090710
-        },
-        {
-          "handle": "21metgala",
-          "url": "https://x.com/21metgala/status/2059302605717659659",
-          "headline": "Olivia Rodrigo filming music video in Manhattan",
-          "body": "Olivia Rodrigo is seen filming a music video in Uptown, Manhattan.",
-          "engagement": "987K views",
-          "views": 987519
+          "url": "https://x.com/PopBase/status/2059656455318348088",
+          "headline": "Justin Long stars in Ariana Grande\u2019s upcoming music video",
+          "body": "Justin Long stars in Ariana Grande\u2019s upcoming music video for \u2018hate that i made you love me.\u2019 Premieres June 1.",
+          "engagement": "26K views",
+          "views": 26452
         }
       ]
     },
@@ -329,12 +377,12 @@
           "views": 723707
         },
         {
-          "handle": "wstgoat7",
-          "url": "https://x.com/wstgoat7/status/2059303332980605366",
-          "headline": "User shares photo of McDonald's meal",
-          "body": "McDonald\u2019s eats",
-          "engagement": "994K views",
-          "views": 994147
+          "handle": "josefchen",
+          "url": "https://x.com/josefchen/status/2059350978109874677",
+          "headline": "Announcement of largest multilingual food model trained on 4.1M recipes",
+          "body": "Launching our new paper on arXiv: we trained the largest multilingual food model ever built.\n\n4.1M recipes. 7 languages. 1,790 ingredients. 300 dimensions.\n\nAll of human cooking compressed into 2 megabytes.",
+          "engagement": "770K views",
+          "views": 769765
         },
         {
           "handle": "StaminaFitnes",
@@ -357,32 +405,32 @@
           "views": 2280959
         },
         {
-          "handle": "IndianTechGuide",
-          "url": "https://x.com/IndianTechGuide/status/2059280932201205977",
-          "headline": "Indian minister claims 7% ethanol-water mix enables cheaper household cooking than LPG",
-          "body": "\ud83d\udea8 \"Mixing 7% ethanol with water produces a flame that can be used for household cooking at a lower cost than LPG-based cooking gas.\"\n\n- Minister Nithin Gadkari.",
-          "engagement": "584K views",
-          "views": 584049
-        },
-        {
-          "handle": "NASA",
-          "url": "https://x.com/NASA/status/2059280471666671710",
-          "headline": "NASA announces live update on Moon base plans",
-          "body": "Join us today for a live event where we'll share our @NASAMoonBase plans! At 2pm ET (1800 UTC), we'll update you on our progress toward a long-term presence on the Moon. Watch right here on X.",
-          "engagement": "518K views",
-          "views": 518696
+          "handle": "GoogleDeepMind",
+          "url": "https://x.com/GoogleDeepMind/status/2059302777818325236",
+          "headline": "Gemini for Science tools to help unlock scientific breakthroughs",
+          "body": "Our Gemini for Science tools could help scientists unlock their next breakthrough. \ud83e\uddec",
+          "engagement": "66K views",
+          "views": 66131
         }
       ]
     },
     "local": {
       "stories": [
         {
+          "handle": "NBCNews",
+          "url": "https://x.com/NBCNews/status/2059630750211690819",
+          "headline": "Southern California man dies after assault outside home with Trump displays",
+          "body": "A Southern California man known for his patriotic and pro-Trump home decorations died after he was assaulted outside his house, authorities say.",
+          "engagement": "14K views",
+          "views": 13735
+        },
+        {
           "handle": "nytimes",
           "url": "https://x.com/nytimes/status/2059482820393709672",
           "headline": "Southern California officials lift evacuation orders after stabilizing chemical tank",
           "body": "Breaking news: Southern California officials lifted evacuation orders after stabilizing a chemical tank, significantly reducing the risk of harm to residents.",
-          "engagement": "52K views",
-          "views": 52491
+          "engagement": "76K views",
+          "views": 76370
         },
         {
           "handle": "ABC",
@@ -391,73 +439,41 @@
           "body": "NEW: The evacuation zone around a failing chemical tank in Southern California is shrinking after officials said the \"worst-case scenario\" of a catastrophic explosion has been averted.",
           "engagement": "24K views",
           "views": 23817
-        },
-        {
-          "handle": "ABC",
-          "url": "https://x.com/ABC/status/2059273822831022459",
-          "headline": "Evacuation zone around failing chemical tank shrinking in Southern California",
-          "body": "The evacuation zone around a failing chemical tank in Southern California is shrinking after officials said the \"worst-case scenario\" of a catastrophic explosion has been averted.",
-          "engagement": "22K views",
-          "views": 22091
         }
       ]
     },
     "conspiracy": {
       "stories": [
         {
-          "handle": "SpiritualSF_17",
-          "url": "https://x.com/SpiritualSF_17/status/2059219158466736512",
-          "headline": "Trump posts meme 'Game Over Deep State' with Q in background",
-          "body": "President Trump just posted my meme \"Game Over Deep State\" with a big Q in the background and a Q+ on his collar!!!! \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25 \n\nhttps://truthsocial.com/@realDonaldTrump/posts/116640302390587616\n\n@realDonaldTrump \ud83e\udef6\ud83e\udee1",
-          "engagement": "162K views",
-          "views": 162479
+          "handle": "JesseBWatters",
+          "url": "https://x.com/JesseBWatters/status/2059438722840441021",
+          "headline": "Former Pentagon UFO investigator claims US has non-human material",
+          "body": "\ud83d\udea8 WAIT\u2026 WHAT! A FORMER PENTAGON UFO INVESTIGATOR JUST SAID THE U.S. POSSESSES \u201cNON-HUMAN\u201d MATERIAL \ud83d\udc7d\ud83d\udef8",
+          "engagement": "317K views",
+          "views": 317229
         },
         {
-          "handle": "RealAF_Patriot",
-          "url": "https://x.com/RealAF_Patriot/status/2059281093082194264",
-          "headline": "Was The Apprentice part of military Q plan to install Trump against Deep State?",
-          "body": "WAS THE APPRENTICE PART OF Q\u2049\ufe0f\n\nWhen exactly did the military have their eye on Donald Trump to be the one?\n\nDid the military use The Apprentice to set the stage for Trump to be President in order to destroy the Deep State?\n\nFull episode \n\ud83d\udc47 \nhttps://rumble.com/v7aastk-real-af-talk-ep-52-david-clements-w-realaf-and-ajp-168.html",
-          "engagement": "61K views",
-          "views": 60581
-        },
-        {
-          "handle": "DarrigoMelanie",
-          "url": "https://x.com/DarrigoMelanie/status/2059268920012402764",
-          "headline": "Trump posts game over deep state while covering up Epstein operation",
-          "body": "He\u2019s posting \u201cgame over deep state,\u201d while still actively covering up the widespread international billionaire pedophile and blackmail operation that he has been repeatedly implicated in.\n\nRelease the Epstein files.",
-          "engagement": "44K views",
-          "views": 43997
+          "handle": "TheGlobeIsDead",
+          "url": "https://x.com/TheGlobeIsDead/status/2059353811240522210",
+          "headline": "Video questions why flat earth would be banned if not true",
+          "body": "Why should they ban Flat Earth?\n  \nWhy would they do that if it weren\u2019t true?\n    \nListen carefully and ask yourself why.",
+          "engagement": "18K views",
+          "views": 18165
         }
       ]
     },
     "comedy": {
       "stories": [
         {
-          "handle": "FunnySight",
-          "url": "https://x.com/FunnySight/status/2059287242049454198",
-          "headline": "Referee makes a funny face during game",
-          "body": "You know you're in trouble when the ref makes this face \ud83e\udd23\ud83d\ude05\ud83e\udd23",
-          "engagement": "2M views",
-          "views": 1997303
-        },
-        {
-          "handle": "tanaya_0510",
-          "url": "https://x.com/tanaya_0510/status/2059238942315254067",
-          "headline": "Humorous list of ideal traits",
-          "body": "tall, FUNNY, chalant, BICEPS, smart, soft spoken, emotionally intelligent",
-          "engagement": "720K views",
-          "views": 720169
-        },
-        {
-          "handle": "kindburp",
-          "url": "https://x.com/kindburp/status/2059254691716804851",
-          "headline": "Meme image captioned 'Hes not a joke'",
-          "body": "Hes not a joke",
-          "engagement": "280K views",
-          "views": 279966
+          "handle": "GONMACHINE_Meme",
+          "url": "https://x.com/GONMACHINE_Meme/status/2059581129452351586",
+          "headline": "Comedy clip of GON dying",
+          "body": "GON\u3001\u6b7b\u4ea1\ud83d\ude22\ud83e\udd72\ud83d\ude2d",
+          "engagement": "856K views",
+          "views": 856738
         }
       ]
     }
   },
-  "last_updated": "2026-05-27T08:05:25.066884"
+  "last_updated": "2026-05-27T15:43:03.038667"
 }
