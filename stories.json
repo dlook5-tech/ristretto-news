@@ -213,25 +213,17 @@
           "views": 360976
         },
         {
-          "handle": "StockMKTNewz",
-          "url": "https://x.com/StockMKTNewz/status/2059746900748685412",
-          "headline": "DELL awarded $9.7B Pentagon contract for Microsoft enterprise software",
-          "body": "$DELL was just awarded a $9.7 Billion contract with the \ud83c\uddfa\ud83c\uddf8 Pentagon to provide Microsoft $MSFT enterprise software across the U.S. military",
-          "engagement": "131K views",
-          "views": 131496
+          "handle": "AshCrypto",
+          "url": "https://x.com/AshCrypto/status/2059857592147419248",
+          "headline": "Massive crash wipes $850B from gold and silver",
+          "body": "\ud83d\udea8MASSIVE CRASH:  $850,000,000,000 has been wiped out from gold and silver in the last 4 hours.",
+          "engagement": "59K views",
+          "views": 58850
         }
       ]
     },
     "top": {
       "stories": [
-        {
-          "handle": "McDonaldsJapan",
-          "url": "https://x.com/McDonaldsJapan/status/2059545141988188594",
-          "headline": "McDonald's Japan ad features four singers performing a spicy nugget song",
-          "body": "\u5408\u5531\n\u30b9\u30d1\u30a4\u30b7\u30fc\u6b4c\u3044\u624b\u56db\u5929\u738b\u304c\u300cFire\u25ceNugget\u300d\u9ad8\u97f3\u3067\u30ab\u30e9\u30c3\u3068\u30a2\u30b2\u3066\u307f\u305f\n\u6b4c\u5531\uff1a\u3050\u308b\u305f\u307f\u3093\u30fbGero\u30fb\u706f\u6cb9\u30fbGom",
-          "engagement": "5.5M views",
-          "views": 5498932
-        },
         {
           "handle": "DiscussingFilm",
           "url": "https://x.com/DiscussingFilm/status/2059666557022638444",
@@ -269,40 +261,40 @@
           "views": 195207
         },
         {
-          "handle": "CNN",
-          "url": "https://x.com/CNN/status/2059647515683693003",
-          "headline": "Pam Bondi recovering from thyroid cancer treatment.",
-          "body": "Pam Bondi is recovering from treatment for thyroid cancer. The former attorney general was diagnosed after leaving the Justice Department in April. https://www.cnn.com/2026/05/27/politics/former-attorney-general-pam-bondi-diagnosed-thyroid-cancer?Date=20260527&Profile=CNN&utm_content=1779893199&utm_medium=social&utm_source=twitter",
-          "engagement": "109K views",
-          "views": 109128
+          "handle": "nytimes",
+          "url": "https://x.com/nytimes/status/2059746580064768268",
+          "headline": "Cond\u00e9 Nast settles dispute with three fired journalists for over $400,000",
+          "body": "Cond\u00e9 Nast paid three journalists a total of more than $400,000 to settle a dispute over their firing last fall after they confronted the head of human resources about layoffs, the union representing the workers said on Wednesday. https://www.nytimes.com/2026/05/27/business/media/conde-nast-fired-journalists-settlement.html?smid=tw-nytimes&smtyp=cur",
+          "engagement": "74K views",
+          "views": 74080
         }
       ]
     },
     "sports": {
       "stories": [
         {
+          "handle": "premierleague",
+          "url": "https://x.com/premierleague/status/2059745961887617080",
+          "headline": "Premier League announces record nine clubs to play in European competitions next season",
+          "body": "NINE Premier League clubs will play European football next season\n\nIt\u2019s a joint-record \ud83d\udc47",
+          "engagement": "2.2M views",
+          "views": 2221632
+        },
+        {
+          "handle": "ShamsCharania",
+          "url": "https://x.com/ShamsCharania/status/2059853469557613036",
+          "headline": "Baylor's Tounde Yessoufou withdraws from 2026 NBA draft to play for St. John's",
+          "body": "Baylor's Tounde Yessoufou -- a potential first-round pick -- has withdrawn from the 2026 NBA draft and committed to St. John's Red Storm men's basketball program to play for Rick Pitino, his agency THE TEAM tells ESPN.",
+          "engagement": "616K views",
+          "views": 616314
+        },
+        {
           "handle": "LegionHoops",
           "url": "https://x.com/LegionHoops/status/2059763357154939354",
-          "headline": "Knicks donate over 500 NBA Finals tickets to underprivileged families in New York.",
+          "headline": "Knicks donate over 500 NBA Finals tickets to underprivileged New York families",
           "body": "MSG announces the Knicks are donating 500+ NBA Finals tickets to underprivileged families in New York.\n\nThis is incredible. (@IanBegley)",
-          "engagement": "641K views",
-          "views": 641293
-        },
-        {
-          "handle": "SportsCenter",
-          "url": "https://x.com/SportsCenter/status/2059831187237957979",
-          "headline": "Carolina leads Montreal 3-1 in Eastern Conference Finals series.",
-          "body": "ONE. WIN. AWAY. \ud83d\ude24\n\nCarolina takes a commanding 3-1 series lead over Montreal in the ECF \ud83d\udc40",
-          "engagement": "61K views",
-          "views": 61487
-        },
-        {
-          "handle": "BrickCenter_",
-          "url": "https://x.com/BrickCenter_/status/2059776073097977987",
-          "headline": "Adam Silver comments on officiating during the NBA playoffs.",
-          "body": "Adam Silver on the playoffs:\n\n\u201cThe officiating is incredible.\u201d",
-          "engagement": "342K views",
-          "views": 342212
+          "engagement": "790K views",
+          "views": 790195
         }
       ]
     },
@@ -310,11 +302,19 @@
       "stories": [
         {
           "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2059884150187053488",
+          "headline": "Elon Musk announces SpaceX in-house AI training stack for 220k GB300s",
+          "body": "SpaceX has almost finished writing V1.0 of an in-house AI training stack in C that exact-maps to 220k GB300s with 800G NICs, making heavy use of pipeline parallelism and getting as close to bare metal as possible.\n\nThe potential speed improvement vs JAX for large training runs is over an order of magnitude.",
+          "engagement": "1.7M views",
+          "views": 1679916
+        },
+        {
+          "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2059572715003281681",
-          "headline": "Elon Musk reports late-night work at SpaceXAI office",
+          "headline": "Elon Musk reports late-night work at SpaceXAI office amid AI breakthrough",
           "body": "I just left the SpaceXAI office at ~2:45am and people were still going.\n\nI think we might be close to a significant breakthrough in training.",
-          "engagement": "1.2M views",
-          "views": 1205176
+          "engagement": "1.3M views",
+          "views": 1300411
         },
         {
           "handle": "cb_doge",
@@ -323,19 +323,19 @@
           "body": "\"Elon Musk still works incredibly hard. I visited him recently, I left around midnight and he was still working. I think he must have gone till 2am. So I don't know anybody who works as hard as him. He's really in the technical details of it.\"\n\n\u4e00 David Sacks",
           "engagement": "682K views",
           "views": 682492
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2059724172407009318",
-          "headline": "Elon Musk comments on a tragic past event.",
-          "body": "Something tragic happened to them when they were young",
-          "engagement": "204K views",
-          "views": 204292
         }
       ]
     },
     "pods": {
       "stories": [
+        {
+          "handle": "joeroganhq",
+          "url": "https://x.com/joeroganhq/status/2059692358753755263",
+          "headline": "Clip highlighting real life superhero level of awareness and observation.",
+          "body": "Wow, that level of awareness and observation is amazing. Real life superhero.",
+          "engagement": "597K views",
+          "views": 597890
+        },
         {
           "handle": "lexfridman",
           "url": "https://x.com/lexfridman/status/2059633667815997696",
@@ -351,19 +351,19 @@
           "body": "Sheesh, this is the most impressive thing I've seen in a while.",
           "engagement": "101K views",
           "views": 101116
-        },
-        {
-          "handle": "joeroganhq",
-          "url": "https://x.com/joeroganhq/status/2059628188808990876",
-          "headline": "Alex Karp compares American and Japanese battery engineers.",
-          "body": "Alex Karp: \"We\u2019re building batteries for a battery company\u2014the people doing it in America are doing roughly the same job Japanese engineers are doing\u2014and they went to high school.\"",
-          "engagement": "16K views",
-          "views": 16730
         }
       ]
     },
     "pg6": {
       "stories": [
+        {
+          "handle": "PopBase",
+          "url": "https://x.com/PopBase/status/2059848638587924501",
+          "headline": "Tribute to Cameron Boyce on what would have been his 27th birthday",
+          "body": "Happy birthday to Cameron Boyce, who would've turned 27 today.",
+          "engagement": "344K views",
+          "views": 344995
+        },
         {
           "handle": "TeamAriana",
           "url": "https://x.com/TeamAriana/status/2059651184974057883",
@@ -373,25 +373,25 @@
           "views": 993192
         },
         {
-          "handle": "DiscussingFilm",
-          "url": "https://x.com/DiscussingFilm/status/2059695425368600853",
-          "headline": "AI company deal for Stan Lee voice and likeness",
-          "body": "An AI company ElevenLabs has struck a deal for voice and likeness of Stan Lee, so they can recreate it with AI.\n\nIt will be added to a marketplace where various celebrity voices and likenesses that be generated with AI that companies can license for commercial use.",
-          "engagement": "356K views",
-          "views": 356232
-        },
-        {
-          "handle": "theTSupdates",
-          "url": "https://x.com/theTSupdates/status/2059713982097662299",
-          "headline": "New HQ photo of Taylor Swift for Eras Tour visuals",
-          "body": "\ud83d\udcf8| HQ picture of Taylor Swift for the \u201cBad Blood\u201d Eras Tour visuals.",
-          "engagement": "127K views",
-          "views": 127817
+          "handle": "PopBase",
+          "url": "https://x.com/PopBase/status/2059847129506414720",
+          "headline": "Ariana Grande set to release new song 'hate that i made you love me'",
+          "body": "Today is May 28th. Ariana Grande returns with \u2018hate that i made you love me\u2019 in 24 hours.",
+          "engagement": "152K views",
+          "views": 152068
         }
       ]
     },
     "recipe": {
       "stories": [
+        {
+          "handle": "ore825",
+          "url": "https://x.com/ore825/status/2059820864233972019",
+          "headline": "Japanese chef shares one-pan Jambalaya recipe from Denny's.",
+          "body": "\u4ffa\u304c\u30c7\u30cb\u30fc\u30ba\u3067\u4e00\u756a\u65e8\u3044\u3068\u601d\u3063\u3066\u308b\u30b8\u30e3\u30f3\u30d0\u30e9\u30e4\u3092\u30d5\u30e9\u30a4\u30d1\u30f3\u3072\u3068\u3064\u3067\u518d\u73fe\u3059\u308b\u6700\u9ad8\u306e\u30ec\u30b7\u30d4\n\n\u3010\u3084\u3051\u304f\u305d\u30b8\u30e3\u30f3\u30d0\u30e9\u30e4\u3011\n\n\u4eca\u56de\u306f\u6599\u7406\u7814\u7a76\u754c\u306e\u5149\u3068\u95c7\u3001\u9577\u8c37\u5ddd\u3042\u304b\u308a\u3055\u3093\u3068\u50d5\u3067\u4f5c\u3063\u3066\u307e\u3059\n\n\u5b9f\u306f\u30b8\u30e3\u30f3\u30d0\u30e9\u30e4\u306f\u30d5\u30e9\u30a4\u30d1\u30f3\u3072\u3068\u3064\u3067\u7c21\u5358\u306b\u51fa\u6765\u308b\uff01\uff01\u662f\u975e\u304a\u8a66\u3057\u3092\uff01\uff01",
+          "engagement": "318K views",
+          "views": 317913
+        },
         {
           "handle": "gifsbut",
           "url": "https://x.com/gifsbut/status/2059778426110697750",
@@ -401,33 +401,17 @@
           "views": 86200
         },
         {
-          "handle": "FoodPleaser",
-          "url": "https://x.com/FoodPleaser/status/2059833036238360700",
-          "headline": "Hot dogs poll with photo",
-          "body": "You can add 2 things to these hot dogs. What are you adding?",
-          "engagement": "1.6K views",
-          "views": 1562
-        },
-        {
-          "handle": "heart_jpg",
-          "url": "https://x.com/heart_jpg/status/2059740173790069216",
-          "headline": "Rose ice cream date photos",
-          "body": "rose ice cream date \ud83c\udf39",
-          "engagement": "13.9K views",
-          "views": 13855
+          "handle": "prtygal777",
+          "url": "https://x.com/prtygal777/status/2059688551755698491",
+          "headline": "User shares photos of matcha drink with cherry blossoms.",
+          "body": "Matcha\ud83c\udf75 \ud83c\udf38",
+          "engagement": "59K views",
+          "views": 59157
         }
       ]
     },
     "science": {
       "stories": [
-        {
-          "handle": "ClaudeDevs",
-          "url": "https://x.com/ClaudeDevs/status/2059701677981413812",
-          "headline": "ClaudeDevs shares updates on improved Claude Code responsiveness and reliability.",
-          "body": "We\u2019ve been putting a lot of effort into making Claude Code more responsive & reliable. \n\nHere\u2019s an update on everything we\u2019ve done:",
-          "engagement": "572K views",
-          "views": 572540
-        },
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2059572715003281681",
@@ -435,6 +419,14 @@
           "body": "I just left the SpaceXAI office at ~2:45am and people were still going.\n\nI think we might be close to a significant breakthrough in training.",
           "engagement": "1.0M views",
           "views": 1001273
+        },
+        {
+          "handle": "ClaudeDevs",
+          "url": "https://x.com/ClaudeDevs/status/2059701677981413812",
+          "headline": "ClaudeDevs shares updates on improved Claude Code responsiveness and reliability.",
+          "body": "We\u2019ve been putting a lot of effort into making Claude Code more responsive & reliable. \n\nHere\u2019s an update on everything we\u2019ve done:",
+          "engagement": "572K views",
+          "views": 572540
         },
         {
           "handle": "rronak_",
@@ -477,33 +469,41 @@
     "conspiracy": {
       "stories": [
         {
+          "handle": "Bornakang",
+          "url": "https://x.com/Bornakang/status/2059633896778559884",
+          "headline": "User asks followers to share a conspiracy theory they fully believe",
+          "body": "What is a conspiracy theory you believe with your whole heart?",
+          "engagement": "241K views",
+          "views": 241255
+        },
+        {
+          "handle": "zerohedge",
+          "url": "https://x.com/zerohedge/status/2059686094791127236",
+          "headline": "Article claims Tulsi Gabbard will expose deep state before leaving ODNI role",
+          "body": "Tulsi Gabbard To Go Nuclear On Deep State Before Leaving ODNI https://www.zerohedge.com/political/tulsi-gabbard-go-nuclear-deep-state-leaving-odni",
+          "engagement": "99K views",
+          "views": 98895
+        },
+        {
           "handle": "RandPaul",
           "url": "https://x.com/RandPaul/status/2059661348598956077",
-          "headline": "Senator claims Biden-era IRS ran illegal conspiracy against critic",
+          "headline": "Senator highlights IRS emails showing alleged conspiracy against critic",
           "body": "Biden-era IRS weaponized government to take-down prominent critic. IRS Emails Confirm Illegal Conspiracy to Destroy Innocent Bank as PR Stunt https://www.youtube.com/watch?si=tD2-f7s65iqFVkiY&v=we8Kcnax8qI&feature=youtu.be via @YouTube",
-          "engagement": "82K views",
-          "views": 81826
-        },
-        {
-          "handle": "GodRulesIRL",
-          "url": "https://x.com/GodRulesIRL/status/2059721575461498888",
-          "headline": "UFO investigator claims US has non-human biologics from crashes",
-          "body": "Luis Elizondo, a UFO Investigator \ud83d\udef8 who used to work for the Pentagon, just said that the U.S. Government definitely possesses \u201cNon-Human Material\u201d and \u201cBiologics\u201d from UFO Crash Sites. Should the U.S. Government bring this out and show the Public?",
-          "engagement": "38K views",
-          "views": 38650
-        },
-        {
-          "handle": "InterstellarUAP",
-          "url": "https://x.com/InterstellarUAP/status/2059680721690570862",
-          "headline": "Enhanced slow-motion UFO footage from Spielberg film",
-          "body": "Enhanced Slow Motion of the UFO from Steven Spielberg's Disclosure Day \ud83d\udc7d Close Encounters of the Third Kind sequel maybe? In Cinemas from June 12th.",
-          "engagement": "29K views",
-          "views": 29628
+          "engagement": "96K views",
+          "views": 95619
         }
       ]
     },
     "comedy": {
       "stories": [
+        {
+          "handle": "musadosmeme",
+          "url": "https://x.com/musadosmeme/status/2059689440881091031",
+          "headline": "Relatable meme about adult life struggles",
+          "body": "Eu aos 20 anos tentando me adaptar \u00e0 vida adulta",
+          "engagement": "643K views",
+          "views": 643303
+        },
         {
           "handle": "GONMACHINE_Meme",
           "url": "https://x.com/GONMACHINE_Meme/status/2059581129452351586",
@@ -513,23 +513,15 @@
           "views": 856738
         },
         {
-          "handle": "Adams_Tech_AI",
-          "url": "https://x.com/Adams_Tech_AI/status/2059686397187940855",
-          "headline": "Elon Musk reacting to a random meme on X",
-          "body": "Elon Musk reacting to that random meme on X at 2:00 a.m.\ud83e\udd23",
-          "engagement": "51660 views",
-          "views": 51660
-        },
-        {
-          "handle": "redditbutfunny",
-          "url": "https://x.com/redditbutfunny/status/2059717524376404041",
-          "headline": "Reddit funny post with image",
-          "body": "https://t.co/cItjkVUxur",
-          "engagement": "32K views",
-          "views": 32273
+          "handle": "DiscussingFilm",
+          "url": "https://x.com/DiscussingFilm/status/2059721247315927088",
+          "headline": "Collection of Spider-Man pointing meme variants",
+          "body": "Different versions of the iconic Spider-Man pointing meme.",
+          "engagement": "285K views",
+          "views": 284766
         }
       ]
     }
   },
-  "last_updated": "2026-05-28T03:39:58.182809"
+  "last_updated": "2026-05-28T07:59:28.982444"
 }
