@@ -1,7 +1,23 @@
 {
   "stories": {
     "world": {
-      "stories": []
+      "stories": [
+        {
+          "headline": "Israel says it is preparing for war with Egypt and Turkey",
+          "url": "https://x.com/World_Affairs11/status/2059899720622031165",
+          "handle": "World_Affairs11",
+          "perspectives": [
+            {
+              "label": "Independent",
+              "handle": "World_Affairs11",
+              "url": "https://x.com/World_Affairs11/status/2059899720622031165",
+              "body": "BREAKING:\n\nIsrael says it is preparing for war with Egypt and Turkey.",
+              "engagement": "873K views",
+              "views": 873438
+            }
+          ]
+        }
+      ]
     },
     "usa": {
       "stories": [
@@ -104,6 +120,14 @@
       "stories": [
         {
           "handle": "unusual_whales",
+          "url": "https://x.com/unusual_whales/status/2060047700125679884",
+          "headline": "White House intervened for $620M Vulcan Elements deal with Trump Jr VC stake",
+          "body": "BREAKING: \"The White House intervened to get a $620 million deal for Vulcan Elements.\n\nAbout 3 months before the Pentagon announced plans to lend money to Vulcan Elements, Trump Jr.\u2019s venture capital firm took an undisclosed stake in the company.\" per Propublica.",
+          "engagement": "95K views",
+          "views": 95136
+        },
+        {
+          "handle": "unusual_whales",
           "url": "https://x.com/unusual_whales/status/2059987302257213779",
           "headline": "Microsoft AI chief predicts white-collar automation in 18 months",
           "body": "\"Microsoft, $MSFT, AI chief gives 18 months for all white-collar work to be automated by AI,\" per FORTUNE.",
@@ -111,20 +135,12 @@
           "views": 317513
         },
         {
-          "handle": "zerohedge",
-          "url": "https://x.com/zerohedge/status/2059975600291402223",
-          "headline": "US PCE inflation data matches expectations",
-          "body": "PCE 0.4% MoM, Exp. 0.5%\nPCE 3.8% YoY, Exp. 3.8%\n\nPCE Core 0.2% YoY, Exp. 0.3%\nPCE Core 3.3% YoY, Exp. 3.3%",
-          "engagement": "122K views",
-          "views": 122519
-        },
-        {
-          "handle": "unusual_whales",
-          "url": "https://x.com/unusual_whales/status/2059957103348121927",
-          "headline": "Student loan delinquency rate hits highest since 2020",
-          "body": "10.3% of student loan balances are now 90+ days delinquent, the highest level since 2020, per NY Fed.",
-          "engagement": "113K views",
-          "views": 113112
+          "handle": "InTheAssembly",
+          "url": "https://x.com/InTheAssembly/status/2059984117106622920",
+          "headline": "Nuclear industry names in $1B to $5B range could be big winners",
+          "body": "One of the most underappreciated long-term themes is the nuclear industry.\n\nHere are 5 compelling names in the $1B to $5B range that could become the next big winners:",
+          "engagement": "223K views",
+          "views": 223638
         }
       ]
     },
@@ -139,20 +155,20 @@
           "views": 668830
         },
         {
-          "handle": "Genshin_7",
-          "url": "https://x.com/Genshin_7/status/2059937725625532795",
-          "headline": "Genshin Impact radio show announcement with giveaway.",
-          "body": "\ud83d\udcfb\u300e\u539f\u795e\u30e9\u30b8\u30aa \u30c6\u30a4\u30ef\u30c3\u30c8\u653e\u9001\u5c40\u300f\nExtra Talk \u2160\u3000\u914d\u4fe1\u958b\u59cb\ud83d\udce2\n\nYouTube\u3067\u306f\u305f\u3060\u3044\u307e\u30d7\u30ec\u30df\u30a2\u516c\u958b\u4e2d\u2728\n\u914d\u4fe1\u30ea\u30f3\u30af\u306f\u30ea\u30d7\u30e9\u30a4\u3092\u30c1\u30a7\u30c3\u30af\ud83d\udc47\n\n@Genshin_7 \u3068 @GenshinRadioJP \u3092\u30d5\u30a9\u30ed\u30fc\uff06\u672c\u6295\u7a3f\u3092\u30ea\u30dd\u30b9\u30c8\u3067\n\u58f0\u512a\u9663\u30b5\u30a4\u30f3\u8272\u7d19\u3084\u30a2\u30de\u30ae\u30d5\u304c\u5f53\u305f\u308b\u30c1\u30e3\u30f3\u30b9\ud83c\udf81\n#\u30c6\u30a4\u30ef\u30c3\u30c8\u653e\u9001\u5c40 \u3092\u3064\u3051\u3066\u756a\u7d44\u306e\u611f\u60f3\u3092\u30ea\u30d7\u30e9\u30a4\u6295\u7a3f\u3059\u308b\u3068\u5f53\u9078\u78ba\u7387\ud83c\udd99\ud83e\udef6\n\n\ud83c\udf99\ufe0f\u51fa\u6f14\u8005\n\u6751\u702c\u6b69\uff08\u30a6\u30a7\u30f3\u30c6\u30a3\u5f79\uff09\n\u4e2d\u5cf6\u611b\uff08\u30a4\u30cd\u30d5\u30a1\u5f79\uff09\n\u8c4a\u53e3\u3081\u3050\u307f\uff08\u30cb\u30b3\u5f79\uff09\n\u5929\ufa11\u6ec9\u5e73\uff08\u30ed\u30fc\u30a8\u30f3\u5f79\uff09\n\n#\u539f\u795e #\u97f3\u6cc9",
-          "engagement": "307K views",
-          "views": 307412
+          "handle": "DiscussingFilm",
+          "url": "https://x.com/DiscussingFilm/status/2060020264516174138",
+          "headline": "First trailer for the stop-motion film 'I AM FRANKELDA' releasing on Netflix.",
+          "body": "First trailer for \u2018I AM FRANKELDA\u2019, the first-ever stop-motion film made in Mexico.\n\nThe film follows a writer who is taken to another realm to help write nightmares to keep monsters alive.\n\nReleasing June 12 on Netflix.",
+          "engagement": "583K views",
+          "views": 583390
         },
         {
-          "handle": "haneame_cos",
-          "url": "https://x.com/haneame_cos/status/2059979288351580529",
-          "headline": "Cosplayer posts Kafka Star Rail video with Japanese text.",
-          "body": "Bg set up by myself but I guess that\u2019s not the point to you huh? \ud83e\udd14 \nStar Rail Kafka Cosplay\n:\n:\n\u80cc\u666f\u3082\u81ea\u5206\u3067\u4f5c\u3063\u305f\u3093\u3060\u3088\uff5e\n\u3067\u3082\u2026\u3042\u306a\u305f\u306f\u305d\u3053\u898b\u3066\u306a\u3044\u3088\u306d\uff1f\n\u30b9\u30bf\u30fc\u30ec\u30a4\u30eb \u30ab\u30d5\u30ab \u30b3\u30b9\u30d7\u30ec",
-          "engagement": "54K views",
-          "views": 54271
+          "handle": "AlNassrFC",
+          "url": "https://x.com/AlNassrFC/status/2060035485989257324",
+          "headline": "Al Nassr FC video celebrating team efforts and achievements.",
+          "body": "\" \u062d\u0640\u0640\u0644\u0627\u0644\u064c \" \u062a\u064e\u0639\u0650\u0640\u0628 \u0627\u0644\u0631\u062c\u0640\u0627\u0644 \u0645\u0646 \u0623\u062c\u0644\u0640\u0647 .. \u062d\u062a\u0649 \u062d\u0642\u0642\u0640\u0648\u0647 \u0628\u062c\u0647\u0648\u062f\u0647\u0645 \u0648\u0639\u0631\u0642 \u062c\u0628\u064a\u0646\u0647\u0645 \" \u0645\u0646 \u0627\u0644\u0645\u0644\u0639\u0640\u0628 \" \ud83d\udc9b",
+          "engagement": "546K views",
+          "views": 545688
         }
       ]
     },
@@ -161,10 +177,10 @@
         {
           "handle": "washingtonpost",
           "url": "https://x.com/washingtonpost/status/2059957879180824873",
-          "headline": "Trump administration pushes for $250 bill with president's portrait",
+          "headline": "Trump administration pushes for $250 bill with president's portrait.",
           "body": "Breaking news: Trump administration officials have pressed the Bureau of Engraving and Printing to design a $250 bill featuring the president\u2019s portrait, in what would be the first appearance of a living person on U.S. currency in more than 150 years. https://www.washingtonpost.com/investigations/2026/05/28/trump-250-bill-pushed-by-treasury-appointees/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
-          "engagement": "2.3M views",
-          "views": 2311874
+          "engagement": "3.6M views",
+          "views": 3575293
         },
         {
           "handle": "CNN",
@@ -188,27 +204,27 @@
       "stories": [
         {
           "handle": "FabrizioRomano",
+          "url": "https://x.com/FabrizioRomano/status/2060047454582526089",
+          "headline": "Franco Mastantuono excluded from Argentina World Cup squad per report.",
+          "body": "\ud83d\udea8\u274c Franco Mastantuono will be left out of Argentina World Cup squad, report TyC Sports.\n\nDecision made by Lionel Scaloni. \ud83c\udde6\ud83c\uddf7",
+          "engagement": "1.97M views",
+          "views": 1968133
+        },
+        {
+          "handle": "premierleague",
+          "url": "https://x.com/premierleague/status/2060015244433313878",
+          "headline": "Bruno Fernandes led in creating chances for teammates this Premier League season.",
+          "body": "Bruno Fernandes was WAY out in front when it came to creating chances for his team-mates this season! \ud83d\ude32",
+          "engagement": "496K views",
+          "views": 495971
+        },
+        {
+          "handle": "FabrizioRomano",
           "url": "https://x.com/FabrizioRomano/status/2059952381425578456",
           "headline": "Update on Juli\u00e1n \u00c1lvarez transfer bid from Manchester City",
           "body": "\ud83d\udea8\ud83d\udd35\ud83d\udd34 More on Juli\u00e1n \u00c1lvarez story reported earlier: the official bid has not been submitted yet, it will be sent in the next days.\n\nIt will NOT include any players as revealed, and final fee will be clarified as soon as it\u2019s sent (could be in the region of \u20ac100m).",
           "engagement": "996K views",
           "views": 996398
-        },
-        {
-          "handle": "FabrizioRomano",
-          "url": "https://x.com/FabrizioRomano/status/2059921116013973620",
-          "headline": "Bournemouth offer new deal to midfielder Alex Scott",
-          "body": "\ud83d\udea8 Bournemouth have already offered new deal to Alex Scott as they want the midfielder to stay.\n\nClear desire by new manager Marco Rose: Scott, seen as crucial player.",
-          "engagement": "980K views",
-          "views": 979706
-        },
-        {
-          "handle": "AdamSchefter",
-          "url": "https://x.com/AdamSchefter/status/2059987286461206755",
-          "headline": "Jets sign former Giants and Falcons kicker Younghoe Koo",
-          "body": "Jets signed former Giants and Falcons kicker Younghoe Koo.",
-          "engagement": "317K views",
-          "views": 316989
         }
       ]
     },
@@ -244,39 +260,39 @@
       "stories": [
         {
           "handle": "joeroganhq",
-          "url": "https://x.com/joeroganhq/status/2059692358753755263",
-          "headline": "Clip from Joe Rogan podcast highlighting impressive real-life awareness and observation",
-          "body": "Wow, that level of awareness and observation is amazing.\n\nReal life superhero.",
-          "engagement": "747K views",
-          "views": 747222
+          "url": "https://x.com/joeroganhq/status/2059741439433805855",
+          "headline": "Andrew Huberman explains why experienced cold plungers go face first in the water on Joe Rogan.",
+          "body": "Andrew Huberman tells Joe Rogan the reason why experienced cold plungers go face first in the water.",
+          "engagement": "69K views",
+          "views": 69790
         }
       ]
     },
     "pg6": {
       "stories": [
         {
+          "handle": "BuzzingPop",
+          "url": "https://x.com/BuzzingPop/status/2060029283058200619",
+          "headline": "Ariana Grande teases new lyrics",
+          "body": "Ariana Grande teases new lyrics from \u201chate that i made you love me\u201d\u2014 out tonight: \n\n\u201cAnd I can see right through\u201d",
+          "engagement": "101K views",
+          "views": 100986
+        },
+        {
           "handle": "PopBase",
           "url": "https://x.com/PopBase/status/2059952833785721236",
           "headline": "Park Jihoon celebrates 27th birthday",
           "body": "Happy 27th birthday to the talented Park Jihoon.",
-          "engagement": "204K views",
-          "views": 203563
+          "engagement": "273K views",
+          "views": 273284
         },
         {
-          "handle": "FilmUpdates",
-          "url": "https://x.com/FilmUpdates/status/2059871210503029058",
-          "headline": "Camila Mendes stuns at MASTERS OF THE UNIVERSE premiere",
-          "body": "Camila Mendes stuns for the \u2018MASTERS OF THE UNIVERSE\u2019 premiere.",
-          "engagement": "342K views",
-          "views": 341912
-        },
-        {
-          "handle": "PopBase",
-          "url": "https://x.com/PopBase/status/2059848638587924501",
-          "headline": "Tribute to Cameron Boyce on what would have been his 27th birthday",
-          "body": "Happy birthday to Cameron Boyce, who would've turned 27 today.",
-          "engagement": "344K views",
-          "views": 344995
+          "handle": "PopCrave",
+          "url": "https://x.com/PopCrave/status/2060030145738543153",
+          "headline": "ROLE MODEL announces new album",
+          "body": "ROLE MODEL announces new album \u2018Chuck Timely & The Hourglass\u2019 out August 7.\n\nThe lead single \u201cHigh Hopes 3000\u201d is out June 3.",
+          "engagement": "75K views",
+          "views": 74992
         }
       ]
     },
@@ -291,20 +307,20 @@
           "views": 2318736
         },
         {
-          "handle": "ore825",
-          "url": "https://x.com/ore825/status/2059820864233972019",
-          "headline": "Japanese chef shares one-pan Jambalaya recipe from Denny's.",
-          "body": "\u4ffa\u304c\u30c7\u30cb\u30fc\u30ba\u3067\u4e00\u756a\u65e8\u3044\u3068\u601d\u3063\u3066\u308b\u30b8\u30e3\u30f3\u30d0\u30e9\u30e4\u3092\u30d5\u30e9\u30a4\u30d1\u30f3\u3072\u3068\u3064\u3067\u518d\u73fe\u3059\u308b\u6700\u9ad8\u306e\u30ec\u30b7\u30d4\n\n\u3010\u3084\u3051\u304f\u305d\u30b8\u30e3\u30f3\u30d0\u30e9\u30e4\u3011\n\n\u4eca\u56de\u306f\u6599\u7406\u7814\u7a76\u754c\u306e\u5149\u3068\u95c7\u3001\u9577\u8c37\u5ddd\u3042\u304b\u308a\u3055\u3093\u3068\u50d5\u3067\u4f5c\u3063\u3066\u307e\u3059\n\n\u5b9f\u306f\u30b8\u30e3\u30f3\u30d0\u30e9\u30e4\u306f\u30d5\u30e9\u30a4\u30d1\u30f3\u3072\u3068\u3064\u3067\u7c21\u5358\u306b\u51fa\u6765\u308b\uff01\uff01\u662f\u975e\u304a\u8a66\u3057\u3092\uff01\uff01",
-          "engagement": "318K views",
-          "views": 317913
+          "handle": "akari_hasegawa",
+          "url": "https://x.com/akari_hasegawa/status/2059933519976317329",
+          "headline": "Popular Japanese chef shares video of unique meatball and vegetable mixed rice recipe.",
+          "body": "\u9577\u8c37\u5ddd\u7206\u88c2\u30d2\u30c3\u30c8\u30ec\u30b7\u30d4\u306e\u3046\u3061\u306e\u3072\u3068\u3064\u3001\u307d\u3044\u307d\u3044\u3064\u304f\u306d\u3068\u3057\u3083\u304d\u3057\u3083\u304d\u91ce\u83dc\u306e\u307e\u305c\u3054\u306f\u3093\u306e\u52d5\u753b\u3092\u516c\u958b\u3057\u307e\u3057\u305f\u3002\u3069\u3093\u306a\u6599\u7406\uff1f\u3068\u805e\u304b\u308c\u3066\u3082\u3001\u307d\u3044\u307d\u3044\u3064\u304f\u306d\u3001\u3068\u3044\u3057\u304b\u8a00\u3044\u3088\u3046\u304c\u306a\u3044\u552f\u4e00\u7121\u4e8c\u306e\u30ec\u30b7\u30d4\u3002\u81ea\u5206\u306e\u305f\u3081\u306b\u91ce\u83dc\u3092\u523b\u3080\u6642\u9593\u3054\u3068\u697d\u3057\u3093\u3067\u3082\u3089\u3048\u305f\u3089\u3068\u601d\u3044\u307e\u3059\u3002\nhttps://www.youtube.com/watch?si=sZ_fAbH7-pe1VhT6&v=xbxNWKrrdSk&feature=youtu.be",
+          "engagement": "504K views",
+          "views": 504184
         },
         {
-          "handle": "Rnyrg",
-          "url": "https://x.com/Rnyrg/status/2059968401125322964",
-          "headline": "Cost-effective milk daifuku from business supermarket.",
-          "body": "\u696d\u52d9\u30b9\u30fc\u30d1\u30fc\u306e\u307f\u308b\u304f\u5927\u798f\u304c\u30b3\u30b9\u30d1\u826f\u304f\u3066\u3051\u3063\u3053\u3046\u304a\u3044\u3057\u3044\u3002\n\n5\u6708\u306f\u591a\u5206\u30bb\u30fc\u30eb\u3067\u5c11\u3057\u5b89\u304f\u3066278\u5186\u304f\u3089\u3044\u3002",
-          "engagement": "30.8K views",
-          "views": 30810
+          "handle": "HG7654321",
+          "url": "https://x.com/HG7654321/status/2059945427840200822",
+          "headline": "Japanese chef shares simple popover bread recipe with basic ingredients.",
+          "body": "\u65e5\u672c\u304c\u30a2\u30e1\u30ea\u30ab\u6599\u7406\u30d6\u30fc\u30e0\u3063\u3066\u3053\u3068\u3067\u300e\u30dd\u30c3\u30d7\u30aa\u30fc\u30d0\u30fc\u300f\u306e\u30ec\u30b7\u30d4\u3092\u6559\u3048\u3061\u3083\u3044\u307e\u3059\u3002\n\u30dd\u30c3\u30d7\u30aa\u30fc\u30d0\u30fc\u3068\u306f\u30b7\u30e5\u30fc\u30af\u30ea\u30fc\u30e0\u306e\n\u76ae\u306e\u3088\u3046\u306b\u4e2d\u304c\u7a7a\u6d1e\u3067\u767a\u9175\u304c\u4e0d\u8981\u306e\u5373\u5e2d\u3067\u4f5c\u308c\u308b\u30d1\u30f3\u3067\u3059\n\u6750\u6599\u306f\u57fa\u672c\u7684\u306b\u5c0f\u9ea6\u7c89\u30fb\u725b\u4e73\u30fb\u5375\u30fb\u5869\u3068\u30b7\u30f3\u30d7\u30eb\u3067\u3001\u5916\u306f\u30ab\u30ea\u30c3\u3068\u4e2d\u306f\u30e2\u30c1\u3063\u3068\u3057\u3066\u3044\u3066\u65e5\u672c\u4eba\u306f\u7d76\u5bfe\u597d\u304d\u306a\u30d1\u30f3\u3067\u3059\ud83c\udf5e",
+          "engagement": "323K views",
+          "views": 323095
         }
       ]
     },
@@ -319,60 +335,60 @@
           "views": 8082561
         },
         {
-          "handle": "ClaudeDevs",
-          "url": "https://x.com/ClaudeDevs/status/2059701677981413812",
-          "headline": "ClaudeDevs shares updates on improved Claude Code responsiveness and reliability.",
-          "body": "We\u2019ve been putting a lot of effort into making Claude Code more responsive & reliable. \n\nHere\u2019s an update on everything we\u2019ve done:",
-          "engagement": "572K views",
-          "views": 572540
+          "handle": "reactorworld",
+          "url": "https://x.com/reactorworld/status/2060015607928819876",
+          "headline": "Reactor raises $59M to launch real-time world model platform for AI developers.",
+          "body": "Today Reactor is coming out of stealth. We\u2019ve raised $59M in Seed and Series A funding, led by @lightspeedvp, with participation from @AmplifyPartners, @wndrco, @Sky9Capital, and @FPVventures.\n\nReactor is the platform for building in the World Model era: the infrastructure that lets developers build with them at global scale for the first time. Stream from a frontier World Model to your app, in real time, all in under 10 lines of code.\n\nWorld Models represent the next major shift in AI: pixels, audio and actions are generated on the fly, in real-time, in response to user inputs, and to the environment. Every time computing has made a shift from passive to interactive, entire industries appeared that didn't exist before. We're standing in front of such moment again.\n\nOver the last 6 months, we\u2019ve assembled an all-star team with alumni from Apple, Meta, Google, Luma AI, Netflix, and Replicate. We're already partnering with some of the biggest names and labs in the world, and hundreds of developers are already building on Reactor.\n\nThe World Model era starts now.",
+          "engagement": "2.07M views",
+          "views": 2070170
         },
         {
-          "handle": "zerohedge",
-          "url": "https://x.com/zerohedge/status/2059961046303953143",
-          "headline": "Goldman analyst discusses AI tokenomics, DeepSeek and Qwen price cuts, and open-source model implications.",
-          "body": "Goldman Delta One head, Rich Privorotsky, on tokenomics\n\n\"Token economics: Reading that DeepSeek reportedly cut token pricing by 75% and Xiaomi\u2019s MiMo by almost 99% immediately brought back memories of the old Groupon subsidy wars and the inevitable race to the bottom economics of commoditized delivery. There\u2019s also been a massive rise in open-source enthusiasm. I was honestly blown away running an 8B version of Qwen locally on a four-year-old MacBook last night (ok it couldn't do much but it felt downloading the internet in 5gb...18ms ago you would have need a data center for this!). Notably, Chinese onshore datacenter and AI infrastructure names have diverged sharply post release (they all went down).  Maybe a bit of a leap here but I think the market is beginning to ask whether token cost compression temporarily breaks the logic of pure Jevons paradox demand expansion. It's not whether demand ultimately rises\u2026 it probably does\u2026 but whether there is a meaningful lag where cheaper tokens simply cannibalize higher cost inference before entirely new use cases emerge. Nobody is arguing open source models are fully comparable to frontier systems, although the quality gap is clearly narrowing quickly. The more important point is that a huge percentage of enterprise tasks simply do not require frontier level reasoning or expensive inference. That becomes a major boardroom conversation into Q2/Q3. Rationalization of token spend may become just as important as the AI growth narrative itself, particularly when \u201c90% of the output for 10% of the cost\u201d becomes increasingly viable through open source alternatives.\"",
-          "engagement": "114K views",
-          "views": 114090
+          "handle": "AnthropicAI",
+          "url": "https://x.com/AnthropicAI/status/2060061347522433422",
+          "headline": "Anthropic raises $65B at $965B valuation to advance Claude AI research.",
+          "body": "We've raised $65 billion in Series H funding at a $965 billion post-money valuation, led by @AltimeterCap, Dragoneer, @Greenoaks, and @sequoia.\n\nThis investment will help us advance our research and expand our capacity to meet growing demand for Claude.",
+          "engagement": "90.7K views",
+          "views": 90714
         }
       ]
     },
     "local": {
       "stories": [
         {
-          "handle": "CTourtellotte",
-          "url": "https://x.com/CTourtellotte/status/2059776831923073277",
-          "headline": "SpaceX employees in Southern California set to become millionaires from IPO.",
-          "body": "Ground zero for the SpaceX wealth story is in SoCal. \n\n~4,000 SpaceX employees will become overnight millionaires in LA\n\nThey live in Westchester, Playa Vista, Playa del Rey, El Segundo, and the surrounding South Bay near SpaceX\u2019s El Segundo campus and Hawthorne facilities.",
-          "engagement": "63.8K views",
-          "views": 63820
+          "handle": "NickHarrisFWST",
+          "url": "https://x.com/NickHarrisFWST/status/2060055041822576943",
+          "headline": "Cowboys to hold joint practice with Saints in Oxnard, Southern California",
+          "body": "Can confirm that the Cowboys will have a joint practice with the Saints in Oxnard. Shouldn\u2019t be the only one that Dallas has while in Southern California.",
+          "engagement": "7.7K views",
+          "views": 7743
         },
         {
-          "handle": "ABC",
-          "url": "https://x.com/ABC/status/2059840300302905699",
-          "headline": "69-year-old Southern California man with Trump-themed yard display dies days after being attacked and beaten.",
-          "body": "A 69-year-old Southern California man known for the display of American flags and Make America Great Again memorabilia he kept in his front yard has died, days after being attacked and beaten outside his home, authorities said. https://abcnews.com/US/southern-california-man-dies-after-beaten-trump-themed/story?id=133342049&cid=social_twitter_abcn",
-          "engagement": "32K views",
-          "views": 32944
+          "handle": "AnaheimDucks",
+          "url": "https://x.com/AnaheimDucks/status/2060066052684554648",
+          "headline": "Plans announced for new three-sheet skating facility in Escondido, Southern California",
+          "body": "Exciting times for hockey in Southern California.\n\nThere are plans for a three-sheet public skating facility in Escondido at Kit Carson Park.\n\nThe complex would be fully funded and constructed entirely by @The_Rinks. \n\nDetails \u2b07\ufe0f\n\nhttps://www.nhl.com/ducks/news/plans-for-three-sheet-public-skating-facility-in-escondido-at-kit-carson-park-announced",
+          "engagement": "1.4K views",
+          "views": 1362
         },
         {
-          "handle": "RealAlexJones",
-          "url": "https://x.com/RealAlexJones/status/2059703460690293138",
-          "headline": "High-tech burglaries targeting Southern California homes",
-          "body": "\u26a0\ufe0fWARNING: Watch Burglars Use Hidden Cameras, Walkie-Talkies, & Wi-Fi Jammers To Target Homes In Coordinated High-Tech Robbery Operations!\n\nReport Details How Citizens In Southern California Had Their Security Cameras Disabled Before Being Burglarized\n\n\u2b07\ufe0fWATCH ALEX JONES LIVE\u2b07\ufe0f",
-          "engagement": "30K views",
-          "views": 30169
+          "handle": "TMZ",
+          "url": "https://x.com/TMZ/status/2060043710205772066",
+          "headline": "Orange County Real Housewife charged with revenge porn",
+          "body": "Today on @TMZLive ... a real housewife from Orange County is charged with revenge p*rn \ud83d\ude33\n\nTune in at 10:30am PT for details.",
+          "engagement": "11.5K views",
+          "views": 11466
         }
       ]
     },
     "conspiracy": {
       "stories": [
         {
-          "handle": "zerohedge",
-          "url": "https://x.com/zerohedge/status/2059686094791127236",
-          "headline": "Article claims Tulsi Gabbard will expose deep state before leaving ODNI role",
-          "body": "Tulsi Gabbard To Go Nuclear On Deep State Before Leaving ODNI https://www.zerohedge.com/political/tulsi-gabbard-go-nuclear-deep-state-leaving-odni",
-          "engagement": "99K views",
-          "views": 98895
+          "handle": "transfix",
+          "url": "https://x.com/transfix/status/2060058200540360783",
+          "headline": "User describes a one-time UFO sighting as bizarre and unrepeated.",
+          "body": "i saw it once. I was so confused. like seeing a UFO. never happened again though",
+          "engagement": "1.8K views",
+          "views": 1834
         },
         {
           "handle": "joannaccherry",
@@ -383,12 +399,12 @@
           "views": 31009
         },
         {
-          "handle": "jeffreytucker",
-          "url": "https://x.com/jeffreytucker/status/2059790159353196679",
-          "headline": "Comment on FBI arrest of CIA official with millions in assets",
-          "body": "The scale of deep-state racketeering is probably unfathomable.",
-          "engagement": "24K views",
-          "views": 24442
+          "handle": "redpillb0t",
+          "url": "https://x.com/redpillb0t/status/2060028390061842776",
+          "headline": "Former MI5 agent claims Mossad set up 1994 London embassy bombing as false flag.",
+          "body": "Annie Machon, a former MI5 agent, reveals how Mossad setup a false flag by bombing their own  Israeli embassy in London in 1994  and blamed it on Palestinian activists",
+          "engagement": "6K views",
+          "views": 6037
         }
       ]
     },
@@ -403,23 +419,23 @@
           "views": 679918
         },
         {
-          "handle": "musadosmeme",
-          "url": "https://x.com/musadosmeme/status/2059689440881091031",
-          "headline": "Relatable meme about adult life struggles",
-          "body": "Eu aos 20 anos tentando me adaptar \u00e0 vida adulta",
-          "engagement": "643K views",
-          "views": 643303
-        },
-        {
           "handle": "DiscussingFilm",
           "url": "https://x.com/DiscussingFilm/status/2059721247315927088",
           "headline": "Collection of Spider-Man pointing meme variants",
           "body": "Different versions of the iconic Spider-Man pointing meme.",
           "engagement": "285K views",
           "views": 284766
+        },
+        {
+          "handle": "sucreyoongi",
+          "url": "https://x.com/sucreyoongi/status/2059857778135429573",
+          "headline": "BTS members recreate The Office meme in funny clip",
+          "body": "NOT THE THE OFFICE MEME SFJSKJFKSJFJD PLEASE SEOKJIN JUNGKOOK AND TAE ARE SO FUNNY",
+          "engagement": "104K views",
+          "views": 104379
         }
       ]
     }
   },
-  "last_updated": "2026-05-28T15:57:13.934793"
+  "last_updated": "2026-05-28T18:39:37.393582"
 }
