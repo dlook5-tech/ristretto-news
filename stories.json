@@ -1,104 +1,72 @@
 {
   "stories": {
     "world": {
-      "stories": [
-        {
-          "headline": "World Cup 2026 hype surges with squad announcements and matchups",
-          "url": "https://x.com/WorldCupMedia/status/2059288803664331120",
-          "handle": "WorldCupMedia",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "EricLDaugh",
-              "url": "https://x.com/EricLDaugh/status/2059633424181215725",
-              "body": "\ud83d\udea8 HUGE DEVELOPMENT: Sec. Markwayne Mullin announces DHS is drawing up plans to BLOCK ALL international flights into sanctuary cities",
-              "engagement": "274K views",
-              "views": 274972
-            },
-            {
-              "label": "Independent",
-              "handle": "PopBase",
-              "url": "https://x.com/PopBase/status/2059488515545870612",
-              "body": "Today is World Otter Day.",
-              "engagement": "2.7M views",
-              "views": 2734217
-            },
-            {
-              "label": "Democrat",
-              "handle": "JoJoFromJerz",
-              "url": "https://x.com/JoJoFromJerz/status/2059606703423869415",
-              "body": "The State Department has already drawn $1.25 billion from international peacekeeping and disaster relief programs",
-              "engagement": "8.7K views",
-              "views": 8720
-            }
-          ]
-        },
-        {
-          "headline": "North Korea tests replica of US HIMARS missile system",
-          "url": "https://x.com/BRICSinfo/status/2059581988210688221",
-          "handle": "BRICSinfo",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "EricLDaugh",
-              "url": "https://x.com/EricLDaugh/status/2059633424181215725",
-              "body": "\ud83d\udea8 HUGE DEVELOPMENT: Sec. Markwayne Mullin announces DHS is drawing up plans to BLOCK ALL international flights into sanctuary cities",
-              "engagement": "274K views",
-              "views": 274972
-            },
-            {
-              "label": "Independent",
-              "handle": "BRICSinfo",
-              "url": "https://x.com/BRICSinfo/status/2059617031284998538",
-              "body": "JUST IN: \ud83c\uddf7\ud83c\uddfa\ud83c\uddee\ud83c\uddf7 Russia says its proposal to remove Iran's highly enriched uranium \"remains fully on the table.\"",
-              "engagement": "81K views",
-              "views": 80997
-            },
-            {
-              "label": "Democrat",
-              "handle": "Keir_Starmer",
-              "url": "https://x.com/Keir_Starmer/status/2059641422194540634",
-              "body": "The challenges we face in Europe demand strong partnerships.",
-              "engagement": "63K views",
-              "views": 63221
-            }
-          ]
-        },
-        {
-          "headline": "Ukrainian forces strike Russian airbase and logistics targets",
-          "url": "https://x.com/Osinttechnical/status/2059465716445688215",
-          "handle": "Osinttechnical",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "EricLDaugh",
-              "url": "https://x.com/EricLDaugh/status/2059633424181215725",
-              "body": "\ud83d\udea8 HUGE DEVELOPMENT: Sec. Markwayne Mullin announces DHS is drawing up plans to BLOCK ALL international flights into sanctuary cities",
-              "engagement": "274K views",
-              "views": 274972
-            },
-            {
-              "label": "Independent",
-              "handle": "WarMonitor3",
-              "url": "https://x.com/WarMonitor3/status/2059619617463562682",
-              "body": "A Ukrainian commander has told me that he thinks a turning point has occurred",
-              "engagement": "71K views",
-              "views": 71282
-            },
-            {
-              "label": "Democrat",
-              "handle": "DefenceU",
-              "url": "https://x.com/DefenceU/status/2059612029367750658",
-              "body": "We are launching a \"logistics lockdown\" for the Russian army.",
-              "engagement": "28K views",
-              "views": 28120
-            }
-          ]
-        }
-      ]
+      "stories": []
     },
     "usa": {
       "stories": [
+        {
+          "headline": "Trump administration pushes $250 bill with president's portrait",
+          "url": "https://x.com/washingtonpost/status/2059957879180824873",
+          "handle": "washingtonpost",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "unusual_whales",
+              "url": "https://x.com/unusual_whales/status/2059997368716513632",
+              "body": "BREAKING: Trump and the US Treasury are designing a $250 bill with Trump's face on it, per WaPo.",
+              "engagement": "196K views",
+              "views": 196438
+            },
+            {
+              "label": "Independent",
+              "handle": "washingtonpost",
+              "url": "https://x.com/washingtonpost/status/2059957879180824873",
+              "body": "Breaking news: Trump administration officials have pressed the Bureau of Engraving and Printing to design a $250 bill featuring the president\u2019s portrait, in what would be the first appearance of a living person on U.S. currency in more than 150 years.",
+              "engagement": "2.3M views",
+              "views": 2311874
+            },
+            {
+              "label": "Democrat",
+              "handle": "GavinNewsom",
+              "url": "https://x.com/GavinNewsom/status/2060014779524423833",
+              "body": "This week alone: DOJ opens an investigation into the woman Trump raped. The White House is caught steering a $620 million contract to Don Jr.\u2019s firm. ... It\u2019s just Thursday. The corruption isn\u2019t hidden anymore.",
+              "engagement": "32K views",
+              "views": 31859
+            }
+          ]
+        },
+        {
+          "headline": "US and Iran reach ceasefire deal pending Trump's approval",
+          "url": "https://x.com/DeItaone/status/2060001725377847410",
+          "handle": "DeItaone",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "JesseBWatters",
+              "url": "https://x.com/JesseBWatters/status/2059799478534558136",
+              "body": "\ud83d\udea8 BREAKING: TRUMP JUST BOMBED IRAN AGAIN\u2026 HOLY SMOKES! \ud83d\udea8",
+              "engagement": "2.1M views",
+              "views": 2105908
+            },
+            {
+              "label": "Independent",
+              "handle": "DeItaone",
+              "url": "https://x.com/DeItaone/status/2060001725377847410",
+              "body": "\ud83d\udea8 U.S. AND IRAN REACH DEAL BUT NEED TRUMP'S FINAL APPROVAL, OFFICIALS SAY -AXIOS",
+              "engagement": "329K views",
+              "views": 328899
+            },
+            {
+              "label": "Democrat",
+              "handle": "krassenstein",
+              "url": "https://x.com/krassenstein/status/2060014779524423833",
+              "body": "Todd Blanche is covering up rape while criminally investigating a woman who won $80 million because the President (his former client) raped her. History will remember this man as an evil, corrupt piece of shit",
+              "engagement": "37K views",
+              "views": 37058
+            }
+          ]
+        },
         {
           "headline": "Trump threatens to 'blow up' Oman over Strait of Hormuz control",
           "url": "https://x.com/StateDept/status/2059684326862901711",
@@ -129,68 +97,6 @@
               "views": 138285
             }
           ]
-        },
-        {
-          "headline": "Trump administration cracks down on hundreds of billions in federal fraud including Medicare and PPP loans",
-          "url": "https://x.com/nicksortor/status/2059344808716509554",
-          "handle": "nicksortor",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "nicksortor",
-              "url": "https://x.com/nicksortor/status/2059344808716509554",
-              "body": "\ud83d\udea8 Stephen Miller says the scale of welfare fraud is SO MASSIVE that eliminating it alone could balance the ENTIRE federal budget \"The amount that has been fleeced from us is in the HUNDREDS OF BILLIONS of dollars.\" \"We could balance the federal budget if the only dollars that went out of the treasury went to individuals who were properly, lawfully, correctly eligible to receive them.\" This should infuriate EVERY taxpayer.",
-              "engagement": "2.3M views",
-              "views": 2265041
-            },
-            {
-              "label": "Independent",
-              "handle": "EricLDaugh",
-              "url": "https://x.com/EricLDaugh/status/2059678233352716289",
-              "body": "\ud83d\udea8 HOLY SMOKES. Trump SBA chief Kelly Loeffler exposes in the Cabinet room she found $200 BILLION in FRAUDULENT PPP loans distributed by the Biden admin... and they tried COVERING IT UP. People are now going to jail \ud83d\udd25",
-              "engagement": "379K views",
-              "views": 379455
-            },
-            {
-              "label": "Democrat",
-              "handle": "WhiteHouse",
-              "url": "https://x.com/WhiteHouse/status/2059333498301735131",
-              "body": "Crushing BILLIONS of dollars in medicare, hospice, childcare and many more types of FRAUD. The Trump Administration is bringing accountability and justice back to the American taxpayer.",
-              "engagement": "388K views",
-              "views": 388274
-            }
-          ]
-        },
-        {
-          "headline": "Trump Administration recovers billions in Medicare and other federal fraud",
-          "url": "https://x.com/WhiteHouse/status/2059708371821842901",
-          "handle": "WhiteHouse",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "WhiteHouse",
-              "url": "https://x.com/WhiteHouse/status/2059708371821842901",
-              "body": "Since @WHFraudTF launched, BILLIONS have already been recovered in taxpayer dollars. The Trump Admin will keep fighting until every fraud scheme is exposed, every dollar possible is clawed back, and trust is restored. \ud83c\uddfa\ud83c\uddf8",
-              "engagement": "776K views",
-              "views": 776467
-            },
-            {
-              "label": "Independent",
-              "handle": "JDVance",
-              "url": "https://x.com/JDVance/status/2059410867775476083",
-              "body": "When politicians allow fraud to run rampant, normal Americans suffer.",
-              "engagement": "1.55M views",
-              "views": 1552687
-            },
-            {
-              "label": "Democrat",
-              "handle": "harryjsisson",
-              "url": "https://x.com/harryjsisson/status/2059666281993843126",
-              "body": "Trump is now bragging over doctors being so concerned with his cognitive decline that he was given 3 dementia tests in a year and Obama/Biden were given 0. Not the brag you think it is, Donald!",
-              "engagement": "156K views",
-              "views": 156447
-            }
-          ]
         }
       ]
     },
@@ -198,47 +104,39 @@
       "stories": [
         {
           "handle": "unusual_whales",
-          "url": "https://x.com/unusual_whales/status/2059957281744134604",
-          "headline": "Student loan delinquency rate hits highest level since 2020",
-          "body": "10.3% of student loan balances are now 90+ days delinquent, the highest level since 2020, per NY Fed.",
-          "engagement": "28.2K views",
-          "views": 28216
+          "url": "https://x.com/unusual_whales/status/2059987302257213779",
+          "headline": "Microsoft AI chief predicts white-collar automation in 18 months",
+          "body": "\"Microsoft, $MSFT, AI chief gives 18 months for all white-collar work to be automated by AI,\" per FORTUNE.",
+          "engagement": "317K views",
+          "views": 317513
         },
         {
           "handle": "zerohedge",
-          "url": "https://x.com/zerohedge/status/2059951598357356972",
-          "headline": "Home refi activity drops as mortgage rates reach 9-month highs",
-          "body": "Home Refi Activity Plummets As Mortgage Rates Hit 9-Month Highs https://www.zerohedge.com/personal-finance/home-refi-activity-plummets-mortgage-rates-hit-9-month-highs",
-          "engagement": "29.3K views",
-          "views": 29283
+          "url": "https://x.com/zerohedge/status/2059975600291402223",
+          "headline": "US PCE inflation data matches expectations",
+          "body": "PCE 0.4% MoM, Exp. 0.5%\nPCE 3.8% YoY, Exp. 3.8%\n\nPCE Core 0.2% YoY, Exp. 0.3%\nPCE Core 3.3% YoY, Exp. 3.3%",
+          "engagement": "122K views",
+          "views": 122519
         },
         {
-          "handle": "StockSavvyShay",
-          "url": "https://x.com/StockSavvyShay/status/2059812280326643743",
-          "headline": "Trump pursues funding deals with U.S. drone companies for domestic production",
-          "body": "President Trump is pursuing funding deals with a group of drone companies to boost domestic production.\n\nAnother signal that U.S.-made drones are becoming a national security priority.\n\n$ONDS, $AVAV, $KTOS, $AVEX, $UMAC, $RCAT, $DPRO",
-          "engagement": "263K views",
-          "views": 263208
+          "handle": "unusual_whales",
+          "url": "https://x.com/unusual_whales/status/2059957103348121927",
+          "headline": "Student loan delinquency rate hits highest since 2020",
+          "body": "10.3% of student loan balances are now 90+ days delinquent, the highest level since 2020, per NY Fed.",
+          "engagement": "113K views",
+          "views": 113112
         }
       ]
     },
     "top": {
       "stories": [
         {
-          "handle": "DiscussingFilm",
-          "url": "https://x.com/DiscussingFilm/status/2059666557022638444",
-          "headline": "First trailer for X-MEN '97 Season 2 released, out July 1 on Disney+",
-          "body": "The first trailer for \u2018X-MEN '97\u2019 Season 2 has been released.\n\nReleasing July 1 on Disney+",
-          "engagement": "4.1M views",
-          "views": 4084807
-        },
-        {
-          "handle": "barstoolsports",
-          "url": "https://x.com/barstoolsports/status/2059650048510640147",
-          "headline": "Person becomes ungovernable in a short video clip",
-          "body": "Become ungovernable",
-          "engagement": "3.8M views",
-          "views": 3836897
+          "handle": "tomita_nanaka",
+          "url": "https://x.com/tomita_nanaka/status/2059968610731516089",
+          "headline": "Idol shares funny video reaction in Japanese.",
+          "body": "\u3078\u3093\u3060\u3088\ud83d\udc76\u30aa\u30e2\u30ed\u3059\u304e\uff01\uff01\uff01\uff01",
+          "engagement": "668K views",
+          "views": 668830
         },
         {
           "handle": "Genshin_7",
@@ -247,11 +145,27 @@
           "body": "\ud83d\udcfb\u300e\u539f\u795e\u30e9\u30b8\u30aa \u30c6\u30a4\u30ef\u30c3\u30c8\u653e\u9001\u5c40\u300f\nExtra Talk \u2160\u3000\u914d\u4fe1\u958b\u59cb\ud83d\udce2\n\nYouTube\u3067\u306f\u305f\u3060\u3044\u307e\u30d7\u30ec\u30df\u30a2\u516c\u958b\u4e2d\u2728\n\u914d\u4fe1\u30ea\u30f3\u30af\u306f\u30ea\u30d7\u30e9\u30a4\u3092\u30c1\u30a7\u30c3\u30af\ud83d\udc47\n\n@Genshin_7 \u3068 @GenshinRadioJP \u3092\u30d5\u30a9\u30ed\u30fc\uff06\u672c\u6295\u7a3f\u3092\u30ea\u30dd\u30b9\u30c8\u3067\n\u58f0\u512a\u9663\u30b5\u30a4\u30f3\u8272\u7d19\u3084\u30a2\u30de\u30ae\u30d5\u304c\u5f53\u305f\u308b\u30c1\u30e3\u30f3\u30b9\ud83c\udf81\n#\u30c6\u30a4\u30ef\u30c3\u30c8\u653e\u9001\u5c40 \u3092\u3064\u3051\u3066\u756a\u7d44\u306e\u611f\u60f3\u3092\u30ea\u30d7\u30e9\u30a4\u6295\u7a3f\u3059\u308b\u3068\u5f53\u9078\u78ba\u7387\ud83c\udd99\ud83e\udef6\n\n\ud83c\udf99\ufe0f\u51fa\u6f14\u8005\n\u6751\u702c\u6b69\uff08\u30a6\u30a7\u30f3\u30c6\u30a3\u5f79\uff09\n\u4e2d\u5cf6\u611b\uff08\u30a4\u30cd\u30d5\u30a1\u5f79\uff09\n\u8c4a\u53e3\u3081\u3050\u307f\uff08\u30cb\u30b3\u5f79\uff09\n\u5929\ufa11\u6ec9\u5e73\uff08\u30ed\u30fc\u30a8\u30f3\u5f79\uff09\n\n#\u539f\u795e #\u97f3\u6cc9",
           "engagement": "307K views",
           "views": 307412
+        },
+        {
+          "handle": "haneame_cos",
+          "url": "https://x.com/haneame_cos/status/2059979288351580529",
+          "headline": "Cosplayer posts Kafka Star Rail video with Japanese text.",
+          "body": "Bg set up by myself but I guess that\u2019s not the point to you huh? \ud83e\udd14 \nStar Rail Kafka Cosplay\n:\n:\n\u80cc\u666f\u3082\u81ea\u5206\u3067\u4f5c\u3063\u305f\u3093\u3060\u3088\uff5e\n\u3067\u3082\u2026\u3042\u306a\u305f\u306f\u305d\u3053\u898b\u3066\u306a\u3044\u3088\u306d\uff1f\n\u30b9\u30bf\u30fc\u30ec\u30a4\u30eb \u30ab\u30d5\u30ab \u30b3\u30b9\u30d7\u30ec",
+          "engagement": "54K views",
+          "views": 54271
         }
       ]
     },
     "msm": {
       "stories": [
+        {
+          "handle": "washingtonpost",
+          "url": "https://x.com/washingtonpost/status/2059957879180824873",
+          "headline": "Trump administration pushes for $250 bill with president's portrait",
+          "body": "Breaking news: Trump administration officials have pressed the Bureau of Engraving and Printing to design a $250 bill featuring the president\u2019s portrait, in what would be the first appearance of a living person on U.S. currency in more than 150 years. https://www.washingtonpost.com/investigations/2026/05/28/trump-250-bill-pushed-by-treasury-appointees/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
+          "engagement": "2.3M views",
+          "views": 2311874
+        },
         {
           "handle": "CNN",
           "url": "https://x.com/CNN/status/2059776775782109554",
@@ -267,14 +181,6 @@
           "body": "Breaking News: The Justice Dept. is said to have opened an investigation into E. Jean Carroll, who had accused Donald Trump of rape. In her civil case against him, a jury had found Trump liable for sexually abusing and defaming Carroll. https://www.nytimes.com/2026/05/27/us/politics/criminal-inquiry-e-jean-carroll-trump-accusations.html?smid=tw-nytimes&smtyp=cur",
           "engagement": "769K views",
           "views": 768836
-        },
-        {
-          "handle": "AP",
-          "url": "https://x.com/AP/status/2059639805579776123",
-          "headline": "The U.S. will need years to replenish stockpiles of key weapons used in the Iran war.",
-          "body": "The U.S. will need years to replenish stockpiles of key weapons used in the Iran war, potentially limiting firepower in any other conflict, a new analysis says.",
-          "engagement": "195K views",
-          "views": 195207
         }
       ]
     },
@@ -297,12 +203,12 @@
           "views": 979706
         },
         {
-          "handle": "HandofArsenal",
-          "url": "https://x.com/HandofArsenal/status/2059924557172007373",
-          "headline": "Arsenal transfer strategy and UCL final preparations update",
-          "body": "Morning Arsenal fans\n\nThe clubs is clear about any sellable players be it Jesus Fabio or anyone else. Pay up a \u201crespectable\u201d fee or fuck off. Our sale strategy will be strong and hard-lined this summer, If im around post UCL I will explain it (& other transfer news)\n\nRE Timber - He completed a full session and felt good yesterday which is the most important thing. Final session today before a decision is made on him, I trust the player and Mikel fully on whatever they decide. Wait on my update on this matter. \n\nAlso, I saw some nonsense about us not being locked in? I saw some PSG accounts deluding themselves into thinking we are in party mode? I assure you Arteta has this group on demon time. Arsenal have been training again since Tuesday. \n\nIts business as usual and I also know they have been preparing for PSG for over 10 days or so now. We all know who the players wanted for the final\u2026 be humble but be confident. They fly out later today and continue preparations in Budapest with enough time.\n\nTo any Arsenal fans in Budapest, be safe.\nGod bless.",
-          "engagement": "469K views",
-          "views": 468938
+          "handle": "AdamSchefter",
+          "url": "https://x.com/AdamSchefter/status/2059987286461206755",
+          "headline": "Jets sign former Giants and Falcons kicker Younghoe Koo",
+          "body": "Jets signed former Giants and Falcons kicker Younghoe Koo.",
+          "engagement": "317K views",
+          "views": 316989
         }
       ]
     },
@@ -318,19 +224,19 @@
         },
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2059880289514696927",
-          "headline": "Elon Musk clarifies SpaceX lease terms with Anthropic.",
-          "body": "SpaceX has not committed to leasing Colossus for years, although it\u2019s possible that may be what happens.\n\nThis is a 180 day lease with 90 day notice mutual cancellation thereafter. The short term was our request, not Anthropic\u2019s. \n\nWe won\u2019t leave them hanging and will provide a reasonable off-ramp, but if compute gets super tight I said we might need it back at some point.",
-          "engagement": "231K views",
-          "views": 231062
-        },
-        {
-          "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2059724172407009318",
           "headline": "Elon Musk comments on a tragic past event.",
           "body": "Something tragic happened to them when they were young",
           "engagement": "585K views",
           "views": 584794
+        },
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2059880289514696927",
+          "headline": "Elon Musk clarifies SpaceX lease terms with Anthropic.",
+          "body": "SpaceX has not committed to leasing Colossus for years, although it\u2019s possible that may be what happens.\n\nThis is a 180 day lease with 90 day notice mutual cancellation thereafter. The short term was our request, not Anthropic\u2019s. \n\nWe won\u2019t leave them hanging and will provide a reasonable off-ramp, but if compute gets super tight I said we might need it back at some point.",
+          "engagement": "231K views",
+          "views": 231062
         }
       ]
     },
@@ -339,18 +245,10 @@
         {
           "handle": "joeroganhq",
           "url": "https://x.com/joeroganhq/status/2059692358753755263",
-          "headline": "Clip of impressive real-life awareness and observation skills.",
+          "headline": "Clip from Joe Rogan podcast highlighting impressive real-life awareness and observation",
           "body": "Wow, that level of awareness and observation is amazing.\n\nReal life superhero.",
-          "engagement": "686K views",
-          "views": 686552
-        },
-        {
-          "handle": "lexfridman",
-          "url": "https://x.com/lexfridman/status/2059633667815997696",
-          "headline": "Lex Fridman shares update on travels in China and upcoming trip to Taiwan.",
-          "body": "I've been on a wild travel journey in China for several weeks, with only a backpack, making new friends and meeting & getting to know people from all walks of life. I've been truly humbled and inspired by everyone's kindness.\n\nNext, I'm hopping over to Taiwan (first time for me) to hang out with Jensen, attend Computex, eat a bunch of street food, and just have fun talking to all kinds of folks around the city & beyond. After that, no plans, anything goes.\n\nAs always, please give travel suggestions or fill out coffee form if you want to hang out in Taiwain or anywhere else in the world. Love you all! \u2764\ufe0f",
-          "engagement": "612K views",
-          "views": 612891
+          "engagement": "747K views",
+          "views": 747222
         }
       ]
     },
@@ -358,19 +256,19 @@
       "stories": [
         {
           "handle": "PopBase",
-          "url": "https://x.com/PopBase/status/2059919240698761259",
-          "headline": "Zara Larsson stuns in Vogue Singapore photoshoot",
-          "body": "Zara Larsson stuns for Vogue Singapore.",
-          "engagement": "176K views",
-          "views": 176183
+          "url": "https://x.com/PopBase/status/2059952833785721236",
+          "headline": "Park Jihoon celebrates 27th birthday",
+          "body": "Happy 27th birthday to the talented Park Jihoon.",
+          "engagement": "204K views",
+          "views": 203563
         },
         {
-          "handle": "TeamAriana",
-          "url": "https://x.com/TeamAriana/status/2059651184974057883",
-          "headline": "Ariana Grande music release promo post",
-          "body": "https://arianagrande.lnk.to/htimylm",
-          "engagement": "993K views",
-          "views": 993192
+          "handle": "FilmUpdates",
+          "url": "https://x.com/FilmUpdates/status/2059871210503029058",
+          "headline": "Camila Mendes stuns at MASTERS OF THE UNIVERSE premiere",
+          "body": "Camila Mendes stuns for the \u2018MASTERS OF THE UNIVERSE\u2019 premiere.",
+          "engagement": "342K views",
+          "views": 341912
         },
         {
           "handle": "PopBase",
@@ -385,6 +283,14 @@
     "recipe": {
       "stories": [
         {
+          "handle": "PopBase",
+          "url": "https://x.com/PopBase/status/2059850148486975709",
+          "headline": "Today is National Hamburger Day.",
+          "body": "Today is National Hamburger Day.",
+          "engagement": "2.3M views",
+          "views": 2318736
+        },
+        {
           "handle": "ore825",
           "url": "https://x.com/ore825/status/2059820864233972019",
           "headline": "Japanese chef shares one-pan Jambalaya recipe from Denny's.",
@@ -393,20 +299,12 @@
           "views": 317913
         },
         {
-          "handle": "sirogohan_com",
-          "url": "https://x.com/sirogohan_com/status/2059818992798507462",
-          "headline": "Japanese eggplant vinegar miso recipe shared",
-          "body": "\u306a\u3059\u306e\u9162\u307f\u305d\u548c\u3048\u3092\u767d\u3054\u306f\u3093com\u306b\u30a2\u30c3\u30d7\u3057\u307e\u3057\u305f\u3002\nhttps://www.sirogohan.com/recipe/nasumisosu/\n\n\u5927\u8449\u306f\u7d76\u5bfe\u306b\u3042\u3063\u305f\u307b\u3046\u304c\u3044\u3044\uff01\u3068\u304b\u66f8\u3044\u3066\u3044\u308b\u306e\u304c\u3001\u3046\u3061\u3089\u3057\u3044\u30ec\u30b7\u30d4\u306a\u308f\u3051\u3067\u3059\u304c\u3001\u3057\u3063\u304b\u308a\u8f9b\u5b50\u3092\u304d\u304b\u305b\u3066\u5927\u8449\u306f\u7121\u3057\u3067\u3068\u3044\u3046\u30d1\u30bf\u30fc\u30f3\u3067\u3082\u3002",
-          "engagement": "70K views",
-          "views": 70254
-        },
-        {
-          "handle": "gifsbut",
-          "url": "https://x.com/gifsbut/status/2059778426110697750",
-          "headline": "MrBeast Lunchly crushed by creation video",
-          "body": "lunchly mr beast crushed by his own creation",
-          "engagement": "86.2K views",
-          "views": 86200
+          "handle": "Rnyrg",
+          "url": "https://x.com/Rnyrg/status/2059968401125322964",
+          "headline": "Cost-effective milk daifuku from business supermarket.",
+          "body": "\u696d\u52d9\u30b9\u30fc\u30d1\u30fc\u306e\u307f\u308b\u304f\u5927\u798f\u304c\u30b3\u30b9\u30d1\u826f\u304f\u3066\u3051\u3063\u3053\u3046\u304a\u3044\u3057\u3044\u3002\n\n5\u6708\u306f\u591a\u5206\u30bb\u30fc\u30eb\u3067\u5c11\u3057\u5b89\u304f\u3066278\u5186\u304f\u3089\u3044\u3002",
+          "engagement": "30.8K views",
+          "views": 30810
         }
       ]
     },
@@ -429,12 +327,12 @@
           "views": 572540
         },
         {
-          "handle": "rronak_",
-          "url": "https://x.com/rronak_/status/2059644771262730624",
-          "headline": "AI research lab Trajectory raises $15M for continual learning platform",
-          "body": "Today, @MichaelElabd, @QuantumArjun, and I are excited to announce Trajectory.\n\nWe are a research lab and product company building the platform for Continual Learning. \n\nOur platform unlocks the signal already sitting in product usage, so companies can continuously post-train large-scale agentic models that outperform the frontier. @trajectorylabs\n\nWe\u2019ve raised $15M from @Conviction, @BessemerVP, @radicalvcfund, @jeffdean, @drfeifei and more.\n\nWe\u2019re partnering with some of the best AI-native companies: @ClayRunHQ @Harvey, @DecagonAI, @mercor_ai, @RogoAI to power their agentic systems, some of which we are already in production with.\n\nWe\u2019ve brought together a world class research team from DeepMind, OpenAI, Apple, Meta Superintelligence, Amazon AGI, Scale AI, and an elite product team from Stripe and Figma. \n\nAI will never again start on day one. Every correction, every retry, every edit will make products smarter. This is Continual Learning.",
-          "engagement": "390K views",
-          "views": 390805
+          "handle": "zerohedge",
+          "url": "https://x.com/zerohedge/status/2059961046303953143",
+          "headline": "Goldman analyst discusses AI tokenomics, DeepSeek and Qwen price cuts, and open-source model implications.",
+          "body": "Goldman Delta One head, Rich Privorotsky, on tokenomics\n\n\"Token economics: Reading that DeepSeek reportedly cut token pricing by 75% and Xiaomi\u2019s MiMo by almost 99% immediately brought back memories of the old Groupon subsidy wars and the inevitable race to the bottom economics of commoditized delivery. There\u2019s also been a massive rise in open-source enthusiasm. I was honestly blown away running an 8B version of Qwen locally on a four-year-old MacBook last night (ok it couldn't do much but it felt downloading the internet in 5gb...18ms ago you would have need a data center for this!). Notably, Chinese onshore datacenter and AI infrastructure names have diverged sharply post release (they all went down).  Maybe a bit of a leap here but I think the market is beginning to ask whether token cost compression temporarily breaks the logic of pure Jevons paradox demand expansion. It's not whether demand ultimately rises\u2026 it probably does\u2026 but whether there is a meaningful lag where cheaper tokens simply cannibalize higher cost inference before entirely new use cases emerge. Nobody is arguing open source models are fully comparable to frontier systems, although the quality gap is clearly narrowing quickly. The more important point is that a huge percentage of enterprise tasks simply do not require frontier level reasoning or expensive inference. That becomes a major boardroom conversation into Q2/Q3. Rationalization of token spend may become just as important as the AI growth narrative itself, particularly when \u201c90% of the output for 10% of the cost\u201d becomes increasingly viable through open source alternatives.\"",
+          "engagement": "114K views",
+          "views": 114090
         }
       ]
     },
@@ -449,32 +347,32 @@
           "views": 63820
         },
         {
+          "handle": "ABC",
+          "url": "https://x.com/ABC/status/2059840300302905699",
+          "headline": "69-year-old Southern California man with Trump-themed yard display dies days after being attacked and beaten.",
+          "body": "A 69-year-old Southern California man known for the display of American flags and Make America Great Again memorabilia he kept in his front yard has died, days after being attacked and beaten outside his home, authorities said. https://abcnews.com/US/southern-california-man-dies-after-beaten-trump-themed/story?id=133342049&cid=social_twitter_abcn",
+          "engagement": "32K views",
+          "views": 32944
+        },
+        {
           "handle": "RealAlexJones",
           "url": "https://x.com/RealAlexJones/status/2059703460690293138",
           "headline": "High-tech burglaries targeting Southern California homes",
           "body": "\u26a0\ufe0fWARNING: Watch Burglars Use Hidden Cameras, Walkie-Talkies, & Wi-Fi Jammers To Target Homes In Coordinated High-Tech Robbery Operations!\n\nReport Details How Citizens In Southern California Had Their Security Cameras Disabled Before Being Burglarized\n\n\u2b07\ufe0fWATCH ALEX JONES LIVE\u2b07\ufe0f",
           "engagement": "30K views",
           "views": 30169
-        },
-        {
-          "handle": "NBCNews",
-          "url": "https://x.com/NBCNews/status/2059630750211690819",
-          "headline": "Southern California man dies after assault outside home with Trump displays",
-          "body": "A Southern California man known for his patriotic and pro-Trump home decorations died after he was assaulted outside his house, authorities say.",
-          "engagement": "14K views",
-          "views": 13735
         }
       ]
     },
     "conspiracy": {
       "stories": [
         {
-          "handle": "Bornakang",
-          "url": "https://x.com/Bornakang/status/2059633896778559884",
-          "headline": "User asks followers to share a conspiracy theory they fully believe",
-          "body": "What is a conspiracy theory you believe with your whole heart?",
-          "engagement": "241K views",
-          "views": 241255
+          "handle": "zerohedge",
+          "url": "https://x.com/zerohedge/status/2059686094791127236",
+          "headline": "Article claims Tulsi Gabbard will expose deep state before leaving ODNI role",
+          "body": "Tulsi Gabbard To Go Nuclear On Deep State Before Leaving ODNI https://www.zerohedge.com/political/tulsi-gabbard-go-nuclear-deep-state-leaving-odni",
+          "engagement": "99K views",
+          "views": 98895
         },
         {
           "handle": "joannaccherry",
@@ -485,12 +383,12 @@
           "views": 31009
         },
         {
-          "handle": "zerohedge",
-          "url": "https://x.com/zerohedge/status/2059686094791127236",
-          "headline": "Article claims Tulsi Gabbard will expose deep state before leaving ODNI role",
-          "body": "Tulsi Gabbard To Go Nuclear On Deep State Before Leaving ODNI https://www.zerohedge.com/political/tulsi-gabbard-go-nuclear-deep-state-leaving-odni",
-          "engagement": "99K views",
-          "views": 98895
+          "handle": "jeffreytucker",
+          "url": "https://x.com/jeffreytucker/status/2059790159353196679",
+          "headline": "Comment on FBI arrest of CIA official with millions in assets",
+          "body": "The scale of deep-state racketeering is probably unfathomable.",
+          "engagement": "24K views",
+          "views": 24442
         }
       ]
     },
@@ -499,10 +397,10 @@
         {
           "handle": "redditbutfunny",
           "url": "https://x.com/redditbutfunny/status/2059794783871058028",
-          "headline": "Viral Reddit meme shared on X",
+          "headline": "Reddit meme screenshot shared",
           "body": "https://t.co/QxiclwW54o",
-          "engagement": "456K views",
-          "views": 456499
+          "engagement": "680K views",
+          "views": 679918
         },
         {
           "handle": "musadosmeme",
@@ -523,5 +421,5 @@
       ]
     }
   },
-  "last_updated": "2026-05-28T11:48:54.975158"
+  "last_updated": "2026-05-28T15:57:13.934793"
 }
