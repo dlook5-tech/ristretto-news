@@ -61,29 +61,6 @@
     "usa": {
       "stories": [
         {
-          "headline": "President Trump convenes Situation Room meeting on Iran nuclear deal",
-          "url": "https://x.com/WhiteHouse/status/2060375230183333897",
-          "handle": "WhiteHouse",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "WhiteHouse",
-              "url": "https://x.com/WhiteHouse/status/2060375230183333897",
-              "body": "\"Iran must agree that they will never have a Nuclear Weapon or Bomb... I will be meeting now, in the Situation Room, to make a final determination.\" - President Donald J. Trump \ud83c\uddfa\ud83c\uddf8",
-              "engagement": "130K views",
-              "views": 130752
-            },
-            {
-              "label": "Conservative",
-              "handle": "FoxNews",
-              "url": "https://x.com/FoxNews/status/2060069581813629432",
-              "body": "BREAKING: Secretary Scott Bessent issues a stark warning to Iran, revealing the regime's leadership structure is in disarray and that President Trump's patience with the Islamic Republic is wearing thin. \"We are being patient. We do not have unlimited patience.\u201d",
-              "engagement": "181K views",
-              "views": 181757
-            }
-          ]
-        },
-        {
           "headline": "White House teases major announcement with 'Loading\u2026 tonight' post",
           "url": "https://x.com/WhiteHouse/status/2060107136148091190",
           "handle": "WhiteHouse",
@@ -136,18 +113,33 @@
               "views": 688
             }
           ]
+        },
+        {
+          "headline": "Trump administration launches Trump Accounts app for families to build kids' futures",
+          "url": "https://x.com/WhiteHouse/status/2059991947222147447",
+          "handle": "WhiteHouse",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "JDVance",
+              "url": "https://x.com/JDVance/status/2060346667728060796",
+              "body": "One of the problems we have in public policy is that wonks don\u2019t give any consideration to how their ideas will collide with actual human behavior. Take our Trump Accounts. There are millions of parents who will in theory benefit enormously from this investment in their kids\u2019 future, but the policy does no good if parents never find out how to sign up for it.",
+              "engagement": "908K views",
+              "views": 908876
+            }
+          ]
         }
       ]
     },
     "business": {
       "stories": [
         {
-          "handle": "AnthropicAI",
-          "url": "https://x.com/AnthropicAI/status/2060061347522433422",
-          "headline": "Anthropic raises $65B in Series H at $965B valuation.",
-          "body": "We've raised $65 billion in Series H funding at a $965 billion post-money valuation, led by @AltimeterCap, Dragoneer, @Greenoaks, and @sequoia.\n\nThis investment will help us advance our research and expand our capacity to meet growing demand for Claude.",
-          "engagement": "5.5M views",
-          "views": 5466109
+          "handle": "pelositracker",
+          "url": "https://x.com/pelositracker/status/2060385612151046241",
+          "headline": "Claude AI portfolio calls bottom in ServiceNow stock",
+          "body": "Claude casually calling the bottom and buying ServiceNow $NOW because it thinks it's actually a beneficiary of AI is absolutely classic",
+          "engagement": "308K views",
+          "views": 308541
         },
         {
           "handle": "DefiWimar",
@@ -160,15 +152,23 @@
         {
           "handle": "WatcherGuru",
           "url": "https://x.com/WatcherGuru/status/2060353662178992132",
-          "headline": "Elon Musk denies reports of lowered SpaceX IPO valuation target",
+          "headline": "Elon Musk denies reports of SpaceX lowering IPO valuation target",
           "body": "JUST IN: Elon Musk says reports that SpaceX lowered its IPO valuation target are \"false.\"",
-          "engagement": "101K views",
-          "views": 101147
+          "engagement": "144K views",
+          "views": 143888
         }
       ]
     },
     "top": {
       "stories": [
+        {
+          "handle": "hirahiroro",
+          "url": "https://x.com/hirahiroro/status/2060302983901175844",
+          "headline": "Japanese writer tests if coconut crab can crack walnuts",
+          "body": "\u300c\u30e4\u30b7\u30ac\u30cb\u3063\u3066\u30af\u30eb\u30df\u5272\u308a\u5668\u3068\u3057\u3066\u4f7f\u3048\u308b\u306e\u3067\u306f\uff1f\u300d\u3068\u601d\u3063\u3066\u8a66\u3057\u3066\u307f\u305f\u3093\u3067\u3059\u304c",
+          "engagement": "6.8M views",
+          "views": 6791403
+        },
         {
           "handle": "WhiteHouse",
           "url": "https://x.com/WhiteHouse/status/2060127126611718214",
@@ -184,19 +184,19 @@
           "body": "Here's our video of the explosion at Launch Complex 36. It happened about 9 pm ET (0100 UTC) as Blue Origin was beginning a static fire test of its New Glenn rocket.\n\nWatch live views: https://www.youtube.com/watch?v=thfYPsRqxmw",
           "engagement": "1.9M views",
           "views": 1988258
-        },
-        {
-          "handle": "SecWar",
-          "url": "https://x.com/SecWar/status/2060326777499841000",
-          "headline": "Secretary of War shares morning PT video with sailors and marines.",
-          "body": "No better way to start the day than morning PT with America\u2019s Sailors and Marines.\n\nThese warriors are the true backbone of America.",
-          "engagement": "241K views",
-          "views": 241003
         }
       ]
     },
     "msm": {
       "stories": [
+        {
+          "handle": "nytimes",
+          "url": "https://x.com/nytimes/status/2060423764945375531",
+          "headline": "Louisiana erases majority-Black congressional district after Supreme Court ruling.",
+          "body": "Breaking News: Louisiana erased a majority-Black congressional district, becoming the second state to do so after the Supreme Court weakened the Voting Rights Act\u200b last month.\nhttps://www.nytimes.com/2026/05/29/us/politics/louisiana-redistricting-map-majority-black-district.html?smid=tw-nytimes&smtyp=cur",
+          "engagement": "28K views",
+          "views": 28050
+        },
         {
           "handle": "nytimes",
           "url": "https://x.com/nytimes/status/2060345944248402351",
@@ -206,20 +206,12 @@
           "views": 147476
         },
         {
-          "handle": "nytimes",
-          "url": "https://x.com/nytimes/status/2060313530306301959",
-          "headline": "Fire on maintenance train injures five at Penn Station",
-          "body": "Breaking News: A fire on a maintenance train in Penn Station has injured five people and disrupted rail service for the Friday commute. https://www.nytimes.com/2026/05/29/nyregion/penn-station-fire-amtrak-nyc-nj-transit.html?smtyp=cur&smid=tw-nytimes",
-          "engagement": "82922 views",
-          "views": 82922
-        },
-        {
-          "handle": "nytimes",
-          "url": "https://x.com/nytimes/status/2060190578290122886",
-          "headline": "Blue Origin rocket explodes on launchpad during test",
-          "body": "Breaking News: A rocket built by Blue Origin, the Jeff Bezos-owned space company, blew up on the launchpad during a test in Florida. The failure is a setback for several missions. https://www.nytimes.com/2026/05/28/science/blue-origin-explosion-rocket.html?smid=tw-nytimes&smtyp=cur",
-          "engagement": "160995 views",
-          "views": 160995
+          "handle": "WSJ",
+          "url": "https://x.com/WSJ/status/2060410893859508503",
+          "headline": "Trump allies and supporters may receive payouts from 'Anti-Weaponization Fund.'",
+          "body": "The president\u2019s allies and supporters stand to receive payouts based on claims they were mistreated by the government. https://www.wsj.com/politics/policy/what-to-know-about-trumps-1-8-billion-anti-weaponization-fund-d8ceb872?mod=e2tw",
+          "engagement": "17K views",
+          "views": 17264
         }
       ]
     },
@@ -228,10 +220,10 @@
         {
           "handle": "ShamsCharania",
           "url": "https://x.com/ShamsCharania/status/2060341562572227063",
-          "headline": "Mitchell Robinson undergoes surgery on broken finger",
+          "headline": "Mitchell Robinson undergoes surgery on broken pinky but plans to play in NBA Finals",
           "body": "Mitchell Robinson has undergone surgery on his broken right pinky finger -- and fully plans to play in the New York Knicks' Game 1 of the NBA Finals against OKC or San Antonio next Wednesday while wearing a brace on his hand, sources tell ESPN.",
-          "engagement": "2.3M views",
-          "views": 2283699
+          "engagement": "3.4M views",
+          "views": 3357686
         },
         {
           "handle": "LegionHoops",
@@ -242,12 +234,12 @@
           "views": 8806145
         },
         {
-          "handle": "ShamsCharania",
-          "url": "https://x.com/ShamsCharania/status/2060075536693477830",
-          "headline": "NBA passes new anti-tanking rules expanding lottery and adding penalties",
-          "body": "Breaking: The NBA's Board of Governors has passed new anti-tanking rules that include expanding the draft lottery from 14 to 16 teams, a relegation zone where the bottom 3 teams get penalized with lessened chances for the No. 1 pick, and flattened odds, sources tell ESPN.",
-          "engagement": "5M views",
-          "views": 5041774
+          "handle": "TheDunkCentral",
+          "url": "https://x.com/TheDunkCentral/status/2060391738460803538",
+          "headline": "Donovan Mitchell defends James Harden's big stage performance",
+          "body": "Donovan Mitchell defends James Harden, saying that LeBron James and Michael Jordan also struggled on big stages\n\n\u201cYeah, sure, has he had some rough moments? I\u2019m sure we all have. LeBron [James] is one of the greatest players ever. We don\u2019t really speak on the [Dallas] Mavericks [NBA] Final [in 2011] when he struggled [with the Miami Heat]. We don\u2019t speak on [Michael] Jordan taking eight years to get to the Finals. We speak on the wins.\u201d",
+          "engagement": "362K views",
+          "views": 362090
         }
       ]
     },
@@ -282,14 +274,6 @@
     "pods": {
       "stories": [
         {
-          "handle": "JoeRoganRecaps",
-          "url": "https://x.com/JoeRoganRecaps/status/2060061636518691263",
-          "headline": "Joe Rogan questions the reality of time in conversation with NASA astrophysicist.",
-          "body": "New: Joe Rogan leaves NASA astrophysicist Michelle Thaller completely stuck after asking her a deep question about the reality of time:\n\nROGAN: \u201cThe weirdest thing that I\u2019ve ever heard anybody say is that all time exists currently.\u201d\n\nTHALLER: \u201cThat\u2019s Albert Einstein.\u201d\n\nROGAN: \u201cWhen we measure time what exactly are we measuring? When we create a clock that runs 24 hours per day what is it measuring?\u201d\n\nTHALLER: \u201cThat\u2019s a deep question. That question caused everything in physics to fall apart.\u201d\n\nROGAN: \u201cI still don\u2019t understand what we\u2019re measuring.\u201d\n\nTHALLER: \u201cI don\u2019t think I have an answer for you. I don\u2019t think anybody does.\u201d",
-          "engagement": "3.1M views",
-          "views": 3059372
-        },
-        {
           "handle": "joerogan",
           "url": "https://x.com/joerogan/status/2060133047157088526",
           "headline": "Joe Rogan praises recent podcast conversation with NASA astrophysicist on space and time.",
@@ -304,6 +288,14 @@
           "body": "Joe Rogan speechless after learning from NASA astrophysicist Michelle Thaller that aliens use \u201cQuantum Entanglement\u201d to travel instantaneously:\n\nTHALLER: \u201cI don\u2019t want your listeners to think I\u2019m saying something stupid.\u201d\n\nROGAN: \u201cIt\u2019s not stupid. Quantum entanglement just means two things can be connected regardless of the physical distance apart.\u201d\n\nTHALLER: \u201cIt\u2019s real. Space and time don\u2019t matter. Aliens would be able to respond to each other instantaneously because they\u2019re entangled.\u201d\n\nROGAN: \u201cThis is so bananas. So then what are humans entangled to?\u201d\n\nTHALLER: \u201cIf humans all came from The Big Bang does that mean we\u2019re connected to everything in the universe in some way?\u201d\n\nROGAN: \u201cYou think this is how some super advanced intelligent life form would travel?\u201d\n\nTHALLER: \u201cIt would make a lot more sense than using a spaceship.\"",
           "engagement": "875K views",
           "views": 875262
+        },
+        {
+          "handle": "lexfridman",
+          "url": "https://x.com/lexfridman/status/2060415366761992612",
+          "headline": "Lex Fridman announces new podcast episode with physicist Don Lincoln on open questions in physics.",
+          "body": "Here's my conversation with Don Lincoln about some of the biggest open questions in physics, including dark energy, dark matter, the matter-antimatter imbalance, quantum vacuum, quantum foam, and the quest to unify the laws of physics.\n\nDon is a particle physicist at Fermilab who has spent decades working at the frontiers of high energy physics. He is also a great teacher & writer. I highly recommend his courses & books. One of my favorite lecture series he has given is The Evidence for Modern Physics where he breaks down the experiments that validate some of the weird laws of physics we have, and what it would take to validate even the weirder ones.\n\nIt's not enough to come up with a beautiful theory. You also have to show through experiment that the theory is likely to be correct. This process often doesn't get the love it deserves, even though it's often the most important and difficult part of the scientific process.\n\nI \u2764\ufe0f physics.\n\nThe conversation is here on X in full and is up everywhere else (see comment).\n\nTimestamps:\n0:00 - Introduction\n0:49 - Unifying the laws of nature\n15:20 - General relativity\n32:27 - Electroweak force\n44:09 - How particle colliders work\n1:02:12 - Higgs boson discovery\n1:12:32 - Theory of everything\n1:42:17 - Physics of empty space\n1:49:41 - Antimatter\n2:10:31 - Dark energy\n2:14:20 - Dark matter\n2:42:56 - Future of physics",
+          "engagement": "31K views",
+          "views": 30949
         }
       ]
     },
@@ -366,14 +358,6 @@
     "science": {
       "stories": [
         {
-          "handle": "claudeai",
-          "url": "https://x.com/claudeai/status/2060042702150930686",
-          "headline": "Anthropic releases Claude Opus 4.8 AI model with improved capabilities.",
-          "body": "Introducing Claude Opus 4.8: it builds on Opus 4.7 with sharper judgment, more honesty about its own progress, and the ability to work independently for longer than its predecessors.\n\nAvailable today at the same price.",
-          "engagement": "10M views",
-          "views": 10035047
-        },
-        {
           "handle": "SpaceflightNow",
           "url": "https://x.com/SpaceflightNow/status/2060170680604168319",
           "headline": "Video of Blue Origin New Glenn rocket static fire test explosion at Launch Complex 36",
@@ -394,25 +378,33 @@
     "local": {
       "stories": [
         {
-          "handle": "AnaheimDucks",
-          "url": "https://x.com/AnaheimDucks/status/2060066052684554648",
-          "headline": "Plans announced for new three-sheet public skating facility in Southern California",
-          "body": "Exciting times for hockey in Southern California.\n\nThere are plans for a three-sheet public skating facility in Escondido at Kit Carson Park.\n\nThe complex would be fully funded and constructed entirely by @The_Rinks. \n\nDetails \u2b07\ufe0f",
-          "engagement": "36K views",
-          "views": 36233
-        },
-        {
-          "handle": "NickHarrisFWST",
-          "url": "https://x.com/NickHarrisFWST/status/2060055041822576943",
-          "headline": "Dallas Cowboys to hold joint practice with Saints in Oxnard, Southern California",
-          "body": "Can confirm that the Cowboys will have a joint practice with the Saints in Oxnard. Shouldn\u2019t be the only one that Dallas has while in Southern California.",
-          "engagement": "24.2K views",
-          "views": 24204
+          "handle": "OCFireAuthority",
+          "url": "https://x.com/OCFireAuthority/status/2060196976885702983",
+          "headline": "Garden Grove incident transitioning to cleanup phase in Orange County",
+          "body": "The Garden Grove incident is transitioning out of the emergency response phase. Beginning Friday, 5/29, at 8 a.m., the OC Health Care Agency, as the County\u2019s Certified Unified Program Agency, will take the lead as the oversight authority for site cleanup and waste removal.",
+          "engagement": "18K views",
+          "views": 18442
         }
       ]
     },
     "conspiracy": {
       "stories": [
+        {
+          "handle": "johnnymaga",
+          "url": "https://x.com/johnnymaga/status/2060377932917313747",
+          "headline": "Spencer Pratt dodges 9/11 conspiracy question from Jake Tapper",
+          "body": "Spencer Pratt evades Jake Tapper\u2019s attempt to trap him with a 9/11 conspiracy question\u2014something that would be politically toxic in Los Angeles\u2014and Pratt turns it around to highlight the corruption and gross incompetence of city leadership.\n\n10/10.",
+          "engagement": "69K views",
+          "views": 69524
+        },
+        {
+          "handle": "ReturnOfKappy",
+          "url": "https://x.com/ReturnOfKappy/status/2060376193757487586",
+          "headline": "Claude Lemieux ritual seen as Illuminati sacrifice",
+          "body": "After watching the Claude Lemieux Ritual in Montreal he took part in right before his Offing the other night it's obvious what is going on....\n\nThe Flames, The Torches the look on Claude's face..\n\nIt looks like he is entering HELL for an Illuminati Sacrifice Ritual....",
+          "engagement": "67K views",
+          "views": 67462
+        },
         {
           "handle": "infantrydort",
           "url": "https://x.com/infantrydort/status/2060133431237918943",
@@ -420,22 +412,6 @@
           "body": "I actually want to phone some friends on this General LaNeve drama.  I have a pretty firm rule: if the corporate mainstream media is united against someone, I am for them.\n\nThat\u2019s where I\u2019m at here.\n\nBut I\u2019m curious @DataRepublican, what does the deep state have against this man?\n\nAnd for @CynicalPublius @KurtSchlichter @RobManess, what does the military establishment have against him?\n\nAnd for @MostlyPeaceful, what do our rank and file crazies think?\n\nFor @GenFlynn, your thoughts?\n\nAnd @DC_Draino, you know more about the swamp than anyone. What\u2019s happening here?\n\nAll of this negative press has me cheering for the man. And that position is only solidifying as the days go on.\n\nSo tell me\u2026 everyone else in internet land, what am I missing here?",
           "engagement": "47K views",
           "views": 46788
-        },
-        {
-          "handle": "DarkOddCon",
-          "url": "https://x.com/DarkOddCon/status/2060127474017534200",
-          "headline": "Conspiracy meme post with image",
-          "body": "https://t.co/tPPBv94Hf5",
-          "engagement": "35K views",
-          "views": 35357
-        },
-        {
-          "handle": "DarkOddCon",
-          "url": "https://x.com/DarkOddCon/status/2060127536479125719",
-          "headline": "Conspiracy meme post with image",
-          "body": "https://t.co/8LKiwfi6W4",
-          "engagement": "32K views",
-          "views": 32269
         }
       ]
     },
@@ -458,15 +434,15 @@
           "views": 242070
         },
         {
-          "handle": "hymnduncan",
-          "url": "https://x.com/hymnduncan/status/2060138310605938974",
-          "headline": "Comment on Wemby outfit becoming a meme",
-          "body": "Needs a Legacy game or else it\u2019s a meme forever \ud83d\ude2d",
-          "engagement": "120K views",
-          "views": 120274
+          "handle": "EmmaOltOlato",
+          "url": "https://x.com/EmmaOltOlato/status/2060378091390713988",
+          "headline": "Meme checkpoint post asking for recent memes",
+          "body": "Meme checkpoint: Drop the Recent meme you have. !!",
+          "engagement": "53K views",
+          "views": 53397
         }
       ]
     }
   },
-  "last_updated": "2026-05-29T15:35:21.785160"
+  "last_updated": "2026-05-29T18:34:23.327135"
 }
