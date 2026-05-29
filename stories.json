@@ -32,85 +32,39 @@
               "views": 475469
             }
           ]
-        },
-        {
-          "headline": "Israeli airstrikes hit ancient city of Tyre in Lebanon",
-          "url": "https://x.com/AlexCrawfordSky/status/2060047412731806068",
-          "handle": "AlexCrawfordSky",
-          "perspectives": [
-            {
-              "label": "Independent",
-              "handle": "mehdirhasan",
-              "url": "https://x.com/mehdirhasan/status/2060094659381063695",
-              "body": "Barbarism from Israel. Again. And the world just watches.",
-              "engagement": "455K views",
-              "views": 455883
-            },
-            {
-              "label": "Conservative",
-              "handle": "SuppressedNws1",
-              "url": "https://x.com/SuppressedNws1/status/2059728249865769287",
-              "body": "Two videos circulating now. One of a child suffering severe burns and the other is a child having his torso entirely blown up and his internal organs dangling from his body. Both in one strike in Gaza City. This is what Israel is doing to Palestinians on the first day of Eid.",
-              "engagement": "129K views",
-              "views": 129584
-            }
-          ]
         }
       ]
     },
     "usa": {
       "stories": [
         {
-          "headline": "White House teases major announcement with 'Loading\u2026 tonight' post",
-          "url": "https://x.com/WhiteHouse/status/2060107136148091190",
+          "headline": "White House launches aliens.gov to track illegal immigrant arrests nationwide",
+          "url": "https://x.com/WhiteHouse/status/2060127126611718214",
           "handle": "WhiteHouse",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "WhiteHouse",
-              "url": "https://x.com/WhiteHouse/status/2060107136148091190",
-              "body": "Loading\u2026 tonight. \ud83d\udc40",
-              "engagement": "34K likes",
-              "views": 4733144
-            },
-            {
-              "label": "Conservative",
-              "handle": "WhiteHouse",
-              "url": "https://x.com/WhiteHouse/status/2060013820139942309",
-              "body": "Are you listening? \ud83d\udd0a",
-              "engagement": "17K likes",
-              "views": 3970327
+              "handle": "FoxNews",
+              "url": "https://x.com/FoxNews/status/2060439473251615057",
+              "body": "\"They're among us\" The White House has a new message on aliens: They are not coming from outer space \u2014 they are already here and ICE is tracking them.",
+              "engagement": "53K views",
+              "views": 53569
             },
             {
               "label": "Independent",
-              "handle": "BernieSanders",
-              "url": "https://x.com/BernieSanders/status/2060110413849571515",
-              "body": "Elon Musk: \u201cAI and robots will replace all jobs.\u201d Mustafa Suleyman, Microsoft: Most white-collar work \u201cwill be fully automated\" in 12-18 months. Dario Amodei, Anthropic: AI is a \u201cgeneral labor substitute for humans.\u201d Congress must act NOW to protect American workers.",
-              "engagement": "7.5K likes",
-              "views": 520413
-            }
-          ]
-        },
-        {
-          "headline": "Trump administration pushes $250 bill with president's portrait on currency",
-          "url": "https://x.com/washingtonpost/status/2059957879180824873",
-          "handle": "washingtonpost",
-          "perspectives": [
-            {
-              "label": "Independent",
-              "handle": "washingtonpost",
-              "url": "https://x.com/washingtonpost/status/2059957879180824873",
-              "body": "Breaking news: Trump administration officials have pressed the Bureau of Engraving and Printing to design a $250 bill featuring the president\u2019s portrait, in what would be the first appearance of a living person on U.S. currency in more than 150 years.",
-              "engagement": "4.7M views",
-              "views": 4767950
+              "handle": "Briefing__Room",
+              "url": "https://x.com/Briefing__Room/status/2060474446452768927",
+              "body": "WH Launches \u2018https://www.whitehouse.gov/aliens/ Website: Americans Can Track Arrests of Nearby illegal Aliens",
+              "engagement": "1 views",
+              "views": 1
             },
             {
-              "label": "Conservative",
-              "handle": "PaulGoldEagle",
-              "url": "https://x.com/PaulGoldEagle/status/2060103620608376892",
-              "body": "\ud83d\udea8 Could President Trump Appear on a $250 Bill? \ud83d\udcb5\ud83c\uddfa\ud83c\uddf8 Treasury Secretary Scott Bessent says proposed legislation in Congress could pave the way for President Donald Trump to appear on a new $250 bill.",
-              "engagement": "688 views",
-              "views": 688
+              "label": "Democrat",
+              "handle": "linusblue",
+              "url": "https://x.com/linusblue/status/2060462282522624277",
+              "body": "Aliens \u2013 The White House https://www.whitehouse.gov/aliens/",
+              "engagement": "9 views",
+              "views": 9
             }
           ]
         },
@@ -128,18 +82,57 @@
               "views": 908876
             }
           ]
+        },
+        {
+          "headline": "Louisiana passes new congressional map eliminating majority-Black district for GOP gain",
+          "url": "https://x.com/nytimes/status/2060423764945375531",
+          "handle": "nytimes",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "nicksortor",
+              "url": "https://x.com/nicksortor/status/2060411722628825394",
+              "body": "\ud83d\udea8 BREAKING: The Louisiana Senate has officially PASSED the redrawn Congressional map, ELIMINATING a Democrat seat in the US House for the 2026 midterms Louisiana will be 5R-1D.",
+              "engagement": "64K views",
+              "views": 64915
+            },
+            {
+              "label": "Independent",
+              "handle": "AP",
+              "url": "https://x.com/AP/status/2060410439612186905",
+              "body": "Louisiana lawmakers passed a congressional map designed to pick up a GOP seat.",
+              "engagement": "39K views",
+              "views": 39942
+            },
+            {
+              "label": "Democrat",
+              "handle": "nytimes",
+              "url": "https://x.com/nytimes/status/2060423764945375531",
+              "body": "Breaking News: Louisiana erased a majority-Black congressional district, becoming the second state to do so after the Supreme Court weakened the Voting Rights Act\u200b last month.",
+              "engagement": "339K views",
+              "views": 339999
+            }
+          ]
         }
       ]
     },
     "business": {
       "stories": [
         {
+          "handle": "unusual_whales",
+          "url": "https://x.com/unusual_whales/status/2060430424808284481",
+          "headline": "Trump fined for late stock trade disclosure",
+          "body": "Donald Trump has been fined $200 after he was months late to report buying and selling millions in stocks, per WaPo.",
+          "engagement": "1.2M views",
+          "views": 1199068
+        },
+        {
           "handle": "pelositracker",
           "url": "https://x.com/pelositracker/status/2060385612151046241",
-          "headline": "Claude AI portfolio calls bottom in ServiceNow stock",
+          "headline": "Claude portfolio up 39% on ServiceNow AI bet",
           "body": "Claude casually calling the bottom and buying ServiceNow $NOW because it thinks it's actually a beneficiary of AI is absolutely classic",
-          "engagement": "308K views",
-          "views": 308541
+          "engagement": "528K views",
+          "views": 528274
         },
         {
           "handle": "DefiWimar",
@@ -148,14 +141,6 @@
           "body": "\ud83d\udea8 BREAKING\n\n\ud83c\uddfa\ud83c\uddf8 TRUMP WILL SIGN AN URGENT EXECUTIVE ORDER TODAY AT 3:30 PM ET, RIGHT BEFORE MARKETS CLOSE!\n\nHE NEVER SIGNS BEFORE MARKETS CLOSE UNLESS SOMETHING BULLISH IS HAPPENING.\n\nREPORTS EXPECT HIM TO OFFICIALLY SIGN THE PEACE MEMORANDUM WITH IRAN.\n\nTHIS WOULD BE REALLY GOOD FOR MARKETS...",
           "engagement": "670K views",
           "views": 669883
-        },
-        {
-          "handle": "WatcherGuru",
-          "url": "https://x.com/WatcherGuru/status/2060353662178992132",
-          "headline": "Elon Musk denies reports of SpaceX lowering IPO valuation target",
-          "body": "JUST IN: Elon Musk says reports that SpaceX lowered its IPO valuation target are \"false.\"",
-          "engagement": "144K views",
-          "views": 143888
         }
       ]
     },
@@ -170,12 +155,12 @@
           "views": 6791403
         },
         {
-          "handle": "WhiteHouse",
-          "url": "https://x.com/WhiteHouse/status/2060127126611718214",
-          "headline": "They walk among us.",
-          "body": "They walk among us. \n\nhttps://www.whitehouse.gov/aliens/",
-          "engagement": "6.7M views",
-          "views": 6758170
+          "handle": "SkySportsNews",
+          "url": "https://x.com/SkySportsNews/status/2060444765401854128",
+          "headline": "Anthony Gordon speaking in Spanish at his Barcelona unveiling after move from Newcastle",
+          "body": "Anthony Gordon speaking in Spanish at his Barcelona unveiling after making the move from Newcastle \ud83c\uddea\ud83c\uddf8",
+          "engagement": "5M views",
+          "views": 5035418
         },
         {
           "handle": "SpaceflightNow",
@@ -192,26 +177,26 @@
         {
           "handle": "nytimes",
           "url": "https://x.com/nytimes/status/2060423764945375531",
-          "headline": "Louisiana erases majority-Black congressional district after Supreme Court ruling.",
+          "headline": "Louisiana erases majority-Black congressional district after Supreme Court ruling",
           "body": "Breaking News: Louisiana erased a majority-Black congressional district, becoming the second state to do so after the Supreme Court weakened the Voting Rights Act\u200b last month.\nhttps://www.nytimes.com/2026/05/29/us/politics/louisiana-redistricting-map-majority-black-district.html?smid=tw-nytimes&smtyp=cur",
-          "engagement": "28K views",
-          "views": 28050
+          "engagement": "339K views",
+          "views": 338853
         },
         {
           "handle": "nytimes",
-          "url": "https://x.com/nytimes/status/2060345944248402351",
-          "headline": "NYC Mayor Zohran Mamdani writes about Arsenal winning Premier League",
-          "body": "From @TheAthleticFC: Zohran Mamdani, the mayor of New York City and a long-time supporter of Arsenal, writes about what it means to see Arsenal win the Premier League trophy and his hopes for Saturday\u2019s Champions League final against Paris Saint-Germain.  https://www.nytimes.com/athletic/7315454/2026/05/29/arsenal-premier-league-zohran-mamdani/?smtyp=cur&smid=tw-nytimes",
-          "engagement": "147476 views",
-          "views": 147476
+          "url": "https://x.com/nytimes/status/2060443271130693866",
+          "headline": "Judge orders Kennedy Center to remove President Trump\u2019s name",
+          "body": "Breaking News: A judge ordered the Kennedy Center to remove President Trump\u2019s name, ruling that it had been added unlawfully. https://www.nytimes.com/2026/05/29/arts/kennedy-center-trump-name-remove.html?smid=tw-nytimes&smtyp=cur",
+          "engagement": "69K views",
+          "views": 69498
         },
         {
-          "handle": "WSJ",
-          "url": "https://x.com/WSJ/status/2060410893859508503",
-          "headline": "Trump allies and supporters may receive payouts from 'Anti-Weaponization Fund.'",
-          "body": "The president\u2019s allies and supporters stand to receive payouts based on claims they were mistreated by the government. https://www.wsj.com/politics/policy/what-to-know-about-trumps-1-8-billion-anti-weaponization-fund-d8ceb872?mod=e2tw",
-          "engagement": "17K views",
-          "views": 17264
+          "handle": "CNN",
+          "url": "https://x.com/CNN/status/2060443877236936896",
+          "headline": "Judge blocks Trump from adding name to Kennedy Center",
+          "body": "A federal judge says President Trump can't add his name to Kennedy Center and blocks planned closure for a yearslong renovation. https://www.cnn.com/2026/05/29/politics/judge-trump-cant-add-name-to-kennedy-center-or-close?Date=20260529&Profile=CNN&utm_content=1780082793&utm_medium=social&utm_source=twitter",
+          "engagement": "64K views",
+          "views": 64413
         }
       ]
     },
@@ -219,11 +204,11 @@
       "stories": [
         {
           "handle": "ShamsCharania",
-          "url": "https://x.com/ShamsCharania/status/2060341562572227063",
-          "headline": "Mitchell Robinson undergoes surgery on broken pinky but plans to play in NBA Finals",
-          "body": "Mitchell Robinson has undergone surgery on his broken right pinky finger -- and fully plans to play in the New York Knicks' Game 1 of the NBA Finals against OKC or San Antonio next Wednesday while wearing a brace on his hand, sources tell ESPN.",
-          "engagement": "3.4M views",
-          "views": 3357686
+          "url": "https://x.com/ShamsCharania/status/2060429222514958739",
+          "headline": "Orlando Magic finalizing hire of Spurs associate coach Sean Sweeney as new head coach",
+          "body": "BREAKING: The Orlando Magic are finalizing the hire of San Antonio Spurs associate coach Sean Sweeney as the franchise's new head coach, sources tell ESPN. Sweeney broke into NBA coaching in 2011 and now lands the Magic head job as a top rising candidate.",
+          "engagement": "3.70M views",
+          "views": 3703379
         },
         {
           "handle": "LegionHoops",
@@ -234,12 +219,12 @@
           "views": 8806145
         },
         {
-          "handle": "TheDunkCentral",
-          "url": "https://x.com/TheDunkCentral/status/2060391738460803538",
-          "headline": "Donovan Mitchell defends James Harden's big stage performance",
-          "body": "Donovan Mitchell defends James Harden, saying that LeBron James and Michael Jordan also struggled on big stages\n\n\u201cYeah, sure, has he had some rough moments? I\u2019m sure we all have. LeBron [James] is one of the greatest players ever. We don\u2019t really speak on the [Dallas] Mavericks [NBA] Final [in 2011] when he struggled [with the Miami Heat]. We don\u2019t speak on [Michael] Jordan taking eight years to get to the Finals. We speak on the wins.\u201d",
-          "engagement": "362K views",
-          "views": 362090
+          "handle": "ShamsCharania",
+          "url": "https://x.com/ShamsCharania/status/2060341562572227063",
+          "headline": "Knicks center Mitchell Robinson underwent surgery on broken pinky but plans to play in NBA Finals Game 1",
+          "body": "Mitchell Robinson has undergone surgery on his broken right pinky finger -- and fully plans to play in the New York Knicks' Game 1 of the NBA Finals against OKC or San Antonio next Wednesday while wearing a brace on his hand, sources tell ESPN.",
+          "engagement": "3.79M views",
+          "views": 3790243
         }
       ]
     },
@@ -247,19 +232,19 @@
       "stories": [
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2060092313150611851",
-          "headline": "Elon Musk shares video of Cybercab driving itself out of GigaTexas factory",
-          "body": "Cybercab driving itself out of the GigaTexas factory",
-          "engagement": "33.6M views",
-          "views": 33609065
+          "url": "https://x.com/elonmusk/status/2060453946762592256",
+          "headline": "Elon Musk agrees with statement on suicidal empathy destroying civilization",
+          "body": "True",
+          "engagement": "6.7M views",
+          "views": 6657410
         },
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2060266691418849346",
-          "headline": "Elon Musk reacts with laughter to a video about AI file renaming.",
+          "headline": "Elon Musk reacts with laughter emoji to a video of AI file renaming",
           "body": "\ud83d\ude02",
-          "engagement": "8.1M views",
-          "views": 8103129
+          "engagement": "26M views",
+          "views": 26014994
         },
         {
           "handle": "elonmusk",
@@ -276,10 +261,10 @@
         {
           "handle": "joerogan",
           "url": "https://x.com/joerogan/status/2060133047157088526",
-          "headline": "Joe Rogan praises recent podcast conversation with NASA astrophysicist on space and time.",
+          "headline": "Joe Rogan reflects on podcast with Michelle Thaller about space and time",
           "body": "This was one of the most interesting conversations I\u2019ve had in a while. \n Michelle Thaller a wealth of fascinating information about space, time and all things the cosmos.  And she\u2019s an incredibly compelling speaker.  These kinds of podcasts are some of my favorites",
-          "engagement": "1.8M views",
-          "views": 1769867
+          "engagement": "2.3M views",
+          "views": 2324684
         },
         {
           "handle": "JoeRoganRecaps",
@@ -311,24 +296,32 @@
         },
         {
           "handle": "PopBase",
-          "url": "https://x.com/PopBase/status/2060209850324517193",
-          "headline": "Ariana Grande has released her new single \u2018hate that i made you love me.\u2019",
-          "body": "Ariana Grande has released her new single \u2018hate that i made you love me.\u2019\n\n(https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB",
-          "engagement": "533K views",
-          "views": 532751
+          "url": "https://x.com/PopBase/status/2060380844464693747",
+          "headline": "Lisa Kudrow shares funny story about being mistaken for Dionne Warwick by a hostess.",
+          "body": "Lisa Kudrow recalls the time a hostess mistook her for being Dionne Warwick:\n\n\u201cShe was from somewhere in Eastern Europe\u2014and just went, \u2018Uh, I know who you are, She said, \u2018You are Dionne Warwick\u2019 And I just went, \u2018No, I\u2019m not!\u2019\u201d\n\n(https://www.youtube.com/watch?si=itSrARnfklQpuL3W&v=zk3CB8nxo0E&feature=youtu.be",
+          "engagement": "503K views",
+          "views": 503775
         },
         {
-          "handle": "AboutMusicYT",
-          "url": "https://x.com/AboutMusicYT/status/2060302254331036099",
-          "headline": "Pond Naravit poses stylishly for Dior",
-          "body": "Pond Naravit looks stylish for Dior.",
-          "engagement": "98K views",
-          "views": 98472
+          "handle": "ESPNFC",
+          "url": "https://x.com/ESPNFC/status/2060369801290137736",
+          "headline": "Jos\u00e9 Mourinho appears in Stormzy's music video in a fun cameo.",
+          "body": "When Jos\u00e9 Mourinho made an appearance in Stormzy's music video \ud83d\ude06\ud83e\udd2b",
+          "engagement": "279K views",
+          "views": 279444
         }
       ]
     },
     "recipe": {
       "stories": [
+        {
+          "handle": "foodtown_JP",
+          "url": "https://x.com/foodtown_JP/status/2060277945542004837",
+          "headline": "Foodtown official account promoting Famichiki free ticket giveaway",
+          "body": "\uff3c\u305d\u306e\u5834\u3067\u5f53\u305f\u308b\ud83c\udfaf\uff0f\n\n\u30d5\u30a1\u30df\u30c1\u30ad \u7121\u6599\u5f15\u63db\u5238\n\n\u5fdc\u52df\u7de0\u5207 6/1 23:59\u307e\u3067\n\n1\u20e3\u672c\u6295\u7a3f\u3092\u3044\u3044\u306d\uff06\u30ea\u30dd\u30b9\u30c8\n2\u20e3\u5f53\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u30d5\u30a9\u30ed\u30fc\n\n\u5f53\u9078\u8005\u306b\u306fDM\u304c\u5c4a\u304d\u307e\u3059\ud83d\udc8c",
+          "engagement": "559K views",
+          "views": 558840
+        },
         {
           "handle": "711SEJ",
           "url": "https://x.com/711SEJ/status/2060299368662753708",
@@ -336,14 +329,6 @@
           "body": "\ud83d\udce2\u30b9\u30de\u30db\u3067\u30ab\u30f3\u30bf\u30f3\u6ce8\u6587\uff01#7NOW\n\n.\u02da\u22b9\u207a\u2027\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2027\u207a \u22b9\u02da.\n\u30007NOW(\u30bb\u30d6\u30f3\u30ca\u30a6)\u3067\n\u3000\u304a\u6cca\u307e\u308a\u30d1\u30fc\u30c6\u30a3\u30fcvlog\n.\u02da\u22b9\u207a\u2027\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2027\u207a \u22b9\u02da.\n\n7NOW\u5c02\u7528\u5546\u54c1 #\u76db\u76db\u30b7\u30ea\u30fc\u30ba \u306e\u30df\u30c3\u30af\u30b9\u30dd\u30c6\u30c8\u7b49\u3092\n\u30e2\u30d0\u30a4\u30eb\u30aa\u30fc\u30c0\u30fc\u3057\u3066\u3001\u30d1\u30fc\u30c6\u30a3\u30fc\u3092\u697d\u3057\u3082\u3046\u2728\n\n\u3042\u306a\u305f\u306f\u76db\u76db\u30b7\u30ea\u30fc\u30ba\u3001\u77e5\u3063\u3066\u308b\uff1f\ud83d\udc40\ud83d\udcac",
           "engagement": "195K views",
           "views": 195784
-        },
-        {
-          "handle": "711SEJ",
-          "url": "https://x.com/711SEJ/status/2060280002814652747",
-          "headline": "Promotional post for new cup noodle product",
-          "body": "\u2605\u30b5\u30c3\u30dd\u30ed\u4e00\u756a\u3057\u3087\u3046\u3086\u5473\u6cb9\u305d\u3070\u304c\u767b\u5834\n\n\u5b8c\u6210\u307e\u3067\u306e\u69d8\u5b50\u3092\u306e\u305e\u3044\u3066\u307f\u307e\u3057\u305f\ud83d\udc40\n\n\u30ab\u30c3\u30d7\u9eba\u306a\u306e\u3067\u7c21\u5358\u306b\u98df\u3079\u3089\u308c\u307e\u3059\uff01\n\n\u3082\u3046\u98df\u3079\u305f\uff01\u3068\u3044\u3046\u65b9\u306f\u30b3\u30e1\u30f3\u30c8\u6b04\u306b\ud83c\udf5c\u3067\u6559\u3048\u3066\u306d\uff01",
-          "engagement": "126K views",
-          "views": 126078
         },
         {
           "handle": "ore825",
@@ -357,6 +342,14 @@
     },
     "science": {
       "stories": [
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2060454545960878475",
+          "headline": "Elon Musk notes RUD events are common in rocket development",
+          "body": "RUD (rapid unscheduled disassembly) events are not unusual in the rocket world",
+          "engagement": "3.9M views",
+          "views": 3862226
+        },
         {
           "handle": "SpaceflightNow",
           "url": "https://x.com/SpaceflightNow/status/2060170680604168319",
@@ -418,6 +411,14 @@
     "comedy": {
       "stories": [
         {
+          "handle": "found_it_funny",
+          "url": "https://x.com/found_it_funny/status/2060345584330936830",
+          "headline": "Post sharing a funny image link",
+          "body": "https://t.co/BIAcvlxkH3",
+          "engagement": "179K views",
+          "views": 179332
+        },
+        {
           "handle": "genshin_meme_jp",
           "url": "https://x.com/genshin_meme_jp/status/2060209537823445115",
           "headline": "Genshin Impact missed call meme",
@@ -426,23 +427,15 @@
           "views": 334539
         },
         {
-          "handle": "joujinakata123",
-          "url": "https://x.com/joujinakata123/status/2060224093597978945",
-          "headline": "Japanese comedy account posts punchline to pose meme",
-          "body": "\u3053\u306e\u4eba\u3067\u3059\uff01",
-          "engagement": "242K views",
-          "views": 242070
-        },
-        {
-          "handle": "EmmaOltOlato",
-          "url": "https://x.com/EmmaOltOlato/status/2060378091390713988",
-          "headline": "Meme checkpoint post asking for recent memes",
-          "body": "Meme checkpoint: Drop the Recent meme you have. !!",
-          "engagement": "53K views",
-          "views": 53397
+          "handle": "funnyandfabss",
+          "url": "https://x.com/funnyandfabss/status/2060247858209804308",
+          "headline": "Video captioned this is too funny",
+          "body": "this is too funny\ud83e\udd70\ud83e\udd70",
+          "engagement": "279K views",
+          "views": 279804
         }
       ]
     }
   },
-  "last_updated": "2026-05-29T18:34:23.327135"
+  "last_updated": "2026-05-29T21:53:02.833283"
 }
