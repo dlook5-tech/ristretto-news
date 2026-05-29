@@ -41,17 +41,25 @@
           ]
         },
         {
-          "headline": "Israel says it is preparing for war with Egypt and Turkey",
-          "url": "https://x.com/World_Affairs11/status/2059899720622031165",
-          "handle": "World_Affairs11",
+          "headline": "Israeli airstrikes target Hezbollah in Tyre, Lebanon",
+          "url": "https://x.com/RealBababanaras/status/2059662652700577958",
+          "handle": "RealBababanaras",
           "perspectives": [
             {
+              "label": "Conservative",
+              "handle": "Terror_Alarm",
+              "url": "https://x.com/Terror_Alarm/status/2059944020969767204",
+              "body": "\ud83d\udea8\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7 The Lebanese Army spent years looking for Hezbollah in Tyre and found nothing. The IDF found them instantly and is doing the job for free.",
+              "engagement": "75K views",
+              "views": 75254
+            },
+            {
               "label": "Independent",
-              "handle": "World_Affairs11",
-              "url": "https://x.com/World_Affairs11/status/2059899720622031165",
-              "body": "BREAKING: Israel says it is preparing for war with Egypt and Turkey.",
-              "engagement": "1.2M views",
-              "views": 1248028
+              "handle": "Osint613",
+              "url": "https://x.com/Osint613/status/2059519170346140078",
+              "body": "IDF footage shows the elimination of a Hezbollah drone operator in southern Lebanon.",
+              "engagement": "133K views",
+              "views": 133111
             }
           ]
         }
@@ -157,12 +165,12 @@
           "views": 487505
         },
         {
-          "handle": "KobeissiLetter",
-          "url": "https://x.com/KobeissiLetter/status/2060089513976688705",
-          "headline": "S&P 500 closes at record high, on pace for 9-week winning streak",
-          "body": "BREAKING: The S&P 500 closes at its highest level on record, now on track for a 9-week win streak.",
-          "engagement": "241K views",
-          "views": 240893
+          "handle": "WatcherGuru",
+          "url": "https://x.com/WatcherGuru/status/2060244571733250458",
+          "headline": "SEC grants Paxos approval as first blockchain-native clearing agency",
+          "body": "JUST IN: \ud83c\uddfa\ud83c\uddf8 SEC grants first blockchain-native company 'Paxos' approval to clear and settle securities transactions.",
+          "engagement": "74288 views",
+          "views": 74288
         }
       ]
     },
@@ -213,12 +221,12 @@
           "views": 51706
         },
         {
-          "handle": "AP",
-          "url": "https://x.com/AP/status/2060194462198911478",
-          "headline": "Blue Origin rocket explodes during Cape Canaveral test, shaking homes",
-          "body": "A Blue Origin rocket has exploded during a test at the launch pad, shaking nearby homes and briefly painting the sky orange. https://apnews.com/article/blue-origin-rocket-explosion-bezos-ecdb38828fac02e3a33cc4fd4e61543e?taid=6a19013a4b8aea00012d6abc&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
-          "engagement": "23.2K views",
-          "views": 23167
+          "handle": "WSJ",
+          "url": "https://x.com/WSJ/status/2060186883141878185",
+          "headline": "Vladimir Putin pursues $26 billion longevity quest involving pig organs.",
+          "body": "Vladimir Putin is on a $26 billion quest for immortality\u2014and it involves harvesting human organs from tiny pigs https://www.wsj.com/world/russia/putin-longevity-antiaging-92dee6e8?mod=e2tw",
+          "engagement": "48.9K views",
+          "views": 48936
         }
       ]
     },
@@ -241,12 +249,12 @@
           "views": 3392937
         },
         {
-          "handle": "BBCSport",
-          "url": "https://x.com/BBCSport/status/2060072892403216543",
-          "headline": "BBC Sport pundits vote Declan Rice Premier League player of the season",
-          "body": "BBC Sport pundits have voted Declan Rice as the Premier League player of the season \ud83d\udcaa\ud83d\udc4f",
-          "engagement": "1.9M views",
-          "views": 1932436
+          "handle": "espn",
+          "url": "https://x.com/espn/status/2060136161322881340",
+          "headline": "Knicks center Mitchell Robinson suffers broken right pinky finger injury",
+          "body": "Breaking: New York Knicks center Mitchell Robinson has suffered a broken right pinky finger and there is no timetable on his return, sources tell @ShamsCharania.",
+          "engagement": "1.76M views",
+          "views": 1759953
         }
       ]
     },
@@ -255,18 +263,18 @@
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2060092313150611851",
-          "headline": "Elon Musk posts video of Cybercab driving out of Giga Texas factory",
+          "headline": "Elon Musk shares video of Cybercab driving itself out of GigaTexas factory",
           "body": "Cybercab driving itself out of the GigaTexas factory",
-          "engagement": "24.3M views",
-          "views": 24282189
+          "engagement": "33.6M views",
+          "views": 33609065
         },
         {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2059884150187053488",
-          "headline": "SpaceX developing in-house AI training stack in C for massive speed gains.",
-          "body": "SpaceX has almost finished writing V1.0 of an in-house AI training stack in C that exact-maps to 220k GB300s with 800G NICs, making heavy use of pipeline parallelism and getting as close to bare metal as possible.\n\nThe potential speed improvement vs JAX for large training runs is over an order of magnitude.",
-          "engagement": "8.1M views",
-          "views": 8098942
+          "handle": "nicksortor",
+          "url": "https://x.com/nicksortor/status/2060170321383059562",
+          "headline": "Nick Sortor posts video of Jeff Bezos' New Glenn rocket exploding, notes Elon Musk's response",
+          "body": "\ud83d\udea8 JUST NOW: Jeff Bezos\u2019 New Glenn rocket has EXPLODED into a MASSIVE fireball on the launchpad at Cape Canaveral in Florida\n\nIt literally looks like a NUCLEAR BOMB went off.\n\n@ElonMusk responded: \u201cMost unfortunate. Rockets are hard.\u201d\n\nInsane to watch.",
+          "engagement": "1.8M views",
+          "views": 1808802
         },
         {
           "handle": "elonmusk",
@@ -291,10 +299,10 @@
         {
           "handle": "joerogan",
           "url": "https://x.com/joerogan/status/2060133047157088526",
-          "headline": "Joe Rogan shares thoughts on recent podcast with NASA astrophysicist Michelle Thaller.",
+          "headline": "Joe Rogan shares thoughts on recent podcast with NASA astrophysicist Michelle Thaller about space and time.",
           "body": "This was one of the most interesting conversations I\u2019ve had in a while. \n Michelle Thaller a wealth of fascinating information about space, time and all things the cosmos.  And she\u2019s an incredibly compelling speaker.  These kinds of podcasts are some of my favorites",
-          "engagement": "1.2M views",
-          "views": 1178089
+          "engagement": "1.5M views",
+          "views": 1560382
         },
         {
           "handle": "JoeRoganRecaps",
@@ -309,12 +317,20 @@
     "pg6": {
       "stories": [
         {
+          "handle": "PopCrave",
+          "url": "https://x.com/PopCrave/status/2060169361063624910",
+          "headline": "Madonna reveals the best sex she\u2019s ever had in upcoming Grindr interview",
+          "body": "Madonna reveals the best sex she\u2019s ever had in upcoming Grindr interview:\n\n\u201cI\u2019m only going to name dead people. John Kennedy Jr.\u201d",
+          "engagement": "2.2M views",
+          "views": 2152500
+        },
+        {
           "handle": "PopBase",
-          "url": "https://x.com/PopBase/status/2060197411214282998",
-          "headline": "Man sentenced for planning attack on Taylor Swift's Eras Tour in Vienna.",
-          "body": "A 21-year-old man, (Beran A.), has been sentenced to 15 years in prison after admitting to planning an attack on Taylor Swift\u2019s Eras Tour show in Vienna.\n\nHis full name has not been shared due to Austrian privacy laws.",
-          "engagement": "220K views",
-          "views": 220536
+          "url": "https://x.com/PopBase/status/2060209850324517193",
+          "headline": "Ariana Grande has released her new single \u2018hate that i made you love me.\u2019",
+          "body": "Ariana Grande has released her new single \u2018hate that i made you love me.\u2019\n\n(https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB",
+          "engagement": "533K views",
+          "views": 532751
         },
         {
           "handle": "DiscussingFilm",
@@ -323,19 +339,27 @@
           "body": "First trailer for \u2018IN THE HAND OF DANTE\u2019.\n\n\u2022 Starring Oscar Isaac, Gal Gadot, Jason Momoa, Gerard Butler, Al Pacino, John Malkovich and Martin Scorsese.\n\n\u2022 Follows a scholar who steals a valuable manuscript, defying the New York mafia\n\n\u2022 Releasing June 24 on Netflix",
           "engagement": "1M views",
           "views": 1059882
-        },
-        {
-          "handle": "DiscussingFilm",
-          "url": "https://x.com/DiscussingFilm/status/2060079691722002590",
-          "headline": "Nicolas Cage names Andrew Garfield as his favorite Spider-Man.",
-          "body": "Nicolas Cage says that Andrew Garfield is his favorite Spider-Man. \n\n\u201cIn my view, the best Spider-Man of cinema.\u201d\n\n(Source: @Complex)",
-          "engagement": "340K views",
-          "views": 340976
         }
       ]
     },
     "recipe": {
       "stories": [
+        {
+          "handle": "fashionpressnet",
+          "url": "https://x.com/fashionpressnet/status/2060262388235178070",
+          "headline": "10-color non-alcoholic cocktail dinner buffet at Regal Royal Hotel Kyoto.",
+          "body": "10\u8272\u306e\u201c\u63a8\u3057\u8272\u201d\u30ce\u30f3\u30a2\u30eb\u30ab\u30af\u30c6\u30eb\u3068\u697d\u3057\u3080\u30c7\u30a3\u30ca\u30fc\u30d3\u30e5\u30c3\u30d5\u30a7\u3001\u30ea\u30fc\u30ac\u30ed\u30a4\u30e4\u30eb\u30db\u30c6\u30eb\u4eac\u90fd\u3067 - https://www.fashion-press.net/news/146880",
+          "engagement": "24K views",
+          "views": 23707
+        },
+        {
+          "handle": "ore825",
+          "url": "https://x.com/ore825/status/2060203138938962037",
+          "headline": "Recipe for generic version of Yamaoka-ya soy ramen ready in 15 minutes.",
+          "body": "\u5c71\u5ca1\u5bb6\u306e\u30ab\u30c3\u30d7\u9eba\u306e\u518d\u73fe\u5ea6\u304c\u500b\u4eba\u7684\u306b\u3042\u307e\u308a\u306b\u3082\u304b\u3051\u96e2\u308c\u3066\u3044\u305f\u306e\u3067\u4e00\u756a\u8981\u671b\u306e\u591a\u304b\u3063\u305f\n\n\u3010\u5c71\u5ca1\u5bb6\u91a4\u6cb9\u30e9\u30fc\u30e1\u30f3\u3011\n\n\u306e\u30b8\u30a7\u30cd\u30ea\u30c3\u30af\u3092\u4f5c\u308a\u307e\u3057\u305f\u3002\u3053\u308c\u672c\u5f53\u306b\u3042\u306e\u7f8e\u5473\u3057\u3044\u6fc3\u539a\u306a\u8c5a\u9aa8\u91a4\u6cb9\u304c15\u5206\u3067\u4f5c\u308c\u308b\u306e\u3067\u30ac\u30c1\u304a\u3059\u3059\u3081\u3067\u3059\n\n\u56fd\u9053\u6cbf\u3044\u306b\u3044\u304b\u306a\u304f\u3066\u3082\u98df\u3048\u308b\u5c71\u5ca1\u5bb6\u3001\u662f\u975e\nhttps://www.youtube.com/watch?v=4zP5Q_yuJcs&feature=youtu.be",
+          "engagement": "179K views",
+          "views": 178850
+        },
         {
           "handle": "akari_hasegawa",
           "url": "https://x.com/akari_hasegawa/status/2059933519976317329",
@@ -343,27 +367,27 @@
           "body": "\u9577\u8c37\u5ddd\u7206\u88c2\u30d2\u30c3\u30c8\u30ec\u30b7\u30d4\u306e\u3046\u3061\u306e\u3072\u3068\u3064\u3001\u307d\u3044\u307d\u3044\u3064\u304f\u306d\u3068\u3057\u3083\u304d\u3057\u3083\u304d\u91ce\u83dc\u306e\u307e\u305c\u3054\u306f\u3093\u306e\u52d5\u753b\u3092\u516c\u958b\u3057\u307e\u3057\u305f\u3002\u3069\u3093\u306a\u6599\u7406\uff1f\u3068\u805e\u304b\u308c\u3066\u3082\u3001\u307d\u3044\u307d\u3044\u3064\u304f\u306d\u3001\u3068\u3044\u3057\u304b\u8a00\u3044\u3088\u3046\u304c\u306a\u3044\u552f\u4e00\u7121\u4e8c\u306e\u30ec\u30b7\u30d4\u3002\u81ea\u5206\u306e\u305f\u3081\u306b\u91ce\u83dc\u3092\u523b\u3080\u6642\u9593\u3054\u3068\u697d\u3057\u3093\u3067\u3082\u3089\u3048\u305f\u3089\u3068\u601d\u3044\u307e\u3059\u3002\nhttps://www.youtube.com/watch?si=sZ_fAbH7-pe1VhT6&v=xbxNWKrrdSk&feature=youtu.be",
           "engagement": "504K views",
           "views": 504184
-        },
-        {
-          "handle": "HG7654321",
-          "url": "https://x.com/HG7654321/status/2059945427840200822",
-          "headline": "Japanese chef shares simple popover bread recipe with basic ingredients.",
-          "body": "\u65e5\u672c\u304c\u30a2\u30e1\u30ea\u30ab\u6599\u7406\u30d6\u30fc\u30e0\u3063\u3066\u3053\u3068\u3067\u300e\u30dd\u30c3\u30d7\u30aa\u30fc\u30d0\u30fc\u300f\u306e\u30ec\u30b7\u30d4\u3092\u6559\u3048\u3061\u3083\u3044\u307e\u3059\u3002\n\u30dd\u30c3\u30d7\u30aa\u30fc\u30d0\u30fc\u3068\u306f\u30b7\u30e5\u30fc\u30af\u30ea\u30fc\u30e0\u306e\n\u76ae\u306e\u3088\u3046\u306b\u4e2d\u304c\u7a7a\u6d1e\u3067\u767a\u9175\u304c\u4e0d\u8981\u306e\u5373\u5e2d\u3067\u4f5c\u308c\u308b\u30d1\u30f3\u3067\u3059\n\u6750\u6599\u306f\u57fa\u672c\u7684\u306b\u5c0f\u9ea6\u7c89\u30fb\u725b\u4e73\u30fb\u5375\u30fb\u5869\u3068\u30b7\u30f3\u30d7\u30eb\u3067\u3001\u5916\u306f\u30ab\u30ea\u30c3\u3068\u4e2d\u306f\u30e2\u30c1\u3063\u3068\u3057\u3066\u3044\u3066\u65e5\u672c\u4eba\u306f\u7d76\u5bfe\u597d\u304d\u306a\u30d1\u30f3\u3067\u3059\ud83c\udf5e",
-          "engagement": "323K views",
-          "views": 323095
-        },
-        {
-          "handle": "ArturGalata",
-          "url": "https://x.com/ArturGalata/status/2059922779076759888",
-          "headline": "User shares homemade meat and potato stew recipe with photos",
-          "body": "\u6211\u304c\u540d\u306f\u30a2\u30eb\u30c8\u30a5\u30eb\uff01\uff01\u65e5\u672c\u3092\u3053\u3088\u306a\u304f\u611b\u3059\u308b\u30e9\u30c8\u30d3\u30a2\u4eba\uff01\uff01\u934b\u306b\u3044\u3063\u3071\u3044\u306e\u8089\u3058\u3083\u304c\u3092\u5927\u91cf\u306b\u4f5c\u3063\u305f\u3041\u3041\u3041\uff01\uff01\u30b8\u30e3\u30ac\u30a4\u30e2\u3068\u4eba\u53c2\u306f\u5c11\u3057\u5927\u304d\u3081\u306b\u30ab\u30c3\u30c8\u3057\u3001\u98df\u611f\u3092\u697d\u3057\u3081\u308b\u3088\u3046\u306b\uff01\uff01\u7389\u306d\u304e\u306f\u7518\u307f\u3092\u51fa\u3059\u3088\u3046\u6700\u521d\u306b\u7092\u3081\uff01\uff01\u5b9a\u98df\u5c4b\u306b\u51fa\u3066\u304f\u308b\u3088\u3046\u306a\u6700\u9ad8\u306e\u4e00\u54c1\u306b\uff01\u7686\u69d8\u3001\u3069\u3046\u305e\u304a\u8912\u3081\u304f\u3060\u3055\u3044\u307e\u305b\uff01\uff01",
-          "engagement": "103K views",
-          "views": 102833
         }
       ]
     },
     "science": {
       "stories": [
+        {
+          "handle": "SpaceflightNow",
+          "url": "https://x.com/SpaceflightNow/status/2060170680604168319",
+          "headline": "Video of Blue Origin New Glenn rocket static fire test explosion at Launch Complex 36",
+          "body": "Here's our video of the explosion at Launch Complex 36. It happened about 9 pm ET (0100 UTC) as Blue Origin was beginning a static fire test of its New Glenn rocket.\n\nWatch live views: https://www.youtube.com/watch?v=thfYPsRqxmw",
+          "engagement": "5.89M views",
+          "views": 5895271
+        },
+        {
+          "handle": "SawyerMerritt",
+          "url": "https://x.com/SawyerMerritt/status/2060174287563116696",
+          "headline": "Another angle of Blue Origin New Glenn rocket explosion during static fire test",
+          "body": "This angle is even crazier",
+          "engagement": "5.47M views",
+          "views": 5471554
+        },
         {
           "handle": "claudeai",
           "url": "https://x.com/claudeai/status/2060042702150930686",
@@ -371,22 +395,6 @@
           "body": "Introducing Claude Opus 4.8: it builds on Opus 4.7 with sharper judgment, more honesty about its own progress, and the ability to work independently for longer than its predecessors.\n\nAvailable today at the same price.",
           "engagement": "10M views",
           "views": 10035047
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2059877327535005821",
-          "headline": "SpaceX nearly completes in-house AI training stack for order-of-magnitude speed gains.",
-          "body": "SpaceX has almost finished writing V1.0 of an in-house AI training stack in C that exact-maps to 220k GB300s with 800G NICs, making heavy use of pipeline parallelism and getting as close to bare metal as possible.\n\nThe potential speed improvement vs JAX for large training runs is over an order of magnitude.",
-          "engagement": "8M views",
-          "views": 8082561
-        },
-        {
-          "handle": "reactorworld",
-          "url": "https://x.com/reactorworld/status/2060015607928819876",
-          "headline": "Reactor raises $59M to launch real-time world model platform for AI developers.",
-          "body": "Today Reactor is coming out of stealth. We\u2019ve raised $59M in Seed and Series A funding, led by @lightspeedvp, with participation from @AmplifyPartners, @wndrco, @Sky9Capital, and @FPVventures.\n\nReactor is the platform for building in the World Model era: the infrastructure that lets developers build with them at global scale for the first time. Stream from a frontier World Model to your app, in real time, all in under 10 lines of code.\n\nWorld Models represent the next major shift in AI: pixels, audio and actions are generated on the fly, in real-time, in response to user inputs, and to the environment. Every time computing has made a shift from passive to interactive, entire industries appeared that didn't exist before. We're standing in front of such moment again.\n\nOver the last 6 months, we\u2019ve assembled an all-star team with alumni from Apple, Meta, Google, Luma AI, Netflix, and Replicate. We're already partnering with some of the biggest names and labs in the world, and hundreds of developers are already building on Reactor.\n\nThe World Model era starts now.",
-          "engagement": "2.07M views",
-          "views": 2070170
         }
       ]
     },
@@ -401,79 +409,79 @@
           "views": 90799
         },
         {
+          "handle": "AnaheimDucks",
+          "url": "https://x.com/AnaheimDucks/status/2060066052684554648",
+          "headline": "Plans announced for new three-sheet public skating facility in Southern California",
+          "body": "Exciting times for hockey in Southern California.\n\nThere are plans for a three-sheet public skating facility in Escondido at Kit Carson Park.\n\nThe complex would be fully funded and constructed entirely by @The_Rinks. \n\nDetails \u2b07\ufe0f",
+          "engagement": "36K views",
+          "views": 36233
+        },
+        {
           "handle": "NickHarrisFWST",
           "url": "https://x.com/NickHarrisFWST/status/2060055041822576943",
           "headline": "Dallas Cowboys to hold joint practice with Saints in Oxnard, Southern California",
           "body": "Can confirm that the Cowboys will have a joint practice with the Saints in Oxnard. Shouldn\u2019t be the only one that Dallas has while in Southern California.",
           "engagement": "24.2K views",
           "views": 24204
-        },
-        {
-          "handle": "AnaheimDucks",
-          "url": "https://x.com/AnaheimDucks/status/2060066052684554648",
-          "headline": "Plans announced for new three-sheet public skating facility in Escondido, Southern California",
-          "body": "Exciting times for hockey in Southern California.\n\nThere are plans for a three-sheet public skating facility in Escondido at Kit Carson Park.\n\nThe complex would be fully funded and constructed entirely by @The_Rinks. \n\nDetails \u2b07\ufe0f\n\nhttps://www.nhl.com/ducks/news/plans-for-three-sheet-public-skating-facility-in-escondido-at-kit-carson-park-announced",
-          "engagement": "17.6K views",
-          "views": 17563
         }
       ]
     },
     "conspiracy": {
       "stories": [
         {
-          "handle": "Ill1258303",
-          "url": "https://x.com/Ill1258303/status/2060157113498755391",
-          "headline": "UFO psyops distracting from Epstein files and targeting programs",
-          "body": "Don't let these UFO\npsyops distract you \nfrom the epstein files\nand the illegal Federal\n\"Targeting Individuals\" \nprograms exposed inside.\n\nHavana Syndrome. MKULTRA.",
-          "engagement": "6K views",
-          "views": 6084
+          "handle": "infantrydort",
+          "url": "https://x.com/infantrydort/status/2060133431237918943",
+          "headline": "User questions deep state opposition to General LaNeve nomination",
+          "body": "I actually want to phone some friends on this General LaNeve drama.  I have a pretty firm rule: if the corporate mainstream media is united against someone, I am for them.\n\nThat\u2019s where I\u2019m at here.\n\nBut I\u2019m curious @DataRepublican, what does the deep state have against this man?\n\nAnd for @CynicalPublius @KurtSchlichter @RobManess, what does the military establishment have against him?\n\nAnd for @MostlyPeaceful, what do our rank and file crazies think?\n\nFor @GenFlynn, your thoughts?\n\nAnd @DC_Draino, you know more about the swamp than anyone. What\u2019s happening here?\n\nAll of this negative press has me cheering for the man. And that position is only solidifying as the days go on.\n\nSo tell me\u2026 everyone else in internet land, what am I missing here?",
+          "engagement": "47K views",
+          "views": 46788
         },
         {
-          "handle": "NextUpHalperin",
-          "url": "https://x.com/NextUpHalperin/status/2059983033957290119",
-          "headline": "COVID permanently altered trust in institutions and conspiracy theories.",
-          "body": "How COVID changed America\u2019s trust in institutions\n\n@ClayTravis explains why he believes COVID permanently changed how Americans view institutions, conspiracy theories, and what\u2019s real online.\n\n#COVID #AI #Politics",
-          "engagement": "24K views",
-          "views": 24026
+          "handle": "DarkOddCon",
+          "url": "https://x.com/DarkOddCon/status/2060127595602055637",
+          "headline": "Conspiracy-themed meme post",
+          "body": "https://t.co/4etLWZxHkv",
+          "engagement": "26K views",
+          "views": 25768
         },
         {
-          "handle": "redpillb0t",
-          "url": "https://x.com/redpillb0t/status/2059937793485447328",
-          "headline": "Prince discussed noticing chemtrails over his neighborhood.",
-          "body": "Prince talked about how when he was younger he would notice chemtrails being sprayed over his neighborhood all the time.\n\nHe said he noticed soon after the chemtrails were sprayed - everyone in his neighborhood would suddenly be fighting and arguing",
-          "engagement": "27K views",
-          "views": 27240
+          "handle": "GenXKappy",
+          "url": "https://x.com/GenXKappy/status/2059909481505427870",
+          "headline": "Video claims to debunk or present the 'Jews did 9/11' conspiracy theory",
+          "body": "The entire Jews did 9/11 \u201cconspiracy\u201d in 32 minutes",
+          "engagement": "47K views",
+          "views": 47469
         }
       ]
     },
     "comedy": {
       "stories": [
         {
-          "handle": "@Savsays",
-          "url": "https://x.com/Savsays/status/2060098742309568986",
-          "headline": "Watching Talarico attempt to be relatable to Texans will be hilarious",
-          "body": "Watching Talarico attempt to be, even the slightest bit relatable, to Texans for the next 6 months is going to be hilarious to watch. \n\nLet\u2019s just save everyone\u2019s time and make Paxton senator now.",
-          "engagement": "36.8K views",
-          "views": 36830
+          "handle": "joujinakata123",
+          "url": "https://x.com/joujinakata123/status/2060224093597978945",
+          "headline": "Japanese comedy account posts punchline to pose meme",
+          "body": "\u3053\u306e\u4eba\u3067\u3059\uff01",
+          "engagement": "242K views",
+          "views": 242070
         },
         {
-          "handle": "sucreyoongi",
-          "url": "https://x.com/sucreyoongi/status/2059857778135429573",
-          "headline": "BTS members recreate The Office meme in funny clip",
-          "body": "NOT THE THE OFFICE MEME SFJSKJFKSJFJD PLEASE SEOKJIN JUNGKOOK AND TAE ARE SO FUNNY",
-          "engagement": "104K views",
-          "views": 104379
+          "handle": "sapillopillo",
+          "url": "https://x.com/sapillopillo/status/2060031170390139215",
+          "headline": "The Office meme question with image",
+          "body": "ser\u00e1 este el meme mas conocido de the office? o cual es?",
+          "engagement": "147K views",
+          "views": 147568
         },
         {
-          "handle": "@rottedmedia",
-          "url": "https://x.com/rottedmedia/status/2060040070883692875",
-          "headline": "Swing swing swingaling reaction video meme",
-          "body": "swing swing swingaling reaction video meme",
-          "engagement": "28.1K views",
-          "views": 28122
+          "handle": "TheRicanMemes",
+          "url": "https://x.com/TheRicanMemes/status/2060035087681372282",
+          "headline": "Birthday meme celebrating Marco Rubio",
+          "body": "Happy Birthday to the best Secretary of State ever and creator of the greatest meme template of 2026 Marco Rubio \ud83e\udd73\ud83c\udf88\ud83c\udf81",
+          "engagement": "102K views",
+          "views": 102434
         }
       ]
     }
   },
-  "last_updated": "2026-05-29T03:40:23.839726"
+  "last_updated": "2026-05-29T07:57:37.698936"
 }
