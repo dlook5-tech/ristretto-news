@@ -39,34 +39,42 @@
               "views": 815751
             }
           ]
-        },
-        {
-          "headline": "Israeli airstrikes target Hezbollah in Tyre, Lebanon",
-          "url": "https://x.com/RealBababanaras/status/2059662652700577958",
-          "handle": "RealBababanaras",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "Terror_Alarm",
-              "url": "https://x.com/Terror_Alarm/status/2059944020969767204",
-              "body": "\ud83d\udea8\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7 The Lebanese Army spent years looking for Hezbollah in Tyre and found nothing. The IDF found them instantly and is doing the job for free.",
-              "engagement": "75K views",
-              "views": 75254
-            },
-            {
-              "label": "Independent",
-              "handle": "Osint613",
-              "url": "https://x.com/Osint613/status/2059519170346140078",
-              "body": "IDF footage shows the elimination of a Hezbollah drone operator in southern Lebanon.",
-              "engagement": "133K views",
-              "views": 133111
-            }
-          ]
         }
       ]
     },
     "usa": {
       "stories": [
+        {
+          "headline": "White House teases major announcement with 'Loading\u2026 tonight' post",
+          "url": "https://x.com/WhiteHouse/status/2060107136148091190",
+          "handle": "WhiteHouse",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "WhiteHouse",
+              "url": "https://x.com/WhiteHouse/status/2060107136148091190",
+              "body": "Loading\u2026 tonight. \ud83d\udc40",
+              "engagement": "34K likes",
+              "views": 4733144
+            },
+            {
+              "label": "Conservative",
+              "handle": "WhiteHouse",
+              "url": "https://x.com/WhiteHouse/status/2060013820139942309",
+              "body": "Are you listening? \ud83d\udd0a",
+              "engagement": "17K likes",
+              "views": 3970327
+            },
+            {
+              "label": "Independent",
+              "handle": "BernieSanders",
+              "url": "https://x.com/BernieSanders/status/2060110413849571515",
+              "body": "Elon Musk: \u201cAI and robots will replace all jobs.\u201d Mustafa Suleyman, Microsoft: Most white-collar work \u201cwill be fully automated\" in 12-18 months. Dario Amodei, Anthropic: AI is a \u201cgeneral labor substitute for humans.\u201d Congress must act NOW to protect American workers.",
+              "engagement": "7.5K likes",
+              "views": 520413
+            }
+          ]
+        },
         {
           "headline": "Trump administration pushes $250 bill with president's portrait on currency",
           "url": "https://x.com/washingtonpost/status/2059957879180824873",
@@ -91,56 +99,33 @@
           ]
         },
         {
-          "headline": "ICE agent in Newark stands guard with Rolex and 'We The People' tattoo amid threats",
-          "url": "https://x.com/elaadeliahu/status/2060021602985660899",
-          "handle": "elaadeliahu",
+          "headline": "California announces 100% tax on payments from Trump Jan. 6 slush fund",
+          "url": "https://x.com/GovPressOffice/status/2059748423973396584",
+          "handle": "GovPressOffice",
           "perspectives": [
             {
-              "label": "Conservative",
-              "handle": "elaadeliahu",
-              "url": "https://x.com/elaadeliahu/status/2060021602985660899",
-              "body": "ICE agent standing guard at Delaney Hall sports a Hulk green Rolex Submariner over his \u201cWe The People\u201d tattoo",
-              "engagement": "2.8M views",
-              "views": 2797988
-            },
-            {
-              "label": "Conservative",
-              "handle": "EricLDaugh",
-              "url": "https://x.com/EricLDaugh/status/2060053966965055828",
-              "body": "\ud83d\udea8 UPDATE: BASED ICE agent is angering leftists in Newark by standing there, unfazed, with a green Rolex Submariner over a WE THE PEOPLE tattoo",
-              "engagement": "341K views",
-              "views": 341320
-            }
-          ]
-        },
-        {
-          "headline": "US and Iran reach ceasefire deal pending Trump's approval",
-          "url": "https://x.com/DeItaone/status/2060001725377847410",
-          "handle": "DeItaone",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "JesseBWatters",
-              "url": "https://x.com/JesseBWatters/status/2059799478534558136",
-              "body": "\ud83d\udea8 BREAKING: TRUMP JUST BOMBED IRAN AGAIN\u2026 HOLY SMOKES! \ud83d\udea8",
-              "engagement": "2.1M views",
-              "views": 2105908
+              "label": "Democrat",
+              "handle": "GovPressOffice",
+              "url": "https://x.com/GovPressOffice/status/2059748423973396584",
+              "body": "BREAKING: California will impose a 100% tax on payments distributed from Trump\u2019s Jan. 6th \u201cslush fund.\u201d",
+              "engagement": "112K likes",
+              "views": 6167825
             },
             {
               "label": "Independent",
-              "handle": "DeItaone",
-              "url": "https://x.com/DeItaone/status/2060001725377847410",
-              "body": "\ud83d\udea8 U.S. AND IRAN REACH DEAL BUT NEED TRUMP'S FINAL APPROVAL, OFFICIALS SAY -AXIOS",
-              "engagement": "329K views",
-              "views": 328899
+              "handle": "MacFarlaneNews",
+              "url": "https://x.com/MacFarlaneNews/status/2059752675722338392",
+              "body": "There were many, many Jan 6 defendants from California, including one convicted of high-level charge of conspiracy Gov Newsom is pledging to tax any slush fund payouts at 100% in his state",
+              "engagement": "2.3K likes",
+              "views": 45774
             },
             {
-              "label": "Democrat",
-              "handle": "krassenstein",
-              "url": "https://x.com/krassenstein/status/2060014779524423833",
-              "body": "Todd Blanche is covering up rape while criminally investigating a woman who won $80 million because the President (his former client) raped her. History will remember this man as an evil, corrupt piece of shit",
-              "engagement": "37K views",
-              "views": 37058
+              "label": "Conservative",
+              "handle": "YourAnonNews",
+              "url": "https://x.com/YourAnonNews/status/2059995263494738202",
+              "body": "California will impose a 100% tax on payments distributed from Trump\u2019s Jan. 6th terrorist support \u201cslush fund.\u201d",
+              "engagement": "1.3K likes",
+              "views": 65151
             }
           ]
         }
@@ -148,6 +133,14 @@
     },
     "business": {
       "stories": [
+        {
+          "handle": "AnthropicAI",
+          "url": "https://x.com/AnthropicAI/status/2060061347522433422",
+          "headline": "Anthropic raises $65B in Series H at $965B valuation.",
+          "body": "We've raised $65 billion in Series H funding at a $965 billion post-money valuation, led by @AltimeterCap, Dragoneer, @Greenoaks, and @sequoia.\n\nThis investment will help us advance our research and expand our capacity to meet growing demand for Claude.",
+          "engagement": "5.5M views",
+          "views": 5466109
+        },
         {
           "handle": "KobeissiLetter",
           "url": "https://x.com/KobeissiLetter/status/2060120168286584980",
@@ -163,14 +156,6 @@
           "body": "BREAKING: Dell stock, $DELL, surges nearly +30% after reporting stronger than expected earnings due to AI.",
           "engagement": "488K views",
           "views": 487505
-        },
-        {
-          "handle": "WatcherGuru",
-          "url": "https://x.com/WatcherGuru/status/2060244571733250458",
-          "headline": "SEC grants Paxos approval as first blockchain-native clearing agency",
-          "body": "JUST IN: \ud83c\uddfa\ud83c\uddf8 SEC grants first blockchain-native company 'Paxos' approval to clear and settle securities transactions.",
-          "engagement": "74288 views",
-          "views": 74288
         }
       ]
     },
@@ -205,28 +190,28 @@
     "msm": {
       "stories": [
         {
-          "handle": "washingtonpost",
-          "url": "https://x.com/washingtonpost/status/2059957879180824873",
-          "headline": "Trump administration pushes for $250 bill with president's portrait",
-          "body": "Breaking news: Trump administration officials have pressed the Bureau of Engraving and Printing to design a $250 bill featuring the president\u2019s portrait, in what would be the first appearance of a living person on U.S. currency in more than 150 years. https://www.washingtonpost.com/investigations/2026/05/28/trump-250-bill-pushed-by-treasury-appointees/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
-          "engagement": "4.8M views",
-          "views": 4767950
+          "handle": "nytimes",
+          "url": "https://x.com/nytimes/status/2060313530306301959",
+          "headline": "Fire on maintenance train at Penn Station injures five and disrupts NYC rail service",
+          "body": "Breaking News: A fire on a maintenance train in Penn Station has injured five people and disrupted rail service for the Friday commute. https://www.nytimes.com/2026/05/29/nyregion/penn-station-fire-amtrak-nyc-nj-transit.html?smtyp=cur&smid=tw-nytimes",
+          "engagement": "30K views",
+          "views": 30214
         },
         {
-          "handle": "nytimes",
-          "url": "https://x.com/nytimes/status/2060190578290122886",
-          "headline": "Blue Origin rocket explodes on launchpad during Florida test",
-          "body": "Breaking News: A rocket built by Blue Origin, the Jeff Bezos-owned space company, blew up on the launchpad during a test in Florida. The failure is a setback for several missions. https://www.nytimes.com/2026/05/28/science/blue-origin-explosion-rocket.html?smid=tw-nytimes&smtyp=cur",
-          "engagement": "51.7K views",
-          "views": 51706
+          "handle": "AP",
+          "url": "https://x.com/AP/status/2060307716359196967",
+          "headline": "Treasury Secretary Bessent confirms limited steps toward a $250 bill featuring Donald Trump",
+          "body": "Treasury Secretary Bessent confirms limited steps toward a $250 bill featuring Donald Trump https://apnews.com/article/donald-trump-250-bill-c48e35fd945fe7983c7481b2fbd6416c?taid=6a196ab416ca9c0001d599f9&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
+          "engagement": "26K views",
+          "views": 26467
         },
         {
           "handle": "WSJ",
-          "url": "https://x.com/WSJ/status/2060186883141878185",
-          "headline": "Vladimir Putin pursues $26 billion longevity quest involving pig organs.",
-          "body": "Vladimir Putin is on a $26 billion quest for immortality\u2014and it involves harvesting human organs from tiny pigs https://www.wsj.com/world/russia/putin-longevity-antiaging-92dee6e8?mod=e2tw",
-          "engagement": "48.9K views",
-          "views": 48936
+          "url": "https://x.com/WSJ/status/2060296791627591815",
+          "headline": "Tiny paperwork error that cost two cousins a $665,000 tax deduction",
+          "body": "The tiny paperwork error that cost two cousins a $665,000 tax deduction https://www.wsj.com/personal-finance/taxes/how-to-avoid-the-tiny-blunder-that-cost-two-donors-a-665-000-tax-deduction-ab5aa643?mod=e2tw",
+          "engagement": "17K views",
+          "views": 17323
         }
       ]
     },
@@ -269,20 +254,20 @@
           "views": 33609065
         },
         {
-          "handle": "nicksortor",
-          "url": "https://x.com/nicksortor/status/2060170321383059562",
-          "headline": "Nick Sortor posts video of Jeff Bezos' New Glenn rocket exploding, notes Elon Musk's response",
-          "body": "\ud83d\udea8 JUST NOW: Jeff Bezos\u2019 New Glenn rocket has EXPLODED into a MASSIVE fireball on the launchpad at Cape Canaveral in Florida\n\nIt literally looks like a NUCLEAR BOMB went off.\n\n@ElonMusk responded: \u201cMost unfortunate. Rockets are hard.\u201d\n\nInsane to watch.",
-          "engagement": "1.8M views",
-          "views": 1808802
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2060266691418849346",
+          "headline": "Elon Musk reacts with laughter to a video about AI file renaming.",
+          "body": "\ud83d\ude02",
+          "engagement": "8.1M views",
+          "views": 8103129
         },
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2060168861992022339",
-          "headline": "Elon Musk comments on recent rocket incident",
-          "body": "Most unfortunate. Rockets are hard.",
-          "engagement": "810K views",
-          "views": 810496
+          "url": "https://x.com/elonmusk/status/2060269907271438452",
+          "headline": "Elon Musk agrees with a satirical Babylon Bee post.",
+          "body": "Pretty much \ud83d\ude02\nhttps://grok.com/share/bGVnYWN5_30c6e4d3-7465-4d20-a0a6-273f662301df",
+          "engagement": "5.0M views",
+          "views": 5026445
         }
       ]
     },
@@ -299,18 +284,18 @@
         {
           "handle": "joerogan",
           "url": "https://x.com/joerogan/status/2060133047157088526",
-          "headline": "Joe Rogan shares thoughts on recent podcast with NASA astrophysicist Michelle Thaller about space and time.",
+          "headline": "Joe Rogan praises recent podcast conversation with NASA astrophysicist on space and time.",
           "body": "This was one of the most interesting conversations I\u2019ve had in a while. \n Michelle Thaller a wealth of fascinating information about space, time and all things the cosmos.  And she\u2019s an incredibly compelling speaker.  These kinds of podcasts are some of my favorites",
-          "engagement": "1.5M views",
-          "views": 1560382
+          "engagement": "1.8M views",
+          "views": 1769867
         },
         {
           "handle": "JoeRoganRecaps",
           "url": "https://x.com/JoeRoganRecaps/status/2060135115825779039",
-          "headline": "Joe Rogan reacts to NASA astrophysicist explaining quantum entanglement for alien travel.",
-          "body": "Joe Rogan speechless after learning from NASA astrophysicist Michelle Thaller that aliens use \u201cQuantum Entanglement\u201d to travel instantaneously:\n\nTHALLER: \u201cI don\u2019t want your listeners to think I\u2019m saying something stupid.\u201d\n\nROGAN: \u201cIt\u2019s not stupid. Quantum entanglement just means two things can be connected regardless of the physical distance apart.\u201d\n\nTHALLER: \u201cIt\u2019s real. Space and time don\u2019t matter. Aliens would be able to respond to each other instantaneously because they\u2019re entangled.\u201d\n\nROGAN: \u201cThis is so bananas. So then what are humans entangled to?\u201d\n\nTHALLER: \u201cIf humans all came from The Big Bang does that mean we\u2019re connected to everything in the universe in some way?\u201d\n\nROGAN: \u201cYou think this is how some super advanced intelligent life form would travel?\u201d\n\nTHALLER: \u201cIt would make a lot more sense than using a spaceship.\u201d",
-          "engagement": "387K views",
-          "views": 387384
+          "headline": "Clip of Joe Rogan discussing quantum entanglement and alien travel with NASA scientist.",
+          "body": "Joe Rogan speechless after learning from NASA astrophysicist Michelle Thaller that aliens use \u201cQuantum Entanglement\u201d to travel instantaneously:\n\nTHALLER: \u201cI don\u2019t want your listeners to think I\u2019m saying something stupid.\u201d\n\nROGAN: \u201cIt\u2019s not stupid. Quantum entanglement just means two things can be connected regardless of the physical distance apart.\u201d\n\nTHALLER: \u201cIt\u2019s real. Space and time don\u2019t matter. Aliens would be able to respond to each other instantaneously because they\u2019re entangled.\u201d\n\nROGAN: \u201cThis is so bananas. So then what are humans entangled to?\u201d\n\nTHALLER: \u201cIf humans all came from The Big Bang does that mean we\u2019re connected to everything in the universe in some way?\u201d\n\nROGAN: \u201cYou think this is how some super advanced intelligent life form would travel?\u201d\n\nTHALLER: \u201cIt would make a lot more sense than using a spaceship.\"",
+          "engagement": "875K views",
+          "views": 875262
         }
       ]
     },
@@ -345,14 +330,6 @@
     "recipe": {
       "stories": [
         {
-          "handle": "fashionpressnet",
-          "url": "https://x.com/fashionpressnet/status/2060262388235178070",
-          "headline": "10-color non-alcoholic cocktail dinner buffet at Regal Royal Hotel Kyoto.",
-          "body": "10\u8272\u306e\u201c\u63a8\u3057\u8272\u201d\u30ce\u30f3\u30a2\u30eb\u30ab\u30af\u30c6\u30eb\u3068\u697d\u3057\u3080\u30c7\u30a3\u30ca\u30fc\u30d3\u30e5\u30c3\u30d5\u30a7\u3001\u30ea\u30fc\u30ac\u30ed\u30a4\u30e4\u30eb\u30db\u30c6\u30eb\u4eac\u90fd\u3067 - https://www.fashion-press.net/news/146880",
-          "engagement": "24K views",
-          "views": 23707
-        },
-        {
           "handle": "ore825",
           "url": "https://x.com/ore825/status/2060203138938962037",
           "headline": "Recipe for generic version of Yamaoka-ya soy ramen ready in 15 minutes.",
@@ -361,12 +338,20 @@
           "views": 178850
         },
         {
-          "handle": "akari_hasegawa",
-          "url": "https://x.com/akari_hasegawa/status/2059933519976317329",
-          "headline": "Popular Japanese chef shares video of unique meatball and vegetable mixed rice recipe.",
-          "body": "\u9577\u8c37\u5ddd\u7206\u88c2\u30d2\u30c3\u30c8\u30ec\u30b7\u30d4\u306e\u3046\u3061\u306e\u3072\u3068\u3064\u3001\u307d\u3044\u307d\u3044\u3064\u304f\u306d\u3068\u3057\u3083\u304d\u3057\u3083\u304d\u91ce\u83dc\u306e\u307e\u305c\u3054\u306f\u3093\u306e\u52d5\u753b\u3092\u516c\u958b\u3057\u307e\u3057\u305f\u3002\u3069\u3093\u306a\u6599\u7406\uff1f\u3068\u805e\u304b\u308c\u3066\u3082\u3001\u307d\u3044\u307d\u3044\u3064\u304f\u306d\u3001\u3068\u3044\u3057\u304b\u8a00\u3044\u3088\u3046\u304c\u306a\u3044\u552f\u4e00\u7121\u4e8c\u306e\u30ec\u30b7\u30d4\u3002\u81ea\u5206\u306e\u305f\u3081\u306b\u91ce\u83dc\u3092\u523b\u3080\u6642\u9593\u3054\u3068\u697d\u3057\u3093\u3067\u3082\u3089\u3048\u305f\u3089\u3068\u601d\u3044\u307e\u3059\u3002\nhttps://www.youtube.com/watch?si=sZ_fAbH7-pe1VhT6&v=xbxNWKrrdSk&feature=youtu.be",
-          "engagement": "504K views",
-          "views": 504184
+          "handle": "kewpie_official",
+          "url": "https://x.com/kewpie_official/status/2060289012741648787",
+          "headline": "Kewpie shares pork-wrapped thick fried tofu recipe",
+          "body": "\u304a\u624b\u3054\u308d\u4fa1\u683c\u304c\u3046\u308c\u3057\u3044\u539a\u63da\u3052\u306f\u3001\u8c5a\u30d0\u30e9\u5dfb\u304d\u306b\ud83d\ude0b\u7518\u8f9b\u3060\u308c\u3067\u3054\u98ef\u304c\u9032\u3080\u4e00\u54c1\u3067\u3059\uff01\n\n\u3010\u4f5c\u308a\u65b9\u3011\n6\u7b49\u5206\u306b\u3057\u305f\u539a\u63da\u3052\u306b\u3001\u534a\u5206\u306b\u5207\u3063\u305f\u8c5a\u3070\u3089\u8089\u3092\u5dfb\u3044\u3066\u5869\u30fb\u3053\u3057\u3087\u3046\u3001\u7247\u6817\u7c89\u3092\u3075\u308b\u3002\u30d5\u30e9\u30a4\u30d1\u30f3\u306b\u30de\u30e8\u30cd\u30fc\u30ba\u3092\u3072\u3044\u3066\u3053\u3093\u304c\u308a\u3068\u713c\u304f\u3002\u706b\u304c\u901a\u3063\u305f\u3089\u307f\u308a\u3093\u30fb\u3057\u3087\u3046\u3086\u30fb\u9152\u30fb\u7802\u7cd6\u3092\u52a0\u3048\u3066\u7167\u308a\u304c\u51fa\u308b\u307e\u3067\u716e\u304b\u3089\u3081\u3066\u5b8c\u6210\u3002",
+          "engagement": "17.6K views",
+          "views": 17600
+        },
+        {
+          "handle": "abazwhyllzz",
+          "url": "https://x.com/abazwhyllzz/status/2060317524881821989",
+          "headline": "User shares cheap jollof rice and egusi soup recipe",
+          "body": "E get how you go broke reach you go come sabi cook,you fit use 200 naira cook jollof rice and egusi soup",
+          "engagement": "2.7K views",
+          "views": 2732
         }
       ]
     },
@@ -445,17 +430,25 @@
           "views": 25768
         },
         {
-          "handle": "GenXKappy",
-          "url": "https://x.com/GenXKappy/status/2059909481505427870",
-          "headline": "Video claims to debunk or present the 'Jews did 9/11' conspiracy theory",
-          "body": "The entire Jews did 9/11 \u201cconspiracy\u201d in 32 minutes",
-          "engagement": "47K views",
-          "views": 47469
+          "handle": "OANASA_X_",
+          "url": "https://x.com/OANASA_X_/status/2059990575672348922",
+          "headline": "Discussion of Eisenhower meeting extraterrestrials and alien treaty theory.",
+          "body": "Did Eisenhower Secretly Meet Extraterrestrials? \ud83d\ude31\ud83d\udef8\ud83d\udc7d Alien Treaty Conspiracy Theory",
+          "engagement": "30K views",
+          "views": 30667
         }
       ]
     },
     "comedy": {
       "stories": [
+        {
+          "handle": "genshin_meme_jp",
+          "url": "https://x.com/genshin_meme_jp/status/2060209537823445115",
+          "headline": "Genshin Impact missed call meme",
+          "body": "\u4e0d\u5728\u7740\u4fe1 #\u539f\u795e \nby Ulthwe_Eldar",
+          "engagement": "334K views",
+          "views": 334539
+        },
         {
           "handle": "joujinakata123",
           "url": "https://x.com/joujinakata123/status/2060224093597978945",
@@ -471,17 +464,9 @@
           "body": "ser\u00e1 este el meme mas conocido de the office? o cual es?",
           "engagement": "147K views",
           "views": 147568
-        },
-        {
-          "handle": "TheRicanMemes",
-          "url": "https://x.com/TheRicanMemes/status/2060035087681372282",
-          "headline": "Birthday meme celebrating Marco Rubio",
-          "body": "Happy Birthday to the best Secretary of State ever and creator of the greatest meme template of 2026 Marco Rubio \ud83e\udd73\ud83c\udf88\ud83c\udf81",
-          "engagement": "102K views",
-          "views": 102434
         }
       ]
     }
   },
-  "last_updated": "2026-05-29T07:57:37.698936"
+  "last_updated": "2026-05-29T11:35:38.185271"
 }
