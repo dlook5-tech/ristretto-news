@@ -3,6 +3,44 @@
     "world": {
       "stories": [
         {
+          "headline": "Knifeman shouting 'Allahu Akbar' stabs four at Switzerland train station in front of terrified children",
+          "url": "https://x.com/nypost/status/2059927516073041932",
+          "handle": "nypost",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "libsoftiktok",
+              "url": "https://x.com/libsoftiktok/status/2060012855445876762",
+              "body": "BREAKING: Man shouting \u201cAllahu Akbar\u201d stabbed three people at a train station in Switzerland in front of a class of children\n\nPolice are saying his motive is unknown\n\nGee what could his motive possibly be?!",
+              "engagement": "175K views",
+              "views": 175286
+            },
+            {
+              "label": "Independent",
+              "handle": "nypost",
+              "url": "https://x.com/nypost/status/2059927516073041932",
+              "body": "Four stabbed by knifeman shouting 'Allahu Akbar' at Switzerland train station in front of terrified children",
+              "engagement": "2.3M views",
+              "views": 2393165
+            }
+          ]
+        },
+        {
+          "headline": "Hampshire Police apologise for arresting Henry Nowak as he died in street",
+          "url": "https://x.com/BasilTheGreat/status/2060012855445876762",
+          "handle": "BasilTheGreat",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "BasilTheGreat",
+              "url": "https://x.com/BasilTheGreat/status/2060012855445876762",
+              "body": "\ud83d\udea8BREAKING: HAMPSHIRE POLICE APOLOGISE FOR ARRESTING HENRY NOWAK AS HE DIED IN STREET\n\nRobert France, temporary deputy chief constable for Hampshire Police has said he's \"sorry\" his officers arrested Henry in the moments before he died\n\nNOT GOOD ENOUGH\nThey must pay for their crimes",
+              "engagement": "815K views",
+              "views": 815751
+            }
+          ]
+        },
+        {
           "headline": "Israel says it is preparing for war with Egypt and Turkey",
           "url": "https://x.com/World_Affairs11/status/2059899720622031165",
           "handle": "World_Affairs11",
@@ -104,32 +142,48 @@
       "stories": [
         {
           "handle": "KobeissiLetter",
+          "url": "https://x.com/KobeissiLetter/status/2060120168286584980",
+          "headline": "Dell stock surges 80% after Trump buy call and $9.7B Pentagon contract win",
+          "body": "President Trump is undefeated in the stock market.\n\nOn May 8th, President Trump told everyone to \"go out and buy a Dell.\"\n\n19 days later, on May 27th, Dell was awarded a $9.7B contract with the US Pentagon.\n\nToday, Dell, $DELL, reported stronger than expected earnings and the stock surged +30%.\n\nDell's stock is now up +80% since May 8th, adding +$120 BILLION in market cap.\n\nTruly unprecedented.",
+          "engagement": "589K views",
+          "views": 589218
+        },
+        {
+          "handle": "KobeissiLetter",
           "url": "https://x.com/KobeissiLetter/status/2060109028219342974",
-          "headline": "Dell stock surges nearly 30% on strong AI-driven earnings",
+          "headline": "Dell stock surges nearly 30% on stronger-than-expected AI-driven earnings",
           "body": "BREAKING: Dell stock, $DELL, surges nearly +30% after reporting stronger than expected earnings due to AI.",
-          "engagement": "91K views",
-          "views": 91988
+          "engagement": "488K views",
+          "views": 487505
         },
         {
-          "handle": "zerohedge",
-          "url": "https://x.com/zerohedge/status/2060073651844633015",
-          "headline": "WTF chart of the day shows concerning market trend",
-          "body": "WTF Chart Of The Day: This Won't End Well https://www.zerohedge.com/markets/wtf-chart-day-wont-end-well",
-          "engagement": "133K views",
-          "views": 133967
-        },
-        {
-          "handle": "unusual_whales",
-          "url": "https://x.com/unusual_whales/status/2059987302257213779",
-          "headline": "Microsoft AI chief predicts white-collar automation in 18 months",
-          "body": "\"Microsoft, $MSFT, AI chief gives 18 months for all white-collar work to be automated by AI,\" per FORTUNE.",
-          "engagement": "317K views",
-          "views": 317513
+          "handle": "KobeissiLetter",
+          "url": "https://x.com/KobeissiLetter/status/2060089513976688705",
+          "headline": "S&P 500 closes at record high, on pace for 9-week winning streak",
+          "body": "BREAKING: The S&P 500 closes at its highest level on record, now on track for a 9-week win streak.",
+          "engagement": "241K views",
+          "views": 240893
         }
       ]
     },
     "top": {
       "stories": [
+        {
+          "handle": "WhiteHouse",
+          "url": "https://x.com/WhiteHouse/status/2060127126611718214",
+          "headline": "They walk among us.",
+          "body": "They walk among us. \n\nhttps://www.whitehouse.gov/aliens/",
+          "engagement": "6.7M views",
+          "views": 6758170
+        },
+        {
+          "handle": "SpaceflightNow",
+          "url": "https://x.com/SpaceflightNow/status/2060170680604168319",
+          "headline": "Video of the explosion at Launch Complex 36.",
+          "body": "Here's our video of the explosion at Launch Complex 36. It happened about 9 pm ET (0100 UTC) as Blue Origin was beginning a static fire test of its New Glenn rocket.\n\nWatch live views: https://www.youtube.com/watch?v=thfYPsRqxmw",
+          "engagement": "1.9M views",
+          "views": 1988258
+        },
         {
           "handle": "AlNassrFC",
           "url": "https://x.com/AlNassrFC/status/2060035485989257324",
@@ -137,22 +191,6 @@
           "body": "\" \u062d\u0640\u0640\u0644\u0627\u0644\u064c \" \u062a\u064e\u0639\u0650\u0640\u0628 \u0627\u0644\u0631\u062c\u0640\u0627\u0644 \u0645\u0646 \u0623\u062c\u0644\u0640\u0647 .. \u062d\u062a\u0649 \u062d\u0642\u0642\u0640\u0648\u0647 \u0628\u062c\u0647\u0648\u062f\u0647\u0645 \u0648\u0639\u0631\u0642 \u062c\u0628\u064a\u0646\u0647\u0645 \" \u0645\u0646 \u0627\u0644\u0645\u0644\u0639\u0640\u0628 \" \ud83d\udc9b",
           "engagement": "1.3M views",
           "views": 1258643
-        },
-        {
-          "handle": "tomita_nanaka",
-          "url": "https://x.com/tomita_nanaka/status/2059968610731516089",
-          "headline": "Idol shares funny video reaction in Japanese.",
-          "body": "\u3078\u3093\u3060\u3088\ud83d\udc76\u30aa\u30e2\u30ed\u3059\u304e\uff01\uff01\uff01\uff01",
-          "engagement": "668K views",
-          "views": 668830
-        },
-        {
-          "handle": "DiscussingFilm",
-          "url": "https://x.com/DiscussingFilm/status/2060020264516174138",
-          "headline": "First trailer for the stop-motion film 'I AM FRANKELDA' releasing on Netflix.",
-          "body": "First trailer for \u2018I AM FRANKELDA\u2019, the first-ever stop-motion film made in Mexico.\n\nThe film follows a writer who is taken to another realm to help write nightmares to keep monsters alive.\n\nReleasing June 12 on Netflix.",
-          "engagement": "583K views",
-          "views": 583390
         }
       ]
     },
@@ -167,20 +205,20 @@
           "views": 4767950
         },
         {
-          "handle": "Reuters",
-          "url": "https://x.com/Reuters/status/2059967935444328710",
-          "headline": "Albino buffalo nicknamed 'Donald Trump' spared from sacrifice",
-          "body": "A rare albino buffalo in Bangladesh \u2014 nicknamed 'Donald Trump' for its distinctive blond tuft \u2014 has been spared from the Eid al-Adha sacrifice after a last-minute government intervention, and relocated to the capital\u2019s main zoo https://www.reuters.com/world/asia-pacific/viral-fame-spares-donald-trump-buffalo-eid-sacrifice-bangladesh-2026-05-27/?utm_medium=Social&utm_source=Facebook",
-          "engagement": "514K views",
-          "views": 514159
+          "handle": "nytimes",
+          "url": "https://x.com/nytimes/status/2060190578290122886",
+          "headline": "Blue Origin rocket explodes on launchpad during Florida test",
+          "body": "Breaking News: A rocket built by Blue Origin, the Jeff Bezos-owned space company, blew up on the launchpad during a test in Florida. The failure is a setback for several missions. https://www.nytimes.com/2026/05/28/science/blue-origin-explosion-rocket.html?smid=tw-nytimes&smtyp=cur",
+          "engagement": "51.7K views",
+          "views": 51706
         },
         {
-          "handle": "CNN",
-          "url": "https://x.com/CNN/status/2059776775782109554",
-          "headline": "Justice Department launches criminal investigation into E. Jean Carroll",
-          "body": "The Justice Department has launched a criminal investigation into E. Jean Carroll, who accused Trump of sexual assault, according to sources https://www.cnn.com/2026/05/27/politics/exclusive-justice-department-launched-e-jean-carroll-investigation?Date=20260527&Profile=CNN&utm_content=1779924016&utm_medium=social&utm_source=twitter",
-          "engagement": "1M views",
-          "views": 1035447
+          "handle": "AP",
+          "url": "https://x.com/AP/status/2060194462198911478",
+          "headline": "Blue Origin rocket explodes during Cape Canaveral test, shaking homes",
+          "body": "A Blue Origin rocket has exploded during a test at the launch pad, shaking nearby homes and briefly painting the sky orange. https://apnews.com/article/blue-origin-rocket-explosion-bezos-ecdb38828fac02e3a33cc4fd4e61543e?taid=6a19013a4b8aea00012d6abc&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
+          "engagement": "23.2K views",
+          "views": 23167
         }
       ]
     },
@@ -217,10 +255,10 @@
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2060092313150611851",
-          "headline": "Elon Musk shares video of Cybercab driving out of GigaTexas factory.",
+          "headline": "Elon Musk posts video of Cybercab driving out of Giga Texas factory",
           "body": "Cybercab driving itself out of the GigaTexas factory",
-          "engagement": "5.8M views",
-          "views": 5794101
+          "engagement": "24.3M views",
+          "views": 24282189
         },
         {
           "handle": "elonmusk",
@@ -232,51 +270,51 @@
         },
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2059880289514696927",
-          "headline": "Elon Musk clarifies SpaceX lease terms with Anthropic.",
-          "body": "SpaceX has not committed to leasing Colossus for years, although it\u2019s possible that may be what happens.\n\nThis is a 180 day lease with 90 day notice mutual cancellation thereafter. The short term was our request, not Anthropic\u2019s. \n\nWe won\u2019t leave them hanging and will provide a reasonable off-ramp, but if compute gets super tight I said we might need it back at some point.",
-          "engagement": "231K views",
-          "views": 231062
+          "url": "https://x.com/elonmusk/status/2060168861992022339",
+          "headline": "Elon Musk comments on recent rocket incident",
+          "body": "Most unfortunate. Rockets are hard.",
+          "engagement": "810K views",
+          "views": 810496
         }
       ]
     },
     "pods": {
       "stories": [
         {
-          "handle": "joerogan",
-          "url": "https://x.com/joerogan/status/2060024595273424915",
-          "headline": "Joe Rogan promotes Tom Segura's Bad Thoughts season 2 on Netflix and new podcast episode.",
-          "body": "Bad thoughts season 2 from @tomsegura on @netflix is fucking hysterical.  It\u2019s available now, and we have a new episode of the podcast on @spotify and everywhere else that\u2019s out now too.\n\nhttps://open.spotify.com/episode/7lPfDiR4NVRtpHeMM8rfA4?si=xJdVZfcZSb-f_CkO96oBBQ",
-          "engagement": "132K views",
-          "views": 132025
-        },
-        {
-          "handle": "VigilantFox",
-          "url": "https://x.com/VigilantFox/status/2059879912085848220",
-          "headline": "Theo Von recounts humorous story about wetting the bed as an adult on podcast.",
-          "body": "THEO VON: \u201cSometimes I used to wet the bed and I would be an adult, which was the saddest part of it.\u201d\n\n\u201cThere were times when I was supposed to get up in the morning... then I would urinate all over my phone, and it would short out.\u201d\n\n\u201cAnd it would be like the best morning.\u201d",
-          "engagement": "250K views",
-          "views": 249989
+          "handle": "JoeRoganRecaps",
+          "url": "https://x.com/JoeRoganRecaps/status/2060061636518691263",
+          "headline": "Joe Rogan questions the reality of time in conversation with NASA astrophysicist.",
+          "body": "New: Joe Rogan leaves NASA astrophysicist Michelle Thaller completely stuck after asking her a deep question about the reality of time:\n\nROGAN: \u201cThe weirdest thing that I\u2019ve ever heard anybody say is that all time exists currently.\u201d\n\nTHALLER: \u201cThat\u2019s Albert Einstein.\u201d\n\nROGAN: \u201cWhen we measure time what exactly are we measuring? When we create a clock that runs 24 hours per day what is it measuring?\u201d\n\nTHALLER: \u201cThat\u2019s a deep question. That question caused everything in physics to fall apart.\u201d\n\nROGAN: \u201cI still don\u2019t understand what we\u2019re measuring.\u201d\n\nTHALLER: \u201cI don\u2019t think I have an answer for you. I don\u2019t think anybody does.\u201d",
+          "engagement": "3.1M views",
+          "views": 3059372
         },
         {
           "handle": "joerogan",
-          "url": "https://x.com/joerogan/status/2060023235505258546",
-          "headline": "Joe Rogan promotes Tom Segura's Bad Thoughts season 2 on Netflix and new podcast episode.",
-          "body": "@tomsegura\u2019s Bad thoughts season 2 on @netflix is fucking hysterical.  It\u2019s available now, and we have a new episode of the podcast on @spotify and everywhere else that\u2019s out now too.\n\nhttps://open.spotify.com/episode/7lPfDiR4NVRtpHeMM8rfA4?si=HyUPhb07SySOHP38eKuGpA",
-          "engagement": "79K views",
-          "views": 79259
+          "url": "https://x.com/joerogan/status/2060133047157088526",
+          "headline": "Joe Rogan shares thoughts on recent podcast with NASA astrophysicist Michelle Thaller.",
+          "body": "This was one of the most interesting conversations I\u2019ve had in a while. \n Michelle Thaller a wealth of fascinating information about space, time and all things the cosmos.  And she\u2019s an incredibly compelling speaker.  These kinds of podcasts are some of my favorites",
+          "engagement": "1.2M views",
+          "views": 1178089
+        },
+        {
+          "handle": "JoeRoganRecaps",
+          "url": "https://x.com/JoeRoganRecaps/status/2060135115825779039",
+          "headline": "Joe Rogan reacts to NASA astrophysicist explaining quantum entanglement for alien travel.",
+          "body": "Joe Rogan speechless after learning from NASA astrophysicist Michelle Thaller that aliens use \u201cQuantum Entanglement\u201d to travel instantaneously:\n\nTHALLER: \u201cI don\u2019t want your listeners to think I\u2019m saying something stupid.\u201d\n\nROGAN: \u201cIt\u2019s not stupid. Quantum entanglement just means two things can be connected regardless of the physical distance apart.\u201d\n\nTHALLER: \u201cIt\u2019s real. Space and time don\u2019t matter. Aliens would be able to respond to each other instantaneously because they\u2019re entangled.\u201d\n\nROGAN: \u201cThis is so bananas. So then what are humans entangled to?\u201d\n\nTHALLER: \u201cIf humans all came from The Big Bang does that mean we\u2019re connected to everything in the universe in some way?\u201d\n\nROGAN: \u201cYou think this is how some super advanced intelligent life form would travel?\u201d\n\nTHALLER: \u201cIt would make a lot more sense than using a spaceship.\u201d",
+          "engagement": "387K views",
+          "views": 387384
         }
       ]
     },
     "pg6": {
       "stories": [
         {
-          "handle": "DiscussingFilm",
-          "url": "https://x.com/DiscussingFilm/status/2060079691722002590",
-          "headline": "Nicolas Cage names Andrew Garfield as his favorite Spider-Man.",
-          "body": "Nicolas Cage says that Andrew Garfield is his favorite Spider-Man. \n\n\u201cIn my view, the best Spider-Man of cinema.\u201d\n\n(Source: @Complex)",
-          "engagement": "340K views",
-          "views": 340976
+          "handle": "PopBase",
+          "url": "https://x.com/PopBase/status/2060197411214282998",
+          "headline": "Man sentenced for planning attack on Taylor Swift's Eras Tour in Vienna.",
+          "body": "A 21-year-old man, (Beran A.), has been sentenced to 15 years in prison after admitting to planning an attack on Taylor Swift\u2019s Eras Tour show in Vienna.\n\nHis full name has not been shared due to Austrian privacy laws.",
+          "engagement": "220K views",
+          "views": 220536
         },
         {
           "handle": "DiscussingFilm",
@@ -288,24 +326,16 @@
         },
         {
           "handle": "DiscussingFilm",
-          "url": "https://x.com/DiscussingFilm/status/2060074953618186365",
-          "headline": "Rambo prequel movie set for June 2027 release with Noah Centineo and others.",
-          "body": "The \u2018RAMBO\u2019 prequel movie will release on June 4, 2027 in theaters.\n\n\u2022 Starring Noah Centineo, David Harbour and James Franco\n\n\u2022 Directed by Jalmari Helander (\u2018Sisu\u2019)",
-          "engagement": "181K views",
-          "views": 181459
+          "url": "https://x.com/DiscussingFilm/status/2060079691722002590",
+          "headline": "Nicolas Cage names Andrew Garfield as his favorite Spider-Man.",
+          "body": "Nicolas Cage says that Andrew Garfield is his favorite Spider-Man. \n\n\u201cIn my view, the best Spider-Man of cinema.\u201d\n\n(Source: @Complex)",
+          "engagement": "340K views",
+          "views": 340976
         }
       ]
     },
     "recipe": {
       "stories": [
-        {
-          "handle": "PopBase",
-          "url": "https://x.com/PopBase/status/2059850148486975709",
-          "headline": "Today is National Hamburger Day.",
-          "body": "Today is National Hamburger Day.",
-          "engagement": "2.3M views",
-          "views": 2318736
-        },
         {
           "handle": "akari_hasegawa",
           "url": "https://x.com/akari_hasegawa/status/2059933519976317329",
@@ -321,11 +351,27 @@
           "body": "\u65e5\u672c\u304c\u30a2\u30e1\u30ea\u30ab\u6599\u7406\u30d6\u30fc\u30e0\u3063\u3066\u3053\u3068\u3067\u300e\u30dd\u30c3\u30d7\u30aa\u30fc\u30d0\u30fc\u300f\u306e\u30ec\u30b7\u30d4\u3092\u6559\u3048\u3061\u3083\u3044\u307e\u3059\u3002\n\u30dd\u30c3\u30d7\u30aa\u30fc\u30d0\u30fc\u3068\u306f\u30b7\u30e5\u30fc\u30af\u30ea\u30fc\u30e0\u306e\n\u76ae\u306e\u3088\u3046\u306b\u4e2d\u304c\u7a7a\u6d1e\u3067\u767a\u9175\u304c\u4e0d\u8981\u306e\u5373\u5e2d\u3067\u4f5c\u308c\u308b\u30d1\u30f3\u3067\u3059\n\u6750\u6599\u306f\u57fa\u672c\u7684\u306b\u5c0f\u9ea6\u7c89\u30fb\u725b\u4e73\u30fb\u5375\u30fb\u5869\u3068\u30b7\u30f3\u30d7\u30eb\u3067\u3001\u5916\u306f\u30ab\u30ea\u30c3\u3068\u4e2d\u306f\u30e2\u30c1\u3063\u3068\u3057\u3066\u3044\u3066\u65e5\u672c\u4eba\u306f\u7d76\u5bfe\u597d\u304d\u306a\u30d1\u30f3\u3067\u3059\ud83c\udf5e",
           "engagement": "323K views",
           "views": 323095
+        },
+        {
+          "handle": "ArturGalata",
+          "url": "https://x.com/ArturGalata/status/2059922779076759888",
+          "headline": "User shares homemade meat and potato stew recipe with photos",
+          "body": "\u6211\u304c\u540d\u306f\u30a2\u30eb\u30c8\u30a5\u30eb\uff01\uff01\u65e5\u672c\u3092\u3053\u3088\u306a\u304f\u611b\u3059\u308b\u30e9\u30c8\u30d3\u30a2\u4eba\uff01\uff01\u934b\u306b\u3044\u3063\u3071\u3044\u306e\u8089\u3058\u3083\u304c\u3092\u5927\u91cf\u306b\u4f5c\u3063\u305f\u3041\u3041\u3041\uff01\uff01\u30b8\u30e3\u30ac\u30a4\u30e2\u3068\u4eba\u53c2\u306f\u5c11\u3057\u5927\u304d\u3081\u306b\u30ab\u30c3\u30c8\u3057\u3001\u98df\u611f\u3092\u697d\u3057\u3081\u308b\u3088\u3046\u306b\uff01\uff01\u7389\u306d\u304e\u306f\u7518\u307f\u3092\u51fa\u3059\u3088\u3046\u6700\u521d\u306b\u7092\u3081\uff01\uff01\u5b9a\u98df\u5c4b\u306b\u51fa\u3066\u304f\u308b\u3088\u3046\u306a\u6700\u9ad8\u306e\u4e00\u54c1\u306b\uff01\u7686\u69d8\u3001\u3069\u3046\u305e\u304a\u8912\u3081\u304f\u3060\u3055\u3044\u307e\u305b\uff01\uff01",
+          "engagement": "103K views",
+          "views": 102833
         }
       ]
     },
     "science": {
       "stories": [
+        {
+          "handle": "claudeai",
+          "url": "https://x.com/claudeai/status/2060042702150930686",
+          "headline": "Anthropic releases Claude Opus 4.8 AI model with improved capabilities.",
+          "body": "Introducing Claude Opus 4.8: it builds on Opus 4.7 with sharper judgment, more honesty about its own progress, and the ability to work independently for longer than its predecessors.\n\nAvailable today at the same price.",
+          "engagement": "10M views",
+          "views": 10035047
+        },
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2059877327535005821",
@@ -341,14 +387,6 @@
           "body": "Today Reactor is coming out of stealth. We\u2019ve raised $59M in Seed and Series A funding, led by @lightspeedvp, with participation from @AmplifyPartners, @wndrco, @Sky9Capital, and @FPVventures.\n\nReactor is the platform for building in the World Model era: the infrastructure that lets developers build with them at global scale for the first time. Stream from a frontier World Model to your app, in real time, all in under 10 lines of code.\n\nWorld Models represent the next major shift in AI: pixels, audio and actions are generated on the fly, in real-time, in response to user inputs, and to the environment. Every time computing has made a shift from passive to interactive, entire industries appeared that didn't exist before. We're standing in front of such moment again.\n\nOver the last 6 months, we\u2019ve assembled an all-star team with alumni from Apple, Meta, Google, Luma AI, Netflix, and Replicate. We're already partnering with some of the biggest names and labs in the world, and hundreds of developers are already building on Reactor.\n\nThe World Model era starts now.",
           "engagement": "2.07M views",
           "views": 2070170
-        },
-        {
-          "handle": "AnthropicAI",
-          "url": "https://x.com/AnthropicAI/status/2060061347522433422",
-          "headline": "Anthropic raises $65B at $965B valuation to advance Claude AI research.",
-          "body": "We've raised $65 billion in Series H funding at a $965 billion post-money valuation, led by @AltimeterCap, Dragoneer, @Greenoaks, and @sequoia.\n\nThis investment will help us advance our research and expand our capacity to meet growing demand for Claude.",
-          "engagement": "90.7K views",
-          "views": 90714
         }
       ]
     },
@@ -383,12 +421,12 @@
     "conspiracy": {
       "stories": [
         {
-          "handle": "iluminatibot",
-          "url": "https://x.com/iluminatibot/status/2059789245380796526",
-          "headline": "Panama Papers revealed global tax evasion conspiracy among elites.",
-          "body": "Never Forget: When the Panama Papers came out it revealed all the richest people in the world are part of an enormous conspiracy to dodge taxes and hoard stolen wealth in offshore accounts and nothing happened except a reporter working on the story was assassinated.",
-          "engagement": "239K views",
-          "views": 239223
+          "handle": "Ill1258303",
+          "url": "https://x.com/Ill1258303/status/2060157113498755391",
+          "headline": "UFO psyops distracting from Epstein files and targeting programs",
+          "body": "Don't let these UFO\npsyops distract you \nfrom the epstein files\nand the illegal Federal\n\"Targeting Individuals\" \nprograms exposed inside.\n\nHavana Syndrome. MKULTRA.",
+          "engagement": "6K views",
+          "views": 6084
         },
         {
           "handle": "NextUpHalperin",
@@ -411,12 +449,12 @@
     "comedy": {
       "stories": [
         {
-          "handle": "redditbutfunny",
-          "url": "https://x.com/redditbutfunny/status/2059794783871058028",
-          "headline": "Reddit meme screenshot shared",
-          "body": "https://t.co/QxiclwW54o",
-          "engagement": "680K views",
-          "views": 679918
+          "handle": "@Savsays",
+          "url": "https://x.com/Savsays/status/2060098742309568986",
+          "headline": "Watching Talarico attempt to be relatable to Texans will be hilarious",
+          "body": "Watching Talarico attempt to be, even the slightest bit relatable, to Texans for the next 6 months is going to be hilarious to watch. \n\nLet\u2019s just save everyone\u2019s time and make Paxton senator now.",
+          "engagement": "36.8K views",
+          "views": 36830
         },
         {
           "handle": "sucreyoongi",
@@ -425,9 +463,17 @@
           "body": "NOT THE THE OFFICE MEME SFJSKJFKSJFJD PLEASE SEOKJIN JUNGKOOK AND TAE ARE SO FUNNY",
           "engagement": "104K views",
           "views": 104379
+        },
+        {
+          "handle": "@rottedmedia",
+          "url": "https://x.com/rottedmedia/status/2060040070883692875",
+          "headline": "Swing swing swingaling reaction video meme",
+          "body": "swing swing swingaling reaction video meme",
+          "engagement": "28.1K views",
+          "views": 28122
         }
       ]
     }
   },
-  "last_updated": "2026-05-28T21:55:29.917487"
+  "last_updated": "2026-05-29T03:40:23.839726"
 }
