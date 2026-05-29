@@ -3,40 +3,56 @@
     "world": {
       "stories": [
         {
-          "headline": "Knifeman shouting 'Allahu Akbar' stabs four at Switzerland train station in front of terrified children",
-          "url": "https://x.com/nypost/status/2059927516073041932",
-          "handle": "nypost",
+          "headline": "Russian drone incursion strikes Romania injuring civilians",
+          "url": "https://x.com/vonderleyen/status/2060289371358515431",
+          "handle": "vonderleyen",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "libsoftiktok",
-              "url": "https://x.com/libsoftiktok/status/2060012855445876762",
-              "body": "BREAKING: Man shouting \u201cAllahu Akbar\u201d stabbed three people at a train station in Switzerland in front of a class of children\n\nPolice are saying his motive is unknown\n\nGee what could his motive possibly be?!",
-              "engagement": "175K views",
-              "views": 175286
+              "handle": "Tendar",
+              "url": "https://x.com/Tendar/status/2060340555784024096",
+              "body": "Ukrainian strike drones are so abundantly available that even when one drone misses the target there might be a second one which moments later finishes the job. This Russian supply truck you can strike from the list.",
+              "engagement": "41K views",
+              "views": 41974
             },
             {
               "label": "Independent",
-              "handle": "nypost",
-              "url": "https://x.com/nypost/status/2059927516073041932",
-              "body": "Four stabbed by knifeman shouting 'Allahu Akbar' at Switzerland train station in front of terrified children",
-              "engagement": "2.3M views",
-              "views": 2393165
+              "handle": "Polymarket",
+              "url": "https://x.com/Polymarket/status/2060340020322464060",
+              "body": "NEW: U.S. says it condemns Russia\u2019s reckless incursion in Romania & vows to \u201cdefend every inch of NATO territory.\u201d",
+              "engagement": "124K views",
+              "views": 124953
+            },
+            {
+              "label": "Democrat",
+              "handle": "Keir_Starmer",
+              "url": "https://x.com/Keir_Starmer/status/2060324935571021897",
+              "body": "Last night a Russian drone entered Romanian airspace and hit a residential building, injuring civilians. Time and again, Russia has shown it has no regard for civilian life, international law, or sovereignty of its neighbours. We stand with Ukraine, Romania and all NATO allies.",
+              "engagement": "475K views",
+              "views": 475469
             }
           ]
         },
         {
-          "headline": "Hampshire Police apologise for arresting Henry Nowak as he died in street",
-          "url": "https://x.com/BasilTheGreat/status/2060012855445876762",
-          "handle": "BasilTheGreat",
+          "headline": "Israeli airstrikes hit ancient city of Tyre in Lebanon",
+          "url": "https://x.com/AlexCrawfordSky/status/2060047412731806068",
+          "handle": "AlexCrawfordSky",
           "perspectives": [
             {
+              "label": "Independent",
+              "handle": "mehdirhasan",
+              "url": "https://x.com/mehdirhasan/status/2060094659381063695",
+              "body": "Barbarism from Israel. Again. And the world just watches.",
+              "engagement": "455K views",
+              "views": 455883
+            },
+            {
               "label": "Conservative",
-              "handle": "BasilTheGreat",
-              "url": "https://x.com/BasilTheGreat/status/2060012855445876762",
-              "body": "\ud83d\udea8BREAKING: HAMPSHIRE POLICE APOLOGISE FOR ARRESTING HENRY NOWAK AS HE DIED IN STREET\n\nRobert France, temporary deputy chief constable for Hampshire Police has said he's \"sorry\" his officers arrested Henry in the moments before he died\n\nNOT GOOD ENOUGH\nThey must pay for their crimes",
-              "engagement": "815K views",
-              "views": 815751
+              "handle": "SuppressedNws1",
+              "url": "https://x.com/SuppressedNws1/status/2059728249865769287",
+              "body": "Two videos circulating now. One of a child suffering severe burns and the other is a child having his torso entirely blown up and his internal organs dangling from his body. Both in one strike in Gaza City. This is what Israel is doing to Palestinians on the first day of Eid.",
+              "engagement": "129K views",
+              "views": 129584
             }
           ]
         }
@@ -44,6 +60,29 @@
     },
     "usa": {
       "stories": [
+        {
+          "headline": "President Trump convenes Situation Room meeting on Iran nuclear deal",
+          "url": "https://x.com/WhiteHouse/status/2060375230183333897",
+          "handle": "WhiteHouse",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "WhiteHouse",
+              "url": "https://x.com/WhiteHouse/status/2060375230183333897",
+              "body": "\"Iran must agree that they will never have a Nuclear Weapon or Bomb... I will be meeting now, in the Situation Room, to make a final determination.\" - President Donald J. Trump \ud83c\uddfa\ud83c\uddf8",
+              "engagement": "130K views",
+              "views": 130752
+            },
+            {
+              "label": "Conservative",
+              "handle": "FoxNews",
+              "url": "https://x.com/FoxNews/status/2060069581813629432",
+              "body": "BREAKING: Secretary Scott Bessent issues a stark warning to Iran, revealing the regime's leadership structure is in disarray and that President Trump's patience with the Islamic Republic is wearing thin. \"We are being patient. We do not have unlimited patience.\u201d",
+              "engagement": "181K views",
+              "views": 181757
+            }
+          ]
+        },
         {
           "headline": "White House teases major announcement with 'Loading\u2026 tonight' post",
           "url": "https://x.com/WhiteHouse/status/2060107136148091190",
@@ -97,37 +136,6 @@
               "views": 688
             }
           ]
-        },
-        {
-          "headline": "California announces 100% tax on payments from Trump Jan. 6 slush fund",
-          "url": "https://x.com/GovPressOffice/status/2059748423973396584",
-          "handle": "GovPressOffice",
-          "perspectives": [
-            {
-              "label": "Democrat",
-              "handle": "GovPressOffice",
-              "url": "https://x.com/GovPressOffice/status/2059748423973396584",
-              "body": "BREAKING: California will impose a 100% tax on payments distributed from Trump\u2019s Jan. 6th \u201cslush fund.\u201d",
-              "engagement": "112K likes",
-              "views": 6167825
-            },
-            {
-              "label": "Independent",
-              "handle": "MacFarlaneNews",
-              "url": "https://x.com/MacFarlaneNews/status/2059752675722338392",
-              "body": "There were many, many Jan 6 defendants from California, including one convicted of high-level charge of conspiracy Gov Newsom is pledging to tax any slush fund payouts at 100% in his state",
-              "engagement": "2.3K likes",
-              "views": 45774
-            },
-            {
-              "label": "Conservative",
-              "handle": "YourAnonNews",
-              "url": "https://x.com/YourAnonNews/status/2059995263494738202",
-              "body": "California will impose a 100% tax on payments distributed from Trump\u2019s Jan. 6th terrorist support \u201cslush fund.\u201d",
-              "engagement": "1.3K likes",
-              "views": 65151
-            }
-          ]
         }
       ]
     },
@@ -142,20 +150,20 @@
           "views": 5466109
         },
         {
-          "handle": "KobeissiLetter",
-          "url": "https://x.com/KobeissiLetter/status/2060120168286584980",
-          "headline": "Dell stock surges 80% after Trump buy call and $9.7B Pentagon contract win",
-          "body": "President Trump is undefeated in the stock market.\n\nOn May 8th, President Trump told everyone to \"go out and buy a Dell.\"\n\n19 days later, on May 27th, Dell was awarded a $9.7B contract with the US Pentagon.\n\nToday, Dell, $DELL, reported stronger than expected earnings and the stock surged +30%.\n\nDell's stock is now up +80% since May 8th, adding +$120 BILLION in market cap.\n\nTruly unprecedented.",
-          "engagement": "589K views",
-          "views": 589218
+          "handle": "DefiWimar",
+          "url": "https://x.com/DefiWimar/status/2060276353463664687",
+          "headline": "Trump to sign executive order on Iran peace deal before markets close",
+          "body": "\ud83d\udea8 BREAKING\n\n\ud83c\uddfa\ud83c\uddf8 TRUMP WILL SIGN AN URGENT EXECUTIVE ORDER TODAY AT 3:30 PM ET, RIGHT BEFORE MARKETS CLOSE!\n\nHE NEVER SIGNS BEFORE MARKETS CLOSE UNLESS SOMETHING BULLISH IS HAPPENING.\n\nREPORTS EXPECT HIM TO OFFICIALLY SIGN THE PEACE MEMORANDUM WITH IRAN.\n\nTHIS WOULD BE REALLY GOOD FOR MARKETS...",
+          "engagement": "670K views",
+          "views": 669883
         },
         {
-          "handle": "KobeissiLetter",
-          "url": "https://x.com/KobeissiLetter/status/2060109028219342974",
-          "headline": "Dell stock surges nearly 30% on stronger-than-expected AI-driven earnings",
-          "body": "BREAKING: Dell stock, $DELL, surges nearly +30% after reporting stronger than expected earnings due to AI.",
-          "engagement": "488K views",
-          "views": 487505
+          "handle": "WatcherGuru",
+          "url": "https://x.com/WatcherGuru/status/2060353662178992132",
+          "headline": "Elon Musk denies reports of lowered SpaceX IPO valuation target",
+          "body": "JUST IN: Elon Musk says reports that SpaceX lowered its IPO valuation target are \"false.\"",
+          "engagement": "101K views",
+          "views": 101147
         }
       ]
     },
@@ -178,12 +186,12 @@
           "views": 1988258
         },
         {
-          "handle": "AlNassrFC",
-          "url": "https://x.com/AlNassrFC/status/2060035485989257324",
-          "headline": "Al Nassr club shares motivational video about hard work on the pitch.",
-          "body": "\" \u062d\u0640\u0640\u0644\u0627\u0644\u064c \" \u062a\u064e\u0639\u0650\u0640\u0628 \u0627\u0644\u0631\u062c\u0640\u0627\u0644 \u0645\u0646 \u0623\u062c\u0644\u0640\u0647 .. \u062d\u062a\u0649 \u062d\u0642\u0642\u0640\u0648\u0647 \u0628\u062c\u0647\u0648\u062f\u0647\u0645 \u0648\u0639\u0631\u0642 \u062c\u0628\u064a\u0646\u0647\u0645 \" \u0645\u0646 \u0627\u0644\u0645\u0644\u0639\u0640\u0628 \" \ud83d\udc9b",
-          "engagement": "1.3M views",
-          "views": 1258643
+          "handle": "SecWar",
+          "url": "https://x.com/SecWar/status/2060326777499841000",
+          "headline": "Secretary of War shares morning PT video with sailors and marines.",
+          "body": "No better way to start the day than morning PT with America\u2019s Sailors and Marines.\n\nThese warriors are the true backbone of America.",
+          "engagement": "241K views",
+          "views": 241003
         }
       ]
     },
@@ -191,27 +199,27 @@
       "stories": [
         {
           "handle": "nytimes",
+          "url": "https://x.com/nytimes/status/2060345944248402351",
+          "headline": "NYC Mayor Zohran Mamdani writes about Arsenal winning Premier League",
+          "body": "From @TheAthleticFC: Zohran Mamdani, the mayor of New York City and a long-time supporter of Arsenal, writes about what it means to see Arsenal win the Premier League trophy and his hopes for Saturday\u2019s Champions League final against Paris Saint-Germain.  https://www.nytimes.com/athletic/7315454/2026/05/29/arsenal-premier-league-zohran-mamdani/?smtyp=cur&smid=tw-nytimes",
+          "engagement": "147476 views",
+          "views": 147476
+        },
+        {
+          "handle": "nytimes",
           "url": "https://x.com/nytimes/status/2060313530306301959",
-          "headline": "Fire on maintenance train at Penn Station injures five and disrupts NYC rail service",
+          "headline": "Fire on maintenance train injures five at Penn Station",
           "body": "Breaking News: A fire on a maintenance train in Penn Station has injured five people and disrupted rail service for the Friday commute. https://www.nytimes.com/2026/05/29/nyregion/penn-station-fire-amtrak-nyc-nj-transit.html?smtyp=cur&smid=tw-nytimes",
-          "engagement": "30K views",
-          "views": 30214
+          "engagement": "82922 views",
+          "views": 82922
         },
         {
-          "handle": "AP",
-          "url": "https://x.com/AP/status/2060307716359196967",
-          "headline": "Treasury Secretary Bessent confirms limited steps toward a $250 bill featuring Donald Trump",
-          "body": "Treasury Secretary Bessent confirms limited steps toward a $250 bill featuring Donald Trump https://apnews.com/article/donald-trump-250-bill-c48e35fd945fe7983c7481b2fbd6416c?taid=6a196ab416ca9c0001d599f9&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
-          "engagement": "26K views",
-          "views": 26467
-        },
-        {
-          "handle": "WSJ",
-          "url": "https://x.com/WSJ/status/2060296791627591815",
-          "headline": "Tiny paperwork error that cost two cousins a $665,000 tax deduction",
-          "body": "The tiny paperwork error that cost two cousins a $665,000 tax deduction https://www.wsj.com/personal-finance/taxes/how-to-avoid-the-tiny-blunder-that-cost-two-donors-a-665-000-tax-deduction-ab5aa643?mod=e2tw",
-          "engagement": "17K views",
-          "views": 17323
+          "handle": "nytimes",
+          "url": "https://x.com/nytimes/status/2060190578290122886",
+          "headline": "Blue Origin rocket explodes on launchpad during test",
+          "body": "Breaking News: A rocket built by Blue Origin, the Jeff Bezos-owned space company, blew up on the launchpad during a test in Florida. The failure is a setback for several missions. https://www.nytimes.com/2026/05/28/science/blue-origin-explosion-rocket.html?smid=tw-nytimes&smtyp=cur",
+          "engagement": "160995 views",
+          "views": 160995
         }
       ]
     },
@@ -219,27 +227,27 @@
       "stories": [
         {
           "handle": "ShamsCharania",
+          "url": "https://x.com/ShamsCharania/status/2060341562572227063",
+          "headline": "Mitchell Robinson undergoes surgery on broken finger",
+          "body": "Mitchell Robinson has undergone surgery on his broken right pinky finger -- and fully plans to play in the New York Knicks' Game 1 of the NBA Finals against OKC or San Antonio next Wednesday while wearing a brace on his hand, sources tell ESPN.",
+          "engagement": "2.3M views",
+          "views": 2283699
+        },
+        {
+          "handle": "LegionHoops",
+          "url": "https://x.com/LegionHoops/status/2060168496944927074",
+          "headline": "Victor Wembanyama comments on hard fouls in NBA game",
+          "body": "Victor Wembanyama to Mason Plumlee in Game 5:\u201cHard fouls.\u201d\n(via @ShowCaseShabazz, h/t @Fullcourtpass)",
+          "engagement": "8.8M views",
+          "views": 8806145
+        },
+        {
+          "handle": "ShamsCharania",
           "url": "https://x.com/ShamsCharania/status/2060075536693477830",
           "headline": "NBA passes new anti-tanking rules expanding lottery and adding penalties",
           "body": "Breaking: The NBA's Board of Governors has passed new anti-tanking rules that include expanding the draft lottery from 14 to 16 teams, a relegation zone where the bottom 3 teams get penalized with lessened chances for the No. 1 pick, and flattened odds, sources tell ESPN.",
           "engagement": "5M views",
           "views": 5041774
-        },
-        {
-          "handle": "FabrizioRomano",
-          "url": "https://x.com/FabrizioRomano/status/2060074076668883147",
-          "headline": "Juli\u00e1n \u00c1lvarez informs Atl\u00e9tico of desire to leave with Barcelona priority",
-          "body": "\ud83d\udea8 Juli\u00e1n \u00c1lvarez has already informed Atl\u00e9ti of his desire to leave with Barcelona as a clear priority.\n\nBar\u00e7a won\u2019t stop here, planning for more signings after Gordon (done) and after talks for \u00c1lvarez (bid not sent yet, but soon).",
-          "engagement": "3.4M views",
-          "views": 3392937
-        },
-        {
-          "handle": "espn",
-          "url": "https://x.com/espn/status/2060136161322881340",
-          "headline": "Knicks center Mitchell Robinson suffers broken right pinky finger injury",
-          "body": "Breaking: New York Knicks center Mitchell Robinson has suffered a broken right pinky finger and there is no timetable on his return, sources tell @ShamsCharania.",
-          "engagement": "1.76M views",
-          "views": 1759953
         }
       ]
     },
@@ -263,11 +271,11 @@
         },
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2060269907271438452",
-          "headline": "Elon Musk agrees with a satirical Babylon Bee post.",
-          "body": "Pretty much \ud83d\ude02\nhttps://grok.com/share/bGVnYWN5_30c6e4d3-7465-4d20-a0a6-273f662301df",
-          "engagement": "5.0M views",
-          "views": 5026445
+          "url": "https://x.com/elonmusk/status/2060134654125154434",
+          "headline": "Elon Musk comments on low-cost AI demo by Grok Build",
+          "body": "Good value for money",
+          "engagement": "11.1M views",
+          "views": 11077504
         }
       ]
     },
@@ -318,17 +326,33 @@
           "views": 532751
         },
         {
-          "handle": "DiscussingFilm",
-          "url": "https://x.com/DiscussingFilm/status/2059999053694292217",
-          "headline": "First trailer for 'In the Hand of Dante' starring Oscar Isaac, Gal Gadot and others released.",
-          "body": "First trailer for \u2018IN THE HAND OF DANTE\u2019.\n\n\u2022 Starring Oscar Isaac, Gal Gadot, Jason Momoa, Gerard Butler, Al Pacino, John Malkovich and Martin Scorsese.\n\n\u2022 Follows a scholar who steals a valuable manuscript, defying the New York mafia\n\n\u2022 Releasing June 24 on Netflix",
-          "engagement": "1M views",
-          "views": 1059882
+          "handle": "AboutMusicYT",
+          "url": "https://x.com/AboutMusicYT/status/2060302254331036099",
+          "headline": "Pond Naravit poses stylishly for Dior",
+          "body": "Pond Naravit looks stylish for Dior.",
+          "engagement": "98K views",
+          "views": 98472
         }
       ]
     },
     "recipe": {
       "stories": [
+        {
+          "handle": "711SEJ",
+          "url": "https://x.com/711SEJ/status/2060299368662753708",
+          "headline": "Promotional video for 7NOW food delivery service",
+          "body": "\ud83d\udce2\u30b9\u30de\u30db\u3067\u30ab\u30f3\u30bf\u30f3\u6ce8\u6587\uff01#7NOW\n\n.\u02da\u22b9\u207a\u2027\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2027\u207a \u22b9\u02da.\n\u30007NOW(\u30bb\u30d6\u30f3\u30ca\u30a6)\u3067\n\u3000\u304a\u6cca\u307e\u308a\u30d1\u30fc\u30c6\u30a3\u30fcvlog\n.\u02da\u22b9\u207a\u2027\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2508\u2027\u207a \u22b9\u02da.\n\n7NOW\u5c02\u7528\u5546\u54c1 #\u76db\u76db\u30b7\u30ea\u30fc\u30ba \u306e\u30df\u30c3\u30af\u30b9\u30dd\u30c6\u30c8\u7b49\u3092\n\u30e2\u30d0\u30a4\u30eb\u30aa\u30fc\u30c0\u30fc\u3057\u3066\u3001\u30d1\u30fc\u30c6\u30a3\u30fc\u3092\u697d\u3057\u3082\u3046\u2728\n\n\u3042\u306a\u305f\u306f\u76db\u76db\u30b7\u30ea\u30fc\u30ba\u3001\u77e5\u3063\u3066\u308b\uff1f\ud83d\udc40\ud83d\udcac",
+          "engagement": "195K views",
+          "views": 195784
+        },
+        {
+          "handle": "711SEJ",
+          "url": "https://x.com/711SEJ/status/2060280002814652747",
+          "headline": "Promotional post for new cup noodle product",
+          "body": "\u2605\u30b5\u30c3\u30dd\u30ed\u4e00\u756a\u3057\u3087\u3046\u3086\u5473\u6cb9\u305d\u3070\u304c\u767b\u5834\n\n\u5b8c\u6210\u307e\u3067\u306e\u69d8\u5b50\u3092\u306e\u305e\u3044\u3066\u307f\u307e\u3057\u305f\ud83d\udc40\n\n\u30ab\u30c3\u30d7\u9eba\u306a\u306e\u3067\u7c21\u5358\u306b\u98df\u3079\u3089\u308c\u307e\u3059\uff01\n\n\u3082\u3046\u98df\u3079\u305f\uff01\u3068\u3044\u3046\u65b9\u306f\u30b3\u30e1\u30f3\u30c8\u6b04\u306b\ud83c\udf5c\u3067\u6559\u3048\u3066\u306d\uff01",
+          "engagement": "126K views",
+          "views": 126078
+        },
         {
           "handle": "ore825",
           "url": "https://x.com/ore825/status/2060203138938962037",
@@ -336,27 +360,19 @@
           "body": "\u5c71\u5ca1\u5bb6\u306e\u30ab\u30c3\u30d7\u9eba\u306e\u518d\u73fe\u5ea6\u304c\u500b\u4eba\u7684\u306b\u3042\u307e\u308a\u306b\u3082\u304b\u3051\u96e2\u308c\u3066\u3044\u305f\u306e\u3067\u4e00\u756a\u8981\u671b\u306e\u591a\u304b\u3063\u305f\n\n\u3010\u5c71\u5ca1\u5bb6\u91a4\u6cb9\u30e9\u30fc\u30e1\u30f3\u3011\n\n\u306e\u30b8\u30a7\u30cd\u30ea\u30c3\u30af\u3092\u4f5c\u308a\u307e\u3057\u305f\u3002\u3053\u308c\u672c\u5f53\u306b\u3042\u306e\u7f8e\u5473\u3057\u3044\u6fc3\u539a\u306a\u8c5a\u9aa8\u91a4\u6cb9\u304c15\u5206\u3067\u4f5c\u308c\u308b\u306e\u3067\u30ac\u30c1\u304a\u3059\u3059\u3081\u3067\u3059\n\n\u56fd\u9053\u6cbf\u3044\u306b\u3044\u304b\u306a\u304f\u3066\u3082\u98df\u3048\u308b\u5c71\u5ca1\u5bb6\u3001\u662f\u975e\nhttps://www.youtube.com/watch?v=4zP5Q_yuJcs&feature=youtu.be",
           "engagement": "179K views",
           "views": 178850
-        },
-        {
-          "handle": "kewpie_official",
-          "url": "https://x.com/kewpie_official/status/2060289012741648787",
-          "headline": "Kewpie shares pork-wrapped thick fried tofu recipe",
-          "body": "\u304a\u624b\u3054\u308d\u4fa1\u683c\u304c\u3046\u308c\u3057\u3044\u539a\u63da\u3052\u306f\u3001\u8c5a\u30d0\u30e9\u5dfb\u304d\u306b\ud83d\ude0b\u7518\u8f9b\u3060\u308c\u3067\u3054\u98ef\u304c\u9032\u3080\u4e00\u54c1\u3067\u3059\uff01\n\n\u3010\u4f5c\u308a\u65b9\u3011\n6\u7b49\u5206\u306b\u3057\u305f\u539a\u63da\u3052\u306b\u3001\u534a\u5206\u306b\u5207\u3063\u305f\u8c5a\u3070\u3089\u8089\u3092\u5dfb\u3044\u3066\u5869\u30fb\u3053\u3057\u3087\u3046\u3001\u7247\u6817\u7c89\u3092\u3075\u308b\u3002\u30d5\u30e9\u30a4\u30d1\u30f3\u306b\u30de\u30e8\u30cd\u30fc\u30ba\u3092\u3072\u3044\u3066\u3053\u3093\u304c\u308a\u3068\u713c\u304f\u3002\u706b\u304c\u901a\u3063\u305f\u3089\u307f\u308a\u3093\u30fb\u3057\u3087\u3046\u3086\u30fb\u9152\u30fb\u7802\u7cd6\u3092\u52a0\u3048\u3066\u7167\u308a\u304c\u51fa\u308b\u307e\u3067\u716e\u304b\u3089\u3081\u3066\u5b8c\u6210\u3002",
-          "engagement": "17.6K views",
-          "views": 17600
-        },
-        {
-          "handle": "abazwhyllzz",
-          "url": "https://x.com/abazwhyllzz/status/2060317524881821989",
-          "headline": "User shares cheap jollof rice and egusi soup recipe",
-          "body": "E get how you go broke reach you go come sabi cook,you fit use 200 naira cook jollof rice and egusi soup",
-          "engagement": "2.7K views",
-          "views": 2732
         }
       ]
     },
     "science": {
       "stories": [
+        {
+          "handle": "claudeai",
+          "url": "https://x.com/claudeai/status/2060042702150930686",
+          "headline": "Anthropic releases Claude Opus 4.8 AI model with improved capabilities.",
+          "body": "Introducing Claude Opus 4.8: it builds on Opus 4.7 with sharper judgment, more honesty about its own progress, and the ability to work independently for longer than its predecessors.\n\nAvailable today at the same price.",
+          "engagement": "10M views",
+          "views": 10035047
+        },
         {
           "handle": "SpaceflightNow",
           "url": "https://x.com/SpaceflightNow/status/2060170680604168319",
@@ -372,27 +388,11 @@
           "body": "This angle is even crazier",
           "engagement": "5.47M views",
           "views": 5471554
-        },
-        {
-          "handle": "claudeai",
-          "url": "https://x.com/claudeai/status/2060042702150930686",
-          "headline": "Anthropic releases Claude Opus 4.8 AI model with improved capabilities.",
-          "body": "Introducing Claude Opus 4.8: it builds on Opus 4.7 with sharper judgment, more honesty about its own progress, and the ability to work independently for longer than its predecessors.\n\nAvailable today at the same price.",
-          "engagement": "10M views",
-          "views": 10035047
         }
       ]
     },
     "local": {
       "stories": [
-        {
-          "handle": "unhealthytruth",
-          "url": "https://x.com/unhealthytruth/status/2060033190299857209",
-          "headline": "Evacuation of over 50,000 in Orange County California linked to chemical incident",
-          "body": "They evacuated over 50,000 in Orange County California , including my immediate family that lives there and I said it sounds intentional and will happen somewhere else for sure.\n\nNot 24 hours after I say that here she blows. It\u2019s gonna happen again.\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
-          "engagement": "90.8K views",
-          "views": 90799
-        },
         {
           "handle": "AnaheimDucks",
           "url": "https://x.com/AnaheimDucks/status/2060066052684554648",
@@ -423,19 +423,19 @@
         },
         {
           "handle": "DarkOddCon",
-          "url": "https://x.com/DarkOddCon/status/2060127595602055637",
-          "headline": "Conspiracy-themed meme post",
-          "body": "https://t.co/4etLWZxHkv",
-          "engagement": "26K views",
-          "views": 25768
+          "url": "https://x.com/DarkOddCon/status/2060127474017534200",
+          "headline": "Conspiracy meme post with image",
+          "body": "https://t.co/tPPBv94Hf5",
+          "engagement": "35K views",
+          "views": 35357
         },
         {
-          "handle": "OANASA_X_",
-          "url": "https://x.com/OANASA_X_/status/2059990575672348922",
-          "headline": "Discussion of Eisenhower meeting extraterrestrials and alien treaty theory.",
-          "body": "Did Eisenhower Secretly Meet Extraterrestrials? \ud83d\ude31\ud83d\udef8\ud83d\udc7d Alien Treaty Conspiracy Theory",
-          "engagement": "30K views",
-          "views": 30667
+          "handle": "DarkOddCon",
+          "url": "https://x.com/DarkOddCon/status/2060127536479125719",
+          "headline": "Conspiracy meme post with image",
+          "body": "https://t.co/8LKiwfi6W4",
+          "engagement": "32K views",
+          "views": 32269
         }
       ]
     },
@@ -458,15 +458,15 @@
           "views": 242070
         },
         {
-          "handle": "sapillopillo",
-          "url": "https://x.com/sapillopillo/status/2060031170390139215",
-          "headline": "The Office meme question with image",
-          "body": "ser\u00e1 este el meme mas conocido de the office? o cual es?",
-          "engagement": "147K views",
-          "views": 147568
+          "handle": "hymnduncan",
+          "url": "https://x.com/hymnduncan/status/2060138310605938974",
+          "headline": "Comment on Wemby outfit becoming a meme",
+          "body": "Needs a Legacy game or else it\u2019s a meme forever \ud83d\ude2d",
+          "engagement": "120K views",
+          "views": 120274
         }
       ]
     }
   },
-  "last_updated": "2026-05-29T11:35:38.185271"
+  "last_updated": "2026-05-29T15:35:21.785160"
 }
