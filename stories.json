@@ -1,72 +1,72 @@
 {
   "stories": {
     "world": {
-      "stories": []
+      "stories": [
+        {
+          "headline": "Skepta leads protests calling out Nigerian President Tinubu amid economic crisis",
+          "url": "https://x.com/Skepta/status/2060740771217563984",
+          "handle": "Skepta",
+          "perspectives": [
+            {
+              "label": "Independent",
+              "handle": "Skepta",
+              "url": "https://x.com/Skepta/status/2060740771217563984",
+              "body": "\ud83d\udde3\ufe0f TINUBU!! TINUBU!! TINUBU!!! How many times have we called your name?! \ud83d\ude21",
+              "engagement": "637K views",
+              "views": 637073
+            },
+            {
+              "label": "Independent",
+              "handle": "Skepta",
+              "url": "https://x.com/Skepta/status/2060741550682898460",
+              "body": "How much suffering is enough? @officialABAT",
+              "engagement": "1.3M views",
+              "views": 1357091
+            }
+          ]
+        },
+        {
+          "headline": "Israeli airstrikes destroy ancient UNESCO site in Tyre, Lebanon",
+          "url": "https://x.com/AlexCrawfordSky/status/2060047297312944133",
+          "handle": "AlexCrawfordSky",
+          "perspectives": [
+            {
+              "label": "Independent",
+              "handle": "mehdirhasan",
+              "url": "https://x.com/mehdirhasan/status/2060094659381063695",
+              "body": "Barbarism from Israel. Again. And the world just watches.",
+              "engagement": "677K views",
+              "views": 677534
+            },
+            {
+              "label": "Conservative",
+              "handle": "DougAMacgregor",
+              "url": "https://x.com/DougAMacgregor/status/2060537719147651334",
+              "body": "BREAKING: Congress is now attempting to LINK The US and Israeli military through the national Defense Authorization Act.",
+              "engagement": "1.3M views",
+              "views": 1392592
+            }
+          ]
+        },
+        {
+          "headline": "Ukraine strikes Russian oil facility in Armavir, Krasnodar Krai",
+          "url": "https://x.com/ZelenskyyUa/status/2060678119699190254",
+          "handle": "ZelenskyyUa",
+          "perspectives": [
+            {
+              "label": "Independent",
+              "handle": "ZelenskyyUa",
+              "url": "https://x.com/ZelenskyyUa/status/2060678119699190254",
+              "body": "Our new long-range sanctions \u2013 and this is 500 kilometers from our state border. ... another facility of Russia\u2019s oil industry has been reached \u2013 Armavir, Krasnodar Krai.",
+              "engagement": "192K views",
+              "views": 192588
+            }
+          ]
+        }
+      ]
     },
     "usa": {
       "stories": [
-        {
-          "headline": "FBI Director Kash Patel announces major child rescue operation in Texas",
-          "url": "https://x.com/FBIDirectorKash/status/2060476091945378083",
-          "handle": "FBIDirectorKash",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "FBIDirectorKash",
-              "url": "https://x.com/FBIDirectorKash/status/2060476091945378083",
-              "body": "OPERATION SOTERIA SHIELD: 2 month FBI op with 91 federal + state and local Texas partners - 276 subjects arrested and 89 children rescued. This FBI set records last year crushing child abusers - 2,900 predators and abusers arrested, up 70%, and 7,000 child victims rescued, up 144%. If anyone thought we\u2019re slowing down - think again.",
-              "engagement": "169K views",
-              "views": 168850
-            },
-            {
-              "label": "Independent",
-              "handle": "theliamnissan",
-              "url": "https://x.com/theliamnissan/status/2060363448114983342",
-              "body": "Trump is giving Iran $300 billion to rebuild all the stuff he bombed, and his voters consider that a \"win\" \ud83e\udd23",
-              "engagement": "824K views",
-              "views": 823559
-            },
-            {
-              "label": "Democrat",
-              "handle": "HillaryClinton",
-              "url": "https://x.com/HillaryClinton/status/2060388518505951728",
-              "body": "This is what Trump's done to the people's house: A third of it is rubble. Another third is a cage match. What a metaphor.",
-              "engagement": "4.7M views",
-              "views": 4721159
-            }
-          ]
-        },
-        {
-          "headline": "Louisiana erases majority-Black congressional district after Supreme Court ruling",
-          "url": "https://x.com/GavinNewsom/status/2060443090033496440",
-          "handle": "GavinNewsom",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "C_3C_3",
-              "url": "https://x.com/C_3C_3/status/2059788041506447719",
-              "body": "Whoops! The moment it\u2019s clear E Jean Carroll lied during her deposition in her scam against President Trump. She just \u201ctotally forgot\u201d Reid Hoffman was the one funding the operation. They all need to pay.",
-              "engagement": "620K views",
-              "views": 619714
-            },
-            {
-              "label": "Independent",
-              "handle": "TheMaineWonk",
-              "url": "https://x.com/TheMaineWonk/status/2060363899275301278",
-              "body": "MAGA: Obama giving Iran $1.7 billion unfrozen assets is TREASON. NYT: Trump\u2019s Iran Deal to include $300 BILLION reconstruction fund for Iran. MAGA:",
-              "engagement": "3.3M views",
-              "views": 3290457
-            },
-            {
-              "label": "Democrat",
-              "handle": "GavinNewsom",
-              "url": "https://x.com/GavinNewsom/status/2060443090033496440",
-              "body": "MAGA literally canceled an election to wipe out a Black district. This is Jim Crow 2.0. Don\u2019t stay silent.",
-              "engagement": "852K views",
-              "views": 851605
-            }
-          ]
-        },
         {
           "headline": "White House releases update on President Trump's health",
           "url": "https://x.com/WhiteHouse/status/2060723489292661124",
@@ -89,47 +89,85 @@
               "views": 414489
             }
           ]
+        },
+        {
+          "headline": "Trump family corruption scandals exposed",
+          "url": "https://x.com/ChrisMurphyCT/status/2060042558513037592",
+          "handle": "ChrisMurphyCT",
+          "perspectives": [
+            {
+              "label": "Democrat",
+              "handle": "ewarren",
+              "url": "https://x.com/ewarren/status/2060729528410890389",
+              "body": "Donald Trump is trading stocks in companies his government affects through policy decisions. He\u2019s holding the stocks while pulling the levers that determine their value. It\u2019s corruption, plain and simple.",
+              "engagement": "75K views",
+              "views": 75038
+            },
+            {
+              "label": "Conservative",
+              "handle": "FurkanGozukara",
+              "url": "https://x.com/FurkanGozukara/status/2060697473803227374",
+              "body": "BOMBSHELL: Expert Tara Setmayer exposes massive Trump family corruption on CNN. She confirms Don Jr's net worth exploded from $50M to $300M in one year as their corporations suddenly received massive government contracts.",
+              "engagement": "268K views",
+              "views": 268404
+            }
+          ]
+        },
+        {
+          "headline": "Minnesota\u2019s fraud schemes are finished",
+          "url": "https://x.com/WhiteHouse/status/2060020518229590507",
+          "handle": "WhiteHouse",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "LightOnLiberty",
+              "url": "https://x.com/LightOnLiberty/status/2060570969920467105",
+              "body": "Rep Tom Emmer of Minnesota says Governor Tim Walz and AG Keith Ellison knew for a DECADE that all this fraud was going on and they HID IT! As soon as Walz and Ellison assumed power, that SHUT DOWN prosecutions and investigations into the money laundering schemes!",
+              "engagement": "12K views",
+              "views": 12608
+            },
+            {
+              "label": "Independent",
+              "handle": "OIGatHHS",
+              "url": "https://x.com/OIGatHHS/status/2060360065677189585",
+              "body": "This Week at HHS-OIG, we focus on a $90M Medicaid fraud takedown in Minnesota and critical gaps in Medicare\u2019s inpatient rehabilitation facility requirements.",
+              "engagement": "24K views",
+              "views": 24965
+            }
+          ]
         }
       ]
     },
     "business": {
       "stories": [
         {
-          "handle": "unusual_whales",
-          "url": "https://x.com/unusual_whales/status/2060430424808284481",
-          "headline": "Trump fined for late stock trade disclosure",
-          "body": "Donald Trump has been fined $200 after he was months late to report buying and selling millions in stocks, per WaPo.",
-          "engagement": "1.2M views",
-          "views": 1199068
+          "handle": "InTheAssembly",
+          "url": "https://x.com/InTheAssembly/status/2060809516824842249",
+          "headline": "Physical AI emerging as major multi-year investing cycle per Jensen Huang and market analysis.",
+          "body": "Physical AI is shaping up to be the next major investing cycle.\n\nJensen Huang, the CEO of $NVDA and the most influential voice in tech right now, agrees.\n\nThe last few years were about digital AI. Training models, chatbots, data centers.\n\nNow the capital is rotating into embodied AI. Robots and systems that see, move, manipulate, and work alongside humans in the physical world.\n\nThis could be one of the highest-conviction multi-year themes of the next 5 to 10 years.\n\nHere\u2019s why the pieces are lining up now.\n\nFoundation models are finally good enough to handle real-world messiness. Object recognition, planning, adaptation. Edge compute and better sensors mean robots no longer need constant cloud hand-holding.\n\nHardware costs are crashing. Batteries, actuators, motors, lidar, vision sensors, and dexterous hands are all on cost-down curves. What cost millions five years ago is becoming viable at scale.\n\nDemand is real. Aging populations, reshoring, e-commerce, elder care, dangerous jobs. Governments and large corporations are incentivized to automate FAST.\n\nThe trillions already poured into AI infrastructure now fund the physical deployment layer. Pilots are proving ROI. The next phase is units shipping from thousands into millions.\n\nBetter robots generate more data. More data trains better robots. Adoption accelerates. The companies that nail hardware, software, and deployment at scale are the ones that win.\n\nHere are 4 names on my radar:\n\nSYM Symbotic.\n\nThe warehouse automation powerhouse. They build full AI-powered robotic systems that handle pallets, cases, and items end-to-end. Walmart-scale deployments with a long-term backlog already locked in.\n\nThis is not a gadget. It is a turnkey platform deployable today.\n\n$28B market cap. Sticky long-term contracts and real recurring support revenue. If logistics automation goes mainstream, this is the name that benefits first.\n\nCGNX Cognex.\n\nThe undisputed eyes of the robot revolution. Leader in machine vision systems, sensors, and software that let robots and factories see, inspect, guide, and identify with high accuracy.\n\nFactories, warehouses, automotive, electronics. All of them need vision to make physical AI actually work reliably.\n\n~$11B market cap. Strong margins expanding with AI upgrades. Forward multiples reasonable for 20%+ growth. A blue-chip in the space still flying under retail radar.\n\nNDSN Nordson.\n\nThe quiet precision dispense king for robotic manufacturing. They make the specialized equipment robots use to apply adhesives, coatings, sealants, and fluids across electronics, automotive, packaging, and medical.\n\nAs robots get more dexterous and lines get smarter, demand for their tools surges.\n\n~$16B market cap. Niche dominance. High margins. Diversified end-markets. The boring industrial that benefits from the automation wave without the froth.\n\nOUST Ouster.\n\nThe perception layer of physical AI. High-resolution digital lidar plus enhanced AI vision that gives robots and machines 3D mapping and sight in tough environments.\n\nIndustrial robotics, smart infrastructure, autonomous systems. Growing fast. Smaller cap, more room to run.\n\nStill early on profitability. Cash position is solid. Deal flow is accelerating. Higher-risk sleeve of the thesis. Every embodied AI needs great sensors, and Ouster is positioned without being the overhyped name.\n\nThe risks are real though.\n\nBut directionally, this feels like being early on EVs or cloud in the 2010s.\n\nThe Assembly is a team of 8 with one mission: helping you spot great stocks at the earliest stage.\n\nIn the last two weeks alone, we caught FLY, NOW, TE, PL and much more before their moves.\n\nFollow us and turn on notifications so you don\u2019t miss the next one. This is extremely important.\n\nA lot of people will wish they followed us sooner.",
+          "engagement": "105K views",
+          "views": 105241
         },
         {
-          "handle": "WallStreetApes",
-          "url": "https://x.com/WallStreetApes/status/2060745548576276800",
-          "headline": "Elderly woman's shock at current gas prices highlights dollar devaluation since Fed creation.",
-          "body": "Older American is asked how much she thinks it cost to fill up your gas tank\n\nShe guesses $20\n\nHer mind is literally blown when she\u2019s told how much the cost is today\n\n- Since the Federal Reserve was created the US dollar has lost 98% of its value\n- A dozen eggs that cost $1.00 in 1970 now average over $4.00\u2013$6.00+\n- The average new car in 1975 cost around $4,500. Today the average new car costs over $48,000\n- A first-class postage stamp cost 15 cents in 1980. Today it costs 73 cents\n- The median US home price in 1970 was about $23,000. Today it\u2019s over $420,000 nationally (around $800,000 in California)\n- A gallon of milk that cost roughly $1.10 in the early 1980s now costs $3.80\u2013$4.50 on average\n\nOur quality of life has been absolutely destroyed by the devaluing of our money\n\nEnd the Fed",
-          "engagement": "49.8K views",
-          "views": 49812
+          "handle": "cryptorover",
+          "url": "https://x.com/cryptorover/status/2060802926595985886",
+          "headline": "China injects largest liquidity in 7 weeks with \u00a5923.6 billion boost.",
+          "body": "\ud83d\udd25 HUGE: \ud83c\udde8\ud83c\uddf3 China injected \u00a5923.6 Billion in liquidity this week.\n\nLargest liquidity injection in 7 WEEKS.",
+          "engagement": "61K views",
+          "views": 60535
         },
         {
-          "handle": "Barchart",
-          "url": "https://x.com/Barchart/status/2060458815934648386",
-          "headline": "Nvidia stock drops sharply in trading",
-          "body": "BREAKING \ud83d\udea8: Nvidia $NVDA\n\nTimberrrrrrrrrrrrrrrrrr \ud83d\udcc9\ud83d\udcc9",
-          "engagement": "611K views",
-          "views": 610980
+          "handle": "KobeissiLetter",
+          "url": "https://x.com/KobeissiLetter/status/2060789211780042755",
+          "headline": "Global central banks shifting toward more rate hikes amid resurgent inflation signals.",
+          "body": "World central banks are increasingly moving toward tightening:\n\nGlobal central banks have cut rates 31 times year-to-date, outpacing 12 hikes conducted over the same period.\n\nOver the last 3 months, there were just ~3 more rate cuts than hikes globally, the smallest gap since 2023.\n\nDeveloped markets have now implemented 3 more rate hikes than cuts over this period.\n\nAt the same time, emerging markets have still seen 6 more rate cuts than hikes.\n\nTo put this into perspective, world central banks hiked rates ~90 times more than they cut in a single 3-month period during the peak of the 2022 inflation crisis.\n\nResurgent inflation points to more rate hikes ahead.",
+          "engagement": "63K views",
+          "views": 62656
         }
       ]
     },
     "top": {
       "stories": [
-        {
-          "handle": "SkySportsNews",
-          "url": "https://x.com/SkySportsNews/status/2060444765401854128",
-          "headline": "Anthony Gordon speaking in Spanish at his Barcelona unveiling.",
-          "body": "Anthony Gordon speaking in Spanish at his Barcelona unveiling after making the move from Newcastle \ud83c\uddea\ud83c\uddf8",
-          "engagement": "9.1M views",
-          "views": 9196842
-        },
         {
           "handle": "lunar_GMMTV",
           "url": "https://x.com/lunar_GMMTV/status/2060692710676222341",
@@ -145,6 +183,14 @@
           "body": "\u0e21\u0e35\u0e21\u0e35\u0e48\u0e19\u0e35\u0e19\u0e35\u0e48\u0e08\u0e32\u0e23\u0e49\u0e2d\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e32\u0e23\u0e31\u0e22\u0e2b\u0e31\u0e49\u0e22\u0e40\u0e2d\u0e19\u0e35\u0e48\u0e1f\u0e31\u0e07\u0e19\u0e49\u0e32 #ANY @emiamily @beonnnie",
           "engagement": "1.3M views",
           "views": 1339565
+        },
+        {
+          "handle": "frequernt",
+          "url": "https://x.com/frequernt/status/2060732866183729596",
+          "headline": "Post sharing list of top viral Indo videos with links.",
+          "body": "TOP VIRAL INDO TERBARU\ud83d\udcab\n\n\ud83d\udca6Syakirah\nhttps://uc-share.com/s/c535eda882fd4\n\n\ud83d\udca6Cut Salwa\nhttps://uc-share.com/s/601389f841904\n\n\ud83d\udca6Tasya Gym Dzzzra Hijab Batang Bandar Membara\nhttps://uc-share.com/s/745e7a24fc294\n\n\ud83d\udca6Umay Tiktok\nhttps://uc-share.com/s/e3b1d67fe2a74\n\nTerabox UC Share Browser Doodstream Videy Pocong Jadi Jadian",
+          "engagement": "18K views",
+          "views": 17983
         }
       ]
     },
@@ -152,11 +198,11 @@
       "stories": [
         {
           "handle": "nytimes",
-          "url": "https://x.com/nytimes/status/2060423764945375531",
-          "headline": "Louisiana erases majority-Black congressional district after Supreme Court ruling",
-          "body": "Breaking News: Louisiana erased a majority-Black congressional district, becoming the second state to do so after the Supreme Court weakened the Voting Rights Act\u200b last month.\nhttps://www.nytimes.com/2026/05/29/us/politics/louisiana-redistricting-map-majority-black-district.html?smid=tw-nytimes&smtyp=cur",
-          "engagement": "1.23M views",
-          "views": 1234457
+          "url": "https://x.com/nytimes/status/2060492055407636979",
+          "headline": "Federal judge reopens Trump $10 billion IRS case",
+          "body": "Breaking News: A federal judge effectively reopened President Trump\u2019s $10 billion case against the IRS, in a striking turnabout. https://www.nytimes.com/2026/05/29/us/politics/trump-irs-lawsuit-ruling.html?smid=tw-nytimes&smtyp=cur",
+          "engagement": "578K views",
+          "views": 578414
         },
         {
           "handle": "nytimes",
@@ -195,12 +241,12 @@
           "views": 266970
         },
         {
-          "handle": "ShamsCharania",
-          "url": "https://x.com/ShamsCharania/status/2060429222514958739",
-          "headline": "Shams reports Magic hiring Sean Sweeney as new head coach",
-          "body": "BREAKING: The Orlando Magic are finalizing the hire of San Antonio Spurs associate coach Sean Sweeney as the franchise's new head coach, sources tell ESPN. Sweeney broke into NBA coaching in 2011 and now lands the Magic head job as a top rising candidate.",
-          "engagement": "5.8M views",
-          "views": 5828872
+          "handle": "NBA",
+          "url": "https://x.com/NBA/status/2060790847122120728",
+          "headline": "NBA notes Spurs vs Thunder as 12th matchup in Game 7",
+          "body": "Spurs vs. Thunder.\nFor the 12th time this season.\nThis time in a GAME 7. \ud83c\udf7f\n\nTonight marks just the 2nd time in the past 30 years that two teams will play each other 12+ times in the same season, joining GSW/HOU in 2024-25.\n\nDon't miss these budding rivals battle for a spot in the NBA Finals. It's WIN or GO HOME as Game 7 tips off at 8:00pm/et on NBC & Peacock!",
+          "engagement": "118K views",
+          "views": 117852
         }
       ]
     },
@@ -209,46 +255,38 @@
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2060606796717273539",
-          "headline": "Elon Musk agrees Frank is right about Rupert being our man.",
+          "headline": "Elon Musk agrees that Rupert is the man for the moment",
           "body": "Frank is right",
-          "engagement": "20.5M views",
-          "views": 20459438
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2060454545960878475",
-          "headline": "Elon Musk comments on RUD events in rocket development.",
-          "body": "RUD (rapid unscheduled disassembly) events are not unusual in the rocket world",
-          "engagement": "28.7M views",
-          "views": 28732207
+          "engagement": "26.8M views",
+          "views": 26836361
         },
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2060483139374358651",
-          "headline": "Elon Musk confirms SpaceX space solar power scaling.",
+          "headline": "Elon Musk confirms SpaceX is 10xing space solar power every few years",
           "body": "True",
-          "engagement": "14M views",
-          "views": 13989773
+          "engagement": "15.2M views",
+          "views": 15158310
+        },
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2060794474633048087",
+          "headline": "Elon Musk calls for death penalty in response to a post",
+          "body": "Death penalty",
+          "engagement": "312K views",
+          "views": 311568
         }
       ]
     },
     "pods": {
       "stories": [
         {
-          "handle": "JoeRoganRecaps",
-          "url": "https://x.com/JoeRoganRecaps/status/2060422758065127570",
-          "headline": "Joe Rogan debates Harland Williams on US involvement with Iran",
-          "body": "New: Joe Rogan gets in serious debate with Harland Williams over why the US should not be at war with Iran:\n\nROGAN: \u201cI don\u2019t like this Iran war thing.\u201d\n\nWILLIAMS: \u201cYou don\u2019t like the idea of preventing Iran from having a nuclear weapon? That\u2019s a pretty good concept.\u201d\n\nROGAN: \u201cI don\u2019t want Afghanistan 2.0 where we end up being stuck there for 20 years and milk American taxpayers in the process.\u201d\n\nWILLIAMS: \u201cWe\u2019re preventing a rebel country from getting a bomb that can destroy parts of our planet. I think it\u2019s worth it.\u201d\n\nROGAN: \u201cIn theory yes, but the truth is Iran was not close or even capable of having a nuclear weapon.\u201d\n\nWILLIAMS: \u201cThey were pursuing it though.\u201d\n\nROGAN: \u201cThis is Israel\u2019s war. I get why they want this conflict, but I don\u2019t know if it\u2019s a good thing for America.\u201d",
-          "engagement": "2.5M views",
-          "views": 2472282
-        },
-        {
-          "handle": "joerogan",
-          "url": "https://x.com/joerogan/status/2060466255849484301",
-          "headline": "Joe Rogan announces new episode with Harland Williams on Spotify",
-          "body": "The great and powerful Harland Williams is one of the silliest, most hilarious and awesome people I know. \nNew episode out now on @spotify \n\nhttps://open.spotify.com/episode/62ehDou07zrd6LDFhgxbNY?si=yDb4SzrCS9qwqfsOe9JJHA",
-          "engagement": "206K views",
-          "views": 206027
+          "handle": "joeroganhq",
+          "url": "https://x.com/joeroganhq/status/2060541705179316711",
+          "headline": "Stephen A. Smith comments on podcast guest invitations including Rogan show.",
+          "body": "Stephen A. Smith: \"Jasmine Crockett and AOC have been invited on this show for 4 months. Gavin Newsom has been invited for longer than that ... Chuck Schumer's been invited on this show. Hasn't shown up. Where they at?\"",
+          "engagement": "191K views",
+          "views": 191487
         }
       ]
     },
@@ -271,12 +309,12 @@
           "views": 469357
         },
         {
-          "handle": "chartdata",
-          "url": "https://x.com/chartdata/status/2060730470178885713",
-          "headline": "Ariana Grande's new single debuts at #1 on global Spotify chart",
-          "body": "Ariana Grande's \"hate that I made you love me\" debuts at #1 on the global Spotify chart with 8.788 million streams.",
-          "engagement": "244K views",
-          "views": 244169
+          "handle": "ActressMarvels",
+          "url": "https://x.com/ActressMarvels/status/2060715385960407159",
+          "headline": "Actress entered industry at 38, modeled before, 100+ films, known after legal name dispute.",
+          "body": "\u2022 Entered the industry at 38\n\u2022 Previously worked in modeling\n\u2022 Did 100+ films\n\u2022 Became widely known after a legal dispute over the name\n\nUnderrated Performer \ud83d\udd25!",
+          "engagement": "317K views",
+          "views": 317043
         }
       ]
     },
@@ -299,25 +337,17 @@
           "views": 423871
         },
         {
-          "handle": "akari_hasegawa",
-          "url": "https://x.com/akari_hasegawa/status/2060629668231852139",
-          "headline": "Japanese chef shares refreshing somen sauce recipe with grated cucumber",
-          "body": "\u3059\u308a\u304a\u308d\u3057\u304d\u3085\u3046\u308a\u306b\u5869\u3001\u91a4\u6cb9\u3001\u9162\u3092\u52a0\u3048\u305f\u305d\u3046\u3081\u3093\u30c0\u30ec\u3002\u3053\u3093\u306a\u306b\u3082\u723d\u3084\u304b\u306a\u30bf\u30ec\u306b\u306f\u3082\u3046\u51fa\u4f1a\u3048\u306a\u3044\u304b\u3082\u3057\u308c\u306a\u3044\u3002\u3053\u308c\u3060\u3068\u3044\u3046\u5473\u306b\u8fbf\u308a\u7740\u304f\u305f\u3073\u3001\u81ea\u5206\u304b\u3089\u751f\u307e\u308c\u308b\u30ec\u30b7\u30d4\u304c\u6e1b\u3063\u3066\u3044\u304f\u5bc2\u3057\u3055\u3082\u611f\u3058\u308b\u3051\u308c\u3069\u3001\u305d\u308c\u3067\u3044\u3044\u304b\u306a\u3068\u3082\u601d\u3046\u3002\u3055\u304f\u3055\u304f\u3068\u304a\u308d\u3057\u3066\u3044\u304f\u624b\u306e\u611f\u899a\u3082\u3044\u3044 https://www.ntv.co.jp/3min/",
-          "engagement": "454K views",
-          "views": 454232
+          "handle": "CookingHub_",
+          "url": "https://x.com/CookingHub_/status/2060671399425958152",
+          "headline": "Video of giant Korean street cheese buldak sandwich.",
+          "body": "Giant Korean Street Cheese Buldak Sandwich.",
+          "engagement": "408K views",
+          "views": 408537
         }
       ]
     },
     "science": {
       "stories": [
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2060454545960878475",
-          "headline": "Elon Musk notes RUD events are common in rocket development",
-          "body": "RUD (rapid unscheduled disassembly) events are not unusual in the rocket world",
-          "engagement": "3.9M views",
-          "views": 3862226
-        },
         {
           "handle": "NousResearch",
           "url": "https://x.com/NousResearch/status/2060490936124105179",
@@ -333,6 +363,14 @@
           "body": "Step 3.7 Flash is now free for 30 days via Nous Portal\n\nIt is a new MoE vision-language model focused on agent efficiency, coding, search, and multimodal workflows \u2014 and Hermes Agent users have been loving it, so thank you to @StepFun_ai for hooking them up!",
           "engagement": "128K views",
           "views": 128295
+        },
+        {
+          "handle": "Rainmaker1973",
+          "url": "https://x.com/Rainmaker1973/status/2060695834824511773",
+          "headline": "Personalized mRNA vaccine shows long-term survival in pancreatic cancer patients.",
+          "body": "A personalized mRNA vaccine has achieved remarkable long-term survival results in patients with pancreatic cancer.\n\nOncologists at Memorial Sloan Kettering Cancer Center have reported a major breakthrough with a custom-designed mRNA neoantigen vaccine that trains the immune system to recognize and attack pancreatic ductal adenocarcinoma (PDAC), one of the most aggressive forms of cancer.\n\nIn a landmark phase I clinical trial, 16 patients who had undergone surgery received individualized vaccines based on the unique genetic mutations identified in their own tumors. The vaccine stimulates the production of powerful CD8+ cytotoxic T cells specifically targeting those neoantigens, enabling the immune system to hunt down and destroy any remaining microscopic cancer cells. \n\nThe results were striking: 8 of the 16 patients developed strong vaccine-induced T-cell responses. Of these responders, 7 remained completely cancer-free for four to six years after surgery. In contrast, among the 8 patients who did not mount a significant immune response, only 2 survived, with a median survival of just 3.4 years. \n\nThese outcomes represent a dramatic improvement for a cancer that typically has a five-year survival rate of only about 13%. While the results are highly encouraging, experts note that the approach is still in early development. Creating each personalized vaccine requires rapid tumor sequencing and specialized manufacturing, which adds complexity and time before patients can begin combined chemotherapy and immunotherapy.\n\n[Sethna, Z., Rojas, L. A., Ostendorf, B. N., Lihm, J., Allen, P., Balachandran, V. P., & Greenbaum, B. D. (2025). RNA neoantigen vaccines prime long-lived CD8+ T cells in pancreatic cancer. Nature. DOI: 10.1038/s41586-024-08508-4]",
+          "engagement": "23.3K views",
+          "views": 23347
         }
       ]
     },
@@ -345,22 +383,6 @@
           "body": "Patrick Grandy, Assistant Director in Charge of FBI Los Angeles, spotlights investigative successes for the month of May. Highlights include the arrest of a man for alleged assault in furtherance of a hate crime, the indictment of a former Southern California Mayor for allegedly acting as an illegal agent for the Chinese government.",
           "engagement": "48K views",
           "views": 48161
-        },
-        {
-          "handle": "OC_Scanner",
-          "url": "https://x.com/OC_Scanner/status/2060457617449975954",
-          "headline": "Massive apartment fire destroys units near UCR in Riverside",
-          "body": "BREAKING \ud83d\udea8\ud83d\udea8\n\n#Riverside / #California \n\nMassive apartment fire out in Riverside, near UCR. Nearly an entire apartment building is on fire, multiple units destroyed.",
-          "engagement": "37.9K views",
-          "views": 37868
-        },
-        {
-          "handle": "ABC7",
-          "url": "https://x.com/ABC7/status/2060430573555032318",
-          "headline": "Residents speak out after filing another lawsuit against GKN Aerospace in Orange County",
-          "body": "Residents speak out after filing another lawsuit against GKN Aerospace",
-          "engagement": "5194 views",
-          "views": 5194
         }
       ]
     },
@@ -403,23 +425,23 @@
           "views": 111446
         },
         {
-          "handle": "HamonBeat",
-          "url": "https://x.com/HamonBeat/status/2060478592950456491",
-          "headline": "Meta joke about moving the copy link button on tweets",
-          "body": "What if we changed where the copy link button shows up on a tweet wouldn't that be fucking hilarious",
-          "engagement": "799K views",
-          "views": 799333
-        },
-        {
           "handle": "Zingus5",
           "url": "https://x.com/Zingus5/status/2060482321241792988",
           "headline": "Funny take on early indie game developer drama",
           "body": "The early indie game era is so funny, since there were so few people making indie games these random guys with no idea of how to behave in the spotlight got catapulted to celebrity status which led to moments like this and the Jonathan Blow Soulja Boy moment",
           "engagement": "249K views",
           "views": 248925
+        },
+        {
+          "handle": "TrumpDailyPosts",
+          "url": "https://x.com/TrumpDailyPosts/status/2060772324400410767",
+          "headline": "Account shares a Trump meme about Obama library",
+          "body": "\ud835\uddd7\ud835\uddfc\ud835\uddfb\ud835\uddee\ud835\uddf9\ud835\uddf1 \ud835\udddd. \ud835\udde7\ud835\uddff\ud835\ude02\ud835\uddfa\ud835\uddfd \ud835\udde7\ud835\uddff\ud835\ude02\ud835\ude01\ud835\uddf5 \ud835\udde6\ud835\uddfc\ud835\uddf0\ud835\uddf6\ud835\uddee\ud835\uddf9 \ud835\udde0\ud835\uddf2\ud835\uddfa\ud835\uddf2 \ud835\udff1.\ud835\udfef\ud835\udfec.\ud835\udfee\ud835\udff2 \ud835\udfec\ud835\udfed:\ud835\udfec\ud835\udfef \ud835\udde3\ud835\udde0 \ud835\uddd8\ud835\udde6\ud835\udde7\n\n\ud83d\udea8Trump just posted the most savage meme of 2026; the Obama Presidential Library looking exactly like it belongs, as a giant overflowing garbage can. \n\nZero legacy, zero accomplishments, and now perfectly memorialized. \n\nAbsolute perfection! \ud83d\ude02\ud83c\uddfa\ud83c\uddf8",
+          "engagement": "33K views",
+          "views": 33017
         }
       ]
     }
   },
-  "last_updated": "2026-05-30T17:06:30.061503"
+  "last_updated": "2026-05-30T20:59:09.273247"
 }
