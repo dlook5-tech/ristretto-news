@@ -1,62 +1,7 @@
 {
   "stories": {
     "world": {
-      "stories": [
-        {
-          "headline": "US-Iran peace deal includes $300B reconstruction fund for Iran",
-          "url": "https://x.com/KobeissiLetter/status/2060349187242246225",
-          "handle": "KobeissiLetter",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "RealAlexJones",
-              "url": "https://x.com/RealAlexJones/status/2060043307028238401",
-              "body": "Thursday LIVE: US And Iran Reach Breakthrough Deal Pending Trump\u2019s Final Approval",
-              "engagement": "107K views",
-              "views": 107432
-            },
-            {
-              "label": "Independent",
-              "handle": "KobeissiLetter",
-              "url": "https://x.com/KobeissiLetter/status/2060349187242246225",
-              "body": "BREAKING: The proposed US-Iran peace deal includes a $300 billion reconstruction fund for Iran, per NYT.",
-              "engagement": "13.1M views",
-              "views": 13172577
-            }
-          ]
-        },
-        {
-          "headline": "Russian drone incursion strikes Romania injuring civilians",
-          "url": "https://x.com/vonderleyen/status/2060289371358515431",
-          "handle": "vonderleyen",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "Tendar",
-              "url": "https://x.com/Tendar/status/2060340555784024096",
-              "body": "Ukrainian strike drones are so abundantly available that even when one drone misses the target there might be a second one which moments later finishes the job. This Russian supply truck you can strike from the list.",
-              "engagement": "41K views",
-              "views": 41974
-            },
-            {
-              "label": "Independent",
-              "handle": "Polymarket",
-              "url": "https://x.com/Polymarket/status/2060340020322464060",
-              "body": "NEW: U.S. says it condemns Russia\u2019s reckless incursion in Romania & vows to \u201cdefend every inch of NATO territory.\u201d",
-              "engagement": "124K views",
-              "views": 124953
-            },
-            {
-              "label": "Democrat",
-              "handle": "Keir_Starmer",
-              "url": "https://x.com/Keir_Starmer/status/2060324935571021897",
-              "body": "Last night a Russian drone entered Romanian airspace and hit a residential building, injuring civilians. Time and again, Russia has shown it has no regard for civilian life, international law, or sovereignty of its neighbours. We stand with Ukraine, Romania and all NATO allies.",
-              "engagement": "475K views",
-              "views": 475469
-            }
-          ]
-        }
-      ]
+      "stories": []
     },
     "usa": {
       "stories": [
@@ -158,14 +103,6 @@
     "business": {
       "stories": [
         {
-          "handle": "WatcherGuru",
-          "url": "https://x.com/WatcherGuru/status/2060369591293919288",
-          "headline": "Canada enters technical recession",
-          "body": "JUST IN: \ud83c\udde8\ud83c\udde6 Canada officially enters a technical recession.",
-          "engagement": "2.18M views",
-          "views": 2183043
-        },
-        {
           "handle": "unusual_whales",
           "url": "https://x.com/unusual_whales/status/2060430424808284481",
           "headline": "Trump fined for late stock trade disclosure",
@@ -180,6 +117,14 @@
           "body": "BREAKING \ud83d\udea8: Nvidia $NVDA\n\nTimberrrrrrrrrrrrrrrrrr \ud83d\udcc9\ud83d\udcc9",
           "engagement": "611K views",
           "views": 610980
+        },
+        {
+          "handle": "business",
+          "url": "https://x.com/business/status/2060714910980423745",
+          "headline": "Retro tech stocks staging comeback as AI fuels rally",
+          "body": "From clunky mobile phone makers to a reinvented calculator chip producer, here are some of the retro tech stocks that are staging a roaring comeback https://www.bloomberg.com/news/articles/2026-05-30/-dinosaur-tech-stocks-reborn-as-ai-fuels-1-7-trillion-rally?taid=6a1ae5efb2348a0001b5cf9b&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+          "engagement": "4836 views",
+          "views": 4836
         }
       ]
     },
@@ -232,15 +177,23 @@
         {
           "handle": "nytimes",
           "url": "https://x.com/nytimes/status/2060485539610902828",
-          "headline": "Federal judge reopens President Trump\u2019s $10 billion IRS lawsuit",
+          "headline": "Federal judge reopens Trump's $10 billion IRS lawsuit case",
           "body": "Breaking News: A federal judge effectively reopened President Trump\u2019s $10 billion case against the IRS, in a striking turnabout. https://www.nytimes.com/2026/05/29/us/politics/trump-irs-lawsuit-ruling.html?smid=tw-nytimes&smtyp=cur",
-          "engagement": "361K views",
-          "views": 361494
+          "engagement": "483K views",
+          "views": 483159
         }
       ]
     },
     "sports": {
       "stories": [
+        {
+          "handle": "FabrizioRomano",
+          "url": "https://x.com/FabrizioRomano/status/2060679926349529561",
+          "headline": "Arne Slot and Liverpool to part ways with immediate effect",
+          "body": "\ud83d\udea8\ud83d\udea8 EXCLUSIVE: ARNE SLOT AND LIVERPOOL TO PART WAYS WITH IMMEDIATE EFFECT. \ud83d\udca3\n\nIt\u2019s over between the Dutch manager and Liverpool after end of the season review. \ud83d\udc4b\ud83c\udffc\n\nAndoni Iraola, clear favorite to take over as next #LFC head coach.",
+          "engagement": "16.7M views",
+          "views": 16686239
+        },
         {
           "handle": "ShamsCharania",
           "url": "https://x.com/ShamsCharania/status/2060429222514958739",
@@ -248,14 +201,6 @@
           "body": "BREAKING: The Orlando Magic are finalizing the hire of San Antonio Spurs associate coach Sean Sweeney as the franchise's new head coach, sources tell ESPN. Sweeney broke into NBA coaching in 2011 and now lands the Magic head job as a top rising candidate.",
           "engagement": "5.8M views",
           "views": 5828872
-        },
-        {
-          "handle": "ShamsCharania",
-          "url": "https://x.com/ShamsCharania/status/2060341562572227063",
-          "headline": "Knicks center Mitchell Robinson underwent surgery on broken pinky but plans to play in NBA Finals Game 1",
-          "body": "Mitchell Robinson has undergone surgery on his broken right pinky finger -- and fully plans to play in the New York Knicks' Game 1 of the NBA Finals against OKC or San Antonio next Wednesday while wearing a brace on his hand, sources tell ESPN.",
-          "engagement": "3.79M views",
-          "views": 3790243
         },
         {
           "handle": "FabrizioRomano",
@@ -271,27 +216,27 @@
       "stories": [
         {
           "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2060454545960878475",
+          "headline": "Elon Musk comments on RUD events in rocket development.",
+          "body": "RUD (rapid unscheduled disassembly) events are not unusual in the rocket world",
+          "engagement": "28.7M views",
+          "views": 28732207
+        },
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2060483139374358651",
+          "headline": "Elon Musk agrees with a post about SpaceX space solar power scaling.",
+          "body": "True",
+          "engagement": "12.5M views",
+          "views": 12529050
+        },
+        {
+          "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2060606796717273539",
           "headline": "Elon Musk agrees that Rupert is the man for the moment.",
           "body": "Frank is right",
           "engagement": "5.5M views",
           "views": 5560726
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2060605320729186601",
-          "headline": "Elon Musk states Grok Build is moving fast.",
-          "body": "Grok Build is moving fast",
-          "engagement": "3.2M views",
-          "views": 3291000
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2060453946762592256",
-          "headline": "Elon Musk agrees with statement on suicidal empathy destroying civilization",
-          "body": "True",
-          "engagement": "6.7M views",
-          "views": 6657410
         }
       ]
     },
@@ -300,10 +245,10 @@
         {
           "handle": "joerogan",
           "url": "https://x.com/joerogan/status/2060466255849484301",
-          "headline": "Joe Rogan announces new podcast episode with Harland Williams",
+          "headline": "Joe Rogan announces new episode with Harland Williams on Spotify",
           "body": "The great and powerful Harland Williams is one of the silliest, most hilarious and awesome people I know. \nNew episode out now on @spotify \n\nhttps://open.spotify.com/episode/62ehDou07zrd6LDFhgxbNY?si=yDb4SzrCS9qwqfsOe9JJHA",
-          "engagement": "167K views",
-          "views": 167918
+          "engagement": "206K views",
+          "views": 206027
         },
         {
           "handle": "lexfridman",
@@ -320,10 +265,10 @@
         {
           "handle": "HollywoodHandle",
           "url": "https://x.com/HollywoodHandle/status/2060374450676125850",
-          "headline": "BACKROOMS horror film projected to earn $70M+ opening weekend on $10M budget.",
+          "headline": "\u2018BACKROOMS\u2019 is outperforming expectations and is now set to earn $70+ on its box office opening weekend.",
           "body": "\u2018BACKROOMS\u2019 is outperforming expectations and is now set to earn $70+ on its box office opening weekend.\n\n\u2022 Budget was $10M\n\n\u2022 Potentially becoming top 5 highest ever for any horror movie",
-          "engagement": "3.2M views",
-          "views": 3157144
+          "engagement": "3.51M views",
+          "views": 3510743
         },
         {
           "handle": "PopBase",
@@ -334,32 +279,32 @@
           "views": 2817857
         },
         {
-          "handle": "PopBase",
-          "url": "https://x.com/PopBase/status/2060529574153216183",
-          "headline": "Taylor Swift 1989 (Taylor\u2019s Version) cover art updated with clouds on streaming.",
-          "body": "Taylor Swift\u2019s \u20181989 (Taylor\u2019s Version)\u2019 cover art now features clouds in the background on Apple Music and YouTube Music.",
-          "engagement": "1.1M views",
-          "views": 1136996
+          "handle": "6666_DOLL",
+          "url": "https://x.com/6666_DOLL/status/2060628901551042975",
+          "headline": "Analysis of Tomori Kusunoki's declining ticket sales for her Billboard live shows.",
+          "body": "\u6960\u6728\u3068\u3082\u308a\u306e\u30d3\u30eb\u30dc\u30fc\u30c9\u30e9\u30a4\u30d6\u3067\u3059\u304c\u3001\u30c1\u30b1\u30c3\u30c8\u8ca9\u58f2\u72b6\u6cc1\u306f\u6982\u306d\u4e88\u60f3\u901a\u308a\u306e\u7d50\u679c\u3068\u306a\u3063\u3066\u3044\u307e\u3059\u3002\u3053\u306e\u30e9\u30a4\u30d6\u306f\u6700\u901f\u5148\u884c\u306e\u5f8c\u306b\u4e8c\u5ea6\u306e\u5148\u7740\u8ca9\u58f2\u3092\u91cd\u306d\u3066\u3044\u307e\u3059\u304c\u3001\u6a2a\u6d5c\u30fb\u5927\u962a\u3068\u3082\u306b\u7d04300\u3068\u3044\u3046\u5c0f\u898f\u6a21\u306a\u5ea7\u5e2d\u6570\u3059\u3089\u57cb\u3081\u304d\u308c\u3066\u3044\u307e\u305b\u3093\u3002",
+          "engagement": "620K views",
+          "views": 619625
         }
       ]
     },
     "recipe": {
       "stories": [
         {
-          "handle": "711SEJ",
-          "url": "https://x.com/711SEJ/status/2060634825804095580",
-          "headline": "7-Eleven promotes mobile ordering for croquettes.",
-          "body": "\ud83d\udce2\u30b9\u30de\u30db\u3067\u30ab\u30f3\u30bf\u30f3\u6ce8\u6587\uff01#7NOW \uff0f \u30b3\u30ed\u30c3\u30b1\u304c\u98df\u3079\u305f\u3044\uff01\ud83d\ude0b \uff3c 7NOW(\u30bb\u30d6\u30f3\u30ca\u30a6)\u306e\u30e2\u30d0\u30a4\u30eb\u30aa\u30fc\u30c0\u30fc\u306a\u3089\u3001\u30b3\u30ed\u30c3\u30b1\u3092\u98df\u3079\u305f\u3044\u5206\u3060\u3051\u6ce8\u6587OK\ud83d\udc4c \u5bb6\u65cf\u7528\u306b\u3082\u81ea\u5206\u7528\u306b\u3082\u3074\u3063\u305f\u308a\u266a \u5e30\u308a\u9053\u306b\u30b5\u30af\u30c3\u3068\u53d7\u3051\u53d6\u308a\u3067\u304d\u308b\u306e\u3082\u5b09\u3057\u3044\u2728 \u4eca\u591c\u306e\u4e00\u54c1\u306b\u3001\u305c\u3072\u30b3\u30ed\u30c3\u30b1\u3092\ud83d\udc9b\ud83e\udd54",
-          "engagement": "148K views",
-          "views": 147654
+          "handle": "Kuntotu",
+          "url": "https://x.com/Kuntotu/status/2060567664075157909",
+          "headline": "Viral reaction post quoting detailed pasta recipe with ingredients and steps",
+          "body": "\u3050\u3048\u3048\u3047\u30fc\u30fc\uff01\u60aa\u970a\u9000\u6563\u60aa\u970a\u9000\u6563\uff01\uff01",
+          "engagement": "2.9M views",
+          "views": 2996998
         },
         {
-          "handle": "McDonaldsJapan",
-          "url": "https://x.com/McDonaldsJapan/status/2060602107032383944",
-          "headline": "McDonald's Japan shares spicy chicken nugget post.",
-          "body": "\u307e\u3060\u307e\u3060\u3044\u3051\u307e\u3059",
-          "engagement": "211K views",
-          "views": 211173
+          "handle": "akari_hasegawa",
+          "url": "https://x.com/akari_hasegawa/status/2060629668231852139",
+          "headline": "Japanese chef shares refreshing somen sauce recipe with grated cucumber",
+          "body": "\u3059\u308a\u304a\u308d\u3057\u304d\u3085\u3046\u308a\u306b\u5869\u3001\u91a4\u6cb9\u3001\u9162\u3092\u52a0\u3048\u305f\u305d\u3046\u3081\u3093\u30c0\u30ec\u3002\u3053\u3093\u306a\u306b\u3082\u723d\u3084\u304b\u306a\u30bf\u30ec\u306b\u306f\u3082\u3046\u51fa\u4f1a\u3048\u306a\u3044\u304b\u3082\u3057\u308c\u306a\u3044\u3002\u3053\u308c\u3060\u3068\u3044\u3046\u5473\u306b\u8fbf\u308a\u7740\u304f\u305f\u3073\u3001\u81ea\u5206\u304b\u3089\u751f\u307e\u308c\u308b\u30ec\u30b7\u30d4\u304c\u6e1b\u3063\u3066\u3044\u304f\u5bc2\u3057\u3055\u3082\u611f\u3058\u308b\u3051\u308c\u3069\u3001\u305d\u308c\u3067\u3044\u3044\u304b\u306a\u3068\u3082\u601d\u3046\u3002\u3055\u304f\u3055\u304f\u3068\u304a\u308d\u3057\u3066\u3044\u304f\u624b\u306e\u611f\u899a\u3082\u3044\u3044 https://www.ntv.co.jp/3min/",
+          "engagement": "454K views",
+          "views": 454232
         },
         {
           "handle": "akiko_lawson",
@@ -416,26 +361,26 @@
           "body": "Residents speak out after filing another lawsuit against GKN Aerospace",
           "engagement": "5194 views",
           "views": 5194
-        },
-        {
-          "handle": "KTLA",
-          "url": "https://x.com/KTLA/status/2060340703541285145",
-          "headline": "Lawsuits piling up after Orange County chemical tank evacuation in Garden Grove",
-          "body": "Lawsuits are piling up after tens of thousands of people were placed under evacuation orders for nearly a week due to a failing Orange County chemical tank.",
-          "engagement": "5302 views",
-          "views": 5302
         }
       ]
     },
     "conspiracy": {
       "stories": [
         {
-          "handle": "JackPosobiec",
-          "url": "https://x.com/JackPosobiec/status/2060562443164598559",
-          "headline": "Call to end conspiracy of silence around White people",
-          "body": "It\u2019s time to end the conspiracy of silence around White people",
-          "engagement": "26175 views",
-          "views": 26175
+          "handle": "GeneralMCNews",
+          "url": "https://x.com/GeneralMCNews/status/2060517047755264345",
+          "headline": "Congress bill would fuse US and Israeli militaries under NDAA Section 224",
+          "body": "BREAKING: Congress is attempting to fuse the U.S. military with Israel's as Section 224 of the 2027 National Defense Authorization Act \"would all but fuse American and Israeli armed forces together\"",
+          "engagement": "979K views",
+          "views": 979432
+        },
+        {
+          "handle": "EricLDaugh",
+          "url": "https://x.com/EricLDaugh/status/2060701874135650526",
+          "headline": "Trump highlights FBI whistleblower claims on hidden Jan. 6 footage and deep state agents",
+          "body": "\ud83d\udea8 President Trump just DROPPED this bombshell:\n\nFBI whistleblower says thousands of hours of Jan. 6 footage was hidden because federal \"human sources\" were in the crowd, and Deep State agents were ordered to make up charges against Jan. 6ers\n\nAnyone who called it out from inside was \"retaliated\" against\n\nSCANDALOUS COVERUP!",
+          "engagement": "49K views",
+          "views": 48946
         },
         {
           "handle": "johnnymaga",
@@ -444,14 +389,6 @@
           "body": "Spencer Pratt evades Jake Tapper\u2019s attempt to trap him with a 9/11 conspiracy question\u2014something that would be politically toxic in Los Angeles\u2014and Pratt turns it around to highlight the corruption and gross incompetence of city leadership.\n\n10/10.",
           "engagement": "69K views",
           "views": 69524
-        },
-        {
-          "handle": "ReturnOfKappy",
-          "url": "https://x.com/ReturnOfKappy/status/2060376193757487586",
-          "headline": "Claude Lemieux ritual seen as Illuminati sacrifice",
-          "body": "After watching the Claude Lemieux Ritual in Montreal he took part in right before his Offing the other night it's obvious what is going on....\n\nThe Flames, The Torches the look on Claude's face..\n\nIt looks like he is entering HELL for an Illuminati Sacrifice Ritual....",
-          "engagement": "67K views",
-          "views": 67462
         }
       ]
     },
@@ -460,10 +397,10 @@
         {
           "handle": "FunnySight",
           "url": "https://x.com/FunnySight/status/2060374749235294237",
-          "headline": "User posts a viral comedy video clip",
+          "headline": "Video captioned as one of the greatest on the internet",
           "body": "This is one of the greatest videos on the internet",
-          "engagement": "2.28M views",
-          "views": 2280333
+          "engagement": "2.7M views",
+          "views": 2748278
         },
         {
           "handle": "HamonBeat",
@@ -484,5 +421,5 @@
       ]
     }
   },
-  "last_updated": "2026-05-30T10:01:48.707007"
+  "last_updated": "2026-05-30T13:40:25.203989"
 }
