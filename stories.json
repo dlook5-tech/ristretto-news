@@ -3,6 +3,29 @@
     "world": {
       "stories": [
         {
+          "headline": "US-Iran peace deal includes $300B reconstruction fund for Iran",
+          "url": "https://x.com/KobeissiLetter/status/2060349187242246225",
+          "handle": "KobeissiLetter",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "RealAlexJones",
+              "url": "https://x.com/RealAlexJones/status/2060043307028238401",
+              "body": "Thursday LIVE: US And Iran Reach Breakthrough Deal Pending Trump\u2019s Final Approval",
+              "engagement": "107K views",
+              "views": 107432
+            },
+            {
+              "label": "Independent",
+              "handle": "KobeissiLetter",
+              "url": "https://x.com/KobeissiLetter/status/2060349187242246225",
+              "body": "BREAKING: The proposed US-Iran peace deal includes a $300 billion reconstruction fund for Iran, per NYT.",
+              "engagement": "13.1M views",
+              "views": 13172577
+            }
+          ]
+        },
+        {
           "headline": "Russian drone incursion strikes Romania injuring civilians",
           "url": "https://x.com/vonderleyen/status/2060289371358515431",
           "handle": "vonderleyen",
@@ -38,25 +61,64 @@
     "usa": {
       "stories": [
         {
-          "headline": "Trump UFC event draws criticism and defense over White House use",
-          "url": "https://x.com/EndWokeness/status/2060449849900933470",
-          "handle": "EndWokeness",
+          "headline": "FBI Director Kash Patel announces major child rescue operation in Texas",
+          "url": "https://x.com/FBIDirectorKash/status/2060476091945378083",
+          "handle": "FBIDirectorKash",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "EndWokeness",
-              "url": "https://x.com/EndWokeness/status/2060449849900933470",
-              "body": "\"Trump's UFC event is defiling the WH\" Kindly, f*ck off",
-              "engagement": "493K views",
-              "views": 493691
+              "handle": "FBIDirectorKash",
+              "url": "https://x.com/FBIDirectorKash/status/2060476091945378083",
+              "body": "OPERATION SOTERIA SHIELD: 2 month FBI op with 91 federal + state and local Texas partners - 276 subjects arrested and 89 children rescued. This FBI set records last year crushing child abusers - 2,900 predators and abusers arrested, up 70%, and 7,000 child victims rescued, up 144%. If anyone thought we\u2019re slowing down - think again.",
+              "engagement": "169K views",
+              "views": 168850
+            },
+            {
+              "label": "Independent",
+              "handle": "theliamnissan",
+              "url": "https://x.com/theliamnissan/status/2060363448114983342",
+              "body": "Trump is giving Iran $300 billion to rebuild all the stuff he bombed, and his voters consider that a \"win\" \ud83e\udd23",
+              "engagement": "824K views",
+              "views": 823559
             },
             {
               "label": "Democrat",
-              "handle": "TimRunsHisMouth",
-              "url": "https://x.com/TimRunsHisMouth/status/2060472652200898993",
-              "body": "Al Sharpton now says Trump is holding the UFC event so that we can go back to the times when slave owners made slaves fight for entertainment. As a master race baiter... he literally takes any topic and claims its racist.",
-              "engagement": "155K views",
-              "views": 155755
+              "handle": "HillaryClinton",
+              "url": "https://x.com/HillaryClinton/status/2060388518505951728",
+              "body": "This is what Trump's done to the people's house: A third of it is rubble. Another third is a cage match. What a metaphor.",
+              "engagement": "4.7M views",
+              "views": 4721159
+            }
+          ]
+        },
+        {
+          "headline": "Louisiana erases majority-Black congressional district after Supreme Court ruling",
+          "url": "https://x.com/GavinNewsom/status/2060443090033496440",
+          "handle": "GavinNewsom",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "C_3C_3",
+              "url": "https://x.com/C_3C_3/status/2059788041506447719",
+              "body": "Whoops! The moment it\u2019s clear E Jean Carroll lied during her deposition in her scam against President Trump. She just \u201ctotally forgot\u201d Reid Hoffman was the one funding the operation. They all need to pay.",
+              "engagement": "620K views",
+              "views": 619714
+            },
+            {
+              "label": "Independent",
+              "handle": "TheMaineWonk",
+              "url": "https://x.com/TheMaineWonk/status/2060363899275301278",
+              "body": "MAGA: Obama giving Iran $1.7 billion unfrozen assets is TREASON. NYT: Trump\u2019s Iran Deal to include $300 BILLION reconstruction fund for Iran. MAGA:",
+              "engagement": "3.3M views",
+              "views": 3290457
+            },
+            {
+              "label": "Democrat",
+              "handle": "GavinNewsom",
+              "url": "https://x.com/GavinNewsom/status/2060443090033496440",
+              "body": "MAGA literally canceled an election to wipe out a Black district. This is Jim Crow 2.0. Don\u2019t stay silent.",
+              "engagement": "852K views",
+              "views": 851605
             }
           ]
         },
@@ -72,21 +134,6 @@
               "body": "MSNow: You're willing at this point to let the Senate fall into the hands of Democrats, if that's what it takes to end data centers? Republican Voter: My entire community is going to break rank. Everybody, all of us. We've had enough.",
               "engagement": "609K views",
               "views": 609887
-            }
-          ]
-        },
-        {
-          "headline": "Trump administration launches Trump Accounts app for families to build kids' futures",
-          "url": "https://x.com/WhiteHouse/status/2059991947222147447",
-          "handle": "WhiteHouse",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "JDVance",
-              "url": "https://x.com/JDVance/status/2060346667728060796",
-              "body": "One of the problems we have in public policy is that wonks don\u2019t give any consideration to how their ideas will collide with actual human behavior. Take our Trump Accounts. There are millions of parents who will in theory benefit enormously from this investment in their kids\u2019 future, but the policy does no good if parents never find out how to sign up for it.",
-              "engagement": "908K views",
-              "views": 908876
             }
           ]
         }
@@ -113,10 +160,10 @@
         {
           "handle": "Barchart",
           "url": "https://x.com/Barchart/status/2060458815934648386",
-          "headline": "Nvidia stock drops sharply",
-          "body": "BREAKING \ud83d\udea8: Nvidia $NVDA Timberrrrrrrrrrrrrrrrrr \ud83d\udcc9\ud83d\udcc9",
-          "engagement": "531K views",
-          "views": 531283
+          "headline": "Nvidia stock drops sharply in trading",
+          "body": "BREAKING \ud83d\udea8: Nvidia $NVDA\n\nTimberrrrrrrrrrrrrrrrrr \ud83d\udcc9\ud83d\udcc9",
+          "engagement": "611K views",
+          "views": 610980
         }
       ]
     },
@@ -153,26 +200,26 @@
         {
           "handle": "nytimes",
           "url": "https://x.com/nytimes/status/2060423764945375531",
-          "headline": "Louisiana erases majority-Black congressional district after Supreme Court ruling.",
+          "headline": "Louisiana erases majority-Black congressional district after Supreme Court ruling",
           "body": "Breaking News: Louisiana erased a majority-Black congressional district, becoming the second state to do so after the Supreme Court weakened the Voting Rights Act\u200b last month.\nhttps://www.nytimes.com/2026/05/29/us/politics/louisiana-redistricting-map-majority-black-district.html?smid=tw-nytimes&smtyp=cur",
-          "engagement": "796K views",
-          "views": 796645
+          "engagement": "916K views",
+          "views": 915994
         },
         {
           "handle": "nytimes",
           "url": "https://x.com/nytimes/status/2060485539610902828",
-          "headline": "Federal judge reopens Trump\u2019s $10 billion IRS lawsuit.",
+          "headline": "Federal judge reopens President Trump\u2019s $10 billion IRS lawsuit",
           "body": "Breaking News: A federal judge effectively reopened President Trump\u2019s $10 billion case against the IRS, in a striking turnabout. https://www.nytimes.com/2026/05/29/us/politics/trump-irs-lawsuit-ruling.html?smid=tw-nytimes&smtyp=cur",
-          "engagement": "295K views",
-          "views": 295569
+          "engagement": "361K views",
+          "views": 361494
         },
         {
-          "handle": "WSJ",
-          "url": "https://x.com/WSJ/status/2060526931699773793",
-          "headline": "Autonomous taxi services expand, sparking city backlash.",
-          "body": "As autonomous taxi services scale beyond Silicon Valley, new problems abound for cities. https://www.wsj.com/business/autos/robotaxis-are-spreading-across-the-u-s-and-so-is-the-backlash-a4272883?mod=e2tw",
-          "engagement": "25K views",
-          "views": 25283
+          "handle": "nytimes",
+          "url": "https://x.com/nytimes/status/2060345944248402351",
+          "headline": "NYC mayor Zohran Mamdani writes on Arsenal's Premier League win and Champions League hopes",
+          "body": "From @TheAthleticFC: Zohran Mamdani, the mayor of New York City and a long-time supporter of Arsenal, writes about what it means to see Arsenal win the Premier League trophy and his hopes for Saturday\u2019s Champions League final against Paris Saint-Germain.  https://www.nytimes.com/athletic/7315454/2026/05/29/arsenal-premier-league-zohran-mamdani/?smtyp=cur&smid=tw-nytimes",
+          "engagement": "387K views",
+          "views": 387094
         }
       ]
     },
@@ -195,12 +242,12 @@
           "views": 3790243
         },
         {
-          "handle": "ChampionsLeague",
-          "url": "https://x.com/ChampionsLeague/status/2060390458052755813",
-          "headline": "UCL posts upside-down emoji ahead of final",
-          "body": "\ud83d\ude43 #UCLfinal",
-          "engagement": "538K views",
-          "views": 538301
+          "handle": "BleacherReport",
+          "url": "https://x.com/BleacherReport/status/2060487269073793300",
+          "headline": "Jalen Williams ruled out for OKC Game 7 vs San Antonio due to hamstring injury.",
+          "body": "Jalen Williams (hamstring) RULED OUT for Game 7 vs. San Antonio on Saturday \ud83d\udea8\n\nHuge blow for OKC.",
+          "engagement": "1.18M views",
+          "views": 1180133
         }
       ]
     },
@@ -208,11 +255,11 @@
       "stories": [
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2060266691418849346",
-          "headline": "Elon Musk reacts with laughter emoji to a video of AI file renaming",
-          "body": "\ud83d\ude02",
-          "engagement": "26M views",
-          "views": 26014994
+          "url": "https://x.com/elonmusk/status/2060605320729186601",
+          "headline": "Elon Musk comments on xAI's Grok Build progress",
+          "body": "Grok Build is moving fast",
+          "engagement": "447K views",
+          "views": 447361
         },
         {
           "handle": "elonmusk",
@@ -237,23 +284,39 @@
         {
           "handle": "joerogan",
           "url": "https://x.com/joerogan/status/2060466255849484301",
-          "headline": "Joe Rogan promotes new podcast episode with Harland Williams.",
+          "headline": "Joe Rogan announces new podcast episode with Harland Williams",
           "body": "The great and powerful Harland Williams is one of the silliest, most hilarious and awesome people I know. \nNew episode out now on @spotify \n\nhttps://open.spotify.com/episode/62ehDou07zrd6LDFhgxbNY?si=yDb4SzrCS9qwqfsOe9JJHA",
-          "engagement": "147K views",
-          "views": 147357
+          "engagement": "167K views",
+          "views": 167918
         },
         {
           "handle": "lexfridman",
           "url": "https://x.com/lexfridman/status/2060415366761992612",
-          "headline": "Lex Fridman announces new podcast episode with physicist Don Lincoln on open questions in physics.",
+          "headline": "Lex Fridman shares new podcast episode on physics with Don Lincoln",
           "body": "Here's my conversation with Don Lincoln about some of the biggest open questions in physics, including dark energy, dark matter, the matter-antimatter imbalance, quantum vacuum, quantum foam, and the quest to unify the laws of physics.\n\nDon is a particle physicist at Fermilab who has spent decades working at the frontiers of high energy physics. He is also a great teacher & writer. I highly recommend his courses & books. One of my favorite lecture series he has given is The Evidence for Modern Physics where he breaks down the experiments that validate some of the weird laws of physics we have, and what it would take to validate even the weirder ones.\n\nIt's not enough to come up with a beautiful theory. You also have to show through experiment that the theory is likely to be correct. This process often doesn't get the love it deserves, even though it's often the most important and difficult part of the scientific process.\n\nI \u2764\ufe0f physics.\n\nThe conversation is here on X in full and is up everywhere else (see comment).\n\nTimestamps:\n0:00 - Introduction\n0:49 - Unifying the laws of nature\n15:20 - General relativity\n32:27 - Electroweak force\n44:09 - How particle colliders work\n1:02:12 - Higgs boson discovery\n1:12:32 - Theory of everything\n1:42:17 - Physics of empty space\n1:49:41 - Antimatter\n2:10:31 - Dark energy\n2:14:20 - Dark matter\n2:42:56 - Future of physics",
-          "engagement": "31K views",
-          "views": 30949
+          "engagement": "125K views",
+          "views": 125878
         }
       ]
     },
     "pg6": {
       "stories": [
+        {
+          "handle": "PopBase",
+          "url": "https://x.com/PopBase/status/2060529574153216183",
+          "headline": "Taylor Swift 1989 (Taylor\u2019s Version) cover art updated with clouds on streaming.",
+          "body": "Taylor Swift\u2019s \u20181989 (Taylor\u2019s Version)\u2019 cover art now features clouds in the background on Apple Music and YouTube Music.",
+          "engagement": "1.1M views",
+          "views": 1136996
+        },
+        {
+          "handle": "PopBase",
+          "url": "https://x.com/PopBase/status/2060390088924918205",
+          "headline": "Toy Story-themed TS billboard with 13 clouds spotted.",
+          "body": "A Toy Story-themed \u201cTS\u201d billboard with 13 clouds has been spotted.",
+          "engagement": "2.8M views",
+          "views": 2817857
+        },
         {
           "handle": "HollywoodHandle",
           "url": "https://x.com/HollywoodHandle/status/2060374450676125850",
@@ -261,22 +324,6 @@
           "body": "\u2018BACKROOMS\u2019 is outperforming expectations and is now set to earn $70+ on its box office opening weekend.\n\n\u2022 Budget was $10M\n\n\u2022 Potentially becoming top 5 highest ever for any horror movie",
           "engagement": "2.26M views",
           "views": 2256007
-        },
-        {
-          "handle": "PopCrave",
-          "url": "https://x.com/PopCrave/status/2060539540859674648",
-          "headline": "Phineas and Ferb stars Vincent Martello and Alyson Stoner stun in wedding style photo.",
-          "body": "\u2018Phineas and Ferb\u2019 stars Vincent Martello and Alyson Stoner stun in wedding style photo.",
-          "engagement": "147K views",
-          "views": 146658
-        },
-        {
-          "handle": "PopBase",
-          "url": "https://x.com/PopBase/status/2060380844464693747",
-          "headline": "Lisa Kudrow shares funny story about being mistaken for Dionne Warwick by a hostess.",
-          "body": "Lisa Kudrow recalls the time a hostess mistook her for being Dionne Warwick:\n\n\u201cShe was from somewhere in Eastern Europe\u2014and just went, \u2018Uh, I know who you are, She said, \u2018You are Dionne Warwick\u2019 And I just went, \u2018No, I\u2019m not!\u2019\u201d\n\n(https://www.youtube.com/watch?si=itSrARnfklQpuL3W&v=zk3CB8nxo0E&feature=youtu.be",
-          "engagement": "503K views",
-          "views": 503775
         }
       ]
     },
@@ -301,10 +348,10 @@
         {
           "handle": "Soulfoodiiee",
           "url": "https://x.com/Soulfoodiiee/status/2060391593224655190",
-          "headline": "Soulfood shares Buffalo Chicken Wraps recipe video",
-          "body": "\ud83c\udf7d Chopped Buffalo Chicken Wraps \ud83d\udc68\ud83c\udffb\u200d\ud83c\udf73 Brian Gerwig | g_bque \ud83d\udcdd Recipe In The Comments",
-          "engagement": "71K views",
-          "views": 70951
+          "headline": "Chopped Buffalo Chicken Wraps recipe video",
+          "body": "\ud83c\udf7d Chopped Buffalo Chicken Wraps\n\ud83d\udc68\ud83c\udffb\u200d\ud83c\udf73 Brian Gerwig | g_bque \n\n\ud83d\udcdd Recipe In The Comments",
+          "engagement": "83.2K views",
+          "views": 83168
         }
       ]
     },
@@ -339,33 +386,41 @@
     "local": {
       "stories": [
         {
+          "handle": "ABC7",
+          "url": "https://x.com/ABC7/status/2060430573555032318",
+          "headline": "Residents speak out after filing another lawsuit against GKN Aerospace in Orange County",
+          "body": "Residents speak out after filing another lawsuit against GKN Aerospace",
+          "engagement": "5194 views",
+          "views": 5194
+        },
+        {
+          "handle": "KTLA",
+          "url": "https://x.com/KTLA/status/2060340703541285145",
+          "headline": "Lawsuits piling up after Orange County chemical tank evacuation in Garden Grove",
+          "body": "Lawsuits are piling up after tens of thousands of people were placed under evacuation orders for nearly a week due to a failing Orange County chemical tank.",
+          "engagement": "5302 views",
+          "views": 5302
+        },
+        {
           "handle": "JessCAGrl4Life5",
           "url": "https://x.com/JessCAGrl4Life5/status/2060393517843968459",
           "headline": "SoCal resident shares beach photo and positive message",
           "body": "Good Morning and Happy Friday Everyone from the Islands in SoCal \ud83d\ude0a\u2764\ufe0f\ud83d\udd25\ud83c\uddfa\ud83c\uddf8\ud83e\udd85\ud83c\udf3a\ud83c\udfd6\ufe0f\ud83c\udf07 I was looking through my photos and I found this \ud83d\udc47\ud83c\udffe I took this one years ago \ud83d\udcaf It\u2019s amazing \ud83d\udcaf\ud83d\ude4c\ud83c\udffe I love this 1 \ud83e\udef6\ud83c\udffe It is Beautiful view of the beach in my hometown \ud83d\udcaf\ud83d\ude4c\ud83c\udffe As a girl here from Cali that lives by the Islands I absolutely love the Sea \ud83c\udf0a\u263a\ufe0f\u2764\ufe0f\ud83d\udd25\ud83c\uddfa\ud83c\uddf8\ud83e\udd85\ud83d\udc1f\ud83e\udd80\ud83d\udc2c\ud83e\udd9e\ud83d\udc20\ud83e\udd90\ud83d\udc0b\ud83e\uddad\ud83d\udc33\ud83d\ude0a\u2764\ufe0f\ud83c\udfdd\ufe0f I\u2019m gonna listen to Oldies music \ud83d\ude0e\u2764\ufe0f\ud83d\udd25\ud83d\udd08\ud83c\udfb6 Reading your tweets on X \ud83d\udcaf\ud83d\udd25 All of you good ppl especially this dude and his twin \ud83d\udc47\ud83c\udffe make me happy smile laugh make me want to get on up and dance and give me positive thoughts vibes & energy \ud83d\udc83\ud83c\udffd\ud83d\ude0a\u2764\ufe0f\ud83d\udd25\ud83e\udd1b\ud83c\udffe\ud83d\udca5\ud83c\uddfa\ud83c\uddf8\ud83e\udd85 Today is gonna be awesome \ud83d\udcaf\ud83d\ude4c\ud83c\udffe It\u2019s goin to be a Good Friday with all of you Beautiful Amazing great American Patriots \ud83d\ude09\ud83d\ude0a\u2764\ufe0f\ud83d\udd25\u270a\ud83c\udffe\ud83d\udca5\ud83c\uddfa\ud83c\uddf8\ud83e\udd85\ud83d\ude0f\ud83d\udd25\ud83e\udd1c\ud83c\udffe\ud83d\udca5\ud83c\uddfa\ud83c\uddf8\ud83e\udd85\ud83d\ude0c\ud83d\udd25\ud83e\udd4a\ud83d\udca5\ud83c\uddfa\ud83c\uddf8\ud83e\udd85\ud83d\udd25\ud83d\udc4a\ud83c\udffe\ud83d\udca5\ud83c\uddfa\ud83c\uddf8\ud83e\udd85\ud83d\ude09\u2764\ufe0f\ud83d\ude0e\ud83d\udd25\u2620\ufe0f\ud83d\ude4c\ud83c\udffe\ud83d\udcaf",
           "engagement": "2.5K views",
           "views": 2510
-        },
-        {
-          "handle": "TexasCowgrl1111",
-          "url": "https://x.com/TexasCowgrl1111/status/2060414455687823834",
-          "headline": "Good morning greeting from Southern California",
-          "body": "Good morning from Southern California happy Friday. I hope your day is amazing and it is blessed.",
-          "engagement": "1.8K views",
-          "views": 1848
-        },
-        {
-          "handle": "Go511",
-          "url": "https://x.com/Go511/status/2060337116710908021",
-          "headline": "Traffic alert for overturned vehicle in Anaheim",
-          "body": "Traffic Alert in Anaheim. On SR-91 west near Imperial Hwy. Lane #1 is closed due to an overturned vehicle.",
-          "engagement": "110 views",
-          "views": 110
         }
       ]
     },
     "conspiracy": {
       "stories": [
+        {
+          "handle": "JackPosobiec",
+          "url": "https://x.com/JackPosobiec/status/2060562443164598559",
+          "headline": "Call to end conspiracy of silence around White people",
+          "body": "It\u2019s time to end the conspiracy of silence around White people",
+          "engagement": "26175 views",
+          "views": 26175
+        },
         {
           "handle": "johnnymaga",
           "url": "https://x.com/johnnymaga/status/2060377932917313747",
@@ -381,19 +436,27 @@
           "body": "After watching the Claude Lemieux Ritual in Montreal he took part in right before his Offing the other night it's obvious what is going on....\n\nThe Flames, The Torches the look on Claude's face..\n\nIt looks like he is entering HELL for an Illuminati Sacrifice Ritual....",
           "engagement": "67K views",
           "views": 67462
-        },
-        {
-          "handle": "celinedionysus_",
-          "url": "https://x.com/celinedionysus_/status/2060348868890353966",
-          "headline": "Post about White House alien announcement and conspiracy base",
-          "body": "it's actually awesome that this will turn off a meaningful portion of their conspiracy-brained base. i can guarantee you there are people who are *crushed* right now",
-          "engagement": "36.7K views",
-          "views": 36731
         }
       ]
     },
     "comedy": {
       "stories": [
+        {
+          "handle": "HamonBeat",
+          "url": "https://x.com/HamonBeat/status/2060478592950456491",
+          "headline": "Meta joke about moving the copy link button on tweets",
+          "body": "What if we changed where the copy link button shows up on a tweet wouldn't that be fucking hilarious",
+          "engagement": "799K views",
+          "views": 799333
+        },
+        {
+          "handle": "Zingus5",
+          "url": "https://x.com/Zingus5/status/2060482321241792988",
+          "headline": "Funny take on early indie game developer drama",
+          "body": "The early indie game era is so funny, since there were so few people making indie games these random guys with no idea of how to behave in the spotlight got catapulted to celebrity status which led to moments like this and the Jonathan Blow Soulja Boy moment",
+          "engagement": "249K views",
+          "views": 248925
+        },
         {
           "handle": "en_tashii",
           "url": "https://x.com/en_tashii/status/2060321007869858263",
@@ -401,25 +464,9 @@
           "body": "DRUNK JUNGWON SO FUNNY HHHHAHS \ud83d\ude2d\ud83d\ude02\ud83d\ude02",
           "engagement": "352K views",
           "views": 352267
-        },
-        {
-          "handle": "funnyandfabss",
-          "url": "https://x.com/funnyandfabss/status/2060247858209804308",
-          "headline": "Video captioned this is too funny",
-          "body": "this is too funny\ud83e\udd70\ud83e\udd70",
-          "engagement": "279K views",
-          "views": 279804
-        },
-        {
-          "handle": "found_it_funny",
-          "url": "https://x.com/found_it_funny/status/2060345584330936830",
-          "headline": "Post sharing a funny image link",
-          "body": "https://t.co/BIAcvlxkH3",
-          "engagement": "179K views",
-          "views": 179332
         }
       ]
     }
   },
-  "last_updated": "2026-05-30T03:29:14.890830"
+  "last_updated": "2026-05-30T06:49:40.628049"
 }
