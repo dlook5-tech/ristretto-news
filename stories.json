@@ -16,65 +16,42 @@
               "views": 271590
             }
           ]
-        },
-        {
-          "headline": "Israel added to UN blacklist for sexual violence in conflict zones for first time",
-          "url": "https://x.com/PolitlcsGlobal/status/2060448635695792633",
-          "handle": "PolitlcsGlobal",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "daily_romania",
-              "url": "https://x.com/daily_romania/status/2060460452438507915",
-              "body": "Romanian president Nicu\u0219or Dan says the drone that crashed into a residential building in Gala\u021bi was redirected into Romania by Ukrainian air defenses",
-              "engagement": "633K views",
-              "views": 633123
-            },
-            {
-              "label": "Independent",
-              "handle": "BBCWorld",
-              "url": "https://x.com/BBCWorld/status/2060437379236639037",
-              "body": "Israel put on UN sexual violence in warzones blacklist for first time",
-              "engagement": "382K views",
-              "views": 382513
-            },
-            {
-              "label": "Democrat",
-              "handle": "AJEnglish",
-              "url": "https://x.com/AJEnglish/status/2060823562722725983",
-              "body": "Russian President Vladimir Putin says it is too early to determine whether the drone that crashed into an apartment block in Romania was Russian, suggesting it could have been Ukrainian.",
-              "engagement": "24K views",
-              "views": 24623
-            }
-          ]
-        },
-        {
-          "headline": "Partial internet restored in Iran amid large-scale protests against the regime",
-          "url": "https://x.com/shaunmmaguire/status/2060772843558948992",
-          "handle": "shaunmmaguire",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "shaunmmaguire",
-              "url": "https://x.com/shaunmmaguire/status/2060772843558948992",
-              "body": "The world still doesn\u2019t appreciate the bravery of the Iranian people",
-              "engagement": "222K views",
-              "views": 222890
-            },
-            {
-              "label": "Independent",
-              "handle": "netblocks",
-              "url": "https://x.com/netblocks/status/2059922983733395673",
-              "body": "Three months ago today #Iran shut off access to the global internet. While connectivity has now largely returned, metrics indicate that users still face heavy filtering",
-              "engagement": "67K views",
-              "views": 67449
-            }
-          ]
         }
       ]
     },
     "usa": {
       "stories": [
+        {
+          "headline": "Trump White House promotes 'America is Back' rally and messaging",
+          "url": "https://x.com/WhiteHouse/status/2060763018187661370",
+          "handle": "WhiteHouse",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "WhiteHouse",
+              "url": "https://x.com/WhiteHouse/status/2060763018187661370",
+              "body": "AMERICA IS BACK Rally!",
+              "engagement": "10.6M views",
+              "views": 10674924
+            },
+            {
+              "label": "Independent",
+              "handle": "FoxNews",
+              "url": "https://x.com/FoxNews/status/2060907328740733335",
+              "body": "\"The ballroom will be right here.\" President Trump shows Lara Trump a behind-the-scenes look at construction for the White House ballroom, which he calls a gift to America from him and \"great patriots.\"",
+              "engagement": "275K views",
+              "views": 275431
+            },
+            {
+              "label": "Democrat",
+              "handle": "RepDonBeyer",
+              "url": "https://x.com/RepDonBeyer/status/2060753015162741203",
+              "body": "Allowing Donald Trump to desecrate Arlington National Cemetery to inflate his ego would not only be wrong, it would also be illegal and a massive waste of taxpayer money.",
+              "engagement": "33K views",
+              "views": 33645
+            }
+          ]
+        },
         {
           "headline": "Trump administration restores law and order with ICE enforcement push",
           "url": "https://x.com/WhiteHouse/status/2060447084130509076",
@@ -95,37 +72,6 @@
               "body": "STAND WITH ICE. STAND WITH LAW ENFORCEMENT.",
               "engagement": "101K views",
               "views": 101081
-            }
-          ]
-        },
-        {
-          "headline": "White House hosts AMERICA IS BACK Rally celebrating restored law and order",
-          "url": "https://x.com/WhiteHouse/status/2060763018187661370",
-          "handle": "WhiteHouse",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "WhiteHouse",
-              "url": "https://x.com/WhiteHouse/status/2060763018187661370",
-              "body": "AMERICA IS BACK Rally!",
-              "engagement": "28K likes",
-              "views": 9379606
-            },
-            {
-              "label": "Independent",
-              "handle": "FoxNews",
-              "url": "https://x.com/FoxNews/status/2060907328740733335",
-              "body": "\"The ballroom will be right here.\" President Trump shows Lara Trump a behind-the-scenes look at construction for the White House ballroom, which he calls a gift to America from him and \"great patriots.\"",
-              "engagement": "4K likes",
-              "views": 226000
-            },
-            {
-              "label": "Democrat",
-              "handle": "SenSanders",
-              "url": "https://x.com/SenSanders/status/2060878097562435740",
-              "body": "This is what a rigged system looks like. If you paid $1 in federal income taxes last year you paid more than Pizza Hut, Taco Bell, KFC, PayPal & Honeywell. Trump enabled these corporate tax dodgers to shift their profits to offshore tax havens in Malta, Singapore & Switzerland.",
-              "engagement": "4K likes",
-              "views": 148000
             }
           ]
         },
@@ -173,20 +119,20 @@
           "views": 21881779
         },
         {
+          "handle": "DefiWimar",
+          "url": "https://x.com/DefiWimar/status/2061065940192604276",
+          "headline": "Trump signals peace on Iran, key for markets",
+          "body": "\ud83d\udea8 BREAKING\n\n\ud83c\uddfa\ud83c\uddf8 TRUMP JUST SAID \"THE US SHOULD NEVER HAVE BEEN IN IRAN\"\n\nHE COMPARED IT TO IRAQ AND SAID, \"WE DID SO BAD. IT WAS SUCH A FOOLISH THING.\"\n\nTHIS IS THE BIGGEST PEACE SIGNAL YET.\n\nTHIS IS EXTREMELY IMPORTANT FOR MARKETS...",
+          "engagement": "1.2M views",
+          "views": 1213913
+        },
+        {
           "handle": "InTheAssembly",
           "url": "https://x.com/InTheAssembly/status/2060980024983916954",
           "headline": "US gets first domestic producer of key defense metals",
           "body": "The US just got its first and only domestic producer of two metals the entire defense industry runs on.\n\nStock IPO\u2019d at $14 in April and nobody is talking about it.\n\nHere it is:",
           "engagement": "631K views",
           "views": 631226
-        },
-        {
-          "handle": "NoLimitGains",
-          "url": "https://x.com/NoLimitGains/status/2061057781507956976",
-          "headline": "Stocks Jensen Huang is indirectly recommending",
-          "body": "The stocks Jensen Huang is indirectly telling you to buy in 2026:",
-          "engagement": "130K views",
-          "views": 130870
         }
       ]
     },
@@ -201,20 +147,20 @@
           "views": 17008743
         },
         {
-          "handle": "nino_honmono",
-          "url": "https://x.com/nino_honmono/status/2060837330961957102",
-          "headline": "Arashi member Nino greeting followers with a good morning post",
-          "body": "\u7686\u30fc\u304a\u306f\u3088\u30fc",
-          "engagement": "2.9M views",
-          "views": 2923656
-        },
-        {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2060913698147823751",
           "headline": "Elon Musk commenting on Tesla IPO investment growth",
           "body": "Pretty good progress",
           "engagement": "2.7M views",
           "views": 2680608
+        },
+        {
+          "handle": "WhiteHouse",
+          "url": "https://x.com/WhiteHouse/status/2061150224844808605",
+          "headline": "Video criticizing Democrats for not prioritizing American citizens first.",
+          "body": "Never Forget: Democrats are the party that REFUSED to stand for protecting and putting AMERICAN CITIZENS first.\n\nTells you everything you need to know.",
+          "engagement": "250K views",
+          "views": 249768
         }
       ]
     },
@@ -223,10 +169,10 @@
         {
           "handle": "nytimes",
           "url": "https://x.com/nytimes/status/2060842456191566217",
-          "headline": "Boston area boom possibly caused by meteorite",
+          "headline": "Boom heard in Boston area possibly from meteorite",
           "body": "A sudden, thundering boom reverberated in the Boston area on Saturday. The authorities were investigating the cause, but some officials suggested that it could have been a meteorite.",
-          "engagement": "181K views",
-          "views": 180685
+          "engagement": "187K views",
+          "views": 186927
         },
         {
           "handle": "WSJ",
@@ -257,20 +203,20 @@
           "views": 11066287
         },
         {
+          "handle": "UnderdogMLB",
+          "url": "https://x.com/UnderdogMLB/status/2061144791874765050",
+          "headline": "Jes\u00fas S\u00e1nchez leaves game after fan-thrown ball hits him",
+          "body": "Status alert: Jes\u00fas S\u00e1nchez leaves game Sunday after getting hit by a ball thrown from the stands.",
+          "engagement": "601K views",
+          "views": 601107
+        },
+        {
           "handle": "ChampionsLeague",
           "url": "https://x.com/ChampionsLeague/status/2061105341551542691",
           "headline": "Arda G\u00fcler named 2025/26 UEFA Champions League Revelation of the Season",
           "body": "\ud83c\udfc6 2025/26 UEFA Champions League Revelation of the Season: Arda G\u00fcler \ud83c\uddf9\ud83c\uddf7\u2728 \n\n#UCL",
           "engagement": "795K views",
           "views": 795242
-        },
-        {
-          "handle": "ChampionsLeague",
-          "url": "https://x.com/ChampionsLeague/status/2061105404046721419",
-          "headline": "Khvicha Kvaratskhelia named 2025/26 UEFA Champions League Player of the Season",
-          "body": "\u2728\ud83c\uddec\ud83c\uddea Khvicha Kvaratskhelia is the 2025/26 UEFA Champions League Player of the Season \ud83d\ude4c\n\n#UCL",
-          "engagement": "647K views",
-          "views": 646903
         }
       ]
     },
@@ -281,29 +227,37 @@
           "url": "https://x.com/elonmusk/status/2060913203542913258",
           "headline": "Elon Musk posts video captioned 'Problems in Paris'",
           "body": "Problems in Paris",
-          "engagement": "48.3M views",
-          "views": 48251254
+          "engagement": "55.2M views",
+          "views": 55192842
         },
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2060913698147823751",
-          "headline": "Elon Musk comments 'Pretty good progress' on Tesla IPO investment growth",
+          "headline": "Elon Musk replies 'Pretty good progress' to Tesla IPO tweet",
           "body": "Pretty good progress",
-          "engagement": "27.2M views",
-          "views": 27206960
+          "engagement": "30.0M views",
+          "views": 30049752
         },
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2060976208502812816",
-          "headline": "Elon Musk promotes Suicidal Empathy audiobook",
-          "body": "Try the audiobook of Suicidal Empathy https://books.apple.com/us/audiobook/suicidal-empathy/id1849502181",
-          "engagement": "2.50M views",
-          "views": 2495969
+          "url": "https://x.com/elonmusk/status/2060968536630038908",
+          "headline": "Elon Musk demands release of footage in reply",
+          "body": "Release the footage, you evil bastards!",
+          "engagement": "9.0M views",
+          "views": 9012118
         }
       ]
     },
     "pods": {
       "stories": [
+        {
+          "handle": "TheoVon",
+          "url": "https://x.com/TheoVon/status/2061082350994239786",
+          "headline": "Theo Von shares prayer for Australian women doctors in Gaza",
+          "body": "Praying for these brave women",
+          "engagement": "592K views",
+          "views": 592216
+        },
         {
           "handle": "theovon",
           "url": "https://x.com/theovon/status/2061082350994239786",
@@ -319,14 +273,6 @@
           "body": "Joe Rogan left in shock with Tom Segura after reading what the Jewish Bible says about self-pleasure:\n\nROGAN: \u201cThe Talmud says crazy sh*t about how you can impregnate a demon from a different dimension.\u201d\n\nSEGURA: \u201cThat\u2019s dark. They only said that to get people to stop touching themselves.\u201d\n\nROGAN: \u201cPeople are guilty of doing that today more than ever before because we have phones.\u201d\n\nSEGURA: \u201cThere are psychos who will spend hours stopping before they finish so they can keep going.\u201d\n\nROGAN: \u201cThey\u2019re waiting for the right scene to end their session on.\u201d\n\nSEGURA: \u201cHave you ever done that?\u201d\n\nROGAN: \u201cI\u2019ve done it and then hated myself for hours afterwards.\u201d",
           "engagement": "745K views",
           "views": 745820
-        },
-        {
-          "handle": "joeroganhq",
-          "url": "https://x.com/joeroganhq/status/2060873900762821002",
-          "headline": "Trump offers to help California governor Gavin Newsom if needed.",
-          "body": "Trump: \"We will help California. Gavin Newsom was here...he's a good guy! If he needed it, I'd do it in a heartbeat... If I were a Democrat governor, call up Trump. Come on in, make us look good. We're cutting crime down to nothing.\"",
-          "engagement": "71K views",
-          "views": 71304
         }
       ]
     },
@@ -341,25 +287,33 @@
           "views": 1603124
         },
         {
+          "handle": "FilmUpdates",
+          "url": "https://x.com/FilmUpdates/status/2061117253811368286",
+          "headline": "Alexa Demie covers latest Hollywood Reporter issue.",
+          "body": "Alexa Demie covers the latest issue of The Hollywood Reporter, photographed by Emman Montalvan.\n\n\ud83d\udd17: https://www.hollywoodreporter.com/tv/tv-features/alexa-demie-interview-euphoria-1236609237/",
+          "engagement": "531K views",
+          "views": 531609
+        },
+        {
           "handle": "PopBase",
           "url": "https://x.com/PopBase/status/2061119258113741239",
           "headline": "Alexa Demie on The Hollywood Reporter cover",
           "body": "Alexa Demie graces the cover of The Hollywood Reporter.",
           "engagement": "153K views",
           "views": 153451
-        },
-        {
-          "handle": "JPOP_Archived",
-          "url": "https://x.com/JPOP_Archived/status/2061007729972621785",
-          "headline": "ARASHI Tokyo Dome attendee list includes celebrities and industry figures",
-          "body": "\u5d50\n\u6771\u4eac\u30c9\u30fc\u30e0\n\n<\u95a2\u4fc2\u8005\u5e2d\u62db\u5f85\u5ba2>\n\n\u6b74\u4ee3\u30c1\u30fc\u30d5\u30de\u30cd\u30fc\u30b8\u30e3\u30fc\n\u4e8b\u52d9\u6240\u30b9\u30bf\u30c3\u30d5\n\u6240\u5c5e\u97f3\u697d\u30ec\u30fc\u30d9\u30eb\u306e\u793e\u54e1\n\u30a2\u30a4\u30c9\u30eb\u8a8c\u5d50\u62c5\u5f53\n\u30c6\u30ec\u30d3\u8a8c\u5d50\u62c5\u5f53\nSexy Zone \u5143\u5d50\u62c5\u5f53\u30de\u30cd\n\u5143V6\u62c5\u5f53\u5d50\u30de\u30cd\nSnow Man\nNEWS\n\u306a\u306b\u308f\u7537\u5b50\n\u30b8\u30e5\u30cb\u30a2\n\u5e03\u888b\u5bc5\u6cf0\n\u4eca\u4e95\u7f8e\u6a39\n\u6709\u50cd\u7531\u7f8e\u5b50\n\u52a0\u8cc0\u307e\u308a\u3053\n\u6709\u5409\u5f18\u884c \n\u4f50\u85e4\u6d69\u5e02\n\u5c71\u7530\u88d5\u8cb4\n\u897f\u91ce\u4e03\u702c",
-          "engagement": "370K views",
-          "views": 370869
         }
       ]
     },
     "recipe": {
       "stories": [
+        {
+          "handle": "CookingHub_",
+          "url": "https://x.com/CookingHub_/status/2061087803635912725",
+          "headline": "Cooking tip for preparing meat learned at steakhouse",
+          "body": "Put the meat in eggs, I learned this trick at a 5-star steakhouse.",
+          "engagement": "285K views",
+          "views": 285477
+        },
         {
           "handle": "messedupfoods",
           "url": "https://x.com/messedupfoods/status/2060884212048376002",
@@ -369,20 +323,12 @@
           "views": 267357
         },
         {
-          "handle": "CookingHub_",
-          "url": "https://x.com/CookingHub_/status/2061057604764241949",
-          "headline": "Popular Rolled Omelet Toast Korean street food",
-          "body": "Popular Rolled Omelet Toast - Korean Street Food.",
-          "engagement": "41K views",
-          "views": 41339
-        },
-        {
-          "handle": "coookwithchris",
-          "url": "https://x.com/coookwithchris/status/2061093766413291780",
-          "headline": "Food photos with Solid caption",
-          "body": "Solid",
-          "engagement": "18K views",
-          "views": 18370
+          "handle": "gzchef",
+          "url": "https://x.com/gzchef/status/2061140768408895743",
+          "headline": "Shrimp spring roll recipe with ingredients and sauce",
+          "body": "One of my most requested recipes - Shrimp Spring Roll \ud83c\udf64 Screenshot and Save to try this recipe for yourself!\n\nMy Viral Recipe:\nRice Paper Wraps\nRomaine lettuce leaves\nVermicelli Noodles\nCooked Shrimp\nCarrot Matchsticks\nCucumbers matchsticks\nBasil\n\nPeanut Sauce:\n1/4 Cup Peanut Butter\n2 TB Coconut Milk\n1 TSP Garlic Minced\n2 TB Tamari\n2 TB Rice Wine Vinegar\n2 TB maple syrup\n2 TSP chili paste",
+          "engagement": "19K views",
+          "views": 18839
         }
       ]
     },
@@ -390,19 +336,19 @@
       "stories": [
         {
           "handle": "thsottiaux",
-          "url": "https://x.com/thsottiaux/status/2061106703446450392",
-          "headline": "Codex usage limits reset for ChatGPT paid users.",
-          "body": "The Codex usage limits have been reset for all paid ChatGPT subscriptions. You should be back to 100% weekly and 100% hourly limits.\n\nLet the tokens do incredible things today and have fun.",
-          "engagement": "185K views",
-          "views": 185752
-        },
-        {
-          "handle": "thsottiaux",
           "url": "https://x.com/thsottiaux/status/2060964284117782996",
           "headline": "AI model Codex outperforms Claude according to user feedback.",
           "body": "Five million users would agree. Resetting the limits tomorrow morning to celebrate.\n\nTime to go /fast",
           "engagement": "1.19M views",
           "views": 1193763
+        },
+        {
+          "handle": "thsottiaux",
+          "url": "https://x.com/thsottiaux/status/2061106703446450392",
+          "headline": "Codex usage limits reset for ChatGPT paid users.",
+          "body": "The Codex usage limits have been reset for all paid ChatGPT subscriptions. You should be back to 100% weekly and 100% hourly limits.\n\nLet the tokens do incredible things today and have fun.",
+          "engagement": "185K views",
+          "views": 185752
         },
         {
           "handle": "CuriosityonX",
@@ -419,10 +365,10 @@
         {
           "handle": "nypost",
           "url": "https://x.com/nypost/status/2060870586880884748",
-          "headline": "Wiener wonderland at Huntington Beach for 'SoCal Wienerfest'",
+          "headline": "Huntington Beach hosts 'SoCal Wienerfest' dachshund event drawing crowds to Orange County beach.",
           "body": "Wiener wonderland at Huntington Beach for 'SoCal Wienerfest' https://nypost.com/2026/05/30/us-news/orange-county-beach-packed-with-dachshunds-for-socal-wienerfest/?utm_campaign=nypost&utm_medium=social&utm_source=twitter",
-          "engagement": "16.5K views",
-          "views": 16481
+          "engagement": "17K views",
+          "views": 17008
         },
         {
           "handle": "nypost",
@@ -445,20 +391,20 @@
           "views": 24950
         },
         {
-          "handle": "cremieuxrecueil",
-          "url": "https://x.com/cremieuxrecueil/status/2061127826615476286",
-          "headline": "Link to Polymarket on Trump UFO files declassification",
-          "body": "https://polymarket.com/event/trump-declassifies-new-ufo-files-by-648",
-          "engagement": "2.2K views",
-          "views": 2228
-        },
-        {
           "handle": "realannapaulina",
           "url": "https://x.com/realannapaulina/status/2061095920859562131",
           "headline": "Rep. Anna Paulina Luna thanks Vanity Fair for UFO files story",
           "body": "Thank you @VanityFair ! \ud83d\udd75\ud83c\udffb\u200d\u2640\ufe0f\nhttps://www.vanityfair.com/news/story/anna-paulina-luna-ufo-files?srsltid=AfmBOopHUuwYrYAXz_lfcL_PkTRgRyW6_37mOJvSsAtqCBaJCZPTUcbL",
           "engagement": "13.1K views",
           "views": 13108
+        },
+        {
+          "handle": "cremieuxrecueil",
+          "url": "https://x.com/cremieuxrecueil/status/2061127826615476286",
+          "headline": "Link to Polymarket on Trump UFO files declassification",
+          "body": "https://polymarket.com/event/trump-declassifies-new-ufo-files-by-648",
+          "engagement": "2.2K views",
+          "views": 2228
         }
       ]
     },
@@ -471,17 +417,9 @@
           "body": "\u30eb\u30fc\u30e0\u30e1\u30a4\u30c8\u3063\u3066\u3053\u3093\u306a\u306b\u30ea\u30a2\u30af\u30b7\u30e7\u30f3\u306a\u304f\u306a\u308b\u307b\u3069\u4ef2\u826f\u304f\u306a\u308c\u308b\u3093\u3060\uff57\uff57\uff57",
           "engagement": "1.3M views",
           "views": 1325171
-        },
-        {
-          "handle": "suckmysasss1",
-          "url": "https://x.com/suckmysasss1/status/2060813933989294104",
-          "headline": "Request for funny stickers to reply to someone",
-          "body": "can someone send me funny stickers to respond to him w",
-          "engagement": "750K views",
-          "views": 749968
         }
       ]
     }
   },
-  "last_updated": "2026-05-31T17:06:39.548479"
+  "last_updated": "2026-05-31T21:00:52.824028"
 }
