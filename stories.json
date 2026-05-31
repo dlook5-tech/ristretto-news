@@ -26,25 +26,25 @@
           ]
         },
         {
-          "headline": "Israeli airstrikes destroy ancient UNESCO site in Tyre, Lebanon",
-          "url": "https://x.com/AlexCrawfordSky/status/2060047297312944133",
-          "handle": "AlexCrawfordSky",
+          "headline": "Ghana parliament passes bill criminalizing LGBTQ+ activities and promotion",
+          "url": "https://x.com/BBCWorld/status/2060526601557721350",
+          "handle": "BBCWorld",
           "perspectives": [
             {
-              "label": "Independent",
-              "handle": "mehdirhasan",
-              "url": "https://x.com/mehdirhasan/status/2060094659381063695",
-              "body": "Barbarism from Israel. Again. And the world just watches.",
-              "engagement": "677K views",
-              "views": 677534
+              "label": "Conservative",
+              "handle": "dom_lucre",
+              "url": "https://x.com/dom_lucre/status/2060748406415347963",
+              "body": "\ud83d\udd25\ud83d\udea8BREAKING: Ghana just passed an extremely controversial bill that criminalizes homosexuality and the promotion of LGBTQ+ activities. If they catch anyone Identifying as gay, bisexual, transgender, lesbian, or queer they will face up to three years in prison.",
+              "engagement": "425K views",
+              "views": 425673
             },
             {
-              "label": "Conservative",
-              "handle": "DougAMacgregor",
-              "url": "https://x.com/DougAMacgregor/status/2060537719147651334",
-              "body": "BREAKING: Congress is now attempting to LINK The US and Israeli military through the national Defense Authorization Act.",
-              "engagement": "1.3M views",
-              "views": 1392592
+              "label": "Independent",
+              "handle": "BRICSinfo",
+              "url": "https://x.com/BRICSinfo/status/2060719300386660604",
+              "body": "JUST IN: \ud83c\uddec\ud83c\udded Ghana passes bill criminalizing homosexuality and the promotion of LGBTQ+ activities. Identifying as lesbian, gay, bisexual, transgender, or queer can be punished by up to three years in prison.",
+              "engagement": "520K views",
+              "views": 520149
             }
           ]
         },
@@ -68,71 +68,87 @@
     "usa": {
       "stories": [
         {
-          "headline": "White House releases update on President Trump's health",
-          "url": "https://x.com/WhiteHouse/status/2060723489292661124",
-          "handle": "WhiteHouse",
+          "headline": "Trump pardons fraudsters who stole millions including Medicare funds",
+          "url": "https://x.com/GOP__Ls/status/2060172399530717344",
+          "handle": "GOP__Ls",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "WhiteHouse",
-              "url": "https://x.com/WhiteHouse/status/2060723489292661124",
-              "body": "\"President Trump remains in excellent health... Cognitive and physical performance are excellent. He is fully fit to carry out all duties of the Commander-in-Chief and Head of State.\" - CAPT SEAN P. BARBABELLA. DO, MC, USN PHYSICIAN TO THE PRESIDENT",
-              "engagement": "233K views",
-              "views": 233376
+              "handle": "NEWSMAX",
+              "url": "https://x.com/NEWSMAX/status/2060422755628286063",
+              "body": "PRESIDENTIAL PARDON?: An albino buffalo named \u201cDonald Trump\u201d was saved from an Eid al-Adha sacrifice in Bangladesh after going viral on social media because of its distinctive blond hairdo and resemblance to the president.",
+              "engagement": "68K views",
+              "views": 68918
             },
             {
               "label": "Independent",
-              "handle": "RapidResponse47",
-              "url": "https://x.com/RapidResponse47/status/2060558237313663177",
-              "body": "\"President Trump remains in excellent health.\"",
-              "engagement": "414K views",
-              "views": 414489
-            }
-          ]
-        },
-        {
-          "headline": "Trump family corruption scandals exposed",
-          "url": "https://x.com/ChrisMurphyCT/status/2060042558513037592",
-          "handle": "ChrisMurphyCT",
-          "perspectives": [
+              "handle": "ViralReelAddict",
+              "url": "https://x.com/ViralReelAddict/status/2060818651574337899",
+              "body": "Trump pardoned 77 people that stole from Medicare. This flew under the radar. I believe Trump is selling pardons which is enough to send Trump away.",
+              "engagement": "67K views",
+              "views": 67531
+            },
             {
               "label": "Democrat",
-              "handle": "ewarren",
-              "url": "https://x.com/ewarren/status/2060729528410890389",
-              "body": "Donald Trump is trading stocks in companies his government affects through policy decisions. He\u2019s holding the stocks while pulling the levers that determine their value. It\u2019s corruption, plain and simple.",
-              "engagement": "75K views",
-              "views": 75038
-            },
-            {
-              "label": "Conservative",
-              "handle": "FurkanGozukara",
-              "url": "https://x.com/FurkanGozukara/status/2060697473803227374",
-              "body": "BOMBSHELL: Expert Tara Setmayer exposes massive Trump family corruption on CNN. She confirms Don Jr's net worth exploded from $50M to $300M in one year as their corporations suddenly received massive government contracts.",
-              "engagement": "268K views",
-              "views": 268404
+              "handle": "GOP__Ls",
+              "url": "https://x.com/GOP__Ls/status/2060172399530717344",
+              "body": "\ud83d\udea8 Trump has pardoned Trevor Milton, a man convicted of stealing $695 million from investors. This pardon came after Milton donated nearly $1 million to Trump's PAC.",
+              "engagement": "1.5M views",
+              "views": 1515363
             }
           ]
         },
         {
-          "headline": "Minnesota\u2019s fraud schemes are finished",
-          "url": "https://x.com/WhiteHouse/status/2060020518229590507",
-          "handle": "WhiteHouse",
+          "headline": "Federal judge reopens Trump's $10 billion IRS case over deception claims",
+          "url": "https://x.com/kylegriffin1/status/2060483907812749646",
+          "handle": "kylegriffin1",
+          "perspectives": [
+            {
+              "label": "Independent",
+              "handle": "kylegriffin1",
+              "url": "https://x.com/kylegriffin1/status/2060483907812749646",
+              "body": "BREAKING: A federal judge in Miami just made a striking turnabout \u2014 essentially reopening Trump's $10 billion case against the IRS, saying that she wanted to investigate \"grievous allegations\" that the hasty deal to resolve it was \"premised on deception.\"",
+              "engagement": "551K views",
+              "views": 551250
+            },
+            {
+              "label": "Democrat",
+              "handle": "GovPritzker",
+              "url": "https://x.com/GovPritzker/status/2060861091228332142",
+              "body": "This is what corruption looks like.",
+              "engagement": "46K views",
+              "views": 46127
+            }
+          ]
+        },
+        {
+          "headline": "Federal judge orders Trump's name removed from Kennedy Center",
+          "url": "https://x.com/NewsWire_US/status/2060434054143516830",
+          "handle": "NewsWire_US",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "LightOnLiberty",
-              "url": "https://x.com/LightOnLiberty/status/2060570969920467105",
-              "body": "Rep Tom Emmer of Minnesota says Governor Tim Walz and AG Keith Ellison knew for a DECADE that all this fraud was going on and they HID IT! As soon as Walz and Ellison assumed power, that SHUT DOWN prosecutions and investigations into the money laundering schemes!",
-              "engagement": "12K views",
-              "views": 12608
+              "handle": "Polymarket",
+              "url": "https://x.com/Polymarket/status/2060628556829372600",
+              "body": "JUST IN: Federal judge orders the Trump administration to remove Trump\u2019s name from the Kennedy Center within 14 days.",
+              "engagement": "313K views",
+              "views": 313633
             },
             {
               "label": "Independent",
-              "handle": "OIGatHHS",
-              "url": "https://x.com/OIGatHHS/status/2060360065677189585",
-              "body": "This Week at HHS-OIG, we focus on a $90M Medicaid fraud takedown in Minnesota and critical gaps in Medicare\u2019s inpatient rehabilitation facility requirements.",
-              "engagement": "24K views",
-              "views": 24965
+              "handle": "NewsWire_US",
+              "url": "https://x.com/NewsWire_US/status/2060434054143516830",
+              "body": "FEDERAL JUDGE ORDERS TRUMP NAME REMOVED FROM KENNEDY CENTER BUILDING",
+              "engagement": "785K views",
+              "views": 785284
+            },
+            {
+              "label": "Democrat",
+              "handle": "BernieSanders",
+              "url": "https://x.com/BernieSanders/status/2060454919614627960",
+              "body": "A federal judge just ordered Trump\u2019s name removed from the Kennedy Center because it honors JFK, not Donald Trump. America deserves a president, not a narcissist-in-chief who treats public office as a vehicle for self-promotion and personal enrichment.",
+              "engagement": "515K views",
+              "views": 515554
             }
           ]
         }
@@ -141,86 +157,61 @@
     "business": {
       "stories": [
         {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2060913698147823751",
+          "headline": "Elon Musk comments on Tesla's long-term stock performance since IPO.",
+          "body": "Pretty good progress",
+          "engagement": "2.7M views",
+          "views": 2700935
+        },
+        {
+          "handle": "Danny_Crypton",
+          "url": "https://x.com/Danny_Crypton/status/2060776834061537721",
+          "headline": "Warning about potential massive insider selling after SpaceX IPO.",
+          "body": "\ud83d\udea8 WARNING: SPACEX IPO IS A REAL BIG STORM FOR MARKETS!!\n\nThis could turn into the BIGGEST insider cashout in market history.\n\nSpaceX is expected to go public on June 12 at a valuation of $1.75-$2 TRILLION.\n\nThat would instantly make it larger than Microsoft and second only to Apple and Nvidia in the US market.\n\nYet the company lost $4.28 BILLION in Q1 2026 alone and has accumulated deficits of $41.3 BILLION since founding.\n\nThe real story is what happens after the IPO.\n\nInsiders currently own 95% of all shares.\n\nThe public float is only 5%.\n\nAnd insiders are sitting on $1.66 TRILLION of paper wealth that cannot currently be sold.\n\nMost IPOs lock insiders up for 180 days.\n\nSpaceX isn't doing that.\n\nJust 60 days after listing, 20% of eligible insider shares can unlock.\n\nIf the stock rises 30% above the IPO price, another 10% unlocks.\n\nThen five separate 7% unlocks hit between days 70 and 135.\n\nBy November 2026, 93% of early-release insider shares could already be free to sell.\n\nThis isn't just an IPO.\n\nIt's one of the biggest liquidity grab events Wall Street has ever seen.\n\nI\u2019ve been in finance for more than 15 years.\n\nWhen I EXIT the markets completely, I\u2019ll say it here publicly, like I always do.\n\nTurn notifications on. If you\u2019re not following yet, you\u2019ll understand why that was a mistake later.",
+          "engagement": "1.0M views",
+          "views": 1017389
+        },
+        {
           "handle": "InTheAssembly",
           "url": "https://x.com/InTheAssembly/status/2060809516824842249",
-          "headline": "Physical AI emerging as major multi-year investing cycle per Jensen Huang and market analysis.",
+          "headline": "Analysis of physical AI as next major investing cycle with stock picks.",
           "body": "Physical AI is shaping up to be the next major investing cycle.\n\nJensen Huang, the CEO of $NVDA and the most influential voice in tech right now, agrees.\n\nThe last few years were about digital AI. Training models, chatbots, data centers.\n\nNow the capital is rotating into embodied AI. Robots and systems that see, move, manipulate, and work alongside humans in the physical world.\n\nThis could be one of the highest-conviction multi-year themes of the next 5 to 10 years.\n\nHere\u2019s why the pieces are lining up now.\n\nFoundation models are finally good enough to handle real-world messiness. Object recognition, planning, adaptation. Edge compute and better sensors mean robots no longer need constant cloud hand-holding.\n\nHardware costs are crashing. Batteries, actuators, motors, lidar, vision sensors, and dexterous hands are all on cost-down curves. What cost millions five years ago is becoming viable at scale.\n\nDemand is real. Aging populations, reshoring, e-commerce, elder care, dangerous jobs. Governments and large corporations are incentivized to automate FAST.\n\nThe trillions already poured into AI infrastructure now fund the physical deployment layer. Pilots are proving ROI. The next phase is units shipping from thousands into millions.\n\nBetter robots generate more data. More data trains better robots. Adoption accelerates. The companies that nail hardware, software, and deployment at scale are the ones that win.\n\nHere are 4 names on my radar:\n\nSYM Symbotic.\n\nThe warehouse automation powerhouse. They build full AI-powered robotic systems that handle pallets, cases, and items end-to-end. Walmart-scale deployments with a long-term backlog already locked in.\n\nThis is not a gadget. It is a turnkey platform deployable today.\n\n$28B market cap. Sticky long-term contracts and real recurring support revenue. If logistics automation goes mainstream, this is the name that benefits first.\n\nCGNX Cognex.\n\nThe undisputed eyes of the robot revolution. Leader in machine vision systems, sensors, and software that let robots and factories see, inspect, guide, and identify with high accuracy.\n\nFactories, warehouses, automotive, electronics. All of them need vision to make physical AI actually work reliably.\n\n~$11B market cap. Strong margins expanding with AI upgrades. Forward multiples reasonable for 20%+ growth. A blue-chip in the space still flying under retail radar.\n\nNDSN Nordson.\n\nThe quiet precision dispense king for robotic manufacturing. They make the specialized equipment robots use to apply adhesives, coatings, sealants, and fluids across electronics, automotive, packaging, and medical.\n\nAs robots get more dexterous and lines get smarter, demand for their tools surges.\n\n~$16B market cap. Niche dominance. High margins. Diversified end-markets. The boring industrial that benefits from the automation wave without the froth.\n\nOUST Ouster.\n\nThe perception layer of physical AI. High-resolution digital lidar plus enhanced AI vision that gives robots and machines 3D mapping and sight in tough environments.\n\nIndustrial robotics, smart infrastructure, autonomous systems. Growing fast. Smaller cap, more room to run.\n\nStill early on profitability. Cash position is solid. Deal flow is accelerating. Higher-risk sleeve of the thesis. Every embodied AI needs great sensors, and Ouster is positioned without being the overhyped name.\n\nThe risks are real though.\n\nBut directionally, this feels like being early on EVs or cloud in the 2010s.\n\nThe Assembly is a team of 8 with one mission: helping you spot great stocks at the earliest stage.\n\nIn the last two weeks alone, we caught FLY, NOW, TE, PL and much more before their moves.\n\nFollow us and turn on notifications so you don\u2019t miss the next one. This is extremely important.\n\nA lot of people will wish they followed us sooner.",
-          "engagement": "105K views",
-          "views": 105241
-        },
-        {
-          "handle": "cryptorover",
-          "url": "https://x.com/cryptorover/status/2060802926595985886",
-          "headline": "China injects largest liquidity in 7 weeks with \u00a5923.6 billion boost.",
-          "body": "\ud83d\udd25 HUGE: \ud83c\udde8\ud83c\uddf3 China injected \u00a5923.6 Billion in liquidity this week.\n\nLargest liquidity injection in 7 WEEKS.",
-          "engagement": "61K views",
-          "views": 60535
-        },
-        {
-          "handle": "KobeissiLetter",
-          "url": "https://x.com/KobeissiLetter/status/2060789211780042755",
-          "headline": "Global central banks shifting toward more rate hikes amid resurgent inflation signals.",
-          "body": "World central banks are increasingly moving toward tightening:\n\nGlobal central banks have cut rates 31 times year-to-date, outpacing 12 hikes conducted over the same period.\n\nOver the last 3 months, there were just ~3 more rate cuts than hikes globally, the smallest gap since 2023.\n\nDeveloped markets have now implemented 3 more rate hikes than cuts over this period.\n\nAt the same time, emerging markets have still seen 6 more rate cuts than hikes.\n\nTo put this into perspective, world central banks hiked rates ~90 times more than they cut in a single 3-month period during the peak of the 2022 inflation crisis.\n\nResurgent inflation points to more rate hikes ahead.",
-          "engagement": "63K views",
-          "views": 62656
+          "engagement": "464K views",
+          "views": 464662
         }
       ]
     },
     "top": {
       "stories": [
         {
-          "handle": "lunar_GMMTV",
-          "url": "https://x.com/lunar_GMMTV/status/2060692710676222341",
-          "headline": "Thai celebrity video clip with Thai text overlay",
-          "body": "\u0e02\u0e38\u0e48\u0e19\u0e41\u0e21\u0e48\u0e02\u0e4b\u0e32 #LUNAR @NamtanTipnaree @filmracha",
-          "engagement": "1.7M views",
-          "views": 1669025
+          "handle": "akiko_lawson",
+          "url": "https://x.com/akiko_lawson/status/2060858796369645968",
+          "headline": "Lawson Japan running 5-day free coupon giveaway challenge for frozen gyoza",
+          "body": "5\u65e5\u9593\u9650\u5b9a\u306e\u7121\u6599\u5238\u30c1\u30e3\u30ec\u30f3\u30b8(^^)\n\u4eca\u65e5\u306f\u51b7\u51cd\u713c\u9903\u5b50\u7121\u6599\u306e\u6700\u7d42\u65e5\u3067\u3059\u266a\n\n1\uff09\u3053\u306e\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u30d5\u30a9\u30ed\u30fc\n2\uff09\u3053\u306e\u6295\u7a3f\u3092\u30ea\u30dd\u30b9\u30c8\n3\uff09\u62bd\u9078\u3067\u6bce\u65e51\u4e07\u540d\u69d8\u306b\u7121\u6599\u5238\uff01\u7d50\u679c\u306f\u81ea\u52d5\u3067\u304a\u77e5\u3089\u305b",
+          "engagement": "17M views",
+          "views": 17008743
         },
         {
-          "handle": "any_GMMTV",
-          "url": "https://x.com/any_GMMTV/status/2060692706481881188",
-          "headline": "Thai celebrity video clip with Thai text overlay",
-          "body": "\u0e21\u0e35\u0e21\u0e35\u0e48\u0e19\u0e35\u0e19\u0e35\u0e48\u0e08\u0e32\u0e23\u0e49\u0e2d\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e32\u0e23\u0e31\u0e22\u0e2b\u0e31\u0e49\u0e22\u0e40\u0e2d\u0e19\u0e35\u0e48\u0e1f\u0e31\u0e07\u0e19\u0e49\u0e32 #ANY @emiamily @beonnnie",
-          "engagement": "1.3M views",
-          "views": 1339565
+          "handle": "nino_honmono",
+          "url": "https://x.com/nino_honmono/status/2060837330961957102",
+          "headline": "Arashi member Nino greeting followers with a good morning post",
+          "body": "\u7686\u30fc\u304a\u306f\u3088\u30fc",
+          "engagement": "2.9M views",
+          "views": 2923656
         },
         {
-          "handle": "frequernt",
-          "url": "https://x.com/frequernt/status/2060732866183729596",
-          "headline": "Post sharing list of top viral Indo videos with links.",
-          "body": "TOP VIRAL INDO TERBARU\ud83d\udcab\n\n\ud83d\udca6Syakirah\nhttps://uc-share.com/s/c535eda882fd4\n\n\ud83d\udca6Cut Salwa\nhttps://uc-share.com/s/601389f841904\n\n\ud83d\udca6Tasya Gym Dzzzra Hijab Batang Bandar Membara\nhttps://uc-share.com/s/745e7a24fc294\n\n\ud83d\udca6Umay Tiktok\nhttps://uc-share.com/s/e3b1d67fe2a74\n\nTerabox UC Share Browser Doodstream Videy Pocong Jadi Jadian",
-          "engagement": "18K views",
-          "views": 17983
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2060913698147823751",
+          "headline": "Elon Musk commenting on Tesla IPO investment growth",
+          "body": "Pretty good progress",
+          "engagement": "2.7M views",
+          "views": 2680608
         }
       ]
     },
     "msm": {
-      "stories": [
-        {
-          "handle": "nytimes",
-          "url": "https://x.com/nytimes/status/2060492055407636979",
-          "headline": "Federal judge reopens Trump $10 billion IRS case",
-          "body": "Breaking News: A federal judge effectively reopened President Trump\u2019s $10 billion case against the IRS, in a striking turnabout. https://www.nytimes.com/2026/05/29/us/politics/trump-irs-lawsuit-ruling.html?smid=tw-nytimes&smtyp=cur",
-          "engagement": "578K views",
-          "views": 578414
-        },
-        {
-          "handle": "nytimes",
-          "url": "https://x.com/nytimes/status/2060485539610902828",
-          "headline": "Federal judge reopens Trump\u2019s $10 billion IRS lawsuit",
-          "body": "Breaking News: A federal judge effectively reopened President Trump\u2019s $10 billion case against the IRS, in a striking turnabout. https://www.nytimes.com/2026/05/29/us/politics/trump-irs-lawsuit-ruling.html?smid=tw-nytimes&smtyp=cur",
-          "engagement": "544K views",
-          "views": 544195
-        },
-        {
-          "handle": "CNN",
-          "url": "https://x.com/CNN/status/2060512792608731196",
-          "headline": "This weekend features a true blue moon",
-          "body": "This weekend will bear witness to a true blue moon: the second full moon to appear in the sky in a single month. https://www.cnn.com/2026/05/29/science/may-blue-moon-explainer?Date=20260529&Profile=CNN&utm_content=1780091712&utm_medium=social&utm_source=twitter",
-          "engagement": "102K views",
-          "views": 101682
-        }
-      ]
+      "stories": []
     },
     "sports": {
       "stories": [
@@ -233,20 +224,20 @@
           "views": 16686239
         },
         {
-          "handle": "TheHateCentral",
-          "url": "https://x.com/TheHateCentral/status/2060757256581325245",
-          "headline": "User laments potential for low-scoring soccer match",
-          "body": "It\u2019s really about to be a scoreless 85 minutes \ud83d\udc94",
-          "engagement": "267K views",
-          "views": 266970
+          "handle": "BleacherReport",
+          "url": "https://x.com/BleacherReport/status/2060917326791205273",
+          "headline": "Bleacher Report shares emotional reaction to Wembanyama in NBA Finals context.",
+          "body": "LOOK WHAT IT MEANS TO WEMBY \ud83e\udd79",
+          "engagement": "799K views",
+          "views": 799528
         },
         {
-          "handle": "NBA",
-          "url": "https://x.com/NBA/status/2060790847122120728",
-          "headline": "NBA notes Spurs vs Thunder as 12th matchup in Game 7",
-          "body": "Spurs vs. Thunder.\nFor the 12th time this season.\nThis time in a GAME 7. \ud83c\udf7f\n\nTonight marks just the 2nd time in the past 30 years that two teams will play each other 12+ times in the same season, joining GSW/HOU in 2024-25.\n\nDon't miss these budding rivals battle for a spot in the NBA Finals. It's WIN or GO HOME as Game 7 tips off at 8:00pm/et on NBC & Peacock!",
-          "engagement": "118K views",
-          "views": 117852
+          "handle": "LegionHoops",
+          "url": "https://x.com/LegionHoops/status/2060913642644910533",
+          "headline": "Legion Hoops highlights value of a chase-down block in Spurs context.",
+          "body": "That chase down block was worth $41 million on its own.",
+          "engagement": "755K views",
+          "views": 755640
         }
       ]
     },
@@ -254,27 +245,27 @@
       "stories": [
         {
           "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2060913203542913258",
+          "headline": "Elon Musk posts video about problems in Paris",
+          "body": "Problems in Paris",
+          "engagement": "5.4M views",
+          "views": 5436003
+        },
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2060913698147823751",
+          "headline": "Elon Musk comments on Tesla IPO returns",
+          "body": "Pretty good progress",
+          "engagement": "2.7M views",
+          "views": 2700935
+        },
+        {
+          "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2060606796717273539",
-          "headline": "Elon Musk agrees that Rupert is the man for the moment",
+          "headline": "Elon Musk agrees Frank is right on a political post",
           "body": "Frank is right",
-          "engagement": "26.8M views",
-          "views": 26836361
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2060483139374358651",
-          "headline": "Elon Musk confirms SpaceX is 10xing space solar power every few years",
-          "body": "True",
-          "engagement": "15.2M views",
-          "views": 15158310
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2060794474633048087",
-          "headline": "Elon Musk calls for death penalty in response to a post",
-          "body": "Death penalty",
-          "engagement": "312K views",
-          "views": 311568
+          "engagement": "31.8M views",
+          "views": 31836796
         }
       ]
     },
@@ -282,23 +273,47 @@
       "stories": [
         {
           "handle": "joeroganhq",
-          "url": "https://x.com/joeroganhq/status/2060541705179316711",
-          "headline": "Stephen A. Smith comments on podcast guest invitations including Rogan show.",
-          "body": "Stephen A. Smith: \"Jasmine Crockett and AOC have been invited on this show for 4 months. Gavin Newsom has been invited for longer than that ... Chuck Schumer's been invited on this show. Hasn't shown up. Where they at?\"",
-          "engagement": "191K views",
-          "views": 191487
+          "url": "https://x.com/joeroganhq/status/2060892768487276565",
+          "headline": "Clip captioned 'Not a good way to lose.'",
+          "body": "Not a good way to lose.",
+          "engagement": "42.1K views",
+          "views": 42129
+        },
+        {
+          "handle": "joeroganhq",
+          "url": "https://x.com/joeroganhq/status/2060885218651996170",
+          "headline": "Clip of Trump addressing Canada and the United States relationship.",
+          "body": "Trump: \"Canada lives because of the United States, remember that Mark [Carney], the next time you make your statements.\"",
+          "engagement": "37.7K views",
+          "views": 37666
+        },
+        {
+          "handle": "joeroganhq",
+          "url": "https://x.com/joeroganhq/status/2060873900762821002",
+          "headline": "Clip of Trump offering help to California under Gavin Newsom.",
+          "body": "Trump: \"We will help California. Gavin Newsom was here...he's a good guy! If he needed it, I'd do it in a heartbeat... If I were a Democrat governor, call up Trump. Come on in, make us look good. We're cutting crime down to nothing.\"",
+          "engagement": "45.0K views",
+          "views": 45026
         }
       ]
     },
     "pg6": {
       "stories": [
         {
-          "handle": "DiscussingFilm",
-          "url": "https://x.com/DiscussingFilm/status/2060757345932615788",
-          "headline": "Minecraft 2 titled A Minecraft Movie - Squared, hits theaters July 2027",
-          "body": "\u2018MINECRAFT 2\u2019 has been titled \u2018A MINECRAFT MOVIE - SQUARED\u2019.\n\nIn theaters on July 23, 2027.",
-          "engagement": "367K views",
-          "views": 367124
+          "handle": "ariyoshihiroiki",
+          "url": "https://x.com/ariyoshihiroiki/status/2060880318232658204",
+          "headline": "Japanese comedian wishes actress Kyoka Suzuki a happy birthday.",
+          "body": "\u672c\u65e5\uff15\u6708\uff13\uff11\u65e5\u306f\n\u9234\u6728\u4eac\u9999\u3055\u3093\u306e\u304a\u8a95\u751f\u65e5\u3067\u3059\n\u304a\u3081\u3067\u3068\u3046\u3054\u3056\u3044\u307e\u3059\uff01",
+          "engagement": "422K views",
+          "views": 422177
+        },
+        {
+          "handle": "badbunita",
+          "url": "https://x.com/badbunita/status/2060853780837466253",
+          "headline": "Bad Bunny's girlfriend posts cryptic video about him.",
+          "body": "El sabe PERFECTAMENTE lo que esta haciendo",
+          "engagement": "392K views",
+          "views": 391540
         },
         {
           "handle": "DiscussingFilm",
@@ -307,34 +322,18 @@
           "body": "\u2018BACKROOMS\u2019 earned $38.4M in its domestic opening day.\n\n\u2022 4th biggest opening day of all time for a horror film\n\n\u2022 2nd biggest opening day of 2026 for any film\n\n\u2022 It has already become the biggest opening of all time for an A24 film",
           "engagement": "469K views",
           "views": 469357
-        },
-        {
-          "handle": "ActressMarvels",
-          "url": "https://x.com/ActressMarvels/status/2060715385960407159",
-          "headline": "Actress entered industry at 38, modeled before, 100+ films, known after legal name dispute.",
-          "body": "\u2022 Entered the industry at 38\n\u2022 Previously worked in modeling\n\u2022 Did 100+ films\n\u2022 Became widely known after a legal dispute over the name\n\nUnderrated Performer \ud83d\udd25!",
-          "engagement": "317K views",
-          "views": 317043
         }
       ]
     },
     "recipe": {
       "stories": [
         {
-          "handle": "Kuntotu",
-          "url": "https://x.com/Kuntotu/status/2060567664075157909",
-          "headline": "Viral reaction post quoting detailed pasta recipe with ingredients and steps",
-          "body": "\u3050\u3048\u3048\u3047\u30fc\u30fc\uff01\u60aa\u970a\u9000\u6563\u60aa\u970a\u9000\u6563\uff01\uff01",
-          "engagement": "2.9M views",
-          "views": 2996998
-        },
-        {
           "handle": "ore825",
           "url": "https://x.com/ore825/status/2060708852564410479",
-          "headline": "Japanese chicken cabbage hot pot recipe shared",
+          "headline": "Japanese recipe for slimming chicken cabbage hot pot",
           "body": "\u30de\u30f3\u30b8\u30e3\u30ed\u3044\u3089\u306d\u3048\u307b\u3069\u75e9\u305b\u3089\u308c\u308b\u934b\n\n\u300c\u9d8f\u3080\u306d\u30ad\u30e3\u30d9\u30c4\u934b\u300d\n\n\u304c\u30de\u30b8\u3067\u65e8\u3059\u304e\u30d8\u30eb\u30b7\u30fc\u306a\u306e\u3067\u7d76\u5bfe\u8a66\u3057\u3066\n\n\u30ad\u30e3\u30d9\u30c4\u534a\u7389500g\u3001\u6c34700cc\u3001\u915250cc\u3001\u9d8f\u30ac\u30e9\u59271\u534a\u3001\u9c39\u7bc02g\u3001\u5869\u5c0f1/3\u716e\u308b\n\n\u9d8f\u80f8\u8089350g\u3092\u524a\u304e\u5207\u308a\u3057\u58692\u3064\u307e\u307f\u3001\u8584\u529b\u7c89\u5927\u3055\u30582\u3092\u306f\u305f\u304d\u716e\u3066\u30aa\u30ea\u30fc\u30d6\u30aa\u30a4\u30eb\u3001\u80e1\u6912\n\n\u75e9\u305b\u305f\u3044\u306a\u3089\u30ad\u30e3\u30d9\u30c4\u934b\u98df\u3044\u306a\uff1f",
-          "engagement": "424K views",
-          "views": 423871
+          "engagement": "1.2M views",
+          "views": 1238553
         },
         {
           "handle": "CookingHub_",
@@ -343,19 +342,19 @@
           "body": "Giant Korean Street Cheese Buldak Sandwich.",
           "engagement": "408K views",
           "views": 408537
+        },
+        {
+          "handle": "Soulfoodiiee",
+          "url": "https://x.com/Soulfoodiiee/status/2060694260194926956",
+          "headline": "Banana bread pancakes recipe video",
+          "body": "\ud83c\udf7d Banana Bread Pancakes \n\ud83d\udc69\ud83c\udffb\u200d\ud83c\udf73 Hot Crossed Buns\n\n\ud83d\udcdd Recipe Link In The Comments",
+          "engagement": "75K views",
+          "views": 75094
         }
       ]
     },
     "science": {
       "stories": [
-        {
-          "handle": "NousResearch",
-          "url": "https://x.com/NousResearch/status/2060490936124105179",
-          "headline": "Hermes Agent gains Tool Search capability for selective tool loading.",
-          "body": "Hermes Agent now has Tool Search, so your agent only loads what it needs",
-          "engagement": "822K views",
-          "views": 822180
-        },
         {
           "handle": "NousResearch",
           "url": "https://x.com/NousResearch/status/2060722721516872020",
@@ -371,30 +370,46 @@
           "body": "A personalized mRNA vaccine has achieved remarkable long-term survival results in patients with pancreatic cancer.\n\nOncologists at Memorial Sloan Kettering Cancer Center have reported a major breakthrough with a custom-designed mRNA neoantigen vaccine that trains the immune system to recognize and attack pancreatic ductal adenocarcinoma (PDAC), one of the most aggressive forms of cancer.\n\nIn a landmark phase I clinical trial, 16 patients who had undergone surgery received individualized vaccines based on the unique genetic mutations identified in their own tumors. The vaccine stimulates the production of powerful CD8+ cytotoxic T cells specifically targeting those neoantigens, enabling the immune system to hunt down and destroy any remaining microscopic cancer cells. \n\nThe results were striking: 8 of the 16 patients developed strong vaccine-induced T-cell responses. Of these responders, 7 remained completely cancer-free for four to six years after surgery. In contrast, among the 8 patients who did not mount a significant immune response, only 2 survived, with a median survival of just 3.4 years. \n\nThese outcomes represent a dramatic improvement for a cancer that typically has a five-year survival rate of only about 13%. While the results are highly encouraging, experts note that the approach is still in early development. Creating each personalized vaccine requires rapid tumor sequencing and specialized manufacturing, which adds complexity and time before patients can begin combined chemotherapy and immunotherapy.\n\n[Sethna, Z., Rojas, L. A., Ostendorf, B. N., Lihm, J., Allen, P., Balachandran, V. P., & Greenbaum, B. D. (2025). RNA neoantigen vaccines prime long-lived CD8+ T cells in pancreatic cancer. Nature. DOI: 10.1038/s41586-024-08508-4]",
           "engagement": "23.3K views",
           "views": 23347
+        },
+        {
+          "handle": "the_treewizard",
+          "url": "https://x.com/the_treewizard/status/2060872344961519808",
+          "headline": "Quantum droplets shatter like rain in new physics breakthrough analysis.",
+          "body": "Breakthrough! Quantum Droplets Shatter Like Rain\u2014Here\u2019s Why It Matters - YouTube https://www.youtube.com/watch?v=KJLdeoHLKi4\n\nA year ago but cool",
+          "engagement": "4.4K views",
+          "views": 4408
         }
       ]
     },
     "local": {
       "stories": [
         {
-          "handle": "FBILosAngeles",
-          "url": "https://x.com/FBILosAngeles/status/2060511518454677677",
-          "headline": "FBI LA highlights May arrests including former SoCal mayor",
-          "body": "Patrick Grandy, Assistant Director in Charge of FBI Los Angeles, spotlights investigative successes for the month of May. Highlights include the arrest of a man for alleged assault in furtherance of a hate crime, the indictment of a former Southern California Mayor for allegedly acting as an illegal agent for the Chinese government.",
-          "engagement": "48K views",
-          "views": 48161
+          "handle": "ABC7",
+          "url": "https://x.com/ABC7/status/2060818704854614390",
+          "headline": "OC judge dismisses indictment against Mission Viejo dermatologist accused of poisoning husband",
+          "body": "An Orange County Superior Court judge Friday dismissed an indictment against a Mission Viejo dermatologist accused of poisoning her husband, a fellow physician, by putting Drano into his tea. https://abc7.com/post/oc-judge-dismisses-indictment-mission-viejo-woman-accused-poisoning-husband-drano/19200587/",
+          "engagement": "5.0K views",
+          "views": 5036
         }
       ]
     },
     "conspiracy": {
       "stories": [
         {
-          "handle": "GeneralMCNews",
-          "url": "https://x.com/GeneralMCNews/status/2060517047755264345",
-          "headline": "Congress bill would fuse US and Israeli militaries under NDAA Section 224",
-          "body": "BREAKING: Congress is attempting to fuse the U.S. military with Israel's as Section 224 of the 2027 National Defense Authorization Act \"would all but fuse American and Israeli armed forces together\"",
-          "engagement": "979K views",
-          "views": 979432
+          "handle": "OVODocket",
+          "url": "https://x.com/OVODocket/status/2060923103803273490",
+          "headline": "Jay-Z actions confirm suspicions about Roc Nation animosity as conspiracy theory",
+          "body": "Jay-Z\u2019s actions tonight should show everyone that the public\u2019s suspicions about Roc Nation\u2019s animosity toward Drake aren\u2019t just a \u201cconspiracy theory.\u201d \n\nAll the nonsense Jay-Z said in his GQ interview about not being personally invested in the rap battle was clearly disingenuous.",
+          "engagement": "23.6K views",
+          "views": 23573
+        },
+        {
+          "handle": "mattforney",
+          "url": "https://x.com/mattforney/status/2060904088733184304",
+          "headline": "Immigration lawyer accused of urging fraud in conspiracy charges",
+          "body": "Hey asswipe. You just got caught urging Indians to commit immigration fraud.\n\nEnjoy the criminal conspiracy charges, numbnuts.",
+          "engagement": "12.8K views",
+          "views": 12837
         },
         {
           "handle": "LeadingReport",
@@ -403,14 +418,6 @@
           "body": "Trump posts video of FBI whistleblower saying thousands of hours of Jan. 6 footage were hidden because federal \u201chuman sources\u201d were in the crowd.",
           "engagement": "55K views",
           "views": 55252
-        },
-        {
-          "handle": "EricLDaugh",
-          "url": "https://x.com/EricLDaugh/status/2060701874135650526",
-          "headline": "Trump highlights FBI whistleblower claims on hidden Jan. 6 footage and deep state agents",
-          "body": "\ud83d\udea8 President Trump just DROPPED this bombshell:\n\nFBI whistleblower says thousands of hours of Jan. 6 footage was hidden because federal \"human sources\" were in the crowd, and Deep State agents were ordered to make up charges against Jan. 6ers\n\nAnyone who called it out from inside was \"retaliated\" against\n\nSCANDALOUS COVERUP!",
-          "engagement": "49K views",
-          "views": 48946
         }
       ]
     },
@@ -418,30 +425,30 @@
       "stories": [
         {
           "handle": "PardonMyMeme",
+          "url": "https://x.com/PardonMyMeme/status/2060745876327301529",
+          "headline": "David Guetta racism meme clip",
+          "body": "6 years ago David Guetta ended Racism",
+          "engagement": "3.3M views",
+          "views": 3346151
+        },
+        {
+          "handle": "Amanditas4",
+          "url": "https://x.com/Amanditas4/status/2060721164272443748",
+          "headline": "Kids 67 joke meme",
+          "body": "Kids who don't think 67 is funny are the most powerful beings in the planet",
+          "engagement": "853K views",
+          "views": 852611
+        },
+        {
+          "handle": "PardonMyMeme",
           "url": "https://x.com/PardonMyMeme/status/2060759601256014131",
           "headline": "Meme about David Guetta ending racism",
           "body": "https://t.co/KobbZ0FBE9",
           "engagement": "111K views",
           "views": 111446
-        },
-        {
-          "handle": "Zingus5",
-          "url": "https://x.com/Zingus5/status/2060482321241792988",
-          "headline": "Funny take on early indie game developer drama",
-          "body": "The early indie game era is so funny, since there were so few people making indie games these random guys with no idea of how to behave in the spotlight got catapulted to celebrity status which led to moments like this and the Jonathan Blow Soulja Boy moment",
-          "engagement": "249K views",
-          "views": 248925
-        },
-        {
-          "handle": "TrumpDailyPosts",
-          "url": "https://x.com/TrumpDailyPosts/status/2060772324400410767",
-          "headline": "Account shares a Trump meme about Obama library",
-          "body": "\ud835\uddd7\ud835\uddfc\ud835\uddfb\ud835\uddee\ud835\uddf9\ud835\uddf1 \ud835\udddd. \ud835\udde7\ud835\uddff\ud835\ude02\ud835\uddfa\ud835\uddfd \ud835\udde7\ud835\uddff\ud835\ude02\ud835\ude01\ud835\uddf5 \ud835\udde6\ud835\uddfc\ud835\uddf0\ud835\uddf6\ud835\uddee\ud835\uddf9 \ud835\udde0\ud835\uddf2\ud835\uddfa\ud835\uddf2 \ud835\udff1.\ud835\udfef\ud835\udfec.\ud835\udfee\ud835\udff2 \ud835\udfec\ud835\udfed:\ud835\udfec\ud835\udfef \ud835\udde3\ud835\udde0 \ud835\uddd8\ud835\udde6\ud835\udde7\n\n\ud83d\udea8Trump just posted the most savage meme of 2026; the Obama Presidential Library looking exactly like it belongs, as a giant overflowing garbage can. \n\nZero legacy, zero accomplishments, and now perfectly memorialized. \n\nAbsolute perfection! \ud83d\ude02\ud83c\uddfa\ud83c\uddf8",
-          "engagement": "33K views",
-          "views": 33017
         }
       ]
     }
   },
-  "last_updated": "2026-05-30T20:59:09.273247"
+  "last_updated": "2026-05-31T03:55:39.076702"
 }
