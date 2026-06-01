@@ -3,6 +3,37 @@
     "world": {
       "stories": [
         {
+          "headline": "Colombia presidential election heads to runoff between right-wing and left-wing candidates",
+          "url": "https://x.com/DropSiteNews/status/2061515953863557623",
+          "handle": "DropSiteNews",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "Defensa_Israel",
+              "url": "https://x.com/Defensa_Israel/status/2061453321789915527",
+              "body": "El colombiano Abelardo de la Espriella, el candidato que prometi\u00f3 restablecer las relaciones diplom\u00e1ticas con #Israel, abrir una embajada en Jerusal\u00e9n y solicitar la colaboraci\u00f3n de Israel en la lucha contra los c\u00e1rteles de la droga, qued\u00f3 primero por delante del izquierdista Iv\u00e1n Cepeda y ahora se dirigen ambos a una segunda vuelta decisiva.",
+              "engagement": "16K views",
+              "views": 16252
+            },
+            {
+              "label": "Independent",
+              "handle": "DropSiteNews",
+              "url": "https://x.com/DropSiteNews/status/2061515953863557623",
+              "body": "\ud83c\udde8\ud83c\uddf4 Petro warns of \u201cmafia fascism,\u201d calls for mass mobilization ahead of runoff",
+              "engagement": "14K views",
+              "views": 13872
+            },
+            {
+              "label": "Democrat",
+              "handle": "petrogustavo",
+              "url": "https://x.com/petrogustavo/status/2060708920331546774",
+              "body": "Ay amigo Polo Polo, \u00bfResucit\u00f3? Uribe fue a Ecuador y habl\u00f3 con Noboa y elevaron est\u00fapidamente los aranceles a Colombia...",
+              "engagement": "1.4M views",
+              "views": 1421409
+            }
+          ]
+        },
+        {
           "headline": "Dutch police slam pregnant Palestinian woman to ground at migration centre",
           "url": "https://x.com/AJEnglish/status/2061016886846816598",
           "handle": "AJEnglish",
@@ -26,40 +57,33 @@
           ]
         },
         {
-          "headline": "Zelenskyy warns of global missile production crisis as Russia ramps up output",
-          "url": "https://x.com/ZelenskyyUa/status/2061108957377159212",
-          "handle": "ZelenskyyUa",
-          "perspectives": [
-            {
-              "label": "Democrat",
-              "handle": "ZelenskyyUa",
-              "url": "https://x.com/ZelenskyyUa/status/2061108957377159212",
-              "body": "There is not enough anti-ballistic missile production in the United States and this could lead to a crisis in different parts of the world. Russia is ramping up its internal production of ballistic missiles.",
-              "engagement": "1M views",
-              "views": 1010582
-            }
-          ]
-        },
-        {
-          "headline": "Senior Iranian IRGC official assassinated in targeted strike in Tehran",
-          "url": "https://x.com/DougAMacgregor/status/2061269942440173642",
-          "handle": "DougAMacgregor",
+          "headline": "Ebola outbreak kills over 40 in DRC and Uganda amid aid struggles",
+          "url": "https://x.com/NBCNews/status/2061392349800849598",
+          "handle": "NBCNews",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "BuzzPatterson",
-              "url": "https://x.com/BuzzPatterson/status/2061258682911048017",
-              "body": "From Iran, right now. A senior IRGC official has been assassinated. Not sure if it was Israel or us.",
-              "engagement": "95K views",
-              "views": 95880
+              "handle": "Osint613",
+              "url": "https://x.com/Osint613/status/2061492128253943811",
+              "body": "Hundreds took to the streets in Nanyuki, Kenya, opposing a planned U.S.-Kenya Ebola quarantine facility in Laikipia County. Residents say the facility risks exposing their communities to the virus.",
+              "engagement": "106K views",
+              "views": 106464
             },
             {
               "label": "Independent",
-              "handle": "HormuzLetter",
-              "url": "https://x.com/HormuzLetter/status/2061174583177130409",
-              "body": "BREAKING: A targeted assassination of an IRGC member just took place in Andisheh, Tehran, the first in Iran since the April ceasefire began.",
-              "engagement": "346K views",
-              "views": 346815
+              "handle": "NBCNews",
+              "url": "https://x.com/NBCNews/status/2061392349800849598",
+              "body": "Over 40 people have died in a growing Ebola outbreak in the Democratic Republic of the Congo and Uganda, where government and international aid organizations are struggling to cope with the spread of the disease.",
+              "engagement": "16K views",
+              "views": 15610
+            },
+            {
+              "label": "Democrat",
+              "handle": "Osint613",
+              "url": "https://x.com/Osint613/status/2061492128253943811",
+              "body": "Hundreds took to the streets in Nanyuki, Kenya, opposing a planned U.S.-Kenya Ebola quarantine facility in Laikipia County.",
+              "engagement": "106K views",
+              "views": 106464
             }
           ]
         }
@@ -67,6 +91,29 @@
     },
     "usa": {
       "stories": [
+        {
+          "headline": "Bernie Sanders to introduce bill for public 50% ownership stake in major AI companies",
+          "url": "https://x.com/MorePerfectUS/status/2061459247204901146",
+          "handle": "MorePerfectUS",
+          "perspectives": [
+            {
+              "label": "Democrat",
+              "handle": "SenSanders",
+              "url": "https://x.com/SenSanders/status/2061448326436798789",
+              "body": "AI is built on humanity\u2019s collective knowledge. The wealth it generates must benefit humanity \u2014 not just Elon Musk, Sam Altman and other AI oligarchs. That\u2019s why I\u2019ll be introducing the American AI Sovereign Wealth Fund Act \u2014 to give the public a direct ownership stake.",
+              "engagement": "302K views",
+              "views": 302278
+            },
+            {
+              "label": "Independent",
+              "handle": "MorePerfectUS",
+              "url": "https://x.com/MorePerfectUS/status/2061459247204901146",
+              "body": "BREAKING: Bernie Sanders will introduce a bill to have the public take a 50% ownership stake in the country's biggest AI companies. The American AI Sovereign Wealth Fund Act would have the government tax AI companies, take 50% of the stock, and put it under public control.",
+              "engagement": "1M views",
+              "views": 1052376
+            }
+          ]
+        },
         {
           "headline": "President Trump and Iran reach framework for 60-day ceasefire amid ongoing Middle East negotiations",
           "url": "https://x.com/EmmanuelMacron/status/2061366849967661193",
@@ -87,29 +134,6 @@
               "body": "J\u2019ai \u00e9chang\u00e9 hier soir avec le Pr\u00e9sident Trump au sujet de la situation au Moyen-Orient. J\u2019ai salu\u00e9 les efforts d\u00e9termin\u00e9s qu\u2019il m\u00e8ne pour parvenir rapidement \u00e0 un accord entre les \u00c9tats-Unis et l\u2019Iran...",
               "engagement": "297K views",
               "views": 296674
-            }
-          ]
-        },
-        {
-          "headline": "Trump administration restores law and order with ICE enforcement push",
-          "url": "https://x.com/WhiteHouse/status/2060447084130509076",
-          "handle": "WhiteHouse",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "WhiteHouse",
-              "url": "https://x.com/WhiteHouse/status/2060447084130509076",
-              "body": "Promises made, promises kept. LAW AND ORDER restored.",
-              "engagement": "1.2M views",
-              "views": 1189769
-            },
-            {
-              "label": "Conservative",
-              "handle": "WhiteHouse",
-              "url": "https://x.com/WhiteHouse/status/2061104857574990018",
-              "body": "STAND WITH ICE. STAND WITH LAW ENFORCEMENT.",
-              "engagement": "101K views",
-              "views": 101081
             }
           ]
         },
@@ -141,28 +165,28 @@
     "business": {
       "stories": [
         {
-          "handle": "unusual_whales",
-          "url": "https://x.com/unusual_whales/status/2061421754409725997",
-          "headline": "Top 1% of US households control 31.9% of wealth",
-          "body": "The top 1% of U.S. households control almost a third (31.9%) of the nation\u2019s wealth, per Moneywise.",
-          "engagement": "60K views",
-          "views": 60638
-        },
-        {
-          "handle": "NoLimitGains",
-          "url": "https://x.com/NoLimitGains/status/2061173398810599678",
-          "headline": "4 stocks where CEOs are quietly buying millions in shares",
-          "body": "The 4 stocks where CEOs are quietly buying millions in shares with their own money right now:",
-          "engagement": "604K views",
-          "views": 604822
-        },
-        {
           "handle": "tailopez",
           "url": "https://x.com/tailopez/status/2061402537119436881",
-          "headline": "Odds of making $1 million via different paths",
+          "headline": "Odds of making $1 million from various sources including stock market",
           "body": "Odds of making $1 million:\n\n\ud83c\udfb0 Lottery: 0.0000003%\n\ud83c\udfc8 Pro athlete: 0.03%\n\ud83d\udc8d Marrying into money: 4%\n\ud83d\udcc8 Stock market: 10%\n\ud83c\udfe0 Real estate: 18%\n\ud83d\udcbc Business owner: 24%",
-          "engagement": "78K views",
-          "views": 78430
+          "engagement": "2.2M views",
+          "views": 2203583
+        },
+        {
+          "handle": "MorePerfectUS",
+          "url": "https://x.com/MorePerfectUS/status/2061459247204901146",
+          "headline": "Bernie Sanders to introduce bill for public 50% ownership in major AI companies",
+          "body": "BREAKING: Bernie Sanders will introduce a bill to have the public take a 50% ownership stake in the country's biggest AI companies.\n\nThe American AI Sovereign Wealth Fund Act would have the government tax AI companies, take 50% of the stock, and put it under public control.",
+          "engagement": "1.1M views",
+          "views": 1052376
+        },
+        {
+          "handle": "wallstreetbets",
+          "url": "https://x.com/wallstreetbets/status/2061489043666329905",
+          "headline": "$MU hits all-time high of $1,036 after Trump comments",
+          "body": "BREAKING: $MU just hit $1,036 for the first time ever\n\nMicron is now worth almost $1.2 TRILLION\n\n10 days ago Trump said:\n\n\"Boy, Micron is great... they could invest over $100 billion in New York.\"\n\n$MU was trading around $751\nnow it\u2019s $1,036\n\nthis stock was worth around $70B in April 2025\nnow it\u2019s worth almost $1.2T\n\nabsolutely insane",
+          "engagement": "122K views",
+          "views": 122127
         }
       ]
     },
@@ -185,12 +209,12 @@
           "views": 2706976
         },
         {
-          "handle": "Arsenal",
-          "url": "https://x.com/Arsenal/status/2061130206824595462",
-          "headline": "Arsenal fans celebrate North London takeover with video.",
-          "body": "North London takeover \u26a1\ufe0f",
-          "engagement": "1.28M views",
-          "views": 1281785
+          "handle": "thenihiin",
+          "url": "https://x.com/thenihiin/status/2061478036587847815",
+          "headline": "Short video clip about facts on certain friendships.",
+          "body": "Facts about friendships like this?",
+          "engagement": "247K views",
+          "views": 247804
         }
       ]
     },
@@ -211,19 +235,27 @@
           "body": "From @TheAthleticFC: The U.S. men\u2019s national team got its World Cup summer off to a flying, chaotic start with a 3-2 win over Senegal in a friendly Sunday. Christian Pulisic, the star who hadn\u2019t scored in more than five months, broke his barren run. https://www.nytimes.com/athletic/7322090/2026/05/31/usmnt-senegal-friendly-score-result-pulisic-pochettino-world-cup/?smid=tw-nytimes&smtyp=cur",
           "engagement": "29K views",
           "views": 29241
-        },
-        {
-          "handle": "CBSNews",
-          "url": "https://x.com/CBSNews/status/2061145687979430271",
-          "headline": "Over 6,300 children detained by ICE under Trump",
-          "body": "More than 6,300 children have been detained by ICE during President Trump's 2nd term. 97% have no criminal records.",
-          "engagement": "548K views",
-          "views": 548167
         }
       ]
     },
     "sports": {
       "stories": [
+        {
+          "handle": "NFL",
+          "url": "https://x.com/NFL/status/2061498719200031131",
+          "headline": "Browns trading DE Myles Garrett to Rams for EDGE Jared Verse and 2027 1st-round pick",
+          "body": "Browns trading DE Myles Garrett to Rams in exchange for EDGE Jared Verse and a 2027 1st-round pick. (via @RapSheet, @TomPelissero, @AdamSchefter)",
+          "engagement": "2.6M views",
+          "views": 2622167
+        },
+        {
+          "handle": "FabrizioRomano",
+          "url": "https://x.com/FabrizioRomano/status/2061417208698331623",
+          "headline": "Premier League names Senne Lammens as Signing of the Season",
+          "body": "\ud83d\udea8\ud83c\udfc5 OFFICIAL: Premier League vote Senne Lammens as PL Signing of the Season. \ud83c\udde7\ud83c\uddea",
+          "engagement": "3.6M views",
+          "views": 3625517
+        },
         {
           "handle": "NBA",
           "url": "https://x.com/NBA/status/2061236304881295685",
@@ -231,22 +263,6 @@
           "body": "The biggest stage in basketball \ud83c\udfc6",
           "engagement": "3.9M views",
           "views": 3900500
-        },
-        {
-          "handle": "premierleague",
-          "url": "https://x.com/premierleague/status/2061372854218723526",
-          "headline": "James Milner retires with record Premier League appearances",
-          "body": "James Milner, who holds the record for most all-time Premier League appearances with 658, announces his retirement from professional football",
-          "engagement": "539K views",
-          "views": 538591
-        },
-        {
-          "handle": "livescore",
-          "url": "https://x.com/livescore/status/2061176453916459079",
-          "headline": "Arsenal title parade draws record 1.5 million fans",
-          "body": "Arsenal\u2019s title parade drew a \ud835\udc11\ud835\udc04\ud835\udc02\ud835\udc0e\ud835\udc11\ud835\udc03 crowd \ud83e\udd2f\ud83c\udfc6 1.5 million fans transformed London into a sea of red \ud83d\udd34",
-          "engagement": "665K views",
-          "views": 664768
         }
       ]
     },
@@ -281,12 +297,20 @@
     "pods": {
       "stories": [
         {
-          "handle": "TheoVon",
-          "url": "https://x.com/TheoVon/status/2061082350994239786",
-          "headline": "Theo Von shares prayer for women in Gaza video.",
-          "body": "Praying for these brave women",
-          "engagement": "2.4M views",
-          "views": 2427988
+          "handle": "hubermanlab",
+          "url": "https://x.com/hubermanlab/status/2061447675724091690",
+          "headline": "Huberman Lab releases new episode on peptides with Dr. Abud Bakri",
+          "body": "The new Huberman Lab episode is out: Peptides: The Science, Uses & Safety | Dr. @AbudBakri \n0:00 Abud Bakri\n3:33 What are Peptides?, Receptors\n6:26 BPC-157, Discovery, Animal Proteins\n11:19 BPC-157, Animal Data, Regeneration\n12:27 Sponsors: Eight Sleep & Lingo\n14:51 BPC-157, Regeneration & Healing, Neurological Effects\n19:27 Adverse Events, Clinical Trials & Legality of BPC-157\n29:41 GLPs & Compounding Pharmacy; Peptides & Gray Market\n35:25 Manufacturing, Compounding Pharmacies, Gray Market, Black Market\n41:32 Peptides & Tumor Growth?; Angiogenesis\n45:17 Sponsor: AG1\n47:01 Pharmaceutical Patents, Clinical Trials for BPC-157, Potential Outcomes\n54:19 BPC-157 Healing, Patient Experiences\n1:01:22 Physician Counsel, FDA Legality, Malpractice\n1:07:25 Pinealon, Epithalon, Discovery; Sleep & Cognitive Performance, Risks\n1:18:17 Sponsor: Function\n1:19:55 Pineal Age Deterioration, Epithalon, Eye Health\n1:29:38 Thymus, Age Shrinkage; Thymosin Alpha-1, Immune Function\n1:38:13 TB-500; Pet Health; Thymic Peptide Doses, Thymulin, Zinc\n1:49:13 Sponsor: LMNT\n1:50:33 GHK-Cu (Copper GHK), Collagen\n1:55:32 Illness Recovery, Thymic Score, Tool: Blood Test & Immune Cell Counts\n2:04:01 Growth Hormone Secretagogues, Age Decline, Cancer Risk, Insulin\n2:15:36 GHK-Cu, Topical Cream, Red Light Therapy\n2:20:25 GLPs, Discovery, Physical & Cognitive Long-Term Effects, Fertility\n2:33:53 Retatrutide; Drug Patents & Nomenclature\n2:39:03 Peptides: Women Reproductive Disorders; TBI, Neurologic Effect; Safe Sources\n2:45:34 Zero-Cost Support, YouTube, Spotify & Apple Follow, Reviews & Feedback, Sponsors, Protocols Book, Social Media, Neural Network Newsletter\n\nIncludes paid partnerships.",
+          "engagement": "713K views",
+          "views": 713233
+        },
+        {
+          "handle": "joeroganhq",
+          "url": "https://x.com/joeroganhq/status/2061500524738875732",
+          "headline": "Tom Holland discusses his dislike for Hollywood on Joe Rogan",
+          "body": "Tom Holland on Hollywood: \"Had I not walked away from certain situations, let's just put it at that, I would be a very different person today\u2026 I really do not like Hollywood. It is not for me. The business really scares me.\"",
+          "engagement": "199K views",
+          "views": 199065
         }
       ]
     },
@@ -301,20 +325,20 @@
           "views": 4294510
         },
         {
-          "handle": "PopBase",
-          "url": "https://x.com/PopBase/status/2061298190087790715",
-          "headline": "100 years ago today, Marilyn Monroe was born.",
-          "body": "100 years ago today, Marilyn Monroe was born.",
-          "engagement": "703K views",
-          "views": 703822
+          "handle": "livedoornews",
+          "url": "https://x.com/livedoornews/status/2061228732384493712",
+          "headline": "ARASHI ends group activities as members exit agency contracts.",
+          "body": "\u3010\u5d50\u304c\u6d3b\u52d5\u7d42\u4e86\u3011\u5927\u91ce\u667a\u306fSTARTO\u793e\u3092\u9000\u6240\u3001\u4e8c\u5bae\u548c\u4e5f\u3068\u677e\u672c\u6f64\u3082\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u5951\u7d04\u7d42\u4e86",
+          "engagement": "2M views",
+          "views": 2019858
         },
         {
-          "handle": "21metgala",
-          "url": "https://x.com/21metgala/status/2061268534987022338",
-          "headline": "Celebrity video clip shared in pop culture context",
-          "body": "https://t.co/8VgQoleO8G",
-          "engagement": "541K views",
-          "views": 541489
+          "handle": "CNN",
+          "url": "https://x.com/CNN/status/2061403829946462602",
+          "headline": "KSI leaves Sidemen YouTube group after more than a decade.",
+          "body": "Content creator KSI has left the Sidemen after more than a decade with the massively popular YouTubers.",
+          "engagement": "558K views",
+          "views": 558787
         }
       ]
     },
@@ -329,32 +353,32 @@
           "views": 140401
         },
         {
+          "handle": "JxshCyres",
+          "url": "https://x.com/JxshCyres/status/2061437007130398760",
+          "headline": "User posts about a cooking moment with a video thread",
+          "body": "When the cooking have a great turn for a minute \n\nThread\ud83d\udc47\ud83c\udfa5",
+          "engagement": "27.7K views",
+          "views": 27711
+        },
+        {
           "handle": "evilwizardbunny",
           "url": "https://x.com/evilwizardbunny/status/2061313653761245332",
           "headline": "User compares baked bread to sandwich made with it",
           "body": "the bread i baked vs the sandwich i made with it",
           "engagement": "47K views",
           "views": 47063
-        },
-        {
-          "handle": "skanayaneko",
-          "url": "https://x.com/skanayaneko/status/2061396322390036725",
-          "headline": "User asks what to add to potato salad for extra flavor",
-          "body": "\u30dd\u30c6\u30b5\u30e9\u3001\u3072\u3068\u5473\u8db3\u308a\u306a\u3044\u203c\ufe0f\u4f55\u304b\u3051\u307e\u3059\u304b\u2753",
-          "engagement": "16K views",
-          "views": 15985
         }
       ]
     },
     "science": {
       "stories": [
         {
-          "handle": "thsottiaux",
-          "url": "https://x.com/thsottiaux/status/2061106703446450392",
-          "headline": "Codex usage limits reset for ChatGPT paid users.",
-          "body": "The Codex usage limits have been reset for all paid ChatGPT subscriptions. You should be back to 100% weekly and 100% hourly limits.\n\nLet the tokens do incredible things today and have fun.",
-          "engagement": "185K views",
-          "views": 185752
+          "handle": "COVID19_disease",
+          "url": "https://x.com/COVID19_disease/status/2061475598749552774",
+          "headline": "MIT engineers develop breath test that detects pneumonia in minutes without X-rays.",
+          "body": "\ud83d\udea8 BREAKTHROUGH: MIT engineers develop a breath test that detects pneumonia in minutes no X-rays, no lab wait. Just a single breath",
+          "engagement": "10K views",
+          "views": 9524
         },
         {
           "handle": "cline",
@@ -366,67 +390,67 @@
         },
         {
           "handle": "forallcurious",
-          "url": "https://x.com/forallcurious/status/2061245209179283482",
-          "headline": "Scientific discovery reveals mysterious 'third state' between life and death via biobots.",
-          "body": "\ud83d\udea8: A scientific discovery has revealed a mysterious 'third state' of existence between life and death.\n\nwhere cells from deceased organisms can reorganize and self-assemble into entirely new, mobile biobots.",
-          "engagement": "12K views",
-          "views": 12210
+          "url": "https://x.com/forallcurious/status/2061199288730861990",
+          "headline": "New research reveals Parkinson's starts in the kidney, not the brain.",
+          "body": "NEWS\ud83d\udea8: Parkinson's starts in kidney new research reveals  it doesn't start in the brain",
+          "engagement": "18K views",
+          "views": 18169
         }
       ]
     },
     "local": {
       "stories": [
         {
-          "handle": "unlimited_ls",
-          "url": "https://x.com/unlimited_ls/status/2061246580167000093",
-          "headline": "Orange County judge dismisses indictment in dermatologist poisoning case",
-          "body": "NEW: Orange County judge has dismissed the indictment against a dermatologist accused of poisoning her husband by putting Drano in his tea\n\nYue \u201cEmily\u201d Yu was arrested in 2022 after being accused of pouring Drano into her husband\u2019s drinks during their divorce\n\nHer husband, Jack Chen, said he noticed a chemical taste in his lemon tea and set up surveillance cameras, which allegedly captured Yu pouring drain cleaner into a container in the kitchen\n\nFBI testing later found drain cleaner in a drinking glass. Chen claimed he had videos showing three separate poisoning attempts\n\nYu's attorneys argued the Drano was being used to kill ants and disputed that it caused his medical issues\n\nThe case was dismissed after prosecutors denied a jury request to review evidence supporting Yu's defense",
-          "engagement": "32.2K views",
-          "views": 32178
+          "handle": "GigglingGanon",
+          "url": "https://x.com/GigglingGanon/status/2061417121779691796",
+          "headline": "Newport Beach police respond to camera confrontation at Starbucks plaza",
+          "body": "This woman becomes completely unglued when she discovers her feelings do not supersede the rights of others. \u200bThis confrontation in Newport Beach, California, escalated rapidly when a bystander decided her personal comfort level should more important than the constitutional rights of everyone else in a public space.\n\nSpotting independent journalists filming near a Starbucks plaza, she immediately went on the offensive, aggressively demanding they shut down their cameras.\n\n\u200bWhen that didn\u2019t work, she escalated to screeching demands for the Newport Beach Police Department to step in and execute a \"citizen\u2019s arrest\" on the creators for \"violating her privacy.\"\n\n\u200bWhat makes this footage a masterclass to watch is the contrast between her absolute meltdown and the flawless composure of the responding officers. Instead of taking the bait or taking the easy way out to quiet a loud disturbance, these officers stood ten-toes-down on the U.S. Constitution. They calmly but firmly educated her on the spot:\n\n\u200bThe journalists were standing in a publicly accessible area.\n\n\u200bThere is absolutely no legal expectation of privacy in a public space.\n\n\u200bNo crime was committed, meaning no arrest\u2014citizen's or otherwise\u2014was going to happen.\n\n\u200bMajor kudos to these officers for knowing the law, maintaining total control of the scene, and actively protecting the First Amendment rights of journalists exercising them. When emotions run high, a solid cop who respects the Bill of Rights is exactly what keeps a situation from turning completely sideways.",
+          "engagement": "299K views",
+          "views": 299094
         },
         {
-          "handle": "KTLA",
-          "url": "https://x.com/KTLA/status/2061180636035948930",
-          "headline": "K9 helps seize 122 pounds of cocaine on 5 Freeway in Orange County",
-          "body": "A California Highway Patrol K9 tipped officers off to a large cocaine bust.\n\nRead more: https://ktla.com/news/orange-county/122-pounds-of-cocaine-seized-on-5-freeway-in-orange-county/",
-          "engagement": "9.0K views",
-          "views": 9023
+          "handle": "nypost",
+          "url": "https://x.com/nypost/status/2061538958534754712",
+          "headline": "West Nile virus detected in Southern California city",
+          "body": "Urgent warning as deadly West Nile virus is discovered in California https://nypost.com/2026/06/01/us-news/west-nile-virus-detected-in-southern-california-city/?utm_source=twitter&utm_campaign=nypost&utm_medium=social",
+          "engagement": "4K views",
+          "views": 3585
         },
         {
-          "handle": "KTLA",
-          "url": "https://x.com/KTLA/status/2061254724603556081",
-          "headline": "122 pounds of cocaine seized on 5 freeway in Orange County",
-          "body": "A California Highway Patrol K9 tipped officers off to a large cocaine bust.\n\nRead more: https://ktla.com/news/orange-county/122-pounds-of-cocaine-seized-on-5-freeway-in-orange-county/",
-          "engagement": "6K views",
-          "views": 6049
+          "handle": "WallStreetApes",
+          "url": "https://x.com/WallStreetApes/status/2061473067382231235",
+          "headline": "Newport Beach home listed for over $12 million after 1986 purchase of $750K",
+          "body": "This home has a cheap \u201cFor Sale\u201d sign in the window in Newport Beach, California\n\nThe sign says the price is over $12 million dollars\n\nJust for fun I looked up how much this home last sold for\n\nIn 1986 they bought this home for $750,000\n\nThat means this home has gone up in value by 16x the original purchase price since the late 80\u2019s\n\nYes it\u2019s Newport Beach but this price jump is insane\n\nIt just shows how cheap homes used to be and how completely out of reach a home like this will ever be for anyone in younger generations \n\nThey will legally never have a chance to live like this",
+          "engagement": "56K views",
+          "views": 56238
         }
       ]
     },
     "conspiracy": {
       "stories": [
         {
-          "handle": "its_The_Dr",
-          "url": "https://x.com/its_The_Dr/status/2061160066468774161",
-          "headline": "Video claims everything is an illusion or false flag to manipulate nations",
-          "body": "Everything is an illusion or False Flag. He shows how easy it is to manipulate and deceive a Nation.",
-          "engagement": "188K views",
-          "views": 188344
+          "handle": "LeadingReport",
+          "url": "https://x.com/LeadingReport/status/2061471236933255597",
+          "headline": "JFK allegedly assassinated over UFO secret-sharing plans with NASA and Soviets.",
+          "body": "President John F. Kennedy was allegedly as\u2014ssinated over plans to share UFO/UAP secrets with NASA and the Soviet Union, according to Jonathan Caplan.",
+          "engagement": "548K views",
+          "views": 548630
         },
         {
-          "handle": "GodRulesIRL",
-          "url": "https://x.com/GodRulesIRL/status/2061163341733912908",
-          "headline": "Boebert mentions stargates and portals in secret UFO files",
-          "body": "Representative Lauren Boebert just said that there are a lot of mentions of Stargates and Portals in the Secret UFO Files that only Congress can see right now.\n\nShe then asks if there\u2019s Breeding between Humans and these Alien Creatures because of all of the Interdimensional Traveling between Realms and other parts of the World.\n\nWe do know that there has been Forced Breeding Program forcing Criminals to breed with Aliens at certain Facilities in Mexico and potentially other Places and in the World right now.\n\nThis is all a repeat of the Titan Gods and their Nephilim Offspring mating with Mortals that we saw in the Book Of Enoch, the Book Of Genesis, the Book Of Jubilees, and the Book Of Giants before the Great Flood where the Greeks erroneously called that Aeon \u201cThe Golden Age\u201d.\n\nThis only gets darker as more and more Declassification happens and they seriously need to declassify these Secret Documents that Congress keeps being allowed to see but not the Public.\n\nThat\u2019s where all of the really crazy stuff is.\n\nWhat do you guys think?\n\nShould they just release everything and allow the Public to see all of the Information and stop hiding it from us?",
-          "engagement": "66K views",
-          "views": 65805
+          "handle": "Patrickwebb",
+          "url": "https://x.com/Patrickwebb/status/2061459497470607683",
+          "headline": "JFK allegedly assassinated over UFO secret-sharing plans with NASA and Soviets.",
+          "body": "BREAKING: President John F. Kennedy was allegedly assassinated over plans to share UFO/UAP secrets with NASA and the Soviet Union, according to Jonathan Caplan.",
+          "engagement": "253K views",
+          "views": 253316
         },
         {
-          "handle": "unusual_whales",
-          "url": "https://x.com/unusual_whales/status/2061283651313193223",
-          "headline": "Polymarket: 73% chance Trump declassifies new UFO files by June 30",
-          "body": "73% chance Trump declassifies new UFO files by June 30th, per Polymarket:",
-          "engagement": "37K views",
-          "views": 37418
+          "handle": "FELibrary_",
+          "url": "https://x.com/FELibrary_/status/2061430180464263662",
+          "headline": "Flat Earth video challenges official rocket and space narratives.",
+          "body": "https://t.co/96usCWfnsL",
+          "engagement": "149K views",
+          "views": 149123
         }
       ]
     },
@@ -441,23 +465,23 @@
           "views": 11153424
         },
         {
-          "handle": "HumansNoContext",
-          "url": "https://x.com/HumansNoContext/status/2061184340437209336",
-          "headline": "Hilarious video post",
-          "body": "This is hilarious",
-          "engagement": "1.1M views",
-          "views": 1138036
+          "handle": "tempedotc0",
+          "url": "https://x.com/tempedotc0/status/2061353381760000415",
+          "headline": "User shares reaction meme about new information.",
+          "body": "Meme unlocked \ud83d\ude39",
+          "engagement": "158K views",
+          "views": 158133
         },
         {
-          "handle": "Whotfismick",
-          "url": "https://x.com/Whotfismick/status/2061102950525571343",
-          "headline": "Sunday evening vibe check meme video",
-          "body": "when i'm having fun on a Sunday and it reaches 6-7pm",
-          "engagement": "716K views",
-          "views": 715932
+          "handle": "FA_im0t",
+          "url": "https://x.com/FA_im0t/status/2061401856841330781",
+          "headline": "Japanese meme video of fake crying.",
+          "body": "\u85cd\u4e95\u64ab\u5b50\u3067\u5618\u6ce3\u304dmeme",
+          "engagement": "74K views",
+          "views": 73749
         }
       ]
     }
   },
-  "last_updated": "2026-06-01T13:37:23.492962"
+  "last_updated": "2026-06-01T20:17:58.510817"
 }
