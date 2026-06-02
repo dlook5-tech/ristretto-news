@@ -3,6 +3,68 @@
     "world": {
       "stories": [
         {
+          "headline": "Trump reportedly berates Netanyahu over Israel\u2019s Lebanon military actions",
+          "url": "https://x.com/FoxNews/status/2061795450701717942",
+          "handle": "FoxNews",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "FoxNews",
+              "url": "https://x.com/FoxNews/status/2061795450701717942",
+              "body": "\"You're f****** crazy. You'd be in prison if it weren't for me. I'm saving your a***. Everybody hates you now. Everybody hates Israel because of this.\" That's what a U.S. official tells Axios President Trump unloaded on Israeli Prime Minister Benjamin Netanyahu during a heated phone call over Israel's military actions in Lebanon.",
+              "engagement": "5.3M views",
+              "views": 5365189
+            },
+            {
+              "label": "Independent",
+              "handle": "BRICSinfo",
+              "url": "https://x.com/BRICSinfo/status/2061575922046660807",
+              "body": "JUST IN: \ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 Axios sources say President Trump was \"pissed\" during call with Israeli Prime Minister Netanyahu and told him off: \"You're f*cking crazy. You'd be in prison if it weren't for me. I'm saving your ass. Everybody hates you now. Everybody hates Israel because of this.\" \"What the f*ck are you doing?\"",
+              "engagement": "2.2M views",
+              "views": 2202786
+            },
+            {
+              "label": "Democrat",
+              "handle": "piersmorgan",
+              "url": "https://x.com/piersmorgan/status/2061534699567088072",
+              "body": "So, Netanyahu is now openly boasting to the world he doesn\u2019t care what the President of the United States thinks or says. Over to you, Mr President @realDonaldTrump - who\u2019s the boss?",
+              "engagement": "1.9M views",
+              "views": 1925860
+            }
+          ]
+        },
+        {
+          "headline": "Massive Russian missile and drone strike hits Kyiv, killing dozens",
+          "url": "https://x.com/sentdefender/status/2061652971952197970",
+          "handle": "sentdefender",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "sentdefender",
+              "url": "https://x.com/sentdefender/status/2061652971952197970",
+              "body": "A Chinese-owned Zeekr electric car dealership burns in the Ukrainian capital of Kyiv, after being targeted and destroyed during last night\u2019s cruise and ballistic missile attack by Russia.",
+              "engagement": "280K views",
+              "views": 280822
+            },
+            {
+              "label": "Independent",
+              "handle": "ZelenskyyUa",
+              "url": "https://x.com/ZelenskyyUa/status/2061892038942236808",
+              "body": "Today has been a difficult day in Ukraine after a massive Russian strike. There were many ballistic missiles and drones. ... Just today, Russian strikes have taken 22 lives in Kyiv and Dnipro, including children.",
+              "engagement": "127K views",
+              "views": 127330
+            },
+            {
+              "label": "Democrat",
+              "handle": "WarMonitor3",
+              "url": "https://x.com/WarMonitor3/status/2061578279098753133",
+              "body": "Russia has just launched a massive air raid on Ukraine as intelligence reports have predicted for the last couple days.",
+              "engagement": "62K views",
+              "views": 62688
+            }
+          ]
+        },
+        {
           "headline": "Israel strikes Hezbollah in Beirut after rocket attacks, Trump claims US-brokered ceasefire halt",
           "url": "https://x.com/RudyGiuliani/status/2061611592165290043",
           "handle": "RudyGiuliani",
@@ -32,42 +94,34 @@
               "views": 25505
             }
           ]
-        },
-        {
-          "headline": "Colombia heads to presidential runoff with right-wing hardliner vs leftist candidate",
-          "url": "https://x.com/FNCGlobalNews/status/2061104199895851256",
-          "handle": "FNCGlobalNews",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "JasonMiller",
-              "url": "https://x.com/JasonMiller/status/2061588109779759554",
-              "body": "This is a good thing\u2026 \u201cColombia\u2019s populist, Bukele-loving right looks likely to win power\u201d Abelardo de la Espriella outperformed in the first round of a deeply polarised presidential election",
-              "engagement": "11.8K views",
-              "views": 11791
-            },
-            {
-              "label": "Independent",
-              "handle": "cnnbrk",
-              "url": "https://x.com/cnnbrk/status/2061223332251377823",
-              "body": "Pro-Trump candidate Abelardo de la Espriella will face leftist Petro ally Iv\u00e1n Cepeda in a June presidential runoff election that could redefine Colombia's relations with the US.",
-              "engagement": "192K views",
-              "views": 192226
-            },
-            {
-              "label": "Democrat",
-              "handle": "CNN",
-              "url": "https://x.com/CNN/status/2061223391193890821",
-              "body": "Pro-Trump candidate Abelardo de la Espriella will face leftist Petro ally Iv\u00e1n Cepeda in a June presidential runoff election that could redefine Colombia's relations with the US.",
-              "engagement": "160K views",
-              "views": 159920
-            }
-          ]
         }
       ]
     },
     "usa": {
       "stories": [
+        {
+          "headline": "Trump unloads on Netanyahu in heated call over Israel actions in Lebanon",
+          "url": "https://x.com/FoxNews/status/2061795450701717942",
+          "handle": "FoxNews",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "FoxNews",
+              "url": "https://x.com/FoxNews/status/2061795450701717942",
+              "body": "\"You're f****** crazy. You'd be in prison if it weren't for me. I'm saving your a***. Everybody hates you now. Everybody hates Israel because of this.\" That's what a U.S. official tells Axios President Trump unloaded on Israeli Prime Minister Benjamin Netanyahu during a heated phone call over Israel's military actions in Lebanon.",
+              "engagement": "5.4M views",
+              "views": 5365189
+            },
+            {
+              "label": "Independent",
+              "handle": "BRICSinfo",
+              "url": "https://x.com/BRICSinfo/status/2061575922046660807",
+              "body": "JUST IN: \ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 Axios sources say President Trump was \"pissed\" during call with Israeli Prime Minister Netanyahu and told him off: \"You're f*cking crazy. You'd be in prison if it weren't for me. I'm saving your ass. Everybody hates you now. Everybody hates Israel because of this.\" \"What the f*ck are you doing?\"",
+              "engagement": "2.2M views",
+              "views": 2202865
+            }
+          ]
+        },
         {
           "headline": "Trump tells Iran 'make a Deal' as negotiations reportedly collapse amid war concerns",
           "url": "https://x.com/WhiteHouse/status/2061888577919660063",
@@ -100,64 +154,17 @@
           ]
         },
         {
-          "headline": "Trump lashes out at Netanyahu in heated call over Lebanon escalation risking Iran peace talks",
-          "url": "https://x.com/FoxNews/status/2061795450701717942",
-          "handle": "FoxNews",
+          "headline": "White House unveils Great Healthcare Plan to hold insurers accountable",
+          "url": "https://x.com/WhiteHouse/status/2061834955097858212",
+          "handle": "WhiteHouse",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "FoxNews",
-              "url": "https://x.com/FoxNews/status/2061795450701717942",
-              "body": "\"You're f****** crazy. You'd be in prison if it weren't for me. I'm saving your a***. Everybody hates you now. Everybody hates Israel because of this.\" That's what a U.S. official tells Axios President Trump unloaded on Israeli Prime Minister Benjamin Netanyahu during a heated phone call over Israel's military actions in Lebanon.",
-              "engagement": "4.3M views",
-              "views": 4330961
-            },
-            {
-              "label": "Independent",
-              "handle": "NewsWire_US",
-              "url": "https://x.com/NewsWire_US/status/2061569492728066407",
-              "body": "TRUMP FUMES AT NETANYAHU IN CALL ON LEBANON \u2014 AXIOS \u201cYou\u2019re f*cking crazy. You\u2019d be in prison if it weren\u2019t for me. I\u2019m saving your ass. Everybody hates you now. Everybody hates Israel because of this.\u201d",
-              "engagement": "3.2M views",
-              "views": 3247772
-            },
-            {
-              "label": "Democrat",
-              "handle": "BernieSanders",
-              "url": "https://x.com/BernieSanders/status/2061531586063925576",
-              "body": "Asked today how he feels about negotiations with Iran collapsing, Trump said, \"I couldn't care less.\" You'd think the president of the United States would care about service members dying and millions paying more for gas because of his illegal and unconstitutional war.",
-              "engagement": "475K views",
-              "views": 475904
-            }
-          ]
-        },
-        {
-          "headline": "Senate confirms multiple Trump judicial nominees including first 'not qualified' ABA rating",
-          "url": "https://x.com/EricLDaugh/status/2061843902324154560",
-          "handle": "EricLDaugh",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "EricLDaugh",
-              "url": "https://x.com/EricLDaugh/status/2061843902324154560",
-              "body": "\ud83d\udea8 JUST IN: US Senate CONFIRMS Trump judicial nominee Kathleen Lane to be District Judge for the District of Montana, 52-46 LFG! Another blow to the activist judges \ud83d\udd25 All Trump judicial nominees should be approved ASAP. FAST-TRACK!",
-              "engagement": "79K views",
-              "views": 79672
-            },
-            {
-              "label": "Democrat",
-              "handle": "JudiciaryDems",
-              "url": "https://x.com/JudiciaryDems/status/2061830769610289581",
-              "body": "Katie Lane is the first Trump 2.0 judicial nominee to receive a NOT QUALIFIED rating from the American Bar Association. She\u2019s never even tried a case. There are 3,000+ licensed attorneys in Montana. Pick a different one.",
-              "engagement": "91K views",
-              "views": 91825
-            },
-            {
-              "label": "Independent",
-              "handle": "EricLDaugh",
-              "url": "https://x.com/EricLDaugh/status/2061887417099895246",
-              "body": "\ud83d\udea8 JUST IN: The US Senate has officially CONFIRMED Trump judicial nominee Jeffrey Kuhlman to be US District Judge for the District of Kansas, 52-46 \"The nomination is confirmed.\" \ud83d\udd25 Activist judges dealt another blow! The more Trump confirmations the better \ud83c\uddfa\ud83c\uddf8",
-              "engagement": "12K views",
-              "views": 12856
+              "handle": "WhiteHouse",
+              "url": "https://x.com/WhiteHouse/status/2061834955097858212",
+              "body": "Finally, a President that prioritizes PEOPLE over big insurance corporations. The Great Healthcare Plan holds big insurance companies accountable while fighting for Americans.",
+              "engagement": "291K views",
+              "views": 290785
             }
           ]
         }
@@ -166,20 +173,20 @@
     "business": {
       "stories": [
         {
+          "handle": "NoLimitGains",
+          "url": "https://x.com/NoLimitGains/status/2061762818123161680",
+          "headline": "Energy sector entering aggressive expansion cycle with 5 stocks that could explode.",
+          "body": "The energy sector is about to enter the most aggressive expansion cycle of this generation.\n\nHere are 5 stocks that could explode:",
+          "engagement": "836K views",
+          "views": 836158
+        },
+        {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2061806921779486748",
           "headline": "Elon Musk notes that even a tiny fraction of solar power could vastly exceed Earth's current economy.",
           "body": "Harnessing even a millionth of the Sun\u2019s power, which is extremely difficult, results in an economic value far more than a million times than that of Earth\u2019s current entire economy",
           "engagement": "324K views",
           "views": 324717
-        },
-        {
-          "handle": "TheStalwart",
-          "url": "https://x.com/TheStalwart/status/2061548953527558431",
-          "headline": "Berkshire Hathaway invests $10B in Google for AI infrastructure",
-          "body": "Wow, Berkshire Hathaway investing $10 billion into $GOOGL in a private placement as part of a broader $80 billion equity capital raise by the company to expand its AI infrastructure",
-          "engagement": "816K views",
-          "views": 816003
         }
       ]
     },
@@ -202,12 +209,12 @@
           "views": 367019
         },
         {
-          "handle": "AlNassrFC",
-          "url": "https://x.com/AlNassrFC/status/2061847813395472440",
-          "headline": "Al Nassr Saudi Club video post in Arabic.",
-          "body": "#\u0627\u0644\u0646\u0635\u0631 \u0639\u0634\u0640\u0642 \u0627\u0644\u0637\u0641\u0648\u0644\u0629 \u0648\u0623\u0648\u0644 \u0627\u0644\u0646\u0627\u0633 \u0627\u0644\u0643\u0628\u0640\u0627\u0631 \ud83d\udc9b",
-          "engagement": "78K views",
-          "views": 77901
+          "handle": "DiscussingFilm",
+          "url": "https://x.com/DiscussingFilm/status/2061926773458157908",
+          "headline": "First trailer for \u2018STUNTMAN: HOLLYWOOD\u2019 game",
+          "body": "First trailer for \u2018STUNTMAN: HOLLYWOOD\u2019.\n\nThe game allows players to perform major stunt scenes from iconic movies like \u2018Back to the Future\u2019.",
+          "engagement": "181K views",
+          "views": 181165
         }
       ]
     },
@@ -215,27 +222,27 @@
       "stories": [
         {
           "handle": "nytimes",
-          "url": "https://x.com/nytimes/status/2061854293850792387",
-          "headline": "President Trump signs executive order on AI model oversight",
-          "body": "Breaking News: President Trump signed an executive order that asked tech companies to give the government oversight of new A.I. models before releasing them to the public. https://www.nytimes.com/2026/06/02/technology/trump-executive-order-ai.html?smid=tw-nytimes&smtyp=cur",
-          "engagement": "114K views",
-          "views": 114048
-        },
-        {
-          "handle": "washingtonpost",
-          "url": "https://x.com/washingtonpost/status/2061813089922588796",
-          "headline": "President Trump appoints Bill Pulte as acting director of national intelligence",
-          "body": "Breaking news: President Trump is appointing Bill Pulte as acting director of national intelligence, tapping a political supporter who heads a federal mortgage regulation agency but has no intelligence experience. https://www.washingtonpost.com/national-security/2026/06/02/trump-picks-mortgage-chief-bill-pulte-lead-national-intelligence/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
-          "engagement": "204K views",
-          "views": 204839
+          "url": "https://x.com/nytimes/status/2061853873430511853",
+          "headline": "Analysis shows referee decisions could have altered Premier League title race between Man City and Arsenal.",
+          "body": "From @TheAthleticFC: If referee calls had been correct, the Premier League title race would have entered the final match round with Manchester City two points clear of Arsenal, according to our analysis of key match decisions.  https://www.nytimes.com/athletic/7319736/2026/06/02/premier-league-refereeing-var-decisions/?smtyp=cur&smid=tw-nytimes",
+          "engagement": "633K views",
+          "views": 633123
         },
         {
           "handle": "AP",
-          "url": "https://x.com/AP/status/2061804077428683078",
-          "headline": "President Trump taps Bill Pulte as acting director of national intelligence",
-          "body": "BREAKING: President Trump taps housing finance director Bill Pulte as acting director of national intelligence to replace Tulsi Gabbard. https://apnews.com/article/trump-pulte-gabbard-national-intelligence-281fd6ba9992487dc701768803f9c475?taid=6a1edc4da353900001d3765a&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
-          "engagement": "170K views",
-          "views": 170947
+          "url": "https://x.com/AP/status/2061835426558611907",
+          "headline": "Pope Leo enjoys weekly tennis as reflection of Augustinian values in leadership.",
+          "body": "Pope Leo loves tennis and tries to play every week. Some say the sport\u2019s focus on discipline, mental toughness and endurance reflects the Augustinian values that shape his approach to life and leadership.",
+          "engagement": "295K views",
+          "views": 295115
+        },
+        {
+          "handle": "AP",
+          "url": "https://x.com/AP/status/2061841530743050402",
+          "headline": "Donkeys used in French hospital therapy program for psychiatric patients.",
+          "body": "Donkeys are helping psychiatric patients at a hospital in France. A unique therapy programme uses the animals to help people with mental health conditions recover.",
+          "engagement": "228K views",
+          "views": 228495
         }
       ]
     },
@@ -274,6 +281,14 @@
       "stories": [
         {
           "handle": "lexfridman",
+          "url": "https://x.com/lexfridman/status/2061862912717660368",
+          "headline": "Lex Fridman shares experience in Taiwan with Jensen Huang eating street food.",
+          "body": "I got to spend all day today with Jensen in Taiwan: talking with thousands of engineers and eating street food at a night market. Jensen is received as a rockstar in Taiwan, like it's Beatles in the 60's. It's mind-blowing and fun to watch. But most importantly, through all the interactions and all my conversations with him, he remained the same humble, kind, thoughtful, funny guy he always was, even as a kid who went to these same night markets many years ago.\n\nBtw, we tried a crazy amount of different street food. It's legit some of the most delicious food I've ever had. I can't wait to share video of it, including a ton of our conversations and hangout. When I can pause for a moment from all the travel to edit the video, I'll post it.\n\nCan't wait to continue talking to Jensen and engineers at Computex this week, and exploring more of Taiwan, and of course roaming the night markets for some more delicious street food.\n\nDays like these, even more than usual, I feel like the luckiest kid in the world.\n\nLove you all! \u2764\ufe0f",
+          "engagement": "421K views",
+          "views": 421398
+        },
+        {
+          "handle": "lexfridman",
           "url": "https://x.com/lexfridman/status/2061847191367647457",
           "headline": "Lex Fridman shares day with Jensen Huang in Taiwan",
           "body": "I got to spend all day today with Jensen in Taiwan: talking with thousands of engineers and eating street food at a night market. Jensen is received as a rockstar in Taiwan, like it's Beatles in the 60's. It's mind-blowing and fun to watch. But most importantly, through all the interactions and all my conversations with him, he remained the same humble, kind, thoughtful, funny guy he always was, even as a kid who went to these same night markets many years ago.\n\nBtw, we tried a crazy amount of different street food. It's legit some of the most delicious food I've ever had. I can't wait to share video of it, including a ton of our conversations and hangout. When I can pause for a moment from all the travel to edit the video, I'll post it.\n\nCan't wait to continue talking to Jensen and engineers at Computex this week, and exploring more of Taiwan, and of course roaming the night markets for some more delicious street food.\n\nDays like these, even more than usual, I feel like the luckiest kid in the world.\n\nLove you all! \u2764\ufe0f",
@@ -291,10 +306,28 @@
       ]
     },
     "pg6": {
-      "stories": []
+      "stories": [
+        {
+          "handle": "FilmUpdates",
+          "url": "https://x.com/FilmUpdates/status/2061861208127660264",
+          "headline": "\u2018MR. IRRELEVANT,\u2019 starring David Corenswet, secures holiday release after strong test screenings.",
+          "body": "\u2018MR. IRRELEVANT,\u2019 starring David Corenswet, has secured a coveted holiday release after earning a perfect score of 100 from women over 35 and a 92 score overall in test screenings.\n\n(Source: https://www.hollywoodreporter.com/movies/movie-news/david-corenswet-mr-irrelevant-paramount-sports-movies-1236579143/)",
+          "engagement": "349K views",
+          "views": 349169
+        }
+      ]
     },
     "recipe": {
-      "stories": []
+      "stories": [
+        {
+          "handle": "BioBite_",
+          "url": "https://x.com/BioBite_/status/2061827210118344899",
+          "headline": "Recipe tip: adding eggs to boiling oil",
+          "body": "Add the eggs to the boiling oil, Why didn't they tell me this recipe",
+          "engagement": "224K views",
+          "views": 223970
+        }
+      ]
     },
     "science": {
       "stories": [
@@ -329,10 +362,18 @@
         {
           "handle": "BuzzPatterson",
           "url": "https://x.com/BuzzPatterson/status/2061660077107696094",
-          "headline": "Bonfires visible on SoCal beach from hotel in pajamas",
+          "headline": "Bonfires visible on Southern California beach",
           "body": "SoCal. Bonfires on the beach. From our hotel in my pajamas. We can smell the fires. So SoCal.",
-          "engagement": "53K views",
-          "views": 53512
+          "engagement": "105K views",
+          "views": 104808
+        },
+        {
+          "handle": "earlyvotedata",
+          "url": "https://x.com/earlyvotedata/status/2061879129117696306",
+          "headline": "Orange County ballot returns favor Republicans",
+          "body": "A small insight into voting in CA today, looking at Orange County.\n\nRepublicans have a lead with ballots returned there, you can see this in the huge shift below.\n\nReps are returning ballots today at a 54% to 28% pace right now.\n\nStatewide it's 49%-31% Dem advantage for today.",
+          "engagement": "16K views",
+          "views": 16021
         }
       ]
     },
@@ -368,5 +409,5 @@
       "stories": []
     }
   },
-  "last_updated": "2026-06-02T19:42:12.347712"
+  "last_updated": "2026-06-02T22:23:23.705030"
 }
