@@ -3,6 +3,29 @@
     "world": {
       "stories": [
         {
+          "headline": "Dutch police slam pregnant Palestinian woman to ground at migration centre",
+          "url": "https://x.com/AJEnglish/status/2061016886846816598",
+          "handle": "AJEnglish",
+          "perspectives": [
+            {
+              "label": "Independent",
+              "handle": "AJEnglish",
+              "url": "https://x.com/AJEnglish/status/2061016886846816598",
+              "body": "A video of a Dutch policeman throwing a heavily pregnant woman to the ground has caused outrage. The woman says police attacked her at a migration centre where authorities had detained her Palestinian husband.",
+              "engagement": "2.7M views",
+              "views": 2723179
+            },
+            {
+              "label": "Conservative",
+              "handle": "IRIMFA_SPOX",
+              "url": "https://x.com/IRIMFA_SPOX/status/2061388086643151319",
+              "body": "Europe, which fuels global outrage over every unverified claim about women in Iran and calls attackers on police \"protesters,\" just violently slammed a pregnant woman to the ground and dragged her by her hair in the Netherlands \u2014 and remains largely silent.",
+              "engagement": "39K views",
+              "views": 39785
+            }
+          ]
+        },
+        {
           "headline": "Colombia presidential election heads to runoff between right-wing and left-wing candidates",
           "url": "https://x.com/DropSiteNews/status/2061515953863557623",
           "handle": "DropSiteNews",
@@ -30,29 +53,6 @@
               "body": "Ay amigo Polo Polo, \u00bfResucit\u00f3? Uribe fue a Ecuador y habl\u00f3 con Noboa y elevaron est\u00fapidamente los aranceles a Colombia...",
               "engagement": "1.4M views",
               "views": 1421409
-            }
-          ]
-        },
-        {
-          "headline": "Dutch police slam pregnant Palestinian woman to ground at migration centre",
-          "url": "https://x.com/AJEnglish/status/2061016886846816598",
-          "handle": "AJEnglish",
-          "perspectives": [
-            {
-              "label": "Independent",
-              "handle": "AJEnglish",
-              "url": "https://x.com/AJEnglish/status/2061016886846816598",
-              "body": "A video of a Dutch policeman throwing a heavily pregnant woman to the ground has caused outrage. The woman says police attacked her at a migration centre where authorities had detained her Palestinian husband.",
-              "engagement": "2.7M views",
-              "views": 2723179
-            },
-            {
-              "label": "Conservative",
-              "handle": "IRIMFA_SPOX",
-              "url": "https://x.com/IRIMFA_SPOX/status/2061388086643151319",
-              "body": "Europe, which fuels global outrage over every unverified claim about women in Iran and calls attackers on police \"protesters,\" just violently slammed a pregnant woman to the ground and dragged her by her hair in the Netherlands \u2014 and remains largely silent.",
-              "engagement": "39K views",
-              "views": 39785
             }
           ]
         },
@@ -92,7 +92,7 @@
     "usa": {
       "stories": [
         {
-          "headline": "Bernie Sanders to introduce bill for public 50% ownership stake in major AI companies",
+          "headline": "Bernie Sanders to introduce bill giving public 50% ownership stake in largest AI companies",
           "url": "https://x.com/MorePerfectUS/status/2061459247204901146",
           "handle": "MorePerfectUS",
           "perspectives": [
@@ -101,62 +101,70 @@
               "handle": "SenSanders",
               "url": "https://x.com/SenSanders/status/2061448326436798789",
               "body": "AI is built on humanity\u2019s collective knowledge. The wealth it generates must benefit humanity \u2014 not just Elon Musk, Sam Altman and other AI oligarchs. That\u2019s why I\u2019ll be introducing the American AI Sovereign Wealth Fund Act \u2014 to give the public a direct ownership stake.",
-              "engagement": "302K views",
-              "views": 302278
+              "engagement": "573K views",
+              "views": 573192
             },
             {
               "label": "Independent",
-              "handle": "MorePerfectUS",
-              "url": "https://x.com/MorePerfectUS/status/2061459247204901146",
-              "body": "BREAKING: Bernie Sanders will introduce a bill to have the public take a 50% ownership stake in the country's biggest AI companies. The American AI Sovereign Wealth Fund Act would have the government tax AI companies, take 50% of the stock, and put it under public control.",
-              "engagement": "1M views",
-              "views": 1052376
+              "handle": "TheRundownAI",
+              "url": "https://x.com/TheRundownAI/status/2061507918625661101",
+              "body": "U.S. senator Bernie Sanders just said he will introduce a bill that would put a one-time 50% tax on OpenAI, Anthropic, and xAI paid in stock, not cash. The government would get voting shares and an equal seat on each company's board, and the stock would fund a public fund owned by citizens.",
+              "engagement": "9.5K views",
+              "views": 9544
+            },
+            {
+              "label": "Democrat",
+              "handle": "BernieSanders",
+              "url": "https://x.com/BernieSanders/status/2061631422188626083",
+              "body": "I will soon be introducing a bill to give the public a 50% ownership stake in the largest AI companies in America. This would guarantee that the trillions created by AI are used to improve the lives of all of us \u2014 and block oligarch decisions that harm the American people.",
+              "engagement": "192K views",
+              "views": 191966
             }
           ]
         },
         {
-          "headline": "President Trump and Iran reach framework for 60-day ceasefire amid ongoing Middle East negotiations",
-          "url": "https://x.com/EmmanuelMacron/status/2061366849967661193",
-          "handle": "EmmanuelMacron",
+          "headline": "Mail-in ballots found burned and voting centers vandalized ahead of California election day",
+          "url": "https://x.com/bennyjohnson/status/2061429733435289782",
+          "handle": "bennyjohnson",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "Cryptic_Web3",
-              "url": "https://x.com/Cryptic_Web3/status/2061428733316075807",
-              "body": "\ud83c\uddfa\ud83c\uddf2\ud83c\uddee\ud83c\uddf7UPDATE: President Trump says the U.S. naval blockade in the Strait of Hormuz is being lifted as negotiations with Iran continue, while a ceasefire remains in place and both sides confirm talks are progressing.",
-              "engagement": "8K views",
-              "views": 7902
+              "handle": "bennyjohnson",
+              "url": "https://x.com/bennyjohnson/status/2061429733435289782",
+              "body": "Tomorrow is Election Day in California and Mail-in ballots are being found burned and voting centers vandalized. This is what election integrity looks like in a Democrat-run city. This is why we need the SAVE America Act NOW. Vote in person tomorrow!",
+              "engagement": "679K views",
+              "views": 678988
             },
             {
-              "label": "Independent",
-              "handle": "EmmanuelMacron",
-              "url": "https://x.com/EmmanuelMacron/status/2061366849967661193",
-              "body": "J\u2019ai \u00e9chang\u00e9 hier soir avec le Pr\u00e9sident Trump au sujet de la situation au Moyen-Orient. J\u2019ai salu\u00e9 les efforts d\u00e9termin\u00e9s qu\u2019il m\u00e8ne pour parvenir rapidement \u00e0 un accord entre les \u00c9tats-Unis et l\u2019Iran...",
-              "engagement": "297K views",
-              "views": 296674
+              "label": "Conservative",
+              "handle": "shadowJ47",
+              "url": "https://x.com/shadowJ47/status/2061428732703703475",
+              "body": "This is straight-up election sabotage in deep blue LA. Burned mail-in ballots stuffed in a drop box and a voting center vandalized just days before the primary. All while Spencer Pratt is surging and scaring the hell out of the Democrat machine. Coincidence? Bullshit.",
+              "engagement": "2.7K views",
+              "views": 2673
             }
           ]
         },
         {
-          "headline": "Senator Rand Paul introduces End Welfare for Non-Citizens Act to prioritize American citizens over illegal immigrants",
-          "url": "https://x.com/RandPaul/status/2061155279396335850",
-          "handle": "RandPaul",
+          "headline": "White House posts 'STAND WITH ICE. STAND WITH LAW ENFORCEMENT' amid border enforcement focus",
+          "url": "https://x.com/WhiteHouse/status/2061104857574990018",
+          "handle": "WhiteHouse",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "RandPaul",
-              "url": "https://x.com/RandPaul/status/2061155279396335850",
-              "body": "We are nearly $40 trillion in debt. Working families are stretched thin. And Washington is still sending federal benefits to people who entered this country illegally. My End Welfare for Non-Citizens Act supports American citizens instead of rewarding those who came to the U.S. illegally. This is basic fiscal responsibility, and it is long overdue.",
-              "engagement": "307K views",
-              "views": 306693
+              "handle": "WhiteHouse",
+              "url": "https://x.com/WhiteHouse/status/2061104857574990018",
+              "body": "STAND WITH ICE. STAND WITH LAW ENFORCEMENT.",
+              "engagement": "501K views",
+              "views": 501437
             },
             {
-              "label": "Independent",
-              "handle": "PeterSchiff",
-              "url": "https://x.com/PeterSchiff/status/2061235372504359264",
-              "body": "That's a step in the right direction. After we end welfare for non-citizens, let's end it for citizens as well. The general welfare clause of the U.S. Constitution does not include the specific welfare of some at the expense of others.",
-              "engagement": "20K views",
-              "views": 19804
+              "label": "Conservative",
+              "handle": "iaproject",
+              "url": "https://x.com/iaproject/status/2061405474356953113",
+              "body": "We stand with ICE. And we demand that Congress FUND THEM!",
+              "engagement": "667 views",
+              "views": 667
             }
           ]
         }
@@ -173,40 +181,40 @@
           "views": 2203583
         },
         {
+          "handle": "TheStalwart",
+          "url": "https://x.com/TheStalwart/status/2061548953527558431",
+          "headline": "Berkshire Hathaway invests $10B in Google for AI infrastructure",
+          "body": "Wow, Berkshire Hathaway investing $10 billion into $GOOGL in a private placement as part of a broader $80 billion equity capital raise by the company to expand its AI infrastructure",
+          "engagement": "816K views",
+          "views": 816003
+        },
+        {
           "handle": "MorePerfectUS",
           "url": "https://x.com/MorePerfectUS/status/2061459247204901146",
           "headline": "Bernie Sanders to introduce bill for public 50% ownership in major AI companies",
           "body": "BREAKING: Bernie Sanders will introduce a bill to have the public take a 50% ownership stake in the country's biggest AI companies.\n\nThe American AI Sovereign Wealth Fund Act would have the government tax AI companies, take 50% of the stock, and put it under public control.",
           "engagement": "1.1M views",
           "views": 1052376
-        },
-        {
-          "handle": "wallstreetbets",
-          "url": "https://x.com/wallstreetbets/status/2061489043666329905",
-          "headline": "$MU hits all-time high of $1,036 after Trump comments",
-          "body": "BREAKING: $MU just hit $1,036 for the first time ever\n\nMicron is now worth almost $1.2 TRILLION\n\n10 days ago Trump said:\n\n\"Boy, Micron is great... they could invest over $100 billion in New York.\"\n\n$MU was trading around $751\nnow it\u2019s $1,036\n\nthis stock was worth around $70B in April 2025\nnow it\u2019s worth almost $1.2T\n\nabsolutely insane",
-          "engagement": "122K views",
-          "views": 122127
         }
       ]
     },
     "top": {
       "stories": [
         {
-          "handle": "nino_honmono",
-          "url": "https://x.com/nino_honmono/status/2061245949301985320",
-          "headline": "Japanese celebrity expresses gratitude for kind messages on June 1st.",
-          "body": "\u4eca\u65e5\u306f\u671d\u304b\u3089\u8272\u3093\u306a\u65b9\u304c\n\u3010\u304a\u75b2\u308c\u69d8\u3067\u3057\u305f\u3011\u3068\u4f1d\u3048\u3066\u304f\u308c\u307e\u3059\u3002\n\u3042\u308a\u304c\u3066\u3047\u3002\u3042\u3063\u305f\u3051\u3047\u3002\n\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\ud83d\ude47\u200d\u2642\ufe0f\n\u3053\u3093\u306a\u306b\u3082\u7d20\u6674\u3089\u3057\u30446\u67081\u65e5\u306f\u4eba\u751f\u521d\u3067\u3059\u3002",
-          "engagement": "3.3M views",
-          "views": 3251809
+          "handle": "AlyDiouara",
+          "url": "https://x.com/AlyDiouara/status/2061476406488338546",
+          "headline": "French politician shares video about a 13-year-old injured during PSG celebration.",
+          "body": "Imagine : tu as 13 ans. Tu c\u00e9l\u00e8bres la victoire du club de ton c\u0153ur, le @PSG_inside. Et tu perds un \u0153il parce qu\u2019un policier a choisi de tirer au LBD depuis son v\u00e9hicule pour disperser des jeunes dont le seul tort \u00e9tait de f\u00eater un titre.\n\nJe saisis le @Procureur93.",
+          "engagement": "2.9M views",
+          "views": 2896300
         },
         {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2061216883823517891",
-          "headline": "Elon Musk highlights X's record usage and status as top news app.",
-          "body": "\ud835\udd4f",
-          "engagement": "2.7M views",
-          "views": 2706976
+          "handle": "nikitabier",
+          "url": "https://x.com/nikitabier/status/2061617139484876849",
+          "headline": "X product head announces new video react feature.",
+          "body": "Commentary is one of the most important pillars of X. And sometimes the best way to share your thoughts is with video.\n\nToday we're launching a whole new way to make them:\nReact with Video\n\nTap the repost button and start recording with green screen, split screen, or picture-in-picture. \n\nNow available on iOS",
+          "engagement": "677K views",
+          "views": 676907
         },
         {
           "handle": "thenihiin",
@@ -222,24 +230,48 @@
       "stories": [
         {
           "handle": "CNN",
-          "url": "https://x.com/CNN/status/2061432853661934079",
-          "headline": "Guide to changes from Trump's tax and spending cuts package affecting education.",
-          "body": "President Donald Trump's massive tax and spending cuts package, the \"big, beautiful bill\" passed by Congress last summer, has brought and will continue to bring changes to paying for education. From expenses for K-12 to higher education loan repayment options and more, many of the shifts take effect soon. Here's a guide to make sure you're ready.",
-          "engagement": "35K views",
-          "views": 34741
+          "url": "https://x.com/CNN/status/2061516912211722322",
+          "headline": "Pro-Palestinian streamer Hasan Piker and uncle barred from entering UK over Israel criticism.",
+          "body": "The pro-Palestinian American streamer Hasan Piker and his uncle say Britain's government has barred them from entering the country over their criticism of Israel.",
+          "engagement": "770K views",
+          "views": 770413
         },
         {
           "handle": "nytimes",
-          "url": "https://x.com/nytimes/status/2061430085912010811",
-          "headline": "U.S. men's national team wins 3-2 friendly over Senegal to start World Cup summer.",
-          "body": "From @TheAthleticFC: The U.S. men\u2019s national team got its World Cup summer off to a flying, chaotic start with a 3-2 win over Senegal in a friendly Sunday. Christian Pulisic, the star who hadn\u2019t scored in more than five months, broke his barren run. https://www.nytimes.com/athletic/7322090/2026/05/31/usmnt-senegal-friendly-score-result-pulisic-pochettino-world-cup/?smid=tw-nytimes&smtyp=cur",
-          "engagement": "29K views",
-          "views": 29241
+          "url": "https://x.com/nytimes/status/2061518846834434260",
+          "headline": "Defense Secretary Pete Hegseth blocked promotions of at least seven Navy officers targeting women and minorities.",
+          "body": "Breaking News: Defense Secretary Pete Hegseth blocked the promotions of at least seven Navy officers in a move that targeted women and minority officers.",
+          "engagement": "691K views",
+          "views": 690912
+        },
+        {
+          "handle": "nytimes",
+          "url": "https://x.com/nytimes/status/2061501994615890136",
+          "headline": "60 Minutes correspondent Scott Pelley accuses new producer and Bari Weiss of \"murdering\" the program.",
+          "body": "Breaking News: The \"60 Minutes\" correspondent Scott Pelley laced into the show\u2019s new executive producer and accused Bari Weiss of \"murdering\" the program.",
+          "engagement": "370K views",
+          "views": 370498
         }
       ]
     },
     "sports": {
       "stories": [
+        {
+          "handle": "AdamSchefter",
+          "url": "https://x.com/AdamSchefter/status/2061543314990497971",
+          "headline": "Browns finalizing trade sending Myles Garrett to Rams",
+          "body": "\ud83d\udea8\ud83d\udea8\ud83d\udea8\n\nBombshell: The Browns are finalizing a trade that will send two-time Defensive Player of the Year Myles Garrett to the Los Angeles Rams, per @rapsheet, @TomPelissero and me.\n\nIn exchange for Garrett, the Rams are expected to send Pro-Bowl edge Jared Verse, a 2027 first-round pick and other draft-pick compensation still being negotiated to the Browns.",
+          "engagement": "21.5M views",
+          "views": 21530136
+        },
+        {
+          "handle": "AdamSchefter",
+          "url": "https://x.com/AdamSchefter/status/2061544269333037272",
+          "headline": "Eagles trading WR A.J. Brown to Patriots",
+          "body": "\ud83d\udea8\ud83d\udea8\ud83d\udea8\n\nESPN sources: The Eagles are trading Pro-Bowl WR A.J. Brown to the Patriots for a 2028 first-round pick and a 2027 fifth-round pick that is the better of New England\u2019s two fifths. The deal that has been speculated on for weeks now finally is happening. Brown and Patriots HC Mike Vrabel are reuniting.",
+          "engagement": "7.3M views",
+          "views": 7323427
+        },
         {
           "handle": "NFL",
           "url": "https://x.com/NFL/status/2061498719200031131",
@@ -247,22 +279,6 @@
           "body": "Browns trading DE Myles Garrett to Rams in exchange for EDGE Jared Verse and a 2027 1st-round pick. (via @RapSheet, @TomPelissero, @AdamSchefter)",
           "engagement": "2.6M views",
           "views": 2622167
-        },
-        {
-          "handle": "FabrizioRomano",
-          "url": "https://x.com/FabrizioRomano/status/2061417208698331623",
-          "headline": "Premier League names Senne Lammens as Signing of the Season",
-          "body": "\ud83d\udea8\ud83c\udfc5 OFFICIAL: Premier League vote Senne Lammens as PL Signing of the Season. \ud83c\udde7\ud83c\uddea",
-          "engagement": "3.6M views",
-          "views": 3625517
-        },
-        {
-          "handle": "NBA",
-          "url": "https://x.com/NBA/status/2061236304881295685",
-          "headline": "NBA promotes 2026 Finals as biggest stage in basketball",
-          "body": "The biggest stage in basketball \ud83c\udfc6",
-          "engagement": "3.9M views",
-          "views": 3900500
         }
       ]
     },
@@ -270,32 +286,40 @@
       "stories": [
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2061299911195537555",
-          "headline": "Elon Musk agrees with post on need for strong men to stop violence",
-          "body": "Bullseye",
-          "engagement": "18.5M views",
-          "views": 18507378
+          "url": "https://x.com/elonmusk/status/2061624806668394531",
+          "headline": "Elon Musk agrees with post about girls in dog cages at Eid",
+          "body": "Yes",
+          "engagement": "7.7M views",
+          "views": 7677196
         },
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2061311438099218808",
-          "headline": "Elon Musk confirms old Dogecoin McDonald's offer story",
-          "body": "True",
-          "engagement": "16.4M views",
-          "views": 16373492
+          "url": "https://x.com/elonmusk/status/2061625841298317639",
+          "headline": "Elon Musk calls out double-standard in quoted post",
+          "body": "Outrageous double-standard!",
+          "engagement": "3.1M views",
+          "views": 3064660
         },
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2061235363222614263",
-          "headline": "Elon Musk states demographic changes in Europe are a fact",
-          "body": "This is simply a fact",
-          "engagement": "15.2M views",
-          "views": 15216985
+          "url": "https://x.com/elonmusk/status/2061624209516957799",
+          "headline": "Elon Musk agrees with post on racism and the Nowak case",
+          "body": "Yes",
+          "engagement": "3.1M views",
+          "views": 3120519
         }
       ]
     },
     "pods": {
       "stories": [
+        {
+          "handle": "joeroganhq",
+          "url": "https://x.com/joeroganhq/status/2061425029150110158",
+          "headline": "Clip of Jim Norton showing Theo Von a photo.",
+          "body": "Jim Norton shows Theo Von a picture of his \"trans wife's\" penis. \n\nWatch Theo's reaction \ud83d\ude02",
+          "engagement": "952K views",
+          "views": 952778
+        },
         {
           "handle": "hubermanlab",
           "url": "https://x.com/hubermanlab/status/2061447675724091690",
@@ -317,33 +341,41 @@
     "pg6": {
       "stories": [
         {
-          "handle": "FearedBuck",
-          "url": "https://x.com/FearedBuck/status/2061245626973650969",
-          "headline": "Howie Mandel gives Sophie Rain a handshake while wearing gloves due to germophobia",
-          "body": "Howie Mandel, who has severe germophobia and OCD, had to stand behind glass and wear gloves to give Sophie Rain a handshake.",
-          "engagement": "4.29M views",
-          "views": 4294510
+          "handle": "PopBase",
+          "url": "https://x.com/PopBase/status/2061298190087790715",
+          "headline": "Marilyn Monroe's 100th birthday marked today",
+          "body": "100 years ago today, Marilyn Monroe was born.",
+          "engagement": "2.3M views",
+          "views": 2389142
         },
         {
-          "handle": "livedoornews",
-          "url": "https://x.com/livedoornews/status/2061228732384493712",
-          "headline": "ARASHI ends group activities as members exit agency contracts.",
-          "body": "\u3010\u5d50\u304c\u6d3b\u52d5\u7d42\u4e86\u3011\u5927\u91ce\u667a\u306fSTARTO\u793e\u3092\u9000\u6240\u3001\u4e8c\u5bae\u548c\u4e5f\u3068\u677e\u672c\u6f64\u3082\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u5951\u7d04\u7d42\u4e86",
-          "engagement": "2M views",
-          "views": 2019858
+          "handle": "PopCrave",
+          "url": "https://x.com/PopCrave/status/2061476414251991147",
+          "headline": "Ariana Grande stars in new music video",
+          "body": "Ariana Grande in the \u201chate that i made you love me\u201d music video.",
+          "engagement": "1M views",
+          "views": 1050959
         },
         {
-          "handle": "CNN",
-          "url": "https://x.com/CNN/status/2061403829946462602",
-          "headline": "KSI leaves Sidemen YouTube group after more than a decade.",
-          "body": "Content creator KSI has left the Sidemen after more than a decade with the massively popular YouTubers.",
-          "engagement": "558K views",
-          "views": 558787
+          "handle": "PopCrave",
+          "url": "https://x.com/PopCrave/status/2061535603628326948",
+          "headline": "Sasha Pieterse to star in Rosemary Kennedy biopic",
+          "body": "\u2018Pretty Little Liars\u2019 star Sasha Pieterse is set to lead the upcoming psychological thriller \u2018Rosemary.\u2019\n\nThe film will recount the tragic story of JFK\u2019s sister Rosemary Kennedy from her own perspective.",
+          "engagement": "465K views",
+          "views": 465620
         }
       ]
     },
     "recipe": {
       "stories": [
+        {
+          "handle": "sweetroad5",
+          "url": "https://x.com/sweetroad5/status/2061371835120488620",
+          "headline": "Papico red tea latte re-release announced",
+          "body": "\uff16\u6708\uff11\u65e5\u3088\u308a\u3001\u30a2\u30c3\u30b5\u30e0\u306e\u7518\u304f\u83ef\u3084\u304b\u306a\u9999\u308a\u3092\u697d\u3057\u3081\u308b\u7d20\u6750\u3092\u6d3b\u304b\u3057\u305f\u5473\u308f\u3044\u3068\u3001\u306a\u3081\u3089\u304b\u306a\u98df\u611f\u3092\u697d\u3057\u3081\u308b\u300c\u30d1\u30d4\u30b3 \u7d05\u8336\u30e9\u30c6\u300d\u304c\u518d\u767a\u58f2\u3055\u308c\u307e\u3057\u305f\u2728",
+          "engagement": "543K views",
+          "views": 543238
+        },
         {
           "handle": "FGirlrita",
           "url": "https://x.com/FGirlrita/status/2061381840154267871",
@@ -353,20 +385,12 @@
           "views": 140401
         },
         {
-          "handle": "JxshCyres",
-          "url": "https://x.com/JxshCyres/status/2061437007130398760",
-          "headline": "User posts about a cooking moment with a video thread",
-          "body": "When the cooking have a great turn for a minute \n\nThread\ud83d\udc47\ud83c\udfa5",
-          "engagement": "27.7K views",
-          "views": 27711
-        },
-        {
-          "handle": "evilwizardbunny",
-          "url": "https://x.com/evilwizardbunny/status/2061313653761245332",
-          "headline": "User compares baked bread to sandwich made with it",
-          "body": "the bread i baked vs the sandwich i made with it",
-          "engagement": "47K views",
-          "views": 47063
+          "handle": "JN_eats",
+          "url": "https://x.com/JN_eats/status/2061371835120488620",
+          "headline": "Rice burger with ramen combo shared",
+          "body": "\ubc25\ubc84\uac70\uc5d0 \ub77c\uba74\n\uc9c4\uc9dc \uac1c\ubbf8\uce5c\ub188\uc870\ud569",
+          "engagement": "118K views",
+          "views": 118348
         }
       ]
     },
@@ -381,20 +405,12 @@
           "views": 9524
         },
         {
-          "handle": "cline",
-          "url": "https://x.com/cline/status/2061287441575858253",
-          "headline": "AI company releases new model with 1M context, multimodal and agentic coding capabilities.",
-          "body": "The new MiniMax-M3 is their first model to have 1m context, multimodal, and agentic coding capability. \n\nCongratulations to @MiniMax_AI for the breakthrough in sparse-attention architecture cutting compute & cost to 1/20th their previous generation.\n\nFree to try in Cline now!",
-          "engagement": "37K views",
-          "views": 36698
-        },
-        {
-          "handle": "forallcurious",
-          "url": "https://x.com/forallcurious/status/2061199288730861990",
-          "headline": "New research reveals Parkinson's starts in the kidney, not the brain.",
-          "body": "NEWS\ud83d\udea8: Parkinson's starts in kidney new research reveals  it doesn't start in the brain",
-          "engagement": "18K views",
-          "views": 18169
+          "handle": "SmartScience",
+          "url": "https://x.com/SmartScience/status/2061335778626855311",
+          "headline": "China's Jiuzhang quantum computer solves task in 4 minutes that takes supercomputers billions of years.",
+          "body": "China\u2019s quantum computer completed a task in 4 minutes that would literally take a supercomputer billions of years.\n\nChinese researchers have achieved a monumental breakthrough in quantum computing with their prototype, Jiuzhang. By counting 76 photons through Gaussian boson sampling, the system completed a calculation in four minutes that would take a traditional supercomputer billions of years. This achievement shatters the previous classical record of five photons, demonstrating how an intricate array of lasers and mirrors can outperform traditional silicon bits in complex processing tasks.\n\nThis milestone is more than just a speed record; it proves the viability of photon-based quantum mechanics in solving real-world challenges. From revolutionizing quantum chemistry to laying the groundwork for a secure, large-scale quantum internet, the principles of superposition and entanglement are moving from theoretical physics into functional technology. This shift promises to redefine our global computational limits, offering answers to mathematical problems once considered impossible to solve within a human lifetime.\n\nsource: Zhong, H.-S., Wang, H., Deng, Y.-H., Chen, M.-C., Peng, L.-C., Luo, Y.-L., ... & Pan, J.-W. (2020). Quantum computational advantage using photons. Science.",
+          "engagement": "8.6K views",
+          "views": 8646
         }
       ]
     },
@@ -409,20 +425,20 @@
           "views": 299094
         },
         {
-          "handle": "nypost",
-          "url": "https://x.com/nypost/status/2061538958534754712",
-          "headline": "West Nile virus detected in Southern California city",
-          "body": "Urgent warning as deadly West Nile virus is discovered in California https://nypost.com/2026/06/01/us-news/west-nile-virus-detected-in-southern-california-city/?utm_source=twitter&utm_campaign=nypost&utm_medium=social",
-          "engagement": "4K views",
-          "views": 3585
-        },
-        {
           "handle": "WallStreetApes",
           "url": "https://x.com/WallStreetApes/status/2061473067382231235",
           "headline": "Newport Beach home listed for over $12 million after 1986 purchase of $750K",
           "body": "This home has a cheap \u201cFor Sale\u201d sign in the window in Newport Beach, California\n\nThe sign says the price is over $12 million dollars\n\nJust for fun I looked up how much this home last sold for\n\nIn 1986 they bought this home for $750,000\n\nThat means this home has gone up in value by 16x the original purchase price since the late 80\u2019s\n\nYes it\u2019s Newport Beach but this price jump is insane\n\nIt just shows how cheap homes used to be and how completely out of reach a home like this will ever be for anyone in younger generations \n\nThey will legally never have a chance to live like this",
           "engagement": "56K views",
           "views": 56238
+        },
+        {
+          "handle": "KTLA",
+          "url": "https://x.com/KTLA/status/2061589098973089802",
+          "headline": "4.1 magnitude earthquake shakes Southern California",
+          "body": "The shaking extended into northern Los Angeles County.  \nRead more: https://ktla.com/news/earthquakes/4-1-magnitude-earthquake-shakes-southern-california/",
+          "engagement": "17.6K views",
+          "views": 17599
         }
       ]
     },
@@ -457,14 +473,6 @@
     "comedy": {
       "stories": [
         {
-          "handle": "LearnToToad",
-          "url": "https://x.com/LearnToToad/status/2061224956176785670",
-          "headline": "Viral meme discussion about bad nudes",
-          "body": "Everyone always posts this meme but nobody ever posts the nude to prove that it's actually bad",
-          "engagement": "11.2M views",
-          "views": 11153424
-        },
-        {
           "handle": "tempedotc0",
           "url": "https://x.com/tempedotc0/status/2061353381760000415",
           "headline": "User shares reaction meme about new information.",
@@ -483,5 +491,5 @@
       ]
     }
   },
-  "last_updated": "2026-06-01T20:17:58.510817"
+  "last_updated": "2026-06-02T04:02:32.369001"
 }
