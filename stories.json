@@ -3,29 +3,6 @@
     "world": {
       "stories": [
         {
-          "headline": "Dutch police slam pregnant Palestinian woman to ground at migration centre",
-          "url": "https://x.com/AJEnglish/status/2061016886846816598",
-          "handle": "AJEnglish",
-          "perspectives": [
-            {
-              "label": "Independent",
-              "handle": "AJEnglish",
-              "url": "https://x.com/AJEnglish/status/2061016886846816598",
-              "body": "A video of a Dutch policeman throwing a heavily pregnant woman to the ground has caused outrage. The woman says police attacked her at a migration centre where authorities had detained her Palestinian husband.",
-              "engagement": "2.7M views",
-              "views": 2723179
-            },
-            {
-              "label": "Conservative",
-              "handle": "IRIMFA_SPOX",
-              "url": "https://x.com/IRIMFA_SPOX/status/2061388086643151319",
-              "body": "Europe, which fuels global outrage over every unverified claim about women in Iran and calls attackers on police \"protesters,\" just violently slammed a pregnant woman to the ground and dragged her by her hair in the Netherlands \u2014 and remains largely silent.",
-              "engagement": "39K views",
-              "views": 39785
-            }
-          ]
-        },
-        {
           "headline": "Colombia presidential election heads to runoff between right-wing and left-wing candidates",
           "url": "https://x.com/DropSiteNews/status/2061515953863557623",
           "handle": "DropSiteNews",
@@ -57,33 +34,48 @@
           ]
         },
         {
-          "headline": "Ebola outbreak kills over 40 in DRC and Uganda amid aid struggles",
-          "url": "https://x.com/NBCNews/status/2061392349800849598",
-          "handle": "NBCNews",
+          "headline": "UK bars pro-Palestinian streamer Hasan Piker and uncle over Israel criticism",
+          "url": "https://x.com/CNN/status/2061516912211722322",
+          "handle": "CNN",
+          "perspectives": [
+            {
+              "label": "Democrat",
+              "handle": "CNN",
+              "url": "https://x.com/CNN/status/2061516912211722322",
+              "body": "The pro-Palestinian American streamer Hasan Piker and his uncle say Britain's government has barred them from entering the country over their criticism of Israel.",
+              "engagement": "957K views",
+              "views": 956828
+            }
+          ]
+        },
+        {
+          "headline": "Israel strikes Hezbollah in Beirut after rocket attacks, Trump claims US-brokered ceasefire halt",
+          "url": "https://x.com/RudyGiuliani/status/2061611592165290043",
+          "handle": "RudyGiuliani",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "Osint613",
-              "url": "https://x.com/Osint613/status/2061492128253943811",
-              "body": "Hundreds took to the streets in Nanyuki, Kenya, opposing a planned U.S.-Kenya Ebola quarantine facility in Laikipia County. Residents say the facility risks exposing their communities to the virus.",
-              "engagement": "106K views",
-              "views": 106464
+              "handle": "RudyGiuliani",
+              "url": "https://x.com/RudyGiuliani/status/2061611592165290043",
+              "body": "\ud83d\udea8 BREAKING NEWS: Israel conducts military strikes against Hezbollah in Beirut, Lebanon, after Hezbollah launch at least 50 rockets into northern Israel\nISRAEL: \"There will not be a situation where Hezbollah attacks and its terror HQ in Beirut remain out-of-bounds!\"",
+              "engagement": "525K views",
+              "views": 525170
             },
             {
               "label": "Independent",
-              "handle": "NBCNews",
-              "url": "https://x.com/NBCNews/status/2061392349800849598",
-              "body": "Over 40 people have died in a growing Ebola outbreak in the Democratic Republic of the Congo and Uganda, where government and international aid organizations are struggling to cope with the spread of the disease.",
-              "engagement": "16K views",
-              "views": 15610
+              "handle": "KobeissiLetter",
+              "url": "https://x.com/KobeissiLetter/status/2061501840613675456",
+              "body": "BREAKING: President Trump says he spoke with Israeli Prime Minister Netanyahu and there will be \u201cno troops going to Beirut.\u201d He also says the US spoke with Hezbollah and they agreed that \u201call shooting will stop\u201d and \u201cIsrael will not attack them.\u201d",
+              "engagement": "255K views",
+              "views": 255416
             },
             {
               "label": "Democrat",
-              "handle": "Osint613",
-              "url": "https://x.com/Osint613/status/2061492128253943811",
-              "body": "Hundreds took to the streets in Nanyuki, Kenya, opposing a planned U.S.-Kenya Ebola quarantine facility in Laikipia County.",
-              "engagement": "106K views",
-              "views": 106464
+              "handle": "MintPressNews",
+              "url": "https://x.com/MintPressNews/status/2061544877351944223",
+              "body": "\ud83d\udea8BREAKING: Huge Crowds In Tehran Raise Hezbollah Flags & Chant In Favour Of Resistance\nA massive statement as Iran threatens Israel in the event of strikes in Beirut.",
+              "engagement": "25K views",
+              "views": 25505
             }
           ]
         }
@@ -123,48 +115,64 @@
           ]
         },
         {
-          "headline": "Mail-in ballots found burned and voting centers vandalized ahead of California election day",
-          "url": "https://x.com/bennyjohnson/status/2061429733435289782",
-          "handle": "bennyjohnson",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "bennyjohnson",
-              "url": "https://x.com/bennyjohnson/status/2061429733435289782",
-              "body": "Tomorrow is Election Day in California and Mail-in ballots are being found burned and voting centers vandalized. This is what election integrity looks like in a Democrat-run city. This is why we need the SAVE America Act NOW. Vote in person tomorrow!",
-              "engagement": "679K views",
-              "views": 678988
-            },
-            {
-              "label": "Conservative",
-              "handle": "shadowJ47",
-              "url": "https://x.com/shadowJ47/status/2061428732703703475",
-              "body": "This is straight-up election sabotage in deep blue LA. Burned mail-in ballots stuffed in a drop box and a voting center vandalized just days before the primary. All while Spencer Pratt is surging and scaring the hell out of the Democrat machine. Coincidence? Bullshit.",
-              "engagement": "2.7K views",
-              "views": 2673
-            }
-          ]
-        },
-        {
-          "headline": "White House posts 'STAND WITH ICE. STAND WITH LAW ENFORCEMENT' amid border enforcement focus",
-          "url": "https://x.com/WhiteHouse/status/2061104857574990018",
+          "headline": "Trump says Iran agreed to no nuclear weapons in wide-ranging interview",
+          "url": "https://x.com/WhiteHouse/status/2060913180491075792",
           "handle": "WhiteHouse",
           "perspectives": [
             {
               "label": "Conservative",
               "handle": "WhiteHouse",
-              "url": "https://x.com/WhiteHouse/status/2061104857574990018",
-              "body": "STAND WITH ICE. STAND WITH LAW ENFORCEMENT.",
-              "engagement": "501K views",
-              "views": 501437
+              "url": "https://x.com/WhiteHouse/status/2060913180491075792",
+              "body": "\"The one guarantee that I have to have is that there will be no nuclear weapons, they've agreed to that.\"\n\nPresident Donald J. Trump talks Iran, ballroom construction and more in a wide ranging interview with Lara Trump. \ud83c\uddfa\ud83c\uddf8",
+              "engagement": "314K views",
+              "views": 314386
             },
             {
+              "label": "Democrat",
+              "handle": "tedlieu",
+              "url": "https://x.com/tedlieu/status/2060935899140264193",
+              "body": "Now we know why trump still hasn\u2019t been able to open the Straight of Hormuz.\n\nIt\u2019s because, in the cognitively impaired mind of trump, Iran cleverly has the only Schr\u00f6dinger military in the world: it exists and it doesn\u2019t exist all at the same time.",
+              "engagement": "178K views",
+              "views": 178099
+            },
+            {
+              "label": "Independent",
+              "handle": "JasonJournoDC",
+              "url": "https://x.com/JasonJournoDC/status/2061575144452002292",
+              "body": "\ud83d\udca5NEW: Dem Harold Ford Jr. on New Jersey Anti-ICE Rioters: \u201cThat place was open during the Obama Administration \u2026 for protesters to be outside engaging in this kind of violence, imparting these kind of threats to federal officials \u2026 Democrats, we have to say, \u2018This is WRONG!\u2019\u201d",
+              "engagement": "94K views",
+              "views": 94509
+            }
+          ]
+        },
+        {
+          "headline": "Violence erupts at Newark ICE facility as protesters clash with federal agents",
+          "url": "https://x.com/hasanthehun/status/2061162786072510757",
+          "handle": "hasanthehun",
+          "perspectives": [
+            {
               "label": "Conservative",
-              "handle": "iaproject",
-              "url": "https://x.com/iaproject/status/2061405474356953113",
-              "body": "We stand with ICE. And we demand that Congress FUND THEM!",
-              "engagement": "667 views",
-              "views": 667
+              "handle": "MAGAVoice",
+              "url": "https://x.com/MAGAVoice/status/2060954563184857385",
+              "body": "I don\u2019t care what anyone says. If you atta*ck Police HORSES you should be put in Prison for 30+ Years\n\nThis should ABSOLUTELY be a Federal Crime",
+              "engagement": "75K views",
+              "views": 75502
+            },
+            {
+              "label": "Democrat",
+              "handle": "hasanthehun",
+              "url": "https://x.com/hasanthehun/status/2061162786072510757",
+              "body": "this is basically jack doherty, if the federal government was also offering him additional protection",
+              "engagement": "286K views",
+              "views": 286185
+            },
+            {
+              "label": "Independent",
+              "handle": "JasonJournoDC",
+              "url": "https://x.com/JasonJournoDC/status/2061575144452002292",
+              "body": "\ud83d\udca5NEW: Dem Harold Ford Jr. on New Jersey Anti-ICE Rioters: \u201cThat place was open during the Obama Administration \u2026 for protesters to be outside engaging in this kind of violence, imparting these kind of threats to federal officials \u2026 Democrats, we have to say, \u2018This is WRONG!\u2019\u201d",
+              "engagement": "94K views",
+              "views": 94509
             }
           ]
         }
@@ -172,14 +180,6 @@
     },
     "business": {
       "stories": [
-        {
-          "handle": "tailopez",
-          "url": "https://x.com/tailopez/status/2061402537119436881",
-          "headline": "Odds of making $1 million from various sources including stock market",
-          "body": "Odds of making $1 million:\n\n\ud83c\udfb0 Lottery: 0.0000003%\n\ud83c\udfc8 Pro athlete: 0.03%\n\ud83d\udc8d Marrying into money: 4%\n\ud83d\udcc8 Stock market: 10%\n\ud83c\udfe0 Real estate: 18%\n\ud83d\udcbc Business owner: 24%",
-          "engagement": "2.2M views",
-          "views": 2203583
-        },
         {
           "handle": "TheStalwart",
           "url": "https://x.com/TheStalwart/status/2061548953527558431",
@@ -195,11 +195,27 @@
           "body": "BREAKING: Bernie Sanders will introduce a bill to have the public take a 50% ownership stake in the country's biggest AI companies.\n\nThe American AI Sovereign Wealth Fund Act would have the government tax AI companies, take 50% of the stock, and put it under public control.",
           "engagement": "1.1M views",
           "views": 1052376
+        },
+        {
+          "handle": "saylor",
+          "url": "https://x.com/saylor/status/2061443661620019475",
+          "headline": "Michael Saylor aims for $STRC as top credit instrument",
+          "body": "Our goal is to make $STRC the best credit instrument in the world.",
+          "engagement": "580K views",
+          "views": 579841
         }
       ]
     },
     "top": {
       "stories": [
+        {
+          "handle": "ishowspeedsui",
+          "url": "https://x.com/ishowspeedsui/status/2061465522835800173",
+          "headline": "Speed announces World Cup video release",
+          "body": "WORLD CUP VIDEO OUT NOW!!!!\u26bd\ufe0f",
+          "engagement": "46.2M views",
+          "views": 46200671
+        },
         {
           "handle": "AlyDiouara",
           "url": "https://x.com/AlyDiouara/status/2061476406488338546",
@@ -209,20 +225,12 @@
           "views": 2896300
         },
         {
-          "handle": "nikitabier",
-          "url": "https://x.com/nikitabier/status/2061617139484876849",
-          "headline": "X product head announces new video react feature.",
-          "body": "Commentary is one of the most important pillars of X. And sometimes the best way to share your thoughts is with video.\n\nToday we're launching a whole new way to make them:\nReact with Video\n\nTap the repost button and start recording with green screen, split screen, or picture-in-picture. \n\nNow available on iOS",
-          "engagement": "677K views",
-          "views": 676907
-        },
-        {
-          "handle": "thenihiin",
-          "url": "https://x.com/thenihiin/status/2061478036587847815",
-          "headline": "Short video clip about facts on certain friendships.",
-          "body": "Facts about friendships like this?",
-          "engagement": "247K views",
-          "views": 247804
+          "handle": "makotokawazu",
+          "url": "https://x.com/makotokawazu/status/2061737406840332367",
+          "headline": "Typhoon 6 schedule video for Kanto",
+          "body": "\u53f0\u98a86\u53f7\u306e\u30bf\u30a4\u30e0\u30b9\u30b1\u30b8\u30e5\u30fc\u30eb\u95a2\u6771\u7248\u304c\u51fa\u307e\u3057\u305f",
+          "engagement": "1.4M views",
+          "views": 1350580
         }
       ]
     },
@@ -313,40 +321,40 @@
     "pods": {
       "stories": [
         {
-          "handle": "joeroganhq",
-          "url": "https://x.com/joeroganhq/status/2061425029150110158",
-          "headline": "Clip of Jim Norton showing Theo Von a photo.",
-          "body": "Jim Norton shows Theo Von a picture of his \"trans wife's\" penis. \n\nWatch Theo's reaction \ud83d\ude02",
-          "engagement": "952K views",
-          "views": 952778
+          "handle": "hubermanlab",
+          "url": "https://x.com/hubermanlab/status/2061447675724091690",
+          "headline": "Huberman announces new episode on peptides with Dr. Abud Bakri.",
+          "body": "The new Huberman Lab episode is out: Peptides: The Science, Uses & Safety | Dr. @AbudBakri \n\n0:00 Abud Bakri\n3:33 What are Peptides?, Receptors\n6:26 BPC-157, Discovery, Animal Proteins\n11:19 BPC-157, Animal Data, Regeneration\n12:27 Sponsors: Eight Sleep & Lingo\n14:51 BPC-157, Regeneration & Healing, Neurological Effects\n19:27 Adverse Events, Clinical Trials & Legality of BPC-157\n29:41 GLPs & Compounding Pharmacy; Peptides & Gray Market\n35:25 Manufacturing, Compounding Pharmacies, Gray Market, Black Market\n41:32 Peptides & Tumor Growth?; Angiogenesis\n45:17 Sponsor: AG1\n47:01 Pharmaceutical Patents, Clinical Trials for BPC-157, Potential Outcomes\n54:19 BPC-157 Healing, Patient Experiences\n1:01:22 Physician Counsel, FDA Legality, Malpractice\n1:07:25 Pinealon, Epithalon, Discovery; Sleep & Cognitive Performance, Risks\n1:18:17 Sponsor: Function\n1:19:55 Pineal Age Deterioration, Epithalon, Eye Health\n1:29:38 Thymus, Age Shrinkage; Thymosin Alpha-1, Immune Function\n1:38:13 TB-500; Pet Health; Thymic Peptide Doses, Thymulin, Zinc\n1:49:13 Sponsor: LMNT\n1:50:33 GHK-Cu (Copper GHK), Collagen\n1:55:32 Illness Recovery, Thymic Score, Tool: Blood Test & Immune Cell Counts\n2:04:01 Growth Hormone Secretagogues, Age Decline, Cancer Risk, Insulin\n2:15:36 GHK-Cu, Topical Cream, Red Light Therapy\n2:20:25 GLPs, Discovery, Physical & Cognitive Long-Term Effects, Fertility\n2:33:53 Retatrutide; Drug Patents & Nomenclature\n2:39:03 Peptides: Women Reproductive Disorders; TBI, Neurologic Effect; Safe Sources\n2:45:34 Zero-Cost Support, YouTube, Spotify & Apple Follow, Reviews & Feedback, Sponsors, Protocols Book, Social Media, Neural Network Newsletter\n\nIncludes paid partnerships.",
+          "engagement": "1.4M views",
+          "views": 1448729
         },
         {
           "handle": "hubermanlab",
-          "url": "https://x.com/hubermanlab/status/2061447675724091690",
-          "headline": "Huberman Lab releases new episode on peptides with Dr. Abud Bakri",
-          "body": "The new Huberman Lab episode is out: Peptides: The Science, Uses & Safety | Dr. @AbudBakri \n0:00 Abud Bakri\n3:33 What are Peptides?, Receptors\n6:26 BPC-157, Discovery, Animal Proteins\n11:19 BPC-157, Animal Data, Regeneration\n12:27 Sponsors: Eight Sleep & Lingo\n14:51 BPC-157, Regeneration & Healing, Neurological Effects\n19:27 Adverse Events, Clinical Trials & Legality of BPC-157\n29:41 GLPs & Compounding Pharmacy; Peptides & Gray Market\n35:25 Manufacturing, Compounding Pharmacies, Gray Market, Black Market\n41:32 Peptides & Tumor Growth?; Angiogenesis\n45:17 Sponsor: AG1\n47:01 Pharmaceutical Patents, Clinical Trials for BPC-157, Potential Outcomes\n54:19 BPC-157 Healing, Patient Experiences\n1:01:22 Physician Counsel, FDA Legality, Malpractice\n1:07:25 Pinealon, Epithalon, Discovery; Sleep & Cognitive Performance, Risks\n1:18:17 Sponsor: Function\n1:19:55 Pineal Age Deterioration, Epithalon, Eye Health\n1:29:38 Thymus, Age Shrinkage; Thymosin Alpha-1, Immune Function\n1:38:13 TB-500; Pet Health; Thymic Peptide Doses, Thymulin, Zinc\n1:49:13 Sponsor: LMNT\n1:50:33 GHK-Cu (Copper GHK), Collagen\n1:55:32 Illness Recovery, Thymic Score, Tool: Blood Test & Immune Cell Counts\n2:04:01 Growth Hormone Secretagogues, Age Decline, Cancer Risk, Insulin\n2:15:36 GHK-Cu, Topical Cream, Red Light Therapy\n2:20:25 GLPs, Discovery, Physical & Cognitive Long-Term Effects, Fertility\n2:33:53 Retatrutide; Drug Patents & Nomenclature\n2:39:03 Peptides: Women Reproductive Disorders; TBI, Neurologic Effect; Safe Sources\n2:45:34 Zero-Cost Support, YouTube, Spotify & Apple Follow, Reviews & Feedback, Sponsors, Protocols Book, Social Media, Neural Network Newsletter\n\nIncludes paid partnerships.",
-          "engagement": "713K views",
-          "views": 713233
+          "url": "https://x.com/hubermanlab/status/2061482031192870984",
+          "headline": "Huberman promotes peptides masterclass episode with Dr. Abud Bakri.",
+          "body": "PEPTIDES MASTERCLASS. A must listen if you\u2019re peptide curious, peptide skeptical, bullish on peptides, or anti. The science, the uses, sourcing, concerns, and much more. @AbudBakri thank you for such an informative discussion.",
+          "engagement": "844K views",
+          "views": 844386
         },
         {
           "handle": "joeroganhq",
-          "url": "https://x.com/joeroganhq/status/2061500524738875732",
-          "headline": "Tom Holland discusses his dislike for Hollywood on Joe Rogan",
-          "body": "Tom Holland on Hollywood: \"Had I not walked away from certain situations, let's just put it at that, I would be a very different person today\u2026 I really do not like Hollywood. It is not for me. The business really scares me.\"",
-          "engagement": "199K views",
-          "views": 199065
+          "url": "https://x.com/joeroganhq/status/2061425029150110158",
+          "headline": "Clip of Jim Norton showing Theo Von a picture of his trans wife's penis.",
+          "body": "Jim Norton shows Theo Von a picture of his \"trans wife's\" penis. \n\nWatch Theo's reaction \ud83d\ude02",
+          "engagement": "984K views",
+          "views": 984979
         }
       ]
     },
     "pg6": {
       "stories": [
         {
-          "handle": "PopBase",
-          "url": "https://x.com/PopBase/status/2061298190087790715",
-          "headline": "Marilyn Monroe's 100th birthday marked today",
-          "body": "100 years ago today, Marilyn Monroe was born.",
-          "engagement": "2.3M views",
-          "views": 2389142
+          "handle": "taylorswift13",
+          "url": "https://x.com/taylorswift13/status/2061509036814528734",
+          "headline": "Taylor Swift announces original song for Toy Story 5",
+          "body": "It\u2019s a *Toy* Story \ud83e\udd20\nYou knew it! My new original song \u201cI Knew It, I Knew You\u201d for Disney and @Pixar\u2019s @toystory 5 will be yours on June 5th. I\u2019ve always dreamed of getting to write for these characters who I\u2019ve adored since I was a 5 year old kid watching the first Toy Story movie. I fell instantly in love with Toy Story 5 when I was lucky enough to see it in its early stages, and I wrote this song as soon as I got home from the screening. Sometimes you just know, right?\nYou can pre-order now exclusively at https://t.co/NoneI6kxdH and catch Toy Story 5 in theaters June 19th \u2601\ufe0f\u2601\ufe0f\u2601\ufe0f\u2601\ufe0f\u2601\ufe0f",
+          "engagement": "5.7M views",
+          "views": 5697419
         },
         {
           "handle": "PopCrave",
@@ -357,45 +365,36 @@
           "views": 1050959
         },
         {
-          "handle": "PopCrave",
-          "url": "https://x.com/PopCrave/status/2061535603628326948",
-          "headline": "Sasha Pieterse to star in Rosemary Kennedy biopic",
-          "body": "\u2018Pretty Little Liars\u2019 star Sasha Pieterse is set to lead the upcoming psychological thriller \u2018Rosemary.\u2019\n\nThe film will recount the tragic story of JFK\u2019s sister Rosemary Kennedy from her own perspective.",
-          "engagement": "465K views",
-          "views": 465620
+          "handle": "PopBase",
+          "url": "https://x.com/PopBase/status/2061513068731863107",
+          "headline": "Pop Base reports Taylor Swift's new song returns to country roots",
+          "body": "Taylor Swift\u2019s new song \u2018I Knew It, I Knew You\u2019 for \u2018Toy Story 5\u2019 will mark a return to her country roots.\n\nThe song was written and produced by Taylor Swift and Jack Antonoff.",
+          "engagement": "808K views",
+          "views": 808173
         }
       ]
     },
     "recipe": {
-      "stories": [
-        {
-          "handle": "sweetroad5",
-          "url": "https://x.com/sweetroad5/status/2061371835120488620",
-          "headline": "Papico red tea latte re-release announced",
-          "body": "\uff16\u6708\uff11\u65e5\u3088\u308a\u3001\u30a2\u30c3\u30b5\u30e0\u306e\u7518\u304f\u83ef\u3084\u304b\u306a\u9999\u308a\u3092\u697d\u3057\u3081\u308b\u7d20\u6750\u3092\u6d3b\u304b\u3057\u305f\u5473\u308f\u3044\u3068\u3001\u306a\u3081\u3089\u304b\u306a\u98df\u611f\u3092\u697d\u3057\u3081\u308b\u300c\u30d1\u30d4\u30b3 \u7d05\u8336\u30e9\u30c6\u300d\u304c\u518d\u767a\u58f2\u3055\u308c\u307e\u3057\u305f\u2728",
-          "engagement": "543K views",
-          "views": 543238
-        },
-        {
-          "handle": "FGirlrita",
-          "url": "https://x.com/FGirlrita/status/2061381840154267871",
-          "headline": "User shares photo of prepared food with motivational caption",
-          "body": "FOOD IS READY\ud83e\udd29\ud83d\udc69\u200d\ud83d\udcbb\nMILLIONAIRES WILL B MADE THIS NEW MONTH\ud83c\udfc6\n\nJUST STAY LOCKED IN HERE\ud83d\ude0e",
-          "engagement": "140K views",
-          "views": 140401
-        },
-        {
-          "handle": "JN_eats",
-          "url": "https://x.com/JN_eats/status/2061371835120488620",
-          "headline": "Rice burger with ramen combo shared",
-          "body": "\ubc25\ubc84\uac70\uc5d0 \ub77c\uba74\n\uc9c4\uc9dc \uac1c\ubbf8\uce5c\ub188\uc870\ud569",
-          "engagement": "118K views",
-          "views": 118348
-        }
-      ]
+      "stories": []
     },
     "science": {
       "stories": [
+        {
+          "handle": "StockSavvyShay",
+          "url": "https://x.com/StockSavvyShay/status/2061772285284098196",
+          "headline": "OUST partners with FieldAI to integrate Rev8 digital lidar into autonomous robots.",
+          "body": "$OUST partnered with FieldAI to integrate its Rev8 digital lidar into autonomous robots operating in complex, unstructured environments.\n\nThe companies are targeting deployments across construction, mining, energy, manufacturing, security and government sectors.",
+          "engagement": "9K views",
+          "views": 9813
+        },
+        {
+          "handle": "AMD",
+          "url": "https://x.com/AMD/status/2061621358660853929",
+          "headline": "AMD Ryzen AI Max+ now available with breakthrough local AI performance.",
+          "body": "AMD Ryzen AI Max+ is available now.\n\n16 cores. 32 threads. 40 compute units. 50 TOPS NPU. Up to 128GB unified memory.\n\nBuilt on x86, it brings breakthrough local AI performance to the enterprise and developer workflows teams already use. No translation layer, no performance penalty, no workflow disruption.",
+          "engagement": "80K views",
+          "views": 80146
+        },
         {
           "handle": "COVID19_disease",
           "url": "https://x.com/COVID19_disease/status/2061475598749552774",
@@ -403,42 +402,34 @@
           "body": "\ud83d\udea8 BREAKTHROUGH: MIT engineers develop a breath test that detects pneumonia in minutes no X-rays, no lab wait. Just a single breath",
           "engagement": "10K views",
           "views": 9524
-        },
-        {
-          "handle": "SmartScience",
-          "url": "https://x.com/SmartScience/status/2061335778626855311",
-          "headline": "China's Jiuzhang quantum computer solves task in 4 minutes that takes supercomputers billions of years.",
-          "body": "China\u2019s quantum computer completed a task in 4 minutes that would literally take a supercomputer billions of years.\n\nChinese researchers have achieved a monumental breakthrough in quantum computing with their prototype, Jiuzhang. By counting 76 photons through Gaussian boson sampling, the system completed a calculation in four minutes that would take a traditional supercomputer billions of years. This achievement shatters the previous classical record of five photons, demonstrating how an intricate array of lasers and mirrors can outperform traditional silicon bits in complex processing tasks.\n\nThis milestone is more than just a speed record; it proves the viability of photon-based quantum mechanics in solving real-world challenges. From revolutionizing quantum chemistry to laying the groundwork for a secure, large-scale quantum internet, the principles of superposition and entanglement are moving from theoretical physics into functional technology. This shift promises to redefine our global computational limits, offering answers to mathematical problems once considered impossible to solve within a human lifetime.\n\nsource: Zhong, H.-S., Wang, H., Deng, Y.-H., Chen, M.-C., Peng, L.-C., Luo, Y.-L., ... & Pan, J.-W. (2020). Quantum computational advantage using photons. Science.",
-          "engagement": "8.6K views",
-          "views": 8646
         }
       ]
     },
     "local": {
       "stories": [
         {
-          "handle": "GigglingGanon",
-          "url": "https://x.com/GigglingGanon/status/2061417121779691796",
-          "headline": "Newport Beach police respond to camera confrontation at Starbucks plaza",
-          "body": "This woman becomes completely unglued when she discovers her feelings do not supersede the rights of others. \u200bThis confrontation in Newport Beach, California, escalated rapidly when a bystander decided her personal comfort level should more important than the constitutional rights of everyone else in a public space.\n\nSpotting independent journalists filming near a Starbucks plaza, she immediately went on the offensive, aggressively demanding they shut down their cameras.\n\n\u200bWhen that didn\u2019t work, she escalated to screeching demands for the Newport Beach Police Department to step in and execute a \"citizen\u2019s arrest\" on the creators for \"violating her privacy.\"\n\n\u200bWhat makes this footage a masterclass to watch is the contrast between her absolute meltdown and the flawless composure of the responding officers. Instead of taking the bait or taking the easy way out to quiet a loud disturbance, these officers stood ten-toes-down on the U.S. Constitution. They calmly but firmly educated her on the spot:\n\n\u200bThe journalists were standing in a publicly accessible area.\n\n\u200bThere is absolutely no legal expectation of privacy in a public space.\n\n\u200bNo crime was committed, meaning no arrest\u2014citizen's or otherwise\u2014was going to happen.\n\n\u200bMajor kudos to these officers for knowing the law, maintaining total control of the scene, and actively protecting the First Amendment rights of journalists exercising them. When emotions run high, a solid cop who respects the Bill of Rights is exactly what keeps a situation from turning completely sideways.",
-          "engagement": "299K views",
-          "views": 299094
+          "handle": "BuzzPatterson",
+          "url": "https://x.com/BuzzPatterson/status/2061660077107696094",
+          "headline": "Bonfires visible on SoCal beach from hotel in pajamas",
+          "body": "SoCal. Bonfires on the beach. From our hotel in my pajamas. We can smell the fires. So SoCal.",
+          "engagement": "53K views",
+          "views": 53512
         },
         {
           "handle": "WallStreetApes",
           "url": "https://x.com/WallStreetApes/status/2061473067382231235",
-          "headline": "Newport Beach home listed for over $12 million after 1986 purchase of $750K",
+          "headline": "Newport Beach home listed over $12M, last sold for $750K in 1986",
           "body": "This home has a cheap \u201cFor Sale\u201d sign in the window in Newport Beach, California\n\nThe sign says the price is over $12 million dollars\n\nJust for fun I looked up how much this home last sold for\n\nIn 1986 they bought this home for $750,000\n\nThat means this home has gone up in value by 16x the original purchase price since the late 80\u2019s\n\nYes it\u2019s Newport Beach but this price jump is insane\n\nIt just shows how cheap homes used to be and how completely out of reach a home like this will ever be for anyone in younger generations \n\nThey will legally never have a chance to live like this",
-          "engagement": "56K views",
-          "views": 56238
+          "engagement": "103K views",
+          "views": 103267
         },
         {
-          "handle": "KTLA",
-          "url": "https://x.com/KTLA/status/2061589098973089802",
-          "headline": "4.1 magnitude earthquake shakes Southern California",
-          "body": "The shaking extended into northern Los Angeles County.  \nRead more: https://ktla.com/news/earthquakes/4-1-magnitude-earthquake-shakes-southern-california/",
-          "engagement": "17.6K views",
-          "views": 17599
+          "handle": "USAO_LosAngeles",
+          "url": "https://x.com/USAO_LosAngeles/status/2061531339598504026",
+          "headline": "US Attorney displays illicit proceeds from $270M Orange County health care fraud",
+          "body": ".@USAttyEssayli appeared on @CBSNews with @adamyamaguchi to display and discuss the illicit proceeds \u2014 homes, cars, rare baseball cards \u2014 of an Orange County man involved in a $270 million health care fraud scheme.",
+          "engagement": "44K views",
+          "views": 44046
         }
       ]
     },
@@ -461,35 +452,18 @@
           "views": 253316
         },
         {
-          "handle": "FELibrary_",
-          "url": "https://x.com/FELibrary_/status/2061430180464263662",
-          "headline": "Flat Earth video challenges official rocket and space narratives.",
-          "body": "https://t.co/96usCWfnsL",
-          "engagement": "149K views",
-          "views": 149123
+          "handle": "redpillb0t",
+          "url": "https://x.com/redpillb0t/status/2061599703066915142",
+          "headline": "Eugene Mallove murdered after exposing cold fusion cover-up",
+          "body": "In 1989 Eugene Mallove blew the whistle on the cold fusion cover up by the DoE and MIT after anomalous excess heat was reproduced dozens of times. \n\nIn 2004 he was found murdered in his home.",
+          "engagement": "9.86K views",
+          "views": 9860
         }
       ]
     },
     "comedy": {
-      "stories": [
-        {
-          "handle": "tempedotc0",
-          "url": "https://x.com/tempedotc0/status/2061353381760000415",
-          "headline": "User shares reaction meme about new information.",
-          "body": "Meme unlocked \ud83d\ude39",
-          "engagement": "158K views",
-          "views": 158133
-        },
-        {
-          "handle": "FA_im0t",
-          "url": "https://x.com/FA_im0t/status/2061401856841330781",
-          "headline": "Japanese meme video of fake crying.",
-          "body": "\u85cd\u4e95\u64ab\u5b50\u3067\u5618\u6ce3\u304dmeme",
-          "engagement": "74K views",
-          "views": 73749
-        }
-      ]
+      "stories": []
     }
   },
-  "last_updated": "2026-06-02T04:02:32.369001"
+  "last_updated": "2026-06-02T12:04:59.003915"
 }
