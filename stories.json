@@ -3,52 +3,6 @@
     "world": {
       "stories": [
         {
-          "headline": "Colombia presidential election heads to runoff between right-wing and left-wing candidates",
-          "url": "https://x.com/DropSiteNews/status/2061515953863557623",
-          "handle": "DropSiteNews",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "Defensa_Israel",
-              "url": "https://x.com/Defensa_Israel/status/2061453321789915527",
-              "body": "El colombiano Abelardo de la Espriella, el candidato que prometi\u00f3 restablecer las relaciones diplom\u00e1ticas con #Israel, abrir una embajada en Jerusal\u00e9n y solicitar la colaboraci\u00f3n de Israel en la lucha contra los c\u00e1rteles de la droga, qued\u00f3 primero por delante del izquierdista Iv\u00e1n Cepeda y ahora se dirigen ambos a una segunda vuelta decisiva.",
-              "engagement": "16K views",
-              "views": 16252
-            },
-            {
-              "label": "Independent",
-              "handle": "DropSiteNews",
-              "url": "https://x.com/DropSiteNews/status/2061515953863557623",
-              "body": "\ud83c\udde8\ud83c\uddf4 Petro warns of \u201cmafia fascism,\u201d calls for mass mobilization ahead of runoff",
-              "engagement": "14K views",
-              "views": 13872
-            },
-            {
-              "label": "Democrat",
-              "handle": "petrogustavo",
-              "url": "https://x.com/petrogustavo/status/2060708920331546774",
-              "body": "Ay amigo Polo Polo, \u00bfResucit\u00f3? Uribe fue a Ecuador y habl\u00f3 con Noboa y elevaron est\u00fapidamente los aranceles a Colombia...",
-              "engagement": "1.4M views",
-              "views": 1421409
-            }
-          ]
-        },
-        {
-          "headline": "UK bars pro-Palestinian streamer Hasan Piker and uncle over Israel criticism",
-          "url": "https://x.com/CNN/status/2061516912211722322",
-          "handle": "CNN",
-          "perspectives": [
-            {
-              "label": "Democrat",
-              "handle": "CNN",
-              "url": "https://x.com/CNN/status/2061516912211722322",
-              "body": "The pro-Palestinian American streamer Hasan Piker and his uncle say Britain's government has barred them from entering the country over their criticism of Israel.",
-              "engagement": "957K views",
-              "views": 956828
-            }
-          ]
-        },
-        {
           "headline": "Israel strikes Hezbollah in Beirut after rocket attacks, Trump claims US-brokered ceasefire halt",
           "url": "https://x.com/RudyGiuliani/status/2061611592165290043",
           "handle": "RudyGiuliani",
@@ -78,101 +32,132 @@
               "views": 25505
             }
           ]
+        },
+        {
+          "headline": "Colombia heads to presidential runoff with right-wing hardliner vs leftist candidate",
+          "url": "https://x.com/FNCGlobalNews/status/2061104199895851256",
+          "handle": "FNCGlobalNews",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "JasonMiller",
+              "url": "https://x.com/JasonMiller/status/2061588109779759554",
+              "body": "This is a good thing\u2026 \u201cColombia\u2019s populist, Bukele-loving right looks likely to win power\u201d Abelardo de la Espriella outperformed in the first round of a deeply polarised presidential election",
+              "engagement": "11.8K views",
+              "views": 11791
+            },
+            {
+              "label": "Independent",
+              "handle": "cnnbrk",
+              "url": "https://x.com/cnnbrk/status/2061223332251377823",
+              "body": "Pro-Trump candidate Abelardo de la Espriella will face leftist Petro ally Iv\u00e1n Cepeda in a June presidential runoff election that could redefine Colombia's relations with the US.",
+              "engagement": "192K views",
+              "views": 192226
+            },
+            {
+              "label": "Democrat",
+              "handle": "CNN",
+              "url": "https://x.com/CNN/status/2061223391193890821",
+              "body": "Pro-Trump candidate Abelardo de la Espriella will face leftist Petro ally Iv\u00e1n Cepeda in a June presidential runoff election that could redefine Colombia's relations with the US.",
+              "engagement": "160K views",
+              "views": 159920
+            }
+          ]
         }
       ]
     },
     "usa": {
       "stories": [
         {
-          "headline": "Bernie Sanders to introduce bill giving public 50% ownership stake in largest AI companies",
-          "url": "https://x.com/MorePerfectUS/status/2061459247204901146",
-          "handle": "MorePerfectUS",
-          "perspectives": [
-            {
-              "label": "Democrat",
-              "handle": "SenSanders",
-              "url": "https://x.com/SenSanders/status/2061448326436798789",
-              "body": "AI is built on humanity\u2019s collective knowledge. The wealth it generates must benefit humanity \u2014 not just Elon Musk, Sam Altman and other AI oligarchs. That\u2019s why I\u2019ll be introducing the American AI Sovereign Wealth Fund Act \u2014 to give the public a direct ownership stake.",
-              "engagement": "573K views",
-              "views": 573192
-            },
-            {
-              "label": "Independent",
-              "handle": "TheRundownAI",
-              "url": "https://x.com/TheRundownAI/status/2061507918625661101",
-              "body": "U.S. senator Bernie Sanders just said he will introduce a bill that would put a one-time 50% tax on OpenAI, Anthropic, and xAI paid in stock, not cash. The government would get voting shares and an equal seat on each company's board, and the stock would fund a public fund owned by citizens.",
-              "engagement": "9.5K views",
-              "views": 9544
-            },
-            {
-              "label": "Democrat",
-              "handle": "BernieSanders",
-              "url": "https://x.com/BernieSanders/status/2061631422188626083",
-              "body": "I will soon be introducing a bill to give the public a 50% ownership stake in the largest AI companies in America. This would guarantee that the trillions created by AI are used to improve the lives of all of us \u2014 and block oligarch decisions that harm the American people.",
-              "engagement": "192K views",
-              "views": 191966
-            }
-          ]
-        },
-        {
-          "headline": "Trump says Iran agreed to no nuclear weapons in wide-ranging interview",
-          "url": "https://x.com/WhiteHouse/status/2060913180491075792",
+          "headline": "Trump tells Iran 'make a Deal' as negotiations reportedly collapse amid war concerns",
+          "url": "https://x.com/WhiteHouse/status/2061888577919660063",
           "handle": "WhiteHouse",
           "perspectives": [
             {
               "label": "Conservative",
               "handle": "WhiteHouse",
-              "url": "https://x.com/WhiteHouse/status/2060913180491075792",
-              "body": "\"The one guarantee that I have to have is that there will be no nuclear weapons, they've agreed to that.\"\n\nPresident Donald J. Trump talks Iran, ballroom construction and more in a wide ranging interview with Lara Trump. \ud83c\uddfa\ud83c\uddf8",
-              "engagement": "314K views",
-              "views": 314386
+              "url": "https://x.com/WhiteHouse/status/2061888577919660063",
+              "body": "\"As I told Iran, 'It\u2019s time, one way or another, for you to make a Deal. You\u2019ve been doing this for 47 years, and it cannot be allowed to go on any longer!'\" - President Donald J. Trump \ud83c\uddfa\ud83c\uddf8",
+              "engagement": "47K views",
+              "views": 47344
             },
             {
               "label": "Democrat",
-              "handle": "tedlieu",
-              "url": "https://x.com/tedlieu/status/2060935899140264193",
-              "body": "Now we know why trump still hasn\u2019t been able to open the Straight of Hormuz.\n\nIt\u2019s because, in the cognitively impaired mind of trump, Iran cleverly has the only Schr\u00f6dinger military in the world: it exists and it doesn\u2019t exist all at the same time.",
-              "engagement": "178K views",
-              "views": 178099
+              "handle": "BernieSanders",
+              "url": "https://x.com/BernieSanders/status/2061531586063925576",
+              "body": "Asked today how he feels about negotiations with Iran collapsing, Trump said, \"I couldn't care less.\" You'd think the president of the United States would care about service members dying and millions paying more for gas because of his illegal and unconstitutional war.",
+              "engagement": "475K views",
+              "views": 475904
             },
             {
               "label": "Independent",
-              "handle": "JasonJournoDC",
-              "url": "https://x.com/JasonJournoDC/status/2061575144452002292",
-              "body": "\ud83d\udca5NEW: Dem Harold Ford Jr. on New Jersey Anti-ICE Rioters: \u201cThat place was open during the Obama Administration \u2026 for protesters to be outside engaging in this kind of violence, imparting these kind of threats to federal officials \u2026 Democrats, we have to say, \u2018This is WRONG!\u2019\u201d",
-              "engagement": "94K views",
-              "views": 94509
+              "handle": "RepThomasMassie",
+              "url": "https://x.com/RepThomasMassie/status/2061783761017057484",
+              "body": "The more Netanyahu prevents the war with Iran from ending, the more obvious it becomes that he convinced Trump to start it.",
+              "engagement": "1M views",
+              "views": 1031347
             }
           ]
         },
         {
-          "headline": "Violence erupts at Newark ICE facility as protesters clash with federal agents",
-          "url": "https://x.com/hasanthehun/status/2061162786072510757",
-          "handle": "hasanthehun",
+          "headline": "Trump lashes out at Netanyahu in heated call over Lebanon escalation risking Iran peace talks",
+          "url": "https://x.com/FoxNews/status/2061795450701717942",
+          "handle": "FoxNews",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "MAGAVoice",
-              "url": "https://x.com/MAGAVoice/status/2060954563184857385",
-              "body": "I don\u2019t care what anyone says. If you atta*ck Police HORSES you should be put in Prison for 30+ Years\n\nThis should ABSOLUTELY be a Federal Crime",
-              "engagement": "75K views",
-              "views": 75502
-            },
-            {
-              "label": "Democrat",
-              "handle": "hasanthehun",
-              "url": "https://x.com/hasanthehun/status/2061162786072510757",
-              "body": "this is basically jack doherty, if the federal government was also offering him additional protection",
-              "engagement": "286K views",
-              "views": 286185
+              "handle": "FoxNews",
+              "url": "https://x.com/FoxNews/status/2061795450701717942",
+              "body": "\"You're f****** crazy. You'd be in prison if it weren't for me. I'm saving your a***. Everybody hates you now. Everybody hates Israel because of this.\" That's what a U.S. official tells Axios President Trump unloaded on Israeli Prime Minister Benjamin Netanyahu during a heated phone call over Israel's military actions in Lebanon.",
+              "engagement": "4.3M views",
+              "views": 4330961
             },
             {
               "label": "Independent",
-              "handle": "JasonJournoDC",
-              "url": "https://x.com/JasonJournoDC/status/2061575144452002292",
-              "body": "\ud83d\udca5NEW: Dem Harold Ford Jr. on New Jersey Anti-ICE Rioters: \u201cThat place was open during the Obama Administration \u2026 for protesters to be outside engaging in this kind of violence, imparting these kind of threats to federal officials \u2026 Democrats, we have to say, \u2018This is WRONG!\u2019\u201d",
-              "engagement": "94K views",
-              "views": 94509
+              "handle": "NewsWire_US",
+              "url": "https://x.com/NewsWire_US/status/2061569492728066407",
+              "body": "TRUMP FUMES AT NETANYAHU IN CALL ON LEBANON \u2014 AXIOS \u201cYou\u2019re f*cking crazy. You\u2019d be in prison if it weren\u2019t for me. I\u2019m saving your ass. Everybody hates you now. Everybody hates Israel because of this.\u201d",
+              "engagement": "3.2M views",
+              "views": 3247772
+            },
+            {
+              "label": "Democrat",
+              "handle": "BernieSanders",
+              "url": "https://x.com/BernieSanders/status/2061531586063925576",
+              "body": "Asked today how he feels about negotiations with Iran collapsing, Trump said, \"I couldn't care less.\" You'd think the president of the United States would care about service members dying and millions paying more for gas because of his illegal and unconstitutional war.",
+              "engagement": "475K views",
+              "views": 475904
+            }
+          ]
+        },
+        {
+          "headline": "Senate confirms multiple Trump judicial nominees including first 'not qualified' ABA rating",
+          "url": "https://x.com/EricLDaugh/status/2061843902324154560",
+          "handle": "EricLDaugh",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "EricLDaugh",
+              "url": "https://x.com/EricLDaugh/status/2061843902324154560",
+              "body": "\ud83d\udea8 JUST IN: US Senate CONFIRMS Trump judicial nominee Kathleen Lane to be District Judge for the District of Montana, 52-46 LFG! Another blow to the activist judges \ud83d\udd25 All Trump judicial nominees should be approved ASAP. FAST-TRACK!",
+              "engagement": "79K views",
+              "views": 79672
+            },
+            {
+              "label": "Democrat",
+              "handle": "JudiciaryDems",
+              "url": "https://x.com/JudiciaryDems/status/2061830769610289581",
+              "body": "Katie Lane is the first Trump 2.0 judicial nominee to receive a NOT QUALIFIED rating from the American Bar Association. She\u2019s never even tried a case. There are 3,000+ licensed attorneys in Montana. Pick a different one.",
+              "engagement": "91K views",
+              "views": 91825
+            },
+            {
+              "label": "Independent",
+              "handle": "EricLDaugh",
+              "url": "https://x.com/EricLDaugh/status/2061887417099895246",
+              "body": "\ud83d\udea8 JUST IN: The US Senate has officially CONFIRMED Trump judicial nominee Jeffrey Kuhlman to be US District Judge for the District of Kansas, 52-46 \"The nomination is confirmed.\" \ud83d\udd25 Activist judges dealt another blow! The more Trump confirmations the better \ud83c\uddfa\ud83c\uddf8",
+              "engagement": "12K views",
+              "views": 12856
             }
           ]
         }
@@ -181,49 +166,25 @@
     "business": {
       "stories": [
         {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2061806921779486748",
+          "headline": "Elon Musk notes that even a tiny fraction of solar power could vastly exceed Earth's current economy.",
+          "body": "Harnessing even a millionth of the Sun\u2019s power, which is extremely difficult, results in an economic value far more than a million times than that of Earth\u2019s current entire economy",
+          "engagement": "324K views",
+          "views": 324717
+        },
+        {
           "handle": "TheStalwart",
           "url": "https://x.com/TheStalwart/status/2061548953527558431",
           "headline": "Berkshire Hathaway invests $10B in Google for AI infrastructure",
           "body": "Wow, Berkshire Hathaway investing $10 billion into $GOOGL in a private placement as part of a broader $80 billion equity capital raise by the company to expand its AI infrastructure",
           "engagement": "816K views",
           "views": 816003
-        },
-        {
-          "handle": "MorePerfectUS",
-          "url": "https://x.com/MorePerfectUS/status/2061459247204901146",
-          "headline": "Bernie Sanders to introduce bill for public 50% ownership in major AI companies",
-          "body": "BREAKING: Bernie Sanders will introduce a bill to have the public take a 50% ownership stake in the country's biggest AI companies.\n\nThe American AI Sovereign Wealth Fund Act would have the government tax AI companies, take 50% of the stock, and put it under public control.",
-          "engagement": "1.1M views",
-          "views": 1052376
-        },
-        {
-          "handle": "saylor",
-          "url": "https://x.com/saylor/status/2061443661620019475",
-          "headline": "Michael Saylor aims for $STRC as top credit instrument",
-          "body": "Our goal is to make $STRC the best credit instrument in the world.",
-          "engagement": "580K views",
-          "views": 579841
         }
       ]
     },
     "top": {
       "stories": [
-        {
-          "handle": "ishowspeedsui",
-          "url": "https://x.com/ishowspeedsui/status/2061465522835800173",
-          "headline": "Speed announces World Cup video release",
-          "body": "WORLD CUP VIDEO OUT NOW!!!!\u26bd\ufe0f",
-          "engagement": "46.2M views",
-          "views": 46200671
-        },
-        {
-          "handle": "AlyDiouara",
-          "url": "https://x.com/AlyDiouara/status/2061476406488338546",
-          "headline": "French politician shares video about a 13-year-old injured during PSG celebration.",
-          "body": "Imagine : tu as 13 ans. Tu c\u00e9l\u00e8bres la victoire du club de ton c\u0153ur, le @PSG_inside. Et tu perds un \u0153il parce qu\u2019un policier a choisi de tirer au LBD depuis son v\u00e9hicule pour disperser des jeunes dont le seul tort \u00e9tait de f\u00eater un titre.\n\nJe saisis le @Procureur93.",
-          "engagement": "2.9M views",
-          "views": 2896300
-        },
         {
           "handle": "makotokawazu",
           "url": "https://x.com/makotokawazu/status/2061737406840332367",
@@ -231,148 +192,106 @@
           "body": "\u53f0\u98a86\u53f7\u306e\u30bf\u30a4\u30e0\u30b9\u30b1\u30b8\u30e5\u30fc\u30eb\u95a2\u6771\u7248\u304c\u51fa\u307e\u3057\u305f",
           "engagement": "1.4M views",
           "views": 1350580
+        },
+        {
+          "handle": "DiscussingFilm",
+          "url": "https://x.com/DiscussingFilm/status/2061825660834750585",
+          "headline": "First behind-the-scenes teaser for Christopher Nolan's \u2018THE ODYSSEY\u2019.",
+          "body": "First behind-the-scenes teaser for Christopher Nolan's \u2018THE ODYSSEY\u2019.\n\nIn theaters on July 17.",
+          "engagement": "367K views",
+          "views": 367019
+        },
+        {
+          "handle": "AlNassrFC",
+          "url": "https://x.com/AlNassrFC/status/2061847813395472440",
+          "headline": "Al Nassr Saudi Club video post in Arabic.",
+          "body": "#\u0627\u0644\u0646\u0635\u0631 \u0639\u0634\u0640\u0642 \u0627\u0644\u0637\u0641\u0648\u0644\u0629 \u0648\u0623\u0648\u0644 \u0627\u0644\u0646\u0627\u0633 \u0627\u0644\u0643\u0628\u0640\u0627\u0631 \ud83d\udc9b",
+          "engagement": "78K views",
+          "views": 77901
         }
       ]
     },
     "msm": {
       "stories": [
         {
-          "handle": "CNN",
-          "url": "https://x.com/CNN/status/2061516912211722322",
-          "headline": "Pro-Palestinian streamer Hasan Piker and uncle barred from entering UK over Israel criticism.",
-          "body": "The pro-Palestinian American streamer Hasan Piker and his uncle say Britain's government has barred them from entering the country over their criticism of Israel.",
-          "engagement": "770K views",
-          "views": 770413
+          "handle": "nytimes",
+          "url": "https://x.com/nytimes/status/2061854293850792387",
+          "headline": "President Trump signs executive order on AI model oversight",
+          "body": "Breaking News: President Trump signed an executive order that asked tech companies to give the government oversight of new A.I. models before releasing them to the public. https://www.nytimes.com/2026/06/02/technology/trump-executive-order-ai.html?smid=tw-nytimes&smtyp=cur",
+          "engagement": "114K views",
+          "views": 114048
         },
         {
-          "handle": "nytimes",
-          "url": "https://x.com/nytimes/status/2061518846834434260",
-          "headline": "Defense Secretary Pete Hegseth blocked promotions of at least seven Navy officers targeting women and minorities.",
-          "body": "Breaking News: Defense Secretary Pete Hegseth blocked the promotions of at least seven Navy officers in a move that targeted women and minority officers.",
-          "engagement": "691K views",
-          "views": 690912
+          "handle": "washingtonpost",
+          "url": "https://x.com/washingtonpost/status/2061813089922588796",
+          "headline": "President Trump appoints Bill Pulte as acting director of national intelligence",
+          "body": "Breaking news: President Trump is appointing Bill Pulte as acting director of national intelligence, tapping a political supporter who heads a federal mortgage regulation agency but has no intelligence experience. https://www.washingtonpost.com/national-security/2026/06/02/trump-picks-mortgage-chief-bill-pulte-lead-national-intelligence/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
+          "engagement": "204K views",
+          "views": 204839
         },
         {
-          "handle": "nytimes",
-          "url": "https://x.com/nytimes/status/2061501994615890136",
-          "headline": "60 Minutes correspondent Scott Pelley accuses new producer and Bari Weiss of \"murdering\" the program.",
-          "body": "Breaking News: The \"60 Minutes\" correspondent Scott Pelley laced into the show\u2019s new executive producer and accused Bari Weiss of \"murdering\" the program.",
-          "engagement": "370K views",
-          "views": 370498
+          "handle": "AP",
+          "url": "https://x.com/AP/status/2061804077428683078",
+          "headline": "President Trump taps Bill Pulte as acting director of national intelligence",
+          "body": "BREAKING: President Trump taps housing finance director Bill Pulte as acting director of national intelligence to replace Tulsi Gabbard. https://apnews.com/article/trump-pulte-gabbard-national-intelligence-281fd6ba9992487dc701768803f9c475?taid=6a1edc4da353900001d3765a&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
+          "engagement": "170K views",
+          "views": 170947
         }
       ]
     },
     "sports": {
-      "stories": [
-        {
-          "handle": "AdamSchefter",
-          "url": "https://x.com/AdamSchefter/status/2061543314990497971",
-          "headline": "Browns finalizing trade sending Myles Garrett to Rams",
-          "body": "\ud83d\udea8\ud83d\udea8\ud83d\udea8\n\nBombshell: The Browns are finalizing a trade that will send two-time Defensive Player of the Year Myles Garrett to the Los Angeles Rams, per @rapsheet, @TomPelissero and me.\n\nIn exchange for Garrett, the Rams are expected to send Pro-Bowl edge Jared Verse, a 2027 first-round pick and other draft-pick compensation still being negotiated to the Browns.",
-          "engagement": "21.5M views",
-          "views": 21530136
-        },
-        {
-          "handle": "AdamSchefter",
-          "url": "https://x.com/AdamSchefter/status/2061544269333037272",
-          "headline": "Eagles trading WR A.J. Brown to Patriots",
-          "body": "\ud83d\udea8\ud83d\udea8\ud83d\udea8\n\nESPN sources: The Eagles are trading Pro-Bowl WR A.J. Brown to the Patriots for a 2028 first-round pick and a 2027 fifth-round pick that is the better of New England\u2019s two fifths. The deal that has been speculated on for weeks now finally is happening. Brown and Patriots HC Mike Vrabel are reuniting.",
-          "engagement": "7.3M views",
-          "views": 7323427
-        },
-        {
-          "handle": "NFL",
-          "url": "https://x.com/NFL/status/2061498719200031131",
-          "headline": "Browns trading DE Myles Garrett to Rams for EDGE Jared Verse and 2027 1st-round pick",
-          "body": "Browns trading DE Myles Garrett to Rams in exchange for EDGE Jared Verse and a 2027 1st-round pick. (via @RapSheet, @TomPelissero, @AdamSchefter)",
-          "engagement": "2.6M views",
-          "views": 2622167
-        }
-      ]
+      "stories": []
     },
     "elon": {
       "stories": [
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2061624806668394531",
-          "headline": "Elon Musk agrees with post about girls in dog cages at Eid",
-          "body": "Yes",
-          "engagement": "7.7M views",
-          "views": 7677196
+          "url": "https://x.com/elonmusk/status/2061876992514126153",
+          "headline": "Elon Musk calls out police policy as racist against Whites",
+          "body": "Did you know that official police policy requires them to be racist against Whites? It is deeply wrong and must change NOW.",
+          "engagement": "3.1M views",
+          "views": 3143523
         },
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2061625841298317639",
-          "headline": "Elon Musk calls out double-standard in quoted post",
-          "body": "Outrageous double-standard!",
-          "engagement": "3.1M views",
-          "views": 3064660
+          "url": "https://x.com/elonmusk/status/2061810189834351031",
+          "headline": "Elon Musk agrees with post on what radicalized him",
+          "body": "Yes",
+          "engagement": "5.0M views",
+          "views": 5022797
         },
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2061624209516957799",
-          "headline": "Elon Musk agrees with post on racism and the Nowak case",
-          "body": "Yes",
-          "engagement": "3.1M views",
-          "views": 3120519
+          "url": "https://x.com/elonmusk/status/2061814311769739536",
+          "headline": "Elon Musk agrees with post on over-correction for racism",
+          "body": "Exactly",
+          "engagement": "4.4M views",
+          "views": 4354489
         }
       ]
     },
     "pods": {
       "stories": [
         {
-          "handle": "hubermanlab",
-          "url": "https://x.com/hubermanlab/status/2061447675724091690",
-          "headline": "Huberman announces new episode on peptides with Dr. Abud Bakri.",
-          "body": "The new Huberman Lab episode is out: Peptides: The Science, Uses & Safety | Dr. @AbudBakri \n\n0:00 Abud Bakri\n3:33 What are Peptides?, Receptors\n6:26 BPC-157, Discovery, Animal Proteins\n11:19 BPC-157, Animal Data, Regeneration\n12:27 Sponsors: Eight Sleep & Lingo\n14:51 BPC-157, Regeneration & Healing, Neurological Effects\n19:27 Adverse Events, Clinical Trials & Legality of BPC-157\n29:41 GLPs & Compounding Pharmacy; Peptides & Gray Market\n35:25 Manufacturing, Compounding Pharmacies, Gray Market, Black Market\n41:32 Peptides & Tumor Growth?; Angiogenesis\n45:17 Sponsor: AG1\n47:01 Pharmaceutical Patents, Clinical Trials for BPC-157, Potential Outcomes\n54:19 BPC-157 Healing, Patient Experiences\n1:01:22 Physician Counsel, FDA Legality, Malpractice\n1:07:25 Pinealon, Epithalon, Discovery; Sleep & Cognitive Performance, Risks\n1:18:17 Sponsor: Function\n1:19:55 Pineal Age Deterioration, Epithalon, Eye Health\n1:29:38 Thymus, Age Shrinkage; Thymosin Alpha-1, Immune Function\n1:38:13 TB-500; Pet Health; Thymic Peptide Doses, Thymulin, Zinc\n1:49:13 Sponsor: LMNT\n1:50:33 GHK-Cu (Copper GHK), Collagen\n1:55:32 Illness Recovery, Thymic Score, Tool: Blood Test & Immune Cell Counts\n2:04:01 Growth Hormone Secretagogues, Age Decline, Cancer Risk, Insulin\n2:15:36 GHK-Cu, Topical Cream, Red Light Therapy\n2:20:25 GLPs, Discovery, Physical & Cognitive Long-Term Effects, Fertility\n2:33:53 Retatrutide; Drug Patents & Nomenclature\n2:39:03 Peptides: Women Reproductive Disorders; TBI, Neurologic Effect; Safe Sources\n2:45:34 Zero-Cost Support, YouTube, Spotify & Apple Follow, Reviews & Feedback, Sponsors, Protocols Book, Social Media, Neural Network Newsletter\n\nIncludes paid partnerships.",
-          "engagement": "1.4M views",
-          "views": 1448729
+          "handle": "lexfridman",
+          "url": "https://x.com/lexfridman/status/2061847191367647457",
+          "headline": "Lex Fridman shares day with Jensen Huang in Taiwan",
+          "body": "I got to spend all day today with Jensen in Taiwan: talking with thousands of engineers and eating street food at a night market. Jensen is received as a rockstar in Taiwan, like it's Beatles in the 60's. It's mind-blowing and fun to watch. But most importantly, through all the interactions and all my conversations with him, he remained the same humble, kind, thoughtful, funny guy he always was, even as a kid who went to these same night markets many years ago.\n\nBtw, we tried a crazy amount of different street food. It's legit some of the most delicious food I've ever had. I can't wait to share video of it, including a ton of our conversations and hangout. When I can pause for a moment from all the travel to edit the video, I'll post it.\n\nCan't wait to continue talking to Jensen and engineers at Computex this week, and exploring more of Taiwan, and of course roaming the night markets for some more delicious street food.\n\nDays like these, even more than usual, I feel like the luckiest kid in the world.\n\nLove you all! \u2764\ufe0f",
+          "engagement": "300K views",
+          "views": 300017
         },
         {
-          "handle": "hubermanlab",
-          "url": "https://x.com/hubermanlab/status/2061482031192870984",
-          "headline": "Huberman promotes peptides masterclass episode with Dr. Abud Bakri.",
-          "body": "PEPTIDES MASTERCLASS. A must listen if you\u2019re peptide curious, peptide skeptical, bullish on peptides, or anti. The science, the uses, sourcing, concerns, and much more. @AbudBakri thank you for such an informative discussion.",
-          "engagement": "844K views",
-          "views": 844386
-        },
-        {
-          "handle": "joeroganhq",
-          "url": "https://x.com/joeroganhq/status/2061425029150110158",
-          "headline": "Clip of Jim Norton showing Theo Von a picture of his trans wife's penis.",
-          "body": "Jim Norton shows Theo Von a picture of his \"trans wife's\" penis. \n\nWatch Theo's reaction \ud83d\ude02",
-          "engagement": "984K views",
-          "views": 984979
+          "handle": "joerogan",
+          "url": "https://x.com/joerogan/status/2061857411409842525",
+          "headline": "Joe Rogan shares story of UFC fighter Daniel Rodriguez's jail experience",
+          "body": "Daniel Rodriguez @DRODUFC  is a top 15 @UFC welterweight.  He went to Tijuana to celebrate a big victory and wound up getting arrested for weed and spending 8 months in a Mexican jail.  The story is wild.  \n\nhttps://open.spotify.com/episode/10JAK7y5qD0Dr3bt5tIBjB?si=Vqhs6IpQT1GmNxolq0dp5g\n\nWeed is legal in California and decriminalized in Mexico, but not for visitors and crossing the border with it is a serious federal offense.  \nHe\u2019s out now, and faces Uros Medic in the main event of UFC in Serbia August 1.  \nThe second picture is what he looked like the day he got out.  We had a great conversation and the podcast is out now on @spotify and everywhere else.",
+          "engagement": "125K views",
+          "views": 125438
         }
       ]
     },
     "pg6": {
-      "stories": [
-        {
-          "handle": "taylorswift13",
-          "url": "https://x.com/taylorswift13/status/2061509036814528734",
-          "headline": "Taylor Swift announces original song for Toy Story 5",
-          "body": "It\u2019s a *Toy* Story \ud83e\udd20\nYou knew it! My new original song \u201cI Knew It, I Knew You\u201d for Disney and @Pixar\u2019s @toystory 5 will be yours on June 5th. I\u2019ve always dreamed of getting to write for these characters who I\u2019ve adored since I was a 5 year old kid watching the first Toy Story movie. I fell instantly in love with Toy Story 5 when I was lucky enough to see it in its early stages, and I wrote this song as soon as I got home from the screening. Sometimes you just know, right?\nYou can pre-order now exclusively at https://t.co/NoneI6kxdH and catch Toy Story 5 in theaters June 19th \u2601\ufe0f\u2601\ufe0f\u2601\ufe0f\u2601\ufe0f\u2601\ufe0f",
-          "engagement": "5.7M views",
-          "views": 5697419
-        },
-        {
-          "handle": "PopCrave",
-          "url": "https://x.com/PopCrave/status/2061476414251991147",
-          "headline": "Ariana Grande stars in new music video",
-          "body": "Ariana Grande in the \u201chate that i made you love me\u201d music video.",
-          "engagement": "1M views",
-          "views": 1050959
-        },
-        {
-          "handle": "PopBase",
-          "url": "https://x.com/PopBase/status/2061513068731863107",
-          "headline": "Pop Base reports Taylor Swift's new song returns to country roots",
-          "body": "Taylor Swift\u2019s new song \u2018I Knew It, I Knew You\u2019 for \u2018Toy Story 5\u2019 will mark a return to her country roots.\n\nThe song was written and produced by Taylor Swift and Jack Antonoff.",
-          "engagement": "808K views",
-          "views": 808173
-        }
-      ]
+      "stories": []
     },
     "recipe": {
       "stories": []
@@ -380,28 +299,28 @@
     "science": {
       "stories": [
         {
-          "handle": "StockSavvyShay",
-          "url": "https://x.com/StockSavvyShay/status/2061772285284098196",
-          "headline": "OUST partners with FieldAI to integrate Rev8 digital lidar into autonomous robots.",
-          "body": "$OUST partnered with FieldAI to integrate its Rev8 digital lidar into autonomous robots operating in complex, unstructured environments.\n\nThe companies are targeting deployments across construction, mining, energy, manufacturing, security and government sectors.",
-          "engagement": "9K views",
-          "views": 9813
+          "handle": "newlimit",
+          "url": "https://x.com/newlimit/status/2061849237156159511",
+          "headline": "NewLimit raises $435M for longevity medicine human trials",
+          "body": "Following breakthrough results, we\u2019re bringing longevity medicine to human trials.\n\nWe\u2019ve raised a $435M Series C led by @foundersfund to make it happen.\n\nReprogramming cell age has the potential to create more healthy years for everyone. We're closer than ever to realizing it.",
+          "engagement": "415K views",
+          "views": 415026
         },
         {
-          "handle": "AMD",
-          "url": "https://x.com/AMD/status/2061621358660853929",
-          "headline": "AMD Ryzen AI Max+ now available with breakthrough local AI performance.",
-          "body": "AMD Ryzen AI Max+ is available now.\n\n16 cores. 32 threads. 40 compute units. 50 TOPS NPU. Up to 128GB unified memory.\n\nBuilt on x86, it brings breakthrough local AI performance to the enterprise and developer workflows teams already use. No translation layer, no performance penalty, no workflow disruption.",
-          "engagement": "80K views",
-          "views": 80146
+          "handle": "BernieSanders",
+          "url": "https://x.com/BernieSanders/status/2061833829317235193",
+          "headline": "Bernie Sanders proposes taxing AI companies' stock 50%",
+          "body": "Taxing 50% of AI companies' stock to ensure that AI benefits humanity isn't radical, but let me tell you what is:\n\nSince Trump was elected, the 7 richest men in America, all Big Tech oligarchs, became $1.15 trillion richer while 60% live paycheck to paycheck.\n\nThat's radical.",
+          "engagement": "486.8K views",
+          "views": 486832
         },
         {
-          "handle": "COVID19_disease",
-          "url": "https://x.com/COVID19_disease/status/2061475598749552774",
-          "headline": "MIT engineers develop breath test that detects pneumonia in minutes without X-rays.",
-          "body": "\ud83d\udea8 BREAKTHROUGH: MIT engineers develop a breath test that detects pneumonia in minutes no X-rays, no lab wait. Just a single breath",
-          "engagement": "10K views",
-          "views": 9524
+          "handle": "brian_armstrong",
+          "url": "https://x.com/brian_armstrong/status/2061853377483493421",
+          "headline": "NewLimit prototype drug reverses human cell age, trials next year",
+          "body": "Aging is arguably the root cause of most major diseases (loss of function in our cells). Four years ago, we made a bet that aging was treatable, and NewLimit was born.\n\nNewLimit now has a prototype drug that reverses the age of some human cells (restores function they had when they were younger), and a clinical trial scheduled for next year (with more drug candidates in the pipeline).\n\nGrateful to Founders Fund, Thrive, Greenoaks, and the rest of the investors for this latest round. @jacobkimmel and the team are just getting started.",
+          "engagement": "283.5K views",
+          "views": 283529
         }
       ]
     },
@@ -414,42 +333,26 @@
           "body": "SoCal. Bonfires on the beach. From our hotel in my pajamas. We can smell the fires. So SoCal.",
           "engagement": "53K views",
           "views": 53512
-        },
-        {
-          "handle": "WallStreetApes",
-          "url": "https://x.com/WallStreetApes/status/2061473067382231235",
-          "headline": "Newport Beach home listed over $12M, last sold for $750K in 1986",
-          "body": "This home has a cheap \u201cFor Sale\u201d sign in the window in Newport Beach, California\n\nThe sign says the price is over $12 million dollars\n\nJust for fun I looked up how much this home last sold for\n\nIn 1986 they bought this home for $750,000\n\nThat means this home has gone up in value by 16x the original purchase price since the late 80\u2019s\n\nYes it\u2019s Newport Beach but this price jump is insane\n\nIt just shows how cheap homes used to be and how completely out of reach a home like this will ever be for anyone in younger generations \n\nThey will legally never have a chance to live like this",
-          "engagement": "103K views",
-          "views": 103267
-        },
-        {
-          "handle": "USAO_LosAngeles",
-          "url": "https://x.com/USAO_LosAngeles/status/2061531339598504026",
-          "headline": "US Attorney displays illicit proceeds from $270M Orange County health care fraud",
-          "body": ".@USAttyEssayli appeared on @CBSNews with @adamyamaguchi to display and discuss the illicit proceeds \u2014 homes, cars, rare baseball cards \u2014 of an Orange County man involved in a $270 million health care fraud scheme.",
-          "engagement": "44K views",
-          "views": 44046
         }
       ]
     },
     "conspiracy": {
       "stories": [
         {
-          "handle": "LeadingReport",
-          "url": "https://x.com/LeadingReport/status/2061471236933255597",
-          "headline": "JFK allegedly assassinated over UFO secret-sharing plans with NASA and Soviets.",
-          "body": "President John F. Kennedy was allegedly as\u2014ssinated over plans to share UFO/UAP secrets with NASA and the Soviet Union, according to Jonathan Caplan.",
-          "engagement": "548K views",
-          "views": 548630
+          "handle": "freedomcaucus",
+          "url": "https://x.com/freedomcaucus/status/2061834082346996218",
+          "headline": "House Freedom Caucus warns deep state weaponizing FISA Section 702 against Americans",
+          "body": "\ud83d\udea8DEEP STATE SPYING OUT OF CONTROL!\n\nCongress keeps \u201ctweaking\u201d FISA, but the deep state has been weaponizing Section 702 against Americans, including:\n-19,000 campaign donors\n-Senators\n-Journalists\n-6,800 SSNs\n-J6ers\n\nThis must end \u2014 REFORM FISA NOW!\n\n#DontSpyOnMe",
+          "engagement": "55K views",
+          "views": 55387
         },
         {
-          "handle": "Patrickwebb",
-          "url": "https://x.com/Patrickwebb/status/2061459497470607683",
-          "headline": "JFK allegedly assassinated over UFO secret-sharing plans with NASA and Soviets.",
-          "body": "BREAKING: President John F. Kennedy was allegedly assassinated over plans to share UFO/UAP secrets with NASA and the Soviet Union, according to Jonathan Caplan.",
-          "engagement": "253K views",
-          "views": 253316
+          "handle": "mario4thenorth",
+          "url": "https://x.com/mario4thenorth/status/2061808458794438815",
+          "headline": "Mario Zelaya calls Ford-Carney initiative a confirmed policy-laundering scandal for wealthy investors",
+          "body": "\u203c\ufe0f MAJOR BREAKING\n\nThe Ford-Carney initiative, is officially a policy-laundering scandal. \n\nThey sold it as \u201chelping first-time buyers\u201d\n\nIt\u2019s now confirmed; it\u2019s helping the wealthy buy more rental properties.\n\nThe conspiracy theory, is real. \n\nIt\u2019s a rebate, for ALL buyers. \n\n1st, 2nd, 5th, 10th properties as rentals. \n\nInvestors with $20 million dollar portfolios, qualify. \n\nThere\u2019s no income cap. \n\nNo portfolio cap. \n\nNo anti-flipping clause. \n\nA foreign investor buying their tenth preconstruction condo gets the same $130,000 rebate as a young couple buying their first home.\n\nIt\u2019s a $22 Billion boondoggle that\u2019s feeding the exact people who own the rentals, renters are trying to escape from.\n\nTHIS IS NOT A POLICY FAILURE, IT\u2019S HELPING EXACTLY WHO THEY DESIGNED IT FOR.",
+          "engagement": "19K views",
+          "views": 19066
         },
         {
           "handle": "redpillb0t",
@@ -465,5 +368,5 @@
       "stories": []
     }
   },
-  "last_updated": "2026-06-02T12:04:59.003915"
+  "last_updated": "2026-06-02T19:42:12.347712"
 }
