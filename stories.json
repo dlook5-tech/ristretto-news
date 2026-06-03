@@ -3,37 +3,6 @@
     "world": {
       "stories": [
         {
-          "headline": "Trump reportedly berates Netanyahu over Israel\u2019s Lebanon military actions",
-          "url": "https://x.com/FoxNews/status/2061795450701717942",
-          "handle": "FoxNews",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "FoxNews",
-              "url": "https://x.com/FoxNews/status/2061795450701717942",
-              "body": "\"You're f****** crazy. You'd be in prison if it weren't for me. I'm saving your a***. Everybody hates you now. Everybody hates Israel because of this.\" That's what a U.S. official tells Axios President Trump unloaded on Israeli Prime Minister Benjamin Netanyahu during a heated phone call over Israel's military actions in Lebanon.",
-              "engagement": "5.3M views",
-              "views": 5365189
-            },
-            {
-              "label": "Independent",
-              "handle": "BRICSinfo",
-              "url": "https://x.com/BRICSinfo/status/2061575922046660807",
-              "body": "JUST IN: \ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 Axios sources say President Trump was \"pissed\" during call with Israeli Prime Minister Netanyahu and told him off: \"You're f*cking crazy. You'd be in prison if it weren't for me. I'm saving your ass. Everybody hates you now. Everybody hates Israel because of this.\" \"What the f*ck are you doing?\"",
-              "engagement": "2.2M views",
-              "views": 2202786
-            },
-            {
-              "label": "Democrat",
-              "handle": "piersmorgan",
-              "url": "https://x.com/piersmorgan/status/2061534699567088072",
-              "body": "So, Netanyahu is now openly boasting to the world he doesn\u2019t care what the President of the United States thinks or says. Over to you, Mr President @realDonaldTrump - who\u2019s the boss?",
-              "engagement": "1.9M views",
-              "views": 1925860
-            }
-          ]
-        },
-        {
           "headline": "Massive Russian missile and drone strike hits Kyiv, killing dozens",
           "url": "https://x.com/sentdefender/status/2061652971952197970",
           "handle": "sentdefender",
@@ -69,29 +38,6 @@
     "usa": {
       "stories": [
         {
-          "headline": "Trump unloads on Netanyahu in heated call over Israel actions in Lebanon",
-          "url": "https://x.com/FoxNews/status/2061795450701717942",
-          "handle": "FoxNews",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "FoxNews",
-              "url": "https://x.com/FoxNews/status/2061795450701717942",
-              "body": "\"You're f****** crazy. You'd be in prison if it weren't for me. I'm saving your a***. Everybody hates you now. Everybody hates Israel because of this.\" That's what a U.S. official tells Axios President Trump unloaded on Israeli Prime Minister Benjamin Netanyahu during a heated phone call over Israel's military actions in Lebanon.",
-              "engagement": "5.4M views",
-              "views": 5365189
-            },
-            {
-              "label": "Independent",
-              "handle": "BRICSinfo",
-              "url": "https://x.com/BRICSinfo/status/2061575922046660807",
-              "body": "JUST IN: \ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 Axios sources say President Trump was \"pissed\" during call with Israeli Prime Minister Netanyahu and told him off: \"You're f*cking crazy. You'd be in prison if it weren't for me. I'm saving your ass. Everybody hates you now. Everybody hates Israel because of this.\" \"What the f*ck are you doing?\"",
-              "engagement": "2.2M views",
-              "views": 2202865
-            }
-          ]
-        },
-        {
           "headline": "Trump tells Iran 'make a Deal' as negotiations reportedly collapse amid war concerns",
           "url": "https://x.com/WhiteHouse/status/2061888577919660063",
           "handle": "WhiteHouse",
@@ -123,6 +69,29 @@
           ]
         },
         {
+          "headline": "Ballots burned and voting center vandalized in LA ahead of Spencer Pratt election",
+          "url": "https://x.com/EricLDaugh/status/2061420814902120456",
+          "handle": "EricLDaugh",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "EricLDaugh",
+              "url": "https://x.com/EricLDaugh/status/2061420814902120456",
+              "body": "\ud83d\udea8 HOLY CRAP! Mail-in ballots in LA are being found BURNED and a voting center VANDALIZED with just 1 day until Spencer Pratt's potential for an upset win What a coincidence. Pratt needs to win this! This is why mass mail-ins must be banned totally! Pass the SAVE America Act!",
+              "engagement": "970K views",
+              "views": 970551
+            },
+            {
+              "label": "Conservative",
+              "handle": "bennyjohnson",
+              "url": "https://x.com/bennyjohnson/status/2061893440447688939",
+              "body": "\ud83d\udea8Election Interference In California: Ballots Are Being BURNED. Drop boxes TORCHED. Voting Center VANDALIZED. All in the ONLY Republican-leaning areas left in Los Angeles. Early voting data shows Republicans leading and they will do anything to stop Spencer Pratt from winning.",
+              "engagement": "401K views",
+              "views": 401093
+            }
+          ]
+        },
+        {
           "headline": "White House warns ICE operations will not be deterred by riots or obstruction",
           "url": "https://x.com/WhiteHouse/status/2061474808441815402",
           "handle": "WhiteHouse",
@@ -142,20 +111,12 @@
     "business": {
       "stories": [
         {
-          "handle": "KobeissiLetter",
-          "url": "https://x.com/KobeissiLetter/status/2062015515631964601",
-          "headline": "Bitcoin drops below $66,000 for first time since April",
-          "body": "BREAKING: Bitcoin falls below $66,000 for the first time since April 2nd.",
-          "engagement": "42K views",
-          "views": 42363
-        },
-        {
-          "handle": "NoLimitGains",
-          "url": "https://x.com/NoLimitGains/status/2061762818123161680",
-          "headline": "Energy sector entering aggressive expansion cycle with 5 stocks that could explode.",
-          "body": "The energy sector is about to enter the most aggressive expansion cycle of this generation.\n\nHere are 5 stocks that could explode:",
-          "engagement": "836K views",
-          "views": 836158
+          "handle": "Barchart",
+          "url": "https://x.com/Barchart/status/2061857827543523556",
+          "headline": "U.S. Housing Market: Home Sellers outnumber Buyers by record 630,000",
+          "body": "BREAKING \ud83d\udea8: U.S. Housing Market\n\nHome Sellers now outnumber Buyers by 630,000, the largest gap ever recorded \ud83e\udd2f\ud83d\udc40",
+          "engagement": "2.2M views",
+          "views": 2213331
         },
         {
           "handle": "KobeissiLetter",
@@ -164,6 +125,14 @@
           "body": "BREAKING: The S&P 500 officially posts its highest close on record, on track for a 10-week win streak.",
           "engagement": "284K views",
           "views": 284739
+        },
+        {
+          "handle": "KobeissiLetter",
+          "url": "https://x.com/KobeissiLetter/status/2062015515631964601",
+          "headline": "Bitcoin drops below $66,000 for first time since April",
+          "body": "BREAKING: Bitcoin falls below $66,000 for the first time since April 2nd.",
+          "engagement": "42K views",
+          "views": 42363
         }
       ]
     },
@@ -178,12 +147,12 @@
           "views": 1389478
         },
         {
-          "handle": "makotokawazu",
-          "url": "https://x.com/makotokawazu/status/2061737406840332367",
-          "headline": "Typhoon 6 schedule video for Kanto",
-          "body": "\u53f0\u98a86\u53f7\u306e\u30bf\u30a4\u30e0\u30b9\u30b1\u30b8\u30e5\u30fc\u30eb\u95a2\u6771\u7248\u304c\u51fa\u307e\u3057\u305f",
-          "engagement": "1.4M views",
-          "views": 1350580
+          "handle": "Bighomietyni",
+          "url": "https://x.com/Bighomietyni/status/2061983843242910184",
+          "headline": "Artist reposts her own video clip",
+          "body": "Since mfs taking my video & not tagging me, lemme just go ahead & post it myself. \ud83d\udc95",
+          "engagement": "992K views",
+          "views": 991683
         },
         {
           "handle": "nyknicks",
@@ -206,25 +175,33 @@
           "views": 855020
         },
         {
+          "handle": "washingtonpost",
+          "url": "https://x.com/washingtonpost/status/2061910334084919523",
+          "headline": "WaPo exclusive: Convicted Jan. 6 rioter hired by Trump administration for Pentagon classified ops role.",
+          "body": "Exclusive: A convicted Jan. 6 rioter who later said that he regretted his participation in the U.S. Capitol attack has been hired by the Trump administration to work inside a Pentagon office that manages highly classified military operations. https://www.washingtonpost.com/national-security/2026/06/02/pentagon-hires-convicted-jan-6-rioter-sensitive-counterterrorism-job/?utm_campaign=wp_main&utm_source=twitter&utm_medium=social",
+          "engagement": "416K views",
+          "views": 416091
+        },
+        {
           "handle": "AP",
           "url": "https://x.com/AP/status/2061989906751066463",
           "headline": "Kalshi reports George Santos to prosecutors over self-bet.",
           "body": "Prediction market Kalshi has reported former Rep. George Santos to prosecutors over a bet he made on himself, a person familiar with the investigation says. https://apnews.com/article/george-santos-kalshi-2ea925949a0f3f72ec46411b41344858?taid=6a1f8775a353900001d3ca0c&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
           "engagement": "149K views",
           "views": 149462
-        },
-        {
-          "handle": "AP",
-          "url": "https://x.com/AP/status/2061983873743892679",
-          "headline": "Supreme Court allows Alabama to use GOP-friendly congressional map.",
-          "body": "BREAKING: The U.S. Supreme Court allows Alabama to use a congressional map favoring Republicans in this year's elections. https://apnews.com/article/supreme-court-alabama-redistricting-racial-discrimination-trump-3ec1bbe2999ab1cc23d4adb34a068af2?taid=6a1f83bfabb42100017dcaf0&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
-          "engagement": "153K views",
-          "views": 153013
         }
       ]
     },
     "sports": {
       "stories": [
+        {
+          "handle": "ChampionsLeague",
+          "url": "https://x.com/ChampionsLeague/status/2061840270300516600",
+          "headline": "UEFA Champions League quote 'It's just a game' for UCL final",
+          "body": "\"It's just a game.\" \n\n#UCLfinal",
+          "engagement": "4.2M views",
+          "views": 4203911
+        },
         {
           "handle": "AdamSchefter",
           "url": "https://x.com/AdamSchefter/status/2061941155873308765",
@@ -232,6 +209,14 @@
           "body": "Highest paid receivers in the NFL on a per-year basis: \ud83c\udfc8Jaxon Smith-Njigba: $42.15M \ud83c\udfc8Ja\u2019Marr Chase: $40.25M \ud83c\udfc8Drake London: $35.25M \ud83c\udfc8Justin Jefferson: $35M \ud83c\udfc8CeeDee Lamb: $34M",
           "engagement": "1.1M views",
           "views": 1072215
+        },
+        {
+          "handle": "TheDunkCentral",
+          "url": "https://x.com/TheDunkCentral/status/2061840529009062211",
+          "headline": "NBA officials announced for 2026 Finals",
+          "body": "The officials for the 2026 Finals \ud83d\udc40",
+          "engagement": "1.1M views",
+          "views": 1127831
         }
       ]
     },
@@ -239,19 +224,19 @@
       "stories": [
         {
           "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2062144939924861116",
+          "headline": "Elon Musk news page polls opinions on Elon Musk.",
+          "body": "Be honest \ud83d\udc47 \n\nWhat is your opinion of Elon Musk?\n\nA. Admirer \u2705\nB. Neutral \ud83e\udd1d\nC. Not a fan \u274c\nD. Still undecided \ud83e\udd14",
+          "engagement": "248.8K views",
+          "views": 248839
+        },
+        {
+          "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2061810189834351031",
           "headline": "Elon Musk agrees with post on what radicalized him",
           "body": "Yes",
           "engagement": "5.0M views",
           "views": 5022797
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2061876992514126153",
-          "headline": "Elon Musk calls out police policy as racist against Whites",
-          "body": "Did you know that official police policy requires them to be racist against Whites? It is deeply wrong and must change NOW.",
-          "engagement": "3.1M views",
-          "views": 3143523
         },
         {
           "handle": "elonmusk",
@@ -276,10 +261,10 @@
         {
           "handle": "lexfridman",
           "url": "https://x.com/lexfridman/status/2061847191367647457",
-          "headline": "Lex Fridman shares experience with Jensen Huang in Taiwan",
+          "headline": "Lex Fridman describes spending the day with Jensen Huang in Taiwan eating street food.",
           "body": "I got to spend all day today with Jensen in Taiwan: talking with thousands of engineers and eating street food at a night market. Jensen is received as a rockstar in Taiwan, like it's Beatles in the 60's. It's mind-blowing and fun to watch. But most importantly, through all the interactions and all my conversations with him, he remained the same humble, kind, thoughtful, funny guy he always was, even as a kid who went to these same night markets many years ago.\n\nBtw, we tried a crazy amount of different street food. It's legit some of the most delicious food I've ever had. I can't wait to share video of it, including a ton of our conversations and hangout. When I can pause for a moment from all the travel to edit the video, I'll post it.\n\nCan't wait to continue talking to Jensen and engineers at Computex this week, and exploring more of Taiwan, and of course roaming the night markets for some more delicious street food.\n\nDays like these, even more than usual, I feel like the luckiest kid in the world.\n\nLove you all! \u2764\ufe0f",
-          "engagement": "674K views",
-          "views": 674171
+          "engagement": "939K views",
+          "views": 938568
         },
         {
           "handle": "lexfridman",
@@ -370,20 +355,20 @@
     "local": {
       "stories": [
         {
+          "handle": "GPAIndiana",
+          "url": "https://x.com/GPAIndiana/status/2061879848616816872",
+          "headline": "User recalls classic car shows in Huntington Beach, Orange County",
+          "body": "I lived in Orange County-Huntington Beach\u2014for nearly 36 years. Those yearly shows were something special, real California magic. The best part? Those classic VW vans weren't just for show\u2014 you'd see them rolling around town all year long, like time never really moved on. Miss the OC \ud83c\udfc4\ud83c\udf0a",
+          "engagement": "114K views",
+          "views": 114469
+        },
+        {
           "handle": "ThePersistence",
           "url": "https://x.com/ThePersistence/status/2062014831113236695",
           "headline": "Katie Porter trailing in Orange County gubernatorial primary polls",
           "body": "Former Congresswoman Katie Porter (D-CA) is getting destroyed in the gubernatorial primary \u2014 even where she represented in Orange County.",
           "engagement": "52.9K views",
           "views": 52868
-        },
-        {
-          "handle": "CBSLosAngeles",
-          "url": "https://x.com/CBSLosAngeles/status/2061986990841647393",
-          "headline": "Mother and daughter killed in Orange County crash",
-          "body": "Mother and daughter killed in Orange County crash https://www.cbsnews.com/losangeles/news/stanton-deadly-crash-mother-daughter-killed-cerritos-avenue-magnolia-street/",
-          "engagement": "4.4K views",
-          "views": 4352
         },
         {
           "handle": "earlyvotedata",
@@ -406,26 +391,35 @@
           "views": 55387
         },
         {
-          "handle": "JackDangerLIVE",
-          "url": "https://x.com/JackDangerLIVE/status/2061971053820211587",
-          "headline": "NIH researchers arrested for conspiring to smuggle monkeypox into US, confirming conspiracy theories",
-          "body": "\ud83d\udea8SHOCKING: TWO RESEARCHERS OF THE NIH HAVE JUST BEEN ARRESTED FOR CONSPIRING TO BRING MONKEYPOX INTO THE U.S.\ud83d\udea8\n\nThe conspiracy theories have been confirmed as REAL CONSPIRACIES.\n\nFor years, Americans were told that every outbreak, every pandemic scare, every emerging virus was simply an unfortunate act of nature.\n\nTrust the experts.\n\nTrust the institutions.\n\nTrust the scientists.\n\nNow we learn that TWO NIH researchers have reportedly been charged with conspiring to smuggle monkeypox into the United States.\n\nRead that again.\n\nNot random people.\n\nNot foreign spies.\n\nResearchers connected to one of the most powerful medical institutions on Earth.\n\nAnd we\u2019re supposed to believe this is just another isolated incident?\n\nHow many times have we heard the phrase \u201cnothing to see here\u201d before discovering there was, in fact, something to see?\n\nThe public is told there was no danger because the samples were reportedly inactivated.\n\nMaybe that\u2019s true.\n\nMaybe it isn\u2019t.\n\nBut that\u2019s not the question Americans should be asking.\n\nThe question is:\n\nWhy allegedly smuggle anything at all?\n\nWhy bypass procedures?\n\nWhy risk federal charges if everything was legitimate?\n\nAnd perhaps most importantly\u2026\n\nHow many similar incidents never become public?\n\nMost people assume every biological sample moving across international borders is tracked, documented, and heavily monitored.\n\nBut if federal prosecutors are willing to bring charges against government researchers, what does that say about the oversight system itself?\n\nThe same institutions that constantly demand trust are once again asking the public not to ask too many questions.\n\nSorry.\n\nThat\u2019s not how trust works.\n\nTrust is earned through transparency.\n\nAnd every time another story like this surfaces, millions of Americans start wondering whether they\u2019re seeing the tip of the iceberg\u2026 or just another crack in a dam that\u2019s already beginning to fail.\n\n\ud83d\udc40\n\nWhat do you think?\n\nCoincidence?\n\nRogue individuals?\n\nOr evidence that the public knows far less about what happens behind laboratory doors than we\u2019ve been led to believe?\n\n#Monkeypox #NIH #FBI #BreakingNews #Transparency #QuestionEverything",
-          "engagement": "7K views",
-          "views": 7401
+          "handle": "R_H_Ebright",
+          "url": "https://x.com/R_H_Ebright/status/2061950031377162702",
+          "headline": "NIH researchers charged with monkeypox smuggling conspiracy",
+          "body": "\"Vincent Munster and Claude Kwe, both researchers with the NIH at the Rocky Mountain Laboratory were charged today in a criminal complaint with conspiracy to smuggle monkeypox into the US and giving false statements to federal law enforcement\"\n\nhttps://www.justice.gov/usao-edmi/pr/feds-charge-foreign-nationals-working-national-institutes-health-smuggling-monkeypox",
+          "engagement": "27K views",
+          "views": 26500
         },
         {
-          "handle": "overclassifiedx",
-          "url": "https://x.com/overclassifiedx/status/2061922089729470635",
-          "headline": "China's Nostradamus warns Trump's UFO declassifications could lead to societal atrocities",
-          "body": "\ud83d\udea8\ud83c\udde8\ud83c\uddf3 CHINA'S NOSTRADAMUS DROPS BOMBSHELL ON TRUMP'S UFO FILES: \"ATROCITIES ARE COMING\" \ud83d\udc7d\ud83d\udca5\n\nAs the Trump administration ramps up its historic UFO/UAP declassifications under the PURSUE program, China's Nostradamus, Professor Jiang Xueqin is sounding the alarm.\n\nJiang, the Chinese-Canadian futurist who gained fame for correctly predicting Trump's 2024 win and escalating US-Iran tensions, slammed the releases in a recent interview with YouTuber Sneako. \n\nHe called alien/UFO claims \"complete nonsense\" and \"BS\", no extraterrestrials, no reverse engineered tech, just \"hallucination\" and distraction.\n\nInstead of little green men, Jiang warns the real danger is societal collapse. People retreating into polarized \"bubbles\", UFO believers vs. skeptics, AI doomers, conspiracy theorists, fueled by fear and distrust. \n\nThis echo-chamber effect, he says, could spark \"atrocities\" in the future, mirroring how empires crumble through internal division and civil unrest.\n\nTrump's releases include videos of glowing eight pointed star like objects, metallic orbs, and high speed anomalies over military sites. While enthusiasts link them to non human intelligence (NHI), Jiang sees it as elite misdirection, keeping the public chasing shadows while deeper fractures widen.\n\nWith  billions of views on the PURSUE portal and ongoing tranches promised, this isn't fringe, it's mainstream fuel for division at a time of global tensions (Iran conflict, tech arms races). \n\nIs disclosure a psyop to erode trust? Or the gateway to paradigm-shifting NHI revelations? Jiang bets on the former leading to chaos.\n\nHistory shows belief systems can divide nations. As more files drop, will we unite in curiosity... or fracture further? The atrocities he predicts may not come from the stars, but from us.\n\nWhat do you think, distraction or disclosure?",
-          "engagement": "10K views",
-          "views": 10050
+          "handle": "conspiracyb0t",
+          "url": "https://x.com/conspiracyb0t/status/2061876174675218899",
+          "headline": "New World Order system documentary",
+          "body": "THE NEW WORLD ORDER SYSTEM  \n\nFull 2014 Documentary \n\nDocumentary from 2014 explaining how deep the NWO runs. \n\nThis has been going on long before the masses were awakened to the fact that there even existed a worldwide conspiracy to enslave the people.",
+          "engagement": "31K views",
+          "views": 30653
         }
       ]
     },
     "comedy": {
-      "stories": []
+      "stories": [
+        {
+          "handle": "cyber_razz",
+          "url": "https://x.com/cyber_razz/status/2061814334997635201",
+          "headline": "Share of legendary meme image",
+          "body": "Legendary meme",
+          "engagement": "1.7M views",
+          "views": 1741260
+        }
+      ]
     }
   },
-  "last_updated": "2026-06-03T04:11:27.022077"
+  "last_updated": "2026-06-03T12:42:55.678569"
 }
