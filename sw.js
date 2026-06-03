@@ -1,4 +1,4 @@
-const BUILD = '20260603124255';
+const BUILD = '20260603195033';
 const CACHE = 'expresso-improved-' + BUILD;
 
 self.addEventListener('install', () => self.skipWaiting());
