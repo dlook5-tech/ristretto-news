@@ -3,6 +3,37 @@
     "world": {
       "stories": [
         {
+          "headline": "US House passes War Powers Resolution to end Trump's war in Iran",
+          "url": "https://x.com/LisaDNews/status/2062282476601413926",
+          "handle": "LisaDNews",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "RepThomasMassie",
+              "url": "https://x.com/RepThomasMassie/status/2062286355497914659",
+              "body": "The Iran War Powers Resolution that I cosponsored (opposing the war) just passed the House of Representatives. The People\u2019s House is sending a message: end this war.",
+              "engagement": "933K views",
+              "views": 933685
+            },
+            {
+              "label": "Independent",
+              "handle": "LisaDNews",
+              "url": "https://x.com/LisaDNews/status/2062282476601413926",
+              "body": "BREAKING: House votes 215-208 to end President Trump's war in Iran.",
+              "engagement": "2M views",
+              "views": 2026884
+            },
+            {
+              "label": "Democrat",
+              "handle": "RepAOC",
+              "url": "https://x.com/RepAOC/status/2062562182743626158",
+              "body": "Trump\u2019s illegal war in Iran has descended our world and our global economy into chaos. Yesterday, the House finally met the threshold to pass a War Powers Resolution. The Senate must work quickly to advance this resolution and end this war.",
+              "engagement": "12K views",
+              "views": 12172
+            }
+          ]
+        },
+        {
           "headline": "Thousands of Brits take the knee in solidarity over Henry Nowak's death in Southampton",
           "url": "https://x.com/TheBritLad/status/2062241036487754118",
           "handle": "TheBritLad",
@@ -26,37 +57,6 @@
           ]
         },
         {
-          "headline": "Iran attacks Kuwait International Airport killing civilians",
-          "url": "https://x.com/WarMonitors/status/2062105682732564633",
-          "handle": "WarMonitors",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "Breaking911",
-              "url": "https://x.com/Breaking911/status/2062231491698913716",
-              "body": "Aftermath of Iranian strikes on Kuwait International Airport\u2019s Terminal one.",
-              "engagement": "57K views",
-              "views": 57830
-            },
-            {
-              "label": "Independent",
-              "handle": "WarMonitors",
-              "url": "https://x.com/WarMonitors/status/2062105682732564633",
-              "body": "\u26a1\ufe0f#UPDATE Iran bombs Kuwait International Airport",
-              "engagement": "448K views",
-              "views": 448564
-            },
-            {
-              "label": "Democrat",
-              "handle": "AJENews",
-              "url": "https://x.com/AJENews/status/2062126245656006968",
-              "body": "BREAKING: 63 injured in Iranian attack on Kuwait airport, says health ministry",
-              "engagement": "35K views",
-              "views": 35751
-            }
-          ]
-        },
-        {
           "headline": "Ukraine drone strikes hit Russian facilities near St. Petersburg during economic forum",
           "url": "https://x.com/WarMonitor3/status/2062481353849876541",
           "handle": "WarMonitor3",
@@ -75,37 +75,6 @@
     },
     "usa": {
       "stories": [
-        {
-          "headline": "DOJ launches Model Cities Initiative to slash violent crime nationwide",
-          "url": "https://x.com/WhiteHouse/status/2062189195041321191",
-          "handle": "WhiteHouse",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "WhiteHouse",
-              "url": "https://x.com/WhiteHouse/status/2062189195041321191",
-              "body": "President Donald J. Trump announces the next step in the administration\u2019s successful war on crime: the Department of Justice\u2019s Model Cities Initiative, designed to slash violent crime and RESTORE LAW AND ORDER in major cities across America. \ud83c\uddfa\ud83c\uddf8",
-              "engagement": "12.4M views",
-              "views": 12387495
-            },
-            {
-              "label": "Independent",
-              "handle": "ABC",
-              "url": "https://x.com/ABC/status/2062206388739215654",
-              "body": "President Trump is floating the possibility of keeping the UFC arena on the White House South Lawn \u2014 built for a series of fights on his birthday and Flag Day \u2014 permanently.",
-              "engagement": "6.7M views",
-              "views": 6683309
-            },
-            {
-              "label": "Democrat",
-              "handle": "GavinNewsom",
-              "url": "https://x.com/GavinNewsom/status/2062232846081933698",
-              "body": "Pay attention. Late last night the Trump-packed Supreme Court issued an UNSIGNED order to help Republicans erase Black voters and keep a congressional seat.",
-              "engagement": "288K views",
-              "views": 288141
-            }
-          ]
-        },
         {
           "headline": "House passes Iran War Powers Resolution opposing military action",
           "url": "https://x.com/RepThomasMassie/status/2062286355497914659",
@@ -167,6 +136,29 @@
               "views": 215504
             }
           ]
+        },
+        {
+          "headline": "Trump demands Senate pass SAVE America Act citing alleged California vote stealing by Democrats",
+          "url": "https://x.com/EricLDaugh/status/2062588814561038695",
+          "handle": "EricLDaugh",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "EricLDaugh",
+              "url": "https://x.com/EricLDaugh/status/2062588814561038695",
+              "body": "\ud83d\udea8 HOLY CRAP! President Trump just said California Democrats are STEALING THE VOTE right now and demands Senate Republicans finally pass the SAVE America Act IT'S LONG OVERDUE! \ud83c\uddfa\ud83c\uddf8 \"Look what\u2019s happening in California, the Dumocrats, right before our very eyes, are stealing the Vote. I hope the Republicans are watching so that they can finally pass THE SAVE AMERICA ACT! President DONALD J. TRUMP\"",
+              "engagement": "33.6K views",
+              "views": 33589
+            },
+            {
+              "label": "Conservative",
+              "handle": "OneBadDude_",
+              "url": "https://x.com/OneBadDude_/status/2062208142998491504",
+              "body": "Unless the SAVE America Act is passed, California will be laughing in our faces as they manufacture ballots for weeks after the 2028 election. Enough is enough. If we can\u2019t get a measly 5 Senators to step up and oust traitor Thune, they\u2019re no different than him.",
+              "engagement": "11K views",
+              "views": 11081
+            }
+          ]
         }
       ]
     },
@@ -181,20 +173,20 @@
           "views": 1106897
         },
         {
-          "handle": "unusual_whales",
-          "url": "https://x.com/unusual_whales/status/2062232093527314699",
-          "headline": "Michael Burry notes three customers account for over 60% of Nvidia's accounts receivable.",
-          "body": "Michael Burry has said that three customers account for more than 60% of Nvidia's, $NVDA, entire accounts receivable.",
-          "engagement": "751K views",
-          "views": 751432
-        },
-        {
           "handle": "zoomerfied",
           "url": "https://x.com/zoomerfied/status/2062288919853490553",
           "headline": "BITMINE files for preferred stock offering with 9.5% yield.",
           "body": "[ ZOOMER ]\n\nBITMINE FILES FOR PREFERRED STOCK OFFERING OFFERING A YIELD OF 9.5%: FILING",
           "engagement": "525K views",
           "views": 525759
+        },
+        {
+          "handle": "@WSJ",
+          "url": "https://x.com/WSJ/status/2062530572635848997",
+          "headline": "Amaryllis Fox Kennedy resigned over lack of oversight of intelligence community\u2019s use of taxpayer funds including gold bullion",
+          "body": "Amaryllis Fox Kennedy, a former senior Trump administration official, said she resigned last month in part because she was increasingly frustrated with the lack of oversight of the intelligence community\u2019s use of taxpayer funds\u2014including gold bullion. \ud83d\udd17 https://www.wsj.com/politics/national-security/the-kennedy-who-says-she-left-the-white-house-over-concerns-about-cia-spending-1d49ffe9?mod=e2tw",
+          "engagement": "45255 views",
+          "views": 45255
         }
       ]
     },
@@ -231,31 +223,39 @@
         {
           "handle": "nytimes",
           "url": "https://x.com/nytimes/status/2062289181439631435",
-          "headline": "House votes to end war in Iran with bipartisan support against Trump",
+          "headline": "House voted to end the war in Iran in rebuke to President Trump.",
           "body": "Breaking News: The House voted to end the war in Iran, as four Republicans sided with Democrats in a striking rebuke to President Trump. https://www.nytimes.com/2026/06/03/us/politics/house-vote-trump-iran-war-powers.html?smid=tw-nytimes&smtyp=cur",
-          "engagement": "560K views",
-          "views": 559870
+          "engagement": "849K views",
+          "views": 849102
         },
         {
           "handle": "AP",
-          "url": "https://x.com/AP/status/2062373694735855973",
-          "headline": "Trump nominates Todd Blanche, his former personal lawyer, as attorney general.",
-          "body": "Trump says he\u2019s nominating Todd Blanche, his former personal lawyer, to serve as attorney general. https://apnews.com/article/trump-blanche-justice-department-86f44c3c01caf89a1dae9d5b5c468551?taid=6a20eecca7e6970001d47c8e&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
+          "url": "https://x.com/AP/status/2062535784083722698",
+          "headline": "Dozens of children separated from parents at border a second time, AP finds.",
+          "body": "Dozens of children torn from their parents at the border have now been separated from their families a second time despite legal protections, an AP investigation finds. https://apnews.com/article/immigration-trump-family-separation-ice-71a610d15af5207a68f989fcafb55039?taid=6a2185c1b189380001a02e1a&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
+          "engagement": "64K views",
+          "views": 63967
+        },
+        {
+          "handle": "AP",
+          "url": "https://x.com/AP/status/2062482020974923828",
+          "headline": "Rare albino buffalo named after Donald Trump draws crowds at Bangladesh zoo.",
+          "body": "A rare albino buffalo named after U.S. President Donald Trump for his distinctive blond tuft is drawing crowds at a Bangladesh zoo. https://apnews.com/article/bangladesh-buffalo-zoo-donald-trump-3827c4a7223b10bba68901df9260b88b?taid=6a2153af6ddeab0001697598&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
           "engagement": "80K views",
-          "views": 79639
-        },
-        {
-          "handle": "AP",
-          "url": "https://x.com/AP/status/2062232892239945773",
-          "headline": "Two U.S. government lab scientists charged with smuggling deactivated mpox virus vials from Africa.",
-          "body": "Two scientists at a U.S. government lab have been charged with smuggling vials of deactivated mpox virus into the country from Africa without permits and lying about it to investigators. https://apnews.com/article/scientists-charges-mpox-virus-lying-14b7cf7635cad30254b0ae1cdb6c0515?taid=6a206baa1738220001a20281&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
-          "engagement": "69K views",
-          "views": 69027
+          "views": 79942
         }
       ]
     },
     "sports": {
       "stories": [
+        {
+          "handle": "nyknicks",
+          "url": "https://x.com/nyknicks/status/2062373626255385088",
+          "headline": "Knicks take 1-0 series lead in 2026 NBA Finals",
+          "body": "series 1-0.",
+          "engagement": "1.7M views",
+          "views": 1654252
+        },
         {
           "handle": "NBA",
           "url": "https://x.com/NBA/status/2062371548506263803",
@@ -267,18 +267,10 @@
         {
           "handle": "espn",
           "url": "https://x.com/espn/status/2062372374427631829",
-          "headline": "Knicks defeat Spurs in NBA Finals Game 1",
+          "headline": "Knicks defeat Spurs to take Game 1 on the road in NBA Finals",
           "body": "NEW YORK STRIKES FIRST IN SAN ANTONIO \ud83d\uddfd\n\nBRUNSON & THE KNICKS TAKE GAME 1 ON THE ROAD \ud83c\udf7f",
-          "engagement": "851K views",
-          "views": 850916
-        },
-        {
-          "handle": "NBA",
-          "url": "https://x.com/NBA/status/2062403367364640879",
-          "headline": "Jalen Brunson highlight reel in Game 1",
-          "body": "Create space.\nSwitch hands.\nDribble closer.\nSpin right.\nFake the shot.\nAbsorb the contact.\nSplash.\n\nJalen Brunson was in his bag tonight \ud83d\ude2e\u200d\ud83d\udca8",
-          "engagement": "614K views",
-          "views": 614294
+          "engagement": "897K views",
+          "views": 897373
         }
       ]
     },
@@ -294,24 +286,40 @@
         },
         {
           "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2062368716730564785",
+          "headline": "Elon Musk highlights SpaceX hiring post",
+          "body": "SpaceX",
+          "engagement": "11.0M views",
+          "views": 11035196
+        },
+        {
+          "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2062424194219114745",
           "headline": "Elon Musk shares video post",
           "body": "https://t.co/8T0sVlzKQz",
           "engagement": "5.3M views",
           "views": 5252104
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2062368716730564785",
-          "headline": "Elon Musk replies 'SpaceX' to job post",
-          "body": "SpaceX",
-          "engagement": "7.2M views",
-          "views": 7220169
         }
       ]
     },
     "pods": {
       "stories": [
+        {
+          "handle": "Polymarket",
+          "url": "https://x.com/Polymarket/status/2062559135531504125",
+          "headline": "Polymarket reports Joe Rogan considered as 60 Minutes replacement",
+          "body": "NEW: Joe Rogan is reportedly being considered as a possible \u201c60 Minutes\u201d replacement for Anderson Cooper.",
+          "engagement": "680K views",
+          "views": 680353
+        },
+        {
+          "handle": "sircalebhammer",
+          "url": "https://x.com/sircalebhammer/status/2062583390843335107",
+          "headline": "Caleb Hammer announces Rogan episode is live",
+          "body": "Rogan episode is live, check it out!",
+          "engagement": "240K views",
+          "views": 239686
+        },
         {
           "handle": "Coinvo",
           "url": "https://x.com/Coinvo/status/2062444244418330856",
@@ -319,50 +327,34 @@
           "body": "\ud83c\uddee\ud83c\uddf1 THEO VON: \"Israel is obsessed with control so they use American soldiers like war machines to feed their bloodlust.\"\n\n\"They're a satanic regime who just want to cause pain.\"",
           "engagement": "212K views",
           "views": 212442
-        },
-        {
-          "handle": "iluminatibot",
-          "url": "https://x.com/iluminatibot/status/2062429208807419935",
-          "headline": "Tucker Carlson uncomfortable as Theo Von asks about Palantir",
-          "body": "Tucker Carlson gets very uncomfortable when Theo Von asks him about his best friend\u2019s multibillion dollar AI company, Palantir.",
-          "engagement": "113K views",
-          "views": 113184
-        },
-        {
-          "handle": "Bitcoin_Teddy",
-          "url": "https://x.com/Bitcoin_Teddy/status/2062459844825899257",
-          "headline": "Marc Andreessen recounts Biden admin AI meeting and endorsing Trump",
-          "body": "MARC ANDREESSEN: \"We had meetings with the Biden admin where they told us to not even start AI companies because there's no way they'll let them succeed.\"  \n\nJOE ROGAN: \"What do you do after a meeting like that?\"  \n\nMARC ANDREESSEN: \"You go endorse Donald Trump.\"  \n\nLMAO",
-          "engagement": "80K views",
-          "views": 79649
         }
       ]
     },
     "pg6": {
       "stories": [
         {
-          "handle": "21metgala",
-          "url": "https://x.com/21metgala/status/2062219149921730802",
-          "headline": "Kylie Jenner spotted relaxing on beach in Turks and Caicos",
-          "body": "Kylie Jenner was spotted relaxing on the beach in Turks and Caicos.",
-          "engagement": "4M views",
-          "views": 4002823
+          "handle": "enews",
+          "url": "https://x.com/enews/status/2062542665724637578",
+          "headline": "Anna Faris joins ex Chris Pratt's son Jack at Scary Movie 6 premiere",
+          "body": "He's a natural.\ud83e\udd23 Anna Faris was joined by her and ex Chris Pratt\u2019s son Jack, 13, for the premiere of \"Scary Movie 6\" in Los Angeles.",
+          "engagement": "1.1M views",
+          "views": 1146474
         },
         {
-          "handle": "PopCrave",
-          "url": "https://x.com/PopCrave/status/2062511378125013218",
-          "headline": "Olivia Rodrigo open to Sabrina Carpenter collab",
-          "body": "Olivia Rodrigo to Dazed about a potential Sabrina Carpenter collaboration:\n\n\u201cOh, gosh. I mean, I\u2019m open... I\u2019m open to all types of collaboration.\u201d",
-          "engagement": "165K views",
-          "views": 165267
+          "handle": "TMZ",
+          "url": "https://x.com/TMZ/status/2062538698130874658",
+          "headline": "Marlon Wayans, Shawn Wayans, Anna Faris and more at Scary Movie world premiere",
+          "body": "\ud83e\udd29 Marlon Wayans, Shawn Wayans, Anna Faris, Carmen Electra, and more attend the world premiere of \"Scary Movie\" in Los Angeles \ud83d\ude31\ud83c\udfac",
+          "engagement": "355K views",
+          "views": 355481
         },
         {
-          "handle": "21metgala",
-          "url": "https://x.com/21metgala/status/2062247043792306529",
-          "headline": "Kendall Jenner and Jacob Elordi spotted in Tokyo",
-          "body": "Kendall Jenner and Jacob Elordi in Tokyo, Japan.",
-          "engagement": "641K views",
-          "views": 640715
+          "handle": "nypost",
+          "url": "https://x.com/nypost/status/2062511295790735678",
+          "headline": "Anna Faris and Chris Pratt\u2019s son Jack makes rare appearance at Scary Movie premiere",
+          "body": "Anna Faris and Chris Pratt\u2019s son, Jack, makes rare appearance supporting mom at \u2018Scary Movie\u2019 premiere",
+          "engagement": "396K views",
+          "views": 396021
         }
       ]
     },
@@ -371,14 +363,6 @@
     },
     "science": {
       "stories": [
-        {
-          "handle": "OpenAI",
-          "url": "https://x.com/OpenAI/status/2062249312839434452",
-          "headline": "OpenAI announces major new AI capabilities in video teaser",
-          "body": "It's time to fly.",
-          "engagement": "1.1M views",
-          "views": 1179313
-        },
         {
           "handle": "OpenAI",
           "url": "https://x.com/OpenAI/status/2062281977122996256",
@@ -408,20 +392,20 @@
           "views": 21139
         },
         {
-          "handle": "Breaking911",
-          "url": "https://x.com/Breaking911/status/2062525006618271779",
-          "headline": "Tech executive in $35M Orange County mansion charged with illegal scheme supplying Iran military",
-          "body": "A California tech executive living in a $35 million Orange County mansion has been charged with running a decades-long scheme to illegally supply U.S. computer equipment to Iran\u2019s military and nuclear programs, according to federal prosecutors.",
-          "engagement": "19.6K views",
-          "views": 19579
-        },
-        {
           "handle": "GuntherEagleman",
           "url": "https://x.com/GuntherEagleman/status/2062479769313108150",
           "headline": "California tech executive in $35M Newport Beach mansion arrested for supplying US tech to Iran",
           "body": "THE ENEMY IS HERE: California tech executive and dual U.S.-Iranian citizen arrested for allegedly running a decades-long scheme to illegally sell critical U.S. computer equipment to Iran\u2019s military and nuclear programs.\n\nThe wealthy Orange County businessman, who lived in a $35 million mansion in Newport Beach, is accused of selling components directly to Iran\u2019s Atomic Energy Organization between 2017 and 2023, in violation of U.S. sanctions.\n\nU.S. Attorney: \u201cAiding our declared enemy\u2026 We will hold him accountable by seeking an appropriate prison sentence and seizing his assets, including the $35 million mansion.\u201d\n\nAuthorities say this highlights the need for stronger vetting and enforcement of sanctions against those helping adversarial regimes. LOCK HIM UP AND TOSS THE KEYS.",
           "engagement": "34.9K views",
           "views": 34917
+        },
+        {
+          "handle": "Breaking911",
+          "url": "https://x.com/Breaking911/status/2062525006618271779",
+          "headline": "Tech executive in $35M Orange County mansion charged with illegal scheme supplying Iran military",
+          "body": "A California tech executive living in a $35 million Orange County mansion has been charged with running a decades-long scheme to illegally supply U.S. computer equipment to Iran\u2019s military and nuclear programs, according to federal prosecutors.",
+          "engagement": "19.6K views",
+          "views": 19579
         }
       ]
     },
@@ -444,17 +428,25 @@
           "views": 40980
         },
         {
-          "handle": "MentisWave",
-          "url": "https://x.com/MentisWave/status/2062400526474686913",
-          "headline": "Conspiracy theory that Steam is targeted because Proton enables Linux.",
-          "body": "The conspiracy theorist in me suspects the real reason they are going after Steam is because proton makes linux more viable as a desktop OS, which is harder for the state to control.",
-          "engagement": "9K views",
-          "views": 8895
+          "handle": "LiberationTimes",
+          "url": "https://x.com/LiberationTimes/status/2062262611563958537",
+          "headline": "Lue Elizondo states irreversible progress on UFO disclosure",
+          "body": "NEW: Lue Elizondo: \u201cThere\u2019s No Going Back\u201d on UFO Disclosure",
+          "engagement": "37K views",
+          "views": 37426
         }
       ]
     },
     "comedy": {
       "stories": [
+        {
+          "handle": "seattleiminyou",
+          "url": "https://x.com/seattleiminyou/status/2062273809093476615",
+          "headline": "Meme captioned about an ex being lowkey funny",
+          "body": "I hate that my ex is lowkey funny",
+          "engagement": "3.1M views",
+          "views": 3066281
+        },
         {
           "handle": "WildMediaOnly",
           "url": "https://x.com/WildMediaOnly/status/2062258066309951736",
@@ -470,17 +462,9 @@
           "body": "1. Lame joke, Commdani. 2. Stay far away from the Garden for the next few weeks; we\u2019ll buy you all the @Mets tickets your commie heart desires. 3. If you\u2019re looking for some pointers and advice, we\u2019d be happy to compare notes. We\u2019ll even do it for free, unlike NYC bus fares, you fraud.",
           "engagement": "398K views",
           "views": 398791
-        },
-        {
-          "handle": "ImMemesupplier",
-          "url": "https://x.com/ImMemesupplier/status/2062380061177860500",
-          "headline": "Viral comedy reel turned real",
-          "body": "Reel got real",
-          "engagement": "244K views",
-          "views": 244279
         }
       ]
     }
   },
-  "last_updated": "2026-06-04T15:16:42.556909"
+  "last_updated": "2026-06-04T18:16:46.638359"
 }
