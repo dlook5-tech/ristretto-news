@@ -1,38 +1,77 @@
 {
   "stories": {
     "world": {
-      "stories": []
+      "stories": [
+        {
+          "headline": "Iran attacks Kuwait International Airport killing civilians",
+          "url": "https://x.com/WarMonitors/status/2062105682732564633",
+          "handle": "WarMonitors",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "Breaking911",
+              "url": "https://x.com/Breaking911/status/2062231491698913716",
+              "body": "Aftermath of Iranian strikes on Kuwait International Airport\u2019s Terminal one.",
+              "engagement": "57K views",
+              "views": 57830
+            },
+            {
+              "label": "Independent",
+              "handle": "WarMonitors",
+              "url": "https://x.com/WarMonitors/status/2062105682732564633",
+              "body": "\u26a1\ufe0f#UPDATE Iran bombs Kuwait International Airport",
+              "engagement": "448K views",
+              "views": 448564
+            },
+            {
+              "label": "Democrat",
+              "handle": "AJENews",
+              "url": "https://x.com/AJENews/status/2062126245656006968",
+              "body": "BREAKING: 63 injured in Iranian attack on Kuwait airport, says health ministry",
+              "engagement": "35K views",
+              "views": 35751
+            }
+          ]
+        },
+        {
+          "headline": "Ukraine strikes deep into Russia hitting oil terminal",
+          "url": "https://x.com/ForeignPolicy/status/2062278166878589132",
+          "handle": "ForeignPolicy",
+          "perspectives": [
+            {
+              "label": "Independent",
+              "handle": "ForeignPolicy",
+              "url": "https://x.com/ForeignPolicy/status/2062278166878589132",
+              "body": "World Brief: Iran launches a deadly attack on Kuwait\u2019s main airport, South Korea\u2019s ruling party looks to win big in local elections, and Ukraine strikes a major Russian city during its annual economic conference.",
+              "engagement": "2K views",
+              "views": 2227
+            }
+          ]
+        }
+      ]
     },
     "usa": {
       "stories": [
         {
-          "headline": "US House votes to restrict Trump Iran War powers without congressional approval",
-          "url": "https://x.com/KobeissiLetter/status/2062286017000812738",
-          "handle": "KobeissiLetter",
+          "headline": "US House votes to limit Trump war powers on Iran in bipartisan rebuke",
+          "url": "https://x.com/FoxNews/status/2062290836654612573",
+          "handle": "FoxNews",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "JDVance",
-              "url": "https://x.com/JDVance/status/2061850172112445678",
-              "body": "Bill is a great guy who recognizes that the bureaucracy of the intel community must respond to the elected leadership (rather than the other way around). He'll do great!",
-              "engagement": "681K views",
-              "views": 681419
+              "handle": "FoxNews",
+              "url": "https://x.com/FoxNews/status/2062290836654612573",
+              "body": "BREAKING: President Trump suffered a rare defeat in the House after Democrats and a handful of Republicans voted to sharply curb his war powers in Iran.",
+              "engagement": "557K views",
+              "views": 557747
             },
             {
               "label": "Independent",
-              "handle": "KobeissiLetter",
-              "url": "https://x.com/KobeissiLetter/status/2062286017000812738",
-              "body": "BREAKING: The US House of Representatives has voted to restrict President Trump\u2019s ability to continue the Iran War without congressional approval. The measure passed in a 215 to 208 vote, with four Republicans joining Democrats in support.",
-              "engagement": "292K views",
-              "views": 292167
-            },
-            {
-              "label": "Democrat",
-              "handle": "BernieSanders",
-              "url": "https://x.com/BernieSanders/status/2061531586063925576",
-              "body": "Asked today how he feels about negotiations with Iran collapsing, Trump said, \"I couldn't care less.\" You'd think the president of the United States would care about service members dying and millions paying more for gas because of his illegal and unconstitutional war.",
-              "engagement": "508K views",
-              "views": 508384
+              "handle": "EricLDaugh",
+              "url": "https://x.com/EricLDaugh/status/2062333708560929157",
+              "body": "\ud83d\udea8 GREAT NEWS! The Iran War Powers resolution passed by the US House is DEAD ON ARRIVAL \"Even if it does pass the Senate, Trump will just VETO IT!\"",
+              "engagement": "112K views",
+              "views": 112689
             }
           ]
         },
@@ -68,17 +107,33 @@
           ]
         },
         {
-          "headline": "White House warns ICE operations will not be deterred by riots or obstruction",
-          "url": "https://x.com/WhiteHouse/status/2061474808441815402",
-          "handle": "WhiteHouse",
+          "headline": "US House votes to restrict Trump Iran War powers without congressional approval",
+          "url": "https://x.com/KobeissiLetter/status/2062286017000812738",
+          "handle": "KobeissiLetter",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "Kash_Patel",
-              "url": "https://x.com/Kash_Patel/status/2061988014104944809",
-              "body": "This isn't a threat....it's a PROMISE!",
-              "engagement": "88K views",
-              "views": 88779
+              "handle": "JDVance",
+              "url": "https://x.com/JDVance/status/2061850172112445678",
+              "body": "Bill is a great guy who recognizes that the bureaucracy of the intel community must respond to the elected leadership (rather than the other way around). He'll do great!",
+              "engagement": "681K views",
+              "views": 681419
+            },
+            {
+              "label": "Independent",
+              "handle": "KobeissiLetter",
+              "url": "https://x.com/KobeissiLetter/status/2062286017000812738",
+              "body": "BREAKING: The US House of Representatives has voted to restrict President Trump\u2019s ability to continue the Iran War without congressional approval. The measure passed in a 215 to 208 vote, with four Republicans joining Democrats in support.",
+              "engagement": "292K views",
+              "views": 292167
+            },
+            {
+              "label": "Democrat",
+              "handle": "BernieSanders",
+              "url": "https://x.com/BernieSanders/status/2061531586063925576",
+              "body": "Asked today how he feels about negotiations with Iran collapsing, Trump said, \"I couldn't care less.\" You'd think the president of the United States would care about service members dying and millions paying more for gas because of his illegal and unconstitutional war.",
+              "engagement": "508K views",
+              "views": 508384
             }
           ]
         }
@@ -86,6 +141,14 @@
     },
     "business": {
       "stories": [
+        {
+          "handle": "zoomerfied",
+          "url": "https://x.com/zoomerfied/status/2062288919853490553",
+          "headline": "BITMINE files for preferred stock offering with 9.5% yield.",
+          "body": "[ ZOOMER ]\n\nBITMINE FILES FOR PREFERRED STOCK OFFERING OFFERING A YIELD OF 9.5%: FILING",
+          "engagement": "525K views",
+          "views": 525759
+        },
         {
           "handle": "Kalshi",
           "url": "https://x.com/Kalshi/status/2062158228780183572",
@@ -95,48 +158,40 @@
           "views": 1051093
         },
         {
-          "handle": "Barchart",
-          "url": "https://x.com/Barchart/status/2062263576820380052",
-          "headline": "U.S. Treasury projected to buy back $12.5 billion of debt this week",
-          "body": "JUST IN \ud83d\udea8: U.S. Treasury projected to buy back $12.5 Billion of their own debt this week \ud83e\udd2f\ud83d\udc40",
-          "engagement": "43K views",
-          "views": 43014
-        },
-        {
-          "handle": "SenLummis",
-          "url": "https://x.com/SenLummis/status/2062207683004936332",
-          "headline": "Greatest changes to financial infrastructure in a century are happening now",
-          "body": "The greatest changes to financial infrastructure in a century are happening right now. America either shapes it or reacts to it.",
-          "engagement": "51K views",
-          "views": 50720
+          "handle": "business",
+          "url": "https://x.com/business/status/2062295475861029250",
+          "headline": "Glazer family members debate selling Manchester United stake after 20+ years.",
+          "body": "Some members of the billionaire Glazer family have been debating whether to sell their stake in Manchester United FC, after more than 20 years of ownership that has often been blighted by fan protest https://www.bloomberg.com/news/articles/2026-06-03/glazer-family-members-are-said-to-study-man-united-stake-sale?taid=6a20a5f395609a0001f5bf06&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+          "engagement": "342K views",
+          "views": 342395
         }
       ]
     },
     "top": {
       "stories": [
         {
-          "handle": "GDA_F_18",
-          "url": "https://x.com/GDA_F_18/status/2061970917044220398",
-          "headline": "Video of an unusual car exit from a parking lot attraction.",
-          "body": "\u5ddd\u5d0e\u306e\u30a2\u30bc\u30ea\u30a2\u5730\u4e0b\u99d0\u8eca\u5834\u306e\u51fa\u53e3\u30a2\u30c8\u30e9\u30af\u30b7\u30e7\u30f3\u307f\u305f\u304f\u306a\u3063\u3066\u305f",
-          "engagement": "1.4M views",
-          "views": 1389478
+          "handle": "DangeRussWilson",
+          "url": "https://x.com/DangeRussWilson/status/2062298629071601828",
+          "headline": "Russell Wilson posts retirement video thanking football.",
+          "body": "Thank You, Football. \n\nLove, #3",
+          "engagement": "4.7M views",
+          "views": 4704877
         },
         {
-          "handle": "Nike",
-          "url": "https://x.com/Nike/status/2062203239333028031",
-          "headline": "Nike Rip The Script campaign teaser",
-          "body": "Nobody ever dreams of doing what they\u2019re told. \n\nRip The Script. June 4th.",
-          "engagement": "1.18M views",
-          "views": 1178974
+          "handle": "PopCrave",
+          "url": "https://x.com/PopCrave/status/2062278614821835163",
+          "headline": "TikToker recreates viral Pride Month video.",
+          "body": "TikToker Lexi recreates her viral Pride Month video.",
+          "engagement": "1.7M views",
+          "views": 1734438
         },
         {
-          "handle": "Bighomietyni",
-          "url": "https://x.com/Bighomietyni/status/2061983843242910184",
-          "headline": "Artist reposts her own video clip",
-          "body": "Since mfs taking my video & not tagging me, lemme just go ahead & post it myself. \ud83d\udc95",
-          "engagement": "992K views",
-          "views": 991683
+          "handle": "YGBABYMONSTER_",
+          "url": "https://x.com/YGBABYMONSTER_/status/2062187558927278363",
+          "headline": "BABYMONSTER releases SUGAR HONEY ICE TEA MV teaser.",
+          "body": "#BABYMONSTER 'SUGAR HONEY ICE TEA' M/V TEASER\n\n2026.06.08. 0AM KST\n\nPre-Save Now.",
+          "engagement": "1.5M views",
+          "views": 1546465
         }
       ]
     },
@@ -144,27 +199,27 @@
       "stories": [
         {
           "handle": "nytimes",
+          "url": "https://x.com/nytimes/status/2062289181439631435",
+          "headline": "House votes to end war in Iran with bipartisan support against Trump",
+          "body": "Breaking News: The House voted to end the war in Iran, as four Republicans sided with Democrats in a striking rebuke to President Trump. https://www.nytimes.com/2026/06/03/us/politics/house-vote-trump-iran-war-powers.html?smid=tw-nytimes&smtyp=cur",
+          "engagement": "560K views",
+          "views": 559870
+        },
+        {
+          "handle": "CNN",
+          "url": "https://x.com/CNN/status/2062307866891936007",
+          "headline": "Study estimates 1.5 million deaths from foodborne illnesses in 2021",
+          "body": "A new study estimated foodborne illnesses caused 1.5 million deaths worldwide in 2021. However, there are things that can be done in your home to prevent these kinds of illnesses. https://www.cnn.com/2026/06/03/health/foodborne-illness-deaths-wellness?Date=20260603&Profile=CNN&utm_content=1780526321&utm_medium=social&utm_source=twitter",
+          "engagement": "45K views",
+          "views": 45467
+        },
+        {
+          "handle": "nytimes",
           "url": "https://x.com/nytimes/status/2062202770262786560",
           "headline": "FBI kills hostage suspect in California office building standoff",
           "body": "Breaking News: The FBI killed a man suspected of holding people hostage in a California office building, ending an overnight standoff.",
           "engagement": "62K views",
           "views": 62152
-        },
-        {
-          "handle": "AP",
-          "url": "https://x.com/AP/status/2061989906751066463",
-          "headline": "Kalshi reports George Santos to prosecutors over self-bet.",
-          "body": "Prediction market Kalshi has reported former Rep. George Santos to prosecutors over a bet he made on himself, a person familiar with the investigation says. https://apnews.com/article/george-santos-kalshi-2ea925949a0f3f72ec46411b41344858?taid=6a1f8775a353900001d3ca0c&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
-          "engagement": "149K views",
-          "views": 149462
-        },
-        {
-          "handle": "AP",
-          "url": "https://x.com/AP/status/2061977471877034315",
-          "headline": "Rebecca Bennett wins Democratic primary in New Jersey\u2019s 7th District",
-          "body": "BREAKING: Rebecca Bennett, a former Navy helicopter pilot, has won the Democratic primary in New Jersey\u2019s battleground 7th District.",
-          "engagement": "74K views",
-          "views": 73847
         }
       ]
     },
@@ -179,20 +234,20 @@
           "views": 4248564
         },
         {
-          "handle": "NBA",
-          "url": "https://x.com/NBA/status/2062013907875618840",
-          "headline": "Victor Wembanyama joins Kobe and LeBron as only players this century to lead team in scoring entering Finals at 22 or younger",
-          "body": "KOBE. LEBRON. WEMBY.\n\nVictor Wembanyama joins Kobe Bryant in 2001 and LeBron James in 2007 as the only players this century to lead their team in scoring entering the Finals at 22 or younger \ud83e\udd2f",
-          "engagement": "777K views",
-          "views": 777051
+          "handle": "AdamSchefter",
+          "url": "https://x.com/AdamSchefter/status/2062373738566320174",
+          "headline": "Knicks extend playoff winning streak to 12 games.",
+          "body": "Knicks now have won 12 straight playoff games, the second-longest single-postseason winning streak in NBA history.",
+          "engagement": "190K views",
+          "views": 189934
         },
         {
-          "handle": "ESPNNBA",
-          "url": "https://x.com/ESPNNBA/status/2062189121745940704",
-          "headline": "Inside the NBA crew to host official NBA Finals pregame, halftime and postgame show starting at 7 PM ET on ESPN",
-          "body": "For the first time, the Inside the NBA crew will serve as the official NBA Finals pregame, halftime and postgame show \ud83c\udf7f\n\nCoverage begins at 7 PM ET on ESPN \ud83c\udfc6",
-          "engagement": "170K views",
-          "views": 169794
+          "handle": "BleacherReport",
+          "url": "https://x.com/BleacherReport/status/2062375072019718144",
+          "headline": "Knicks defeat Spurs 105-95 in NBA Finals Game 1.",
+          "body": "KNICKS WIN GAME 1 OF THE NBA FINALS \ud83d\uddfd\ud83d\udd25\n\nBrunson: 30 PTS, 12-31 FG\nKAT: 18 PTS, 12 REB\n\nWemby: 26 PTS, 6-21 FG\n\nNew York 1-0.",
+          "engagement": "160K views",
+          "views": 162308
         }
       ]
     },
@@ -200,35 +255,53 @@
       "stories": [
         {
           "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2062368716730564785",
+          "headline": "Elon Musk replies 'SpaceX' to job posting",
+          "body": "SpaceX",
+          "engagement": "1.2M views",
+          "views": 1242504
+        },
+        {
+          "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2062071886218219737",
-          "headline": "Elon Musk posts good Starship highlights video",
+          "headline": "Elon Musk shares Starship highlights video",
           "body": "Good Starship highlights video",
-          "engagement": "20.4M views",
-          "views": 20446508
+          "engagement": "23.2M views",
+          "views": 23227327
         },
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2062228418985648287",
-          "headline": "Elon Musk affirms a statement on truth in a quoted post.",
-          "body": "That\u2019s what it comes down to",
-          "engagement": "1.96M views",
-          "views": 1957213
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2062255860433506323",
-          "headline": "Elon Musk notes that a new Gopuff AI was built with Grok.",
-          "body": "Built with Grok",
-          "engagement": "255K views",
-          "views": 254584
+          "url": "https://x.com/elonmusk/status/2062062058376663408",
+          "headline": "Elon Musk criticizes Western response to racism accusations",
+          "body": "The West has created an utterly evil state religion where an accusation of \u201cracism\u201d is the gravest offense that can be committed, even worse than rape or murder!\n\nSo if police show up at a crime scene and a British boy is bleeding out and an immigrant says the British boy is racist the cops will cuff the dying British boy.",
+          "engagement": "23M views",
+          "views": 22996031
         }
       ]
     },
     "pods": {
-      "stories": []
+      "stories": [
+        {
+          "handle": "joerogan",
+          "url": "https://x.com/joerogan/status/2062219321536086348",
+          "headline": "Joe Rogan promotes podcast with Joe Eszterhas",
+          "body": "Joe Eszterhas is a Hollywood legend.  In the 1990\u2019s he was the highest paid writer in film, and created all time classics like \u201cBasic Instinct.\u201d\n\nHe lived through an insane coke and booze fueled ride of a life, and came out on the other end with some amazing stories. \nWe talked about his beginnings in journalism, and the time he spent with Hunter S Thompson, Jimi Hendrix, and Martin Luther King Jr. \n\nHe\u2019s a brilliant and captivating guy and I really enjoyed our conversation.  The podcast is available now on @spotify and everywhere else.",
+          "engagement": "180K views",
+          "views": 180526
+        }
+      ]
     },
     "pg6": {
-      "stories": []
+      "stories": [
+        {
+          "handle": "21metgala",
+          "url": "https://x.com/21metgala/status/2062247043792306529",
+          "headline": "Kendall Jenner and Jacob Elordi spotted in Tokyo",
+          "body": "Kendall Jenner and Jacob Elordi in Tokyo, Japan.",
+          "engagement": "641K views",
+          "views": 640715
+        }
+      ]
     },
     "recipe": {
       "stories": []
@@ -237,40 +310,32 @@
       "stories": [
         {
           "handle": "OpenAI",
-          "url": "https://x.com/OpenAI/status/2062281977122996256",
-          "headline": "OpenAI announces enhanced GPT-Rosalind model for life sciences research and drug discovery.",
-          "body": "We\u2019re bringing new capabilities to GPT-Rosalind, a model series purpose-built for life sciences research at enterprise scale.\n\nIt brings GPT-5.5\u2019s agentic coding and tool use together with stronger intelligence for drug discovery, analysis, design, and experimental workflows.",
-          "engagement": "85K views",
-          "views": 84814
+          "url": "https://x.com/OpenAI/status/2062249312839434452",
+          "headline": "OpenAI announces major new AI capabilities in video teaser",
+          "body": "It's time to fly.",
+          "engagement": "1.1M views",
+          "views": 1179313
+        },
+        {
+          "handle": "ideogram_ai",
+          "url": "https://x.com/ideogram_ai/status/2062202208700313872",
+          "headline": "Ideogram releases open weights for Ideogram 4.0 image model",
+          "body": "Introducing Ideogram 4.0: the best open image model in the world.\n\nThink it. Make it. Own it.\n\nDownload the weights, fine-tune on your own data, and run it on your hardware. Live on every Ideogram plan and the API today.",
+          "engagement": "1M views",
+          "views": 1089892
         },
         {
           "handle": "OpenAI",
-          "url": "https://x.com/OpenAI/status/2062249312839434452",
-          "headline": "OpenAI shares video teaser for new project",
-          "body": "It's time to fly.",
-          "engagement": "141K views",
-          "views": 141132
-        },
-        {
-          "handle": "Rainmaker1973",
-          "url": "https://x.com/Rainmaker1973/status/2062147217150861630",
-          "headline": "Study reveals sterilized soil continues oxygen consumption and CO2 release for over six years via geochemical processes.",
-          "body": "In a striking experiment, completely sterilized soil, devoid of any detectable microbial life, continued to consume oxygen and release carbon dioxide for more than six years.\n\nBiochemist S\u00e9bastien Fontaine and his team at the French National Institute for Agriculture, Food, and Environment subjected soil samples to intense gamma radiation to eliminate all living organisms. They expected biological respiration to cease entirely. Instead, the lifeless dirt kept \u201cbreathing.\u201d\n\nMicroscopic analysis confirmed the complete absence of cellular life, yet the soil persistently consumed oxygen and emitted CO\u2082 inside sealed containers. This non-living respiration lasted for over six years.\n\nThe findings, published in Science Advances, suggest that key metabolic processes long considered exclusive to living cells can occur through purely geochemical mechanisms in soil. Soil particles appear capable of facilitating extracellular reactions that oxidize organic matter, essentially a form of metabolism without biology.\n\nThis discovery blurs the line between living and non-living chemistry and raises intriguing possibilities about the origins of life: some of the fundamental metabolic pathways that power modern organisms may have existed as natural geochemical processes on early Earth, long before the first cells emerged.\n\n[Bouquet, C., K\u00e9raval, B., Traikia, M., Alvarez, G., Perri\u00e8re, F., Le Jeune, A.-H., Billard, H., Colombet, J., Revaillot, S., Fontaine, S., & Lehours, A.-C. (2025). Nonliving respiration: Another breath in the soil? Science Advances, 11(46), eadw9065. DOI: 10.1126/sciadv.adw9065]",
-          "engagement": "25K views",
-          "views": 25377
+          "url": "https://x.com/OpenAI/status/2062281977122996256",
+          "headline": "OpenAI launches GPT-Rosalind model series for life sciences research",
+          "body": "We\u2019re bringing new capabilities to GPT-Rosalind, a model series purpose-built for life sciences research at enterprise scale.\n\nIt brings GPT-5.5\u2019s agentic coding and tool use together with stronger intelligence for drug discovery, analysis, design, and experimental workflows.",
+          "engagement": "255K views",
+          "views": 255655
         }
       ]
     },
     "local": {
       "stories": [
-        {
-          "handle": "EricLDaugh",
-          "url": "https://x.com/EricLDaugh/status/2062246028263211008",
-          "headline": "FBI raids $35M Southern California mansion linked to Iran sanctions",
-          "body": "\ud83d\udea8 JUST IN: The FBI has just RAIDED a $35 MILLION mansion in Southern California after an Iranian tech boss allegedly secretly supplied US military hardware to IRAN\u2019S *MILITARY AND NUCLEAR PROGRAMS*",
-          "engagement": "39K views",
-          "views": 38609
-        },
         {
           "handle": "ExxAlerts",
           "url": "https://x.com/ExxAlerts/status/2062235310080311296",
@@ -280,20 +345,53 @@
           "views": 46069
         },
         {
-          "handle": "ThePersistence",
-          "url": "https://x.com/ThePersistence/status/2062014831113236695",
-          "headline": "Katie Porter trailing in Orange County gubernatorial primary polls",
-          "body": "Former Congresswoman Katie Porter (D-CA) is getting destroyed in the gubernatorial primary \u2014 even where she represented in Orange County.",
-          "engagement": "52.9K views",
-          "views": 52868
+          "handle": "EricLDaugh",
+          "url": "https://x.com/EricLDaugh/status/2062246028263211008",
+          "headline": "FBI raids $35M Southern California mansion linked to Iran sanctions",
+          "body": "\ud83d\udea8 JUST IN: The FBI has just RAIDED a $35 MILLION mansion in Southern California after an Iranian tech boss allegedly secretly supplied US military hardware to IRAN\u2019S *MILITARY AND NUCLEAR PROGRAMS*",
+          "engagement": "39K views",
+          "views": 38609
+        },
+        {
+          "handle": "Hunter_Eagleman",
+          "url": "https://x.com/Hunter_Eagleman/status/2062296068168258026",
+          "headline": "Newport Beach scene full of Botox and hair transplants",
+          "body": "Just got into Newport Beach and WOW\u2026 I\u2019ve never seen this much Botox, hair transplants, and strategic fakeness in one zip code. It\u2019s like the entire city got collectively \u201cupgraded\u201d by the same plastic surgeon who moonlights as a car salesman. \ud83e\udd23\ud83e\udd23 10/10 for commitment to the bit though!",
+          "engagement": "20.9K views",
+          "views": 20881
         }
       ]
     },
     "conspiracy": {
-      "stories": []
+      "stories": [
+        {
+          "handle": "TrumpDailyPosts",
+          "url": "https://x.com/TrumpDailyPosts/status/2062355624466555184",
+          "headline": "Major UFO files surfacing on National Archives servers amid official concerns.",
+          "body": "\ud83d\udea8WATCH: A major UFO bombshell is exploding right now.  \n\nReported Air Force files are appearing on National Archives servers.  \n\nWashington is visibly rattled as more whistleblowers and lawmakers get involved.  \n\nIntelligence whispers suggest this is getting impossible to hide. \n\nSomething very big is unfolding. \n\nOur Chief White House Correspondent Gary Franchi Reports @nextnews @TrumpDailyPosts",
+          "engagement": "40.9K views",
+          "views": 40980
+        },
+        {
+          "handle": "nextnews",
+          "url": "https://x.com/nextnews/status/2062331427610325442",
+          "headline": "UFO bombshell with Air Force files on National Archives servers.",
+          "body": "\ud83d\udea8 UFO bombshell: reported Air Force files are surfacing on National Archives servers \u2014 and Washington looks rattled. Whistleblowers, lawmakers, intelligence whispers\u2026 this is getting harder to contain. Watch before they spin it.",
+          "engagement": "7.6K views",
+          "views": 7625
+        }
+      ]
     },
     "comedy": {
       "stories": [
+        {
+          "handle": "WildMediaOnly",
+          "url": "https://x.com/WildMediaOnly/status/2062258066309951736",
+          "headline": "IShowSpeed recreates legendary meme with Ethiopian duplicates",
+          "body": "IShowSpeed went to Ethiopia and somehow found 2 of his duplicates and they all recreated this legendary meme together \ud83d\ude2d",
+          "engagement": "1.8M views",
+          "views": 1829585
+        },
         {
           "handle": "miliondouga",
           "url": "https://x.com/miliondouga/status/2062170007052624173",
@@ -303,15 +401,15 @@
           "views": 1443320
         },
         {
-          "handle": "miliondouga",
-          "url": "https://x.com/miliondouga/status/2062072365144482066",
-          "headline": "Old festival clip of spontaneous dancing turning into a crowd dance",
-          "body": "16\u5e74\u524d\u306e\u97f3\u697d\u30d5\u30a7\u30b9\u3067\u30011\u4eba\u306e\u7537\u304c\u7a81\u7136\u8e0a\u308a\u51fa\u3057\u7b11\u308f\u308c\u3066\u3044\u305f...\u3002\u3067\u30821\u4eba\u304c\u52a0\u308f\u308a\u3001\u6b21\u3005\u3068\u4eba\u304c\u96c6\u307e\u308a\u3001\u6570\u5206\u3067\u5927\u52e2\u306e\u30c0\u30f3\u30b9\u306b\u5909\u308f\u3063\u305f\u3002",
-          "engagement": "358K views",
-          "views": 358738
+          "handle": "insidefolkative",
+          "url": "https://x.com/insidefolkative/status/2062047758375375319",
+          "headline": "Omara Esteghlal discusses viral song dominating timeline",
+          "body": "Omara Esteghlal buka suara soal satu lagu yang belakangan menguasai timeline, salah satu kalimatnya bilang,\n\n\"'Kok bisa ya perkara lagu haha hihi viral, editan dari komen yang (I thought) awalnya sarkas, menjadi narasi yang mengubah pikiran semua orang.\"",
+          "engagement": "503K views",
+          "views": 502937
         }
       ]
     }
   },
-  "last_updated": "2026-06-03T22:28:44.762390"
+  "last_updated": "2026-06-04T04:04:34.027153"
 }
