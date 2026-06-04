@@ -26,21 +26,6 @@
           ]
         },
         {
-          "headline": "Ukraine drone strikes hit Russian facilities near St. Petersburg during economic forum",
-          "url": "https://x.com/WarMonitor3/status/2062481353849876541",
-          "handle": "WarMonitor3",
-          "perspectives": [
-            {
-              "label": "Independent",
-              "handle": "WarMonitor3",
-              "url": "https://x.com/WarMonitor3/status/2062481353849876541",
-              "body": "Incredible footage of a Ukrainian drone hitting a Russian warship last night near the Crimean bridge.",
-              "engagement": "1942 likes",
-              "views": 69472
-            }
-          ]
-        },
-        {
           "headline": "Iran attacks Kuwait International Airport killing civilians",
           "url": "https://x.com/WarMonitors/status/2062105682732564633",
           "handle": "WarMonitors",
@@ -70,13 +55,28 @@
               "views": 35751
             }
           ]
+        },
+        {
+          "headline": "Ukraine drone strikes hit Russian facilities near St. Petersburg during economic forum",
+          "url": "https://x.com/WarMonitor3/status/2062481353849876541",
+          "handle": "WarMonitor3",
+          "perspectives": [
+            {
+              "label": "Independent",
+              "handle": "WarMonitor3",
+              "url": "https://x.com/WarMonitor3/status/2062481353849876541",
+              "body": "Incredible footage of a Ukrainian drone hitting a Russian warship last night near the Crimean bridge.",
+              "engagement": "1942 likes",
+              "views": 69472
+            }
+          ]
         }
       ]
     },
     "usa": {
       "stories": [
         {
-          "headline": "Trump announces DOJ Model Cities Initiative to slash violent crime",
+          "headline": "DOJ launches Model Cities Initiative to slash violent crime nationwide",
           "url": "https://x.com/WhiteHouse/status/2062189195041321191",
           "handle": "WhiteHouse",
           "perspectives": [
@@ -85,24 +85,24 @@
               "handle": "WhiteHouse",
               "url": "https://x.com/WhiteHouse/status/2062189195041321191",
               "body": "President Donald J. Trump announces the next step in the administration\u2019s successful war on crime: the Department of Justice\u2019s Model Cities Initiative, designed to slash violent crime and RESTORE LAW AND ORDER in major cities across America. \ud83c\uddfa\ud83c\uddf8",
-              "engagement": "7.6M views",
-              "views": 7692089
+              "engagement": "12.4M views",
+              "views": 12387495
             },
             {
               "label": "Independent",
-              "handle": "SenSanders",
-              "url": "https://x.com/SenSanders/status/2061878921704898856",
-              "body": "Artificial Intelligence is built on the creative work of millions of writers, artists, musicians, journalists, teachers, scientists and ordinary people. That work has been stolen by Big Tech oligarchs.",
-              "engagement": "218K views",
-              "views": 218949
+              "handle": "ABC",
+              "url": "https://x.com/ABC/status/2062206388739215654",
+              "body": "President Trump is floating the possibility of keeping the UFC arena on the White House South Lawn \u2014 built for a series of fights on his birthday and Flag Day \u2014 permanently.",
+              "engagement": "6.7M views",
+              "views": 6683309
             },
             {
               "label": "Democrat",
-              "handle": "NateSilver538",
-              "url": "https://x.com/NateSilver538/status/2061674416841625999",
-              "body": "Like honestly \"it's going to take us several weeks to tell you who won the election\" is failed state shit and should be much more stigmatized.",
-              "engagement": "1.1M views",
-              "views": 1103415
+              "handle": "GavinNewsom",
+              "url": "https://x.com/GavinNewsom/status/2062232846081933698",
+              "body": "Pay attention. Late last night the Trump-packed Supreme Court issued an UNSIGNED order to help Republicans erase Black voters and keep a congressional seat.",
+              "engagement": "288K views",
+              "views": 288141
             }
           ]
         },
@@ -138,33 +138,33 @@
           ]
         },
         {
-          "headline": "Defense Secretary Hegseth blocks Navy officer promotions targeting women and minorities",
-          "url": "https://x.com/nytimes/status/2061518846834434260",
-          "handle": "nytimes",
+          "headline": "House votes 215-208 to end President Trump's war in Iran",
+          "url": "https://x.com/LisaDNews/status/2062282476601413926",
+          "handle": "LisaDNews",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "WhiteHouse",
-              "url": "https://x.com/WhiteHouse/status/2061494305852625033",
-              "body": "FIVE MONTHS IN A ROW: U.S. Manufacturing Expands. American Manufacturing is BACK. \ud83c\uddfa\ud83c\uddf8",
-              "engagement": "243K views",
-              "views": 243230
+              "handle": "FBIDirectorKash",
+              "url": "https://x.com/FBIDirectorKash/status/2062295248278077682",
+              "body": "It\u2019s simple if you BETRAY this country we will FIND you, and you will face JUSTICE!\ud83c\uddfa\ud83c\uddf8",
+              "engagement": "930K views",
+              "views": 930400
             },
             {
               "label": "Independent",
-              "handle": "nytimes",
-              "url": "https://x.com/nytimes/status/2061518846834434260",
-              "body": "Breaking News: Defense Secretary Pete Hegseth blocked the promotions of at least seven Navy officers in a move that targeted women and minority officers.",
-              "engagement": "1.1M views",
-              "views": 1192430
+              "handle": "LisaDNews",
+              "url": "https://x.com/LisaDNews/status/2062282476601413926",
+              "body": "BREAKING: House votes 215-208 to end President Trump's war in Iran.",
+              "engagement": "2M views",
+              "views": 1999114
             },
             {
               "label": "Democrat",
-              "handle": "Phil_Lewis_",
-              "url": "https://x.com/Phil_Lewis_/status/2062236083824295966",
-              "body": "Senate Republicans have officially ditched an effort to fund Trump's White House ballroom",
-              "engagement": "119K views",
-              "views": 119483
+              "handle": "DemocraticWins",
+              "url": "https://x.com/DemocraticWins/status/2062271306855334215",
+              "body": "BREAKING: In a stunning moment, Republican Senator Bill Cassidy just personally blamed Donald Trump for the rise in healthcare costs in our country. Woah.",
+              "engagement": "215K views",
+              "views": 215504
             }
           ]
         }
@@ -173,12 +173,12 @@
     "business": {
       "stories": [
         {
-          "handle": "Kalshi",
-          "url": "https://x.com/Kalshi/status/2062158228780183572",
-          "headline": "SpaceX targets an IPO of $135 per share",
-          "body": "JUST IN: SpaceX targets an IPO of $135 per share",
+          "handle": "business",
+          "url": "https://x.com/business/status/2062295475861029250",
+          "headline": "Glazer family considers selling Manchester United stake after 20 years",
+          "body": "Some members of the billionaire Glazer family have been debating whether to sell their stake in Manchester United FC, after more than 20 years of ownership that has often been blighted by fan protest",
           "engagement": "1.1M views",
-          "views": 1051093
+          "views": 1106897
         },
         {
           "handle": "unusual_whales",
@@ -217,12 +217,12 @@
           "views": 1734438
         },
         {
-          "handle": "YGBABYMONSTER_",
-          "url": "https://x.com/YGBABYMONSTER_/status/2062187558927278363",
-          "headline": "BABYMONSTER releases SUGAR HONEY ICE TEA MV teaser.",
-          "body": "#BABYMONSTER 'SUGAR HONEY ICE TEA' M/V TEASER\n\n2026.06.08. 0AM KST\n\nPre-Save Now.",
-          "engagement": "1.5M views",
-          "views": 1546465
+          "handle": "watarai_hibari",
+          "url": "https://x.com/watarai_hibari/status/2062444407924879751",
+          "headline": "Nijisanji VTuber covers KANA-BOON song",
+          "body": "\u306a\u3044\u3082\u306e\u306d\u3060\u308a / KANA-BOON\u3010Band Cover by 2\u6642\u3060\u3068\u304b\u3011\n   ~2026/6/04/18:00 \u30d7\u30ec\u30df\u30a2\u516c\u958b~\nhttps://www.youtube.com/watch?v=1SSBqyedZrs&feature=youtu.be",
+          "engagement": "1.7M views",
+          "views": 1723593
         }
       ]
     },
@@ -237,20 +237,20 @@
           "views": 559870
         },
         {
-          "handle": "CNN",
-          "url": "https://x.com/CNN/status/2062307866891936007",
-          "headline": "Study estimates 1.5 million deaths from foodborne illnesses in 2021",
-          "body": "A new study estimated foodborne illnesses caused 1.5 million deaths worldwide in 2021. However, there are things that can be done in your home to prevent these kinds of illnesses. https://www.cnn.com/2026/06/03/health/foodborne-illness-deaths-wellness?Date=20260603&Profile=CNN&utm_content=1780526321&utm_medium=social&utm_source=twitter",
-          "engagement": "45K views",
-          "views": 45467
+          "handle": "AP",
+          "url": "https://x.com/AP/status/2062373694735855973",
+          "headline": "Trump nominates Todd Blanche, his former personal lawyer, as attorney general.",
+          "body": "Trump says he\u2019s nominating Todd Blanche, his former personal lawyer, to serve as attorney general. https://apnews.com/article/trump-blanche-justice-department-86f44c3c01caf89a1dae9d5b5c468551?taid=6a20eecca7e6970001d47c8e&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
+          "engagement": "80K views",
+          "views": 79639
         },
         {
-          "handle": "nytimes",
-          "url": "https://x.com/nytimes/status/2062202770262786560",
-          "headline": "FBI kills hostage suspect in California office building standoff",
-          "body": "Breaking News: The FBI killed a man suspected of holding people hostage in a California office building, ending an overnight standoff.",
-          "engagement": "62K views",
-          "views": 62152
+          "handle": "AP",
+          "url": "https://x.com/AP/status/2062232892239945773",
+          "headline": "Two U.S. government lab scientists charged with smuggling deactivated mpox virus vials from Africa.",
+          "body": "Two scientists at a U.S. government lab have been charged with smuggling vials of deactivated mpox virus into the country from Africa without permits and lying about it to investigators. https://apnews.com/article/scientists-charges-mpox-virus-lying-14b7cf7635cad30254b0ae1cdb6c0515?taid=6a206baa1738220001a20281&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
+          "engagement": "69K views",
+          "views": 69027
         }
       ]
     },
@@ -265,20 +265,20 @@
           "views": 1416797
         },
         {
+          "handle": "espn",
+          "url": "https://x.com/espn/status/2062372374427631829",
+          "headline": "Knicks defeat Spurs in NBA Finals Game 1",
+          "body": "NEW YORK STRIKES FIRST IN SAN ANTONIO \ud83d\uddfd\n\nBRUNSON & THE KNICKS TAKE GAME 1 ON THE ROAD \ud83c\udf7f",
+          "engagement": "851K views",
+          "views": 850916
+        },
+        {
           "handle": "NBA",
           "url": "https://x.com/NBA/status/2062403367364640879",
           "headline": "Jalen Brunson highlight reel in Game 1",
           "body": "Create space.\nSwitch hands.\nDribble closer.\nSpin right.\nFake the shot.\nAbsorb the contact.\nSplash.\n\nJalen Brunson was in his bag tonight \ud83d\ude2e\u200d\ud83d\udca8",
           "engagement": "614K views",
           "views": 614294
-        },
-        {
-          "handle": "PopBase",
-          "url": "https://x.com/PopBase/status/2062381651146182815",
-          "headline": "Knicks win Game 1 of 2026 NBA Finals",
-          "body": "The New York Knicks have won Game 1 of the NBA Finals (105-95) against the San Antonio Spurs.",
-          "engagement": "268K views",
-          "views": 267802
         }
       ]
     },
@@ -313,12 +313,28 @@
     "pods": {
       "stories": [
         {
-          "handle": "joerogan",
-          "url": "https://x.com/joerogan/status/2062219321536086348",
-          "headline": "Joe Rogan promotes Joe Eszterhas podcast episode",
-          "body": "Joe Eszterhas is a Hollywood legend.  In the 1990\u2019s he was the highest paid writer in film, and created all time classics like \u201cBasic Instinct.\u201d\n\nHe lived through an insane coke and booze fueled ride of a life, and came out on the other end with some amazing stories. \nWe talked about his beginnings in journalism, and the time he spent with Hunter S Thompson, Jimi Hendrix, and Martin Luther King Jr. \n\nHe\u2019s a brilliant and captivating guy and I really enjoyed our conversation.  The podcast is available now on @spotify and everywhere else.",
-          "engagement": "214K views",
-          "views": 213501
+          "handle": "Coinvo",
+          "url": "https://x.com/Coinvo/status/2062444244418330856",
+          "headline": "Theo Von criticizes Israel as obsessed with control and satanic",
+          "body": "\ud83c\uddee\ud83c\uddf1 THEO VON: \"Israel is obsessed with control so they use American soldiers like war machines to feed their bloodlust.\"\n\n\"They're a satanic regime who just want to cause pain.\"",
+          "engagement": "212K views",
+          "views": 212442
+        },
+        {
+          "handle": "iluminatibot",
+          "url": "https://x.com/iluminatibot/status/2062429208807419935",
+          "headline": "Tucker Carlson uncomfortable as Theo Von asks about Palantir",
+          "body": "Tucker Carlson gets very uncomfortable when Theo Von asks him about his best friend\u2019s multibillion dollar AI company, Palantir.",
+          "engagement": "113K views",
+          "views": 113184
+        },
+        {
+          "handle": "Bitcoin_Teddy",
+          "url": "https://x.com/Bitcoin_Teddy/status/2062459844825899257",
+          "headline": "Marc Andreessen recounts Biden admin AI meeting and endorsing Trump",
+          "body": "MARC ANDREESSEN: \"We had meetings with the Biden admin where they told us to not even start AI companies because there's no way they'll let them succeed.\"  \n\nJOE ROGAN: \"What do you do after a meeting like that?\"  \n\nMARC ANDREESSEN: \"You go endorse Donald Trump.\"  \n\nLMAO",
+          "engagement": "80K views",
+          "views": 79649
         }
       ]
     },
@@ -333,20 +349,20 @@
           "views": 4002823
         },
         {
+          "handle": "PopCrave",
+          "url": "https://x.com/PopCrave/status/2062511378125013218",
+          "headline": "Olivia Rodrigo open to Sabrina Carpenter collab",
+          "body": "Olivia Rodrigo to Dazed about a potential Sabrina Carpenter collaboration:\n\n\u201cOh, gosh. I mean, I\u2019m open... I\u2019m open to all types of collaboration.\u201d",
+          "engagement": "165K views",
+          "views": 165267
+        },
+        {
           "handle": "21metgala",
           "url": "https://x.com/21metgala/status/2062247043792306529",
           "headline": "Kendall Jenner and Jacob Elordi spotted in Tokyo",
           "body": "Kendall Jenner and Jacob Elordi in Tokyo, Japan.",
           "engagement": "641K views",
           "views": 640715
-        },
-        {
-          "handle": "FilmUpdates",
-          "url": "https://x.com/FilmUpdates/status/2062245791066960316",
-          "headline": "Regina Hall on Num\u00e9ro Netherlands cover",
-          "body": "Regina Hall graces the cover of Num\u00e9ro Netherlands",
-          "engagement": "374K views",
-          "views": 373985
         }
       ]
     },
@@ -364,53 +380,61 @@
           "views": 1179313
         },
         {
-          "handle": "ideogram_ai",
-          "url": "https://x.com/ideogram_ai/status/2062202208700313872",
-          "headline": "Ideogram releases open weights for Ideogram 4.0 image model",
-          "body": "Introducing Ideogram 4.0: the best open image model in the world.\n\nThink it. Make it. Own it.\n\nDownload the weights, fine-tune on your own data, and run it on your hardware. Live on every Ideogram plan and the API today.",
-          "engagement": "1M views",
-          "views": 1089892
-        },
-        {
           "handle": "OpenAI",
           "url": "https://x.com/OpenAI/status/2062281977122996256",
           "headline": "OpenAI launches GPT-Rosalind model series for life sciences research",
           "body": "We\u2019re bringing new capabilities to GPT-Rosalind, a model series purpose-built for life sciences research at enterprise scale.\n\nIt brings GPT-5.5\u2019s agentic coding and tool use together with stronger intelligence for drug discovery, analysis, design, and experimental workflows.",
           "engagement": "255K views",
           "views": 255655
+        },
+        {
+          "handle": "Cointelegraph",
+          "url": "https://x.com/Cointelegraph/status/2062358707824984175",
+          "headline": "OpenAI releases GPT-Rosalind update with GPT-5.5 agentic features for drug discovery and genomics",
+          "body": "\u26a1\ufe0f NOW: OpenAI introduces a new update to GPT-Rosalind, its life sciences model, bringing GPT-5.5 agentic capabilities for drug discovery and genomics research.",
+          "engagement": "14.4K views",
+          "views": 14423
         }
       ]
     },
     "local": {
       "stories": [
         {
-          "handle": "ExxAlerts",
-          "url": "https://x.com/ExxAlerts/status/2062235310080311296",
-          "headline": "FBI raids $35M Newport Beach mansion over Iran tech sales",
-          "body": "BREAKING: Orange County tech CEO\u2019s $35 million mansion raided by the FBI as he is arrested for selling US technology to the Iranian military.",
-          "engagement": "46K views",
-          "views": 46069
+          "handle": "SteveHiltonx",
+          "url": "https://x.com/SteveHiltonx/status/2062537524954992796",
+          "headline": "Steve Hilton leads in California primary, wins Orange County and other key areas",
+          "body": "\"Steve Hilton won counties that have not voted for a Republican winner in many elections, including Napa County and Sacramento County. Hilton has also carried the populated areas of San Diego County, Fresno County and Orange County.\"",
+          "engagement": "21.1K views",
+          "views": 21139
         },
         {
-          "handle": "EricLDaugh",
-          "url": "https://x.com/EricLDaugh/status/2062246028263211008",
-          "headline": "FBI raids $35M Southern California mansion linked to Iran sanctions",
-          "body": "\ud83d\udea8 JUST IN: The FBI has just RAIDED a $35 MILLION mansion in Southern California after an Iranian tech boss allegedly secretly supplied US military hardware to IRAN\u2019S *MILITARY AND NUCLEAR PROGRAMS*",
-          "engagement": "39K views",
-          "views": 38609
+          "handle": "Breaking911",
+          "url": "https://x.com/Breaking911/status/2062525006618271779",
+          "headline": "Tech executive in $35M Orange County mansion charged with illegal scheme supplying Iran military",
+          "body": "A California tech executive living in a $35 million Orange County mansion has been charged with running a decades-long scheme to illegally supply U.S. computer equipment to Iran\u2019s military and nuclear programs, according to federal prosecutors.",
+          "engagement": "19.6K views",
+          "views": 19579
         },
         {
-          "handle": "Hunter_Eagleman",
-          "url": "https://x.com/Hunter_Eagleman/status/2062296068168258026",
-          "headline": "Newport Beach scene full of Botox and hair transplants",
-          "body": "Just got into Newport Beach and WOW\u2026 I\u2019ve never seen this much Botox, hair transplants, and strategic fakeness in one zip code. It\u2019s like the entire city got collectively \u201cupgraded\u201d by the same plastic surgeon who moonlights as a car salesman. \ud83e\udd23\ud83e\udd23 10/10 for commitment to the bit though!",
-          "engagement": "20.9K views",
-          "views": 20881
+          "handle": "GuntherEagleman",
+          "url": "https://x.com/GuntherEagleman/status/2062479769313108150",
+          "headline": "California tech executive in $35M Newport Beach mansion arrested for supplying US tech to Iran",
+          "body": "THE ENEMY IS HERE: California tech executive and dual U.S.-Iranian citizen arrested for allegedly running a decades-long scheme to illegally sell critical U.S. computer equipment to Iran\u2019s military and nuclear programs.\n\nThe wealthy Orange County businessman, who lived in a $35 million mansion in Newport Beach, is accused of selling components directly to Iran\u2019s Atomic Energy Organization between 2017 and 2023, in violation of U.S. sanctions.\n\nU.S. Attorney: \u201cAiding our declared enemy\u2026 We will hold him accountable by seeking an appropriate prison sentence and seizing his assets, including the $35 million mansion.\u201d\n\nAuthorities say this highlights the need for stronger vetting and enforcement of sanctions against those helping adversarial regimes. LOCK HIM UP AND TOSS THE KEYS.",
+          "engagement": "34.9K views",
+          "views": 34917
         }
       ]
     },
     "conspiracy": {
       "stories": [
+        {
+          "handle": "MJTruthUltra",
+          "url": "https://x.com/MJTruthUltra/status/2062252732027961642",
+          "headline": "Mysterious groups seen entering New York manholes at night with gear, per Fox News report.",
+          "body": "Are they planting bombs? Another incident occurred in New York involving mysterious groups of people thought to be foreign, are entering and exiting manholes in the dead of night \u201cVideos show different groups equipped with flashlights, waders, and other gear disappear underground for hours before reappearing on city streets.\u201d Fox News",
+          "engagement": "816K views",
+          "views": 816248
+        },
         {
           "handle": "TrumpDailyPosts",
           "url": "https://x.com/TrumpDailyPosts/status/2062355624466555184",
@@ -426,14 +450,6 @@
           "body": "The conspiracy theorist in me suspects the real reason they are going after Steam is because proton makes linux more viable as a desktop OS, which is harder for the state to control.",
           "engagement": "9K views",
           "views": 8895
-        },
-        {
-          "handle": "nextnews",
-          "url": "https://x.com/nextnews/status/2062331427610325442",
-          "headline": "UFO bombshell with Air Force files on National Archives servers.",
-          "body": "\ud83d\udea8 UFO bombshell: reported Air Force files are surfacing on National Archives servers \u2014 and Washington looks rattled. Whistleblowers, lawmakers, intelligence whispers\u2026 this is getting harder to contain. Watch before they spin it.",
-          "engagement": "7.6K views",
-          "views": 7625
         }
       ]
     },
@@ -448,23 +464,23 @@
           "views": 1829585
         },
         {
-          "handle": "miliondouga",
-          "url": "https://x.com/miliondouga/status/2062170007052624173",
-          "headline": "Funny cat video with Japanese text",
-          "body": "\u732b\u3063\u3066\u30c1\u30e7\u30ed\u3044\u304b\u3089\u597d\u304d\uff57\uff57\uff57",
-          "engagement": "1.4M views",
-          "views": 1443320
-        },
-        {
           "handle": "DOGE",
           "url": "https://x.com/DOGE/status/2062327806336352418",
           "headline": "DOGE roasts NYC mayor with joke about Mets tickets",
           "body": "1. Lame joke, Commdani. 2. Stay far away from the Garden for the next few weeks; we\u2019ll buy you all the @Mets tickets your commie heart desires. 3. If you\u2019re looking for some pointers and advice, we\u2019d be happy to compare notes. We\u2019ll even do it for free, unlike NYC bus fares, you fraud.",
           "engagement": "398K views",
           "views": 398791
+        },
+        {
+          "handle": "ImMemesupplier",
+          "url": "https://x.com/ImMemesupplier/status/2062380061177860500",
+          "headline": "Viral comedy reel turned real",
+          "body": "Reel got real",
+          "engagement": "244K views",
+          "views": 244279
         }
       ]
     }
   },
-  "last_updated": "2026-06-04T11:16:03.782717"
+  "last_updated": "2026-06-04T15:16:42.556909"
 }
