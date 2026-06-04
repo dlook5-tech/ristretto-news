@@ -3,6 +3,44 @@
     "world": {
       "stories": [
         {
+          "headline": "Thousands of Brits take the knee in solidarity over Henry Nowak's death in Southampton",
+          "url": "https://x.com/TheBritLad/status/2062241036487754118",
+          "handle": "TheBritLad",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "TheBritLad",
+              "url": "https://x.com/TheBritLad/status/2062241036487754118",
+              "body": "\ud83d\udea8 BREAKING: A powerful wave of solidarity is sweeping social media. Thousands of Brits are honoring Henry Nowak\u2019s tragic death by posting videos of themselves taking a knee.",
+              "engagement": "44700 likes",
+              "views": 367855
+            },
+            {
+              "label": "Independent",
+              "handle": "TheBritLad",
+              "url": "https://x.com/TheBritLad/status/2062469128925900952",
+              "body": "\ud83d\udea8BREAKING: The \u201ctaking the knee\u201d trend has exploded across Britain. Thousands are kneeling for Henry Nowak specifically to the track: Michael Jackson \u201cThey Don\u2019t Really Care About Us.\u201d The left are in a complete meltdown.",
+              "engagement": "3159 likes",
+              "views": 29607
+            }
+          ]
+        },
+        {
+          "headline": "Ukraine drone strikes hit Russian facilities near St. Petersburg during economic forum",
+          "url": "https://x.com/WarMonitor3/status/2062481353849876541",
+          "handle": "WarMonitor3",
+          "perspectives": [
+            {
+              "label": "Independent",
+              "handle": "WarMonitor3",
+              "url": "https://x.com/WarMonitor3/status/2062481353849876541",
+              "body": "Incredible footage of a Ukrainian drone hitting a Russian warship last night near the Crimean bridge.",
+              "engagement": "1942 likes",
+              "views": 69472
+            }
+          ]
+        },
+        {
           "headline": "Iran attacks Kuwait International Airport killing civilians",
           "url": "https://x.com/WarMonitors/status/2062105682732564633",
           "handle": "WarMonitors",
@@ -32,46 +70,70 @@
               "views": 35751
             }
           ]
-        },
-        {
-          "headline": "Ukraine strikes deep into Russia hitting oil terminal",
-          "url": "https://x.com/ForeignPolicy/status/2062278166878589132",
-          "handle": "ForeignPolicy",
-          "perspectives": [
-            {
-              "label": "Independent",
-              "handle": "ForeignPolicy",
-              "url": "https://x.com/ForeignPolicy/status/2062278166878589132",
-              "body": "World Brief: Iran launches a deadly attack on Kuwait\u2019s main airport, South Korea\u2019s ruling party looks to win big in local elections, and Ukraine strikes a major Russian city during its annual economic conference.",
-              "engagement": "2K views",
-              "views": 2227
-            }
-          ]
         }
       ]
     },
     "usa": {
       "stories": [
         {
-          "headline": "US House votes to limit Trump war powers on Iran in bipartisan rebuke",
-          "url": "https://x.com/FoxNews/status/2062290836654612573",
-          "handle": "FoxNews",
+          "headline": "Trump announces DOJ Model Cities Initiative to slash violent crime",
+          "url": "https://x.com/WhiteHouse/status/2062189195041321191",
+          "handle": "WhiteHouse",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "FoxNews",
-              "url": "https://x.com/FoxNews/status/2062290836654612573",
-              "body": "BREAKING: President Trump suffered a rare defeat in the House after Democrats and a handful of Republicans voted to sharply curb his war powers in Iran.",
-              "engagement": "557K views",
-              "views": 557747
+              "handle": "WhiteHouse",
+              "url": "https://x.com/WhiteHouse/status/2062189195041321191",
+              "body": "President Donald J. Trump announces the next step in the administration\u2019s successful war on crime: the Department of Justice\u2019s Model Cities Initiative, designed to slash violent crime and RESTORE LAW AND ORDER in major cities across America. \ud83c\uddfa\ud83c\uddf8",
+              "engagement": "7.6M views",
+              "views": 7692089
             },
             {
               "label": "Independent",
-              "handle": "EricLDaugh",
-              "url": "https://x.com/EricLDaugh/status/2062333708560929157",
-              "body": "\ud83d\udea8 GREAT NEWS! The Iran War Powers resolution passed by the US House is DEAD ON ARRIVAL \"Even if it does pass the Senate, Trump will just VETO IT!\"",
-              "engagement": "112K views",
-              "views": 112689
+              "handle": "SenSanders",
+              "url": "https://x.com/SenSanders/status/2061878921704898856",
+              "body": "Artificial Intelligence is built on the creative work of millions of writers, artists, musicians, journalists, teachers, scientists and ordinary people. That work has been stolen by Big Tech oligarchs.",
+              "engagement": "218K views",
+              "views": 218949
+            },
+            {
+              "label": "Democrat",
+              "handle": "NateSilver538",
+              "url": "https://x.com/NateSilver538/status/2061674416841625999",
+              "body": "Like honestly \"it's going to take us several weeks to tell you who won the election\" is failed state shit and should be much more stigmatized.",
+              "engagement": "1.1M views",
+              "views": 1103415
+            }
+          ]
+        },
+        {
+          "headline": "House passes Iran War Powers Resolution opposing military action",
+          "url": "https://x.com/RepThomasMassie/status/2062286355497914659",
+          "handle": "RepThomasMassie",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "JesseBWatters",
+              "url": "https://x.com/JesseBWatters/status/2062336921104261291",
+              "body": "\ud83d\udea8 BREAKING: CONGRESS JUST VOTED TO END THE IRAN WAR \ud83d\udea8 FOUR REPUBLICANS BETRAYED THE PARTY.",
+              "engagement": "1.9M views",
+              "views": 1981156
+            },
+            {
+              "label": "Independent",
+              "handle": "RepThomasMassie",
+              "url": "https://x.com/RepThomasMassie/status/2062286355497914659",
+              "body": "The Iran War Powers Resolution that I cosponsored (opposing the war) just passed the House of Representatives. The People\u2019s House is sending a message: end this war.",
+              "engagement": "810K views",
+              "views": 810642
+            },
+            {
+              "label": "Democrat",
+              "handle": "RepDonBacon",
+              "url": "https://x.com/RepDonBacon/status/2062288562444214559",
+              "body": "\ud83d\udea8 The House just voted 218-204 to move forward on the discharge petition to provide military aid to Ukraine and impose tough sanctions on Russia.",
+              "engagement": "286K views",
+              "views": 286877
             }
           ]
         },
@@ -105,50 +167,11 @@
               "views": 119483
             }
           ]
-        },
-        {
-          "headline": "US House votes to restrict Trump Iran War powers without congressional approval",
-          "url": "https://x.com/KobeissiLetter/status/2062286017000812738",
-          "handle": "KobeissiLetter",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "JDVance",
-              "url": "https://x.com/JDVance/status/2061850172112445678",
-              "body": "Bill is a great guy who recognizes that the bureaucracy of the intel community must respond to the elected leadership (rather than the other way around). He'll do great!",
-              "engagement": "681K views",
-              "views": 681419
-            },
-            {
-              "label": "Independent",
-              "handle": "KobeissiLetter",
-              "url": "https://x.com/KobeissiLetter/status/2062286017000812738",
-              "body": "BREAKING: The US House of Representatives has voted to restrict President Trump\u2019s ability to continue the Iran War without congressional approval. The measure passed in a 215 to 208 vote, with four Republicans joining Democrats in support.",
-              "engagement": "292K views",
-              "views": 292167
-            },
-            {
-              "label": "Democrat",
-              "handle": "BernieSanders",
-              "url": "https://x.com/BernieSanders/status/2061531586063925576",
-              "body": "Asked today how he feels about negotiations with Iran collapsing, Trump said, \"I couldn't care less.\" You'd think the president of the United States would care about service members dying and millions paying more for gas because of his illegal and unconstitutional war.",
-              "engagement": "508K views",
-              "views": 508384
-            }
-          ]
         }
       ]
     },
     "business": {
       "stories": [
-        {
-          "handle": "zoomerfied",
-          "url": "https://x.com/zoomerfied/status/2062288919853490553",
-          "headline": "BITMINE files for preferred stock offering with 9.5% yield.",
-          "body": "[ ZOOMER ]\n\nBITMINE FILES FOR PREFERRED STOCK OFFERING OFFERING A YIELD OF 9.5%: FILING",
-          "engagement": "525K views",
-          "views": 525759
-        },
         {
           "handle": "Kalshi",
           "url": "https://x.com/Kalshi/status/2062158228780183572",
@@ -158,12 +181,20 @@
           "views": 1051093
         },
         {
-          "handle": "business",
-          "url": "https://x.com/business/status/2062295475861029250",
-          "headline": "Glazer family members debate selling Manchester United stake after 20+ years.",
-          "body": "Some members of the billionaire Glazer family have been debating whether to sell their stake in Manchester United FC, after more than 20 years of ownership that has often been blighted by fan protest https://www.bloomberg.com/news/articles/2026-06-03/glazer-family-members-are-said-to-study-man-united-stake-sale?taid=6a20a5f395609a0001f5bf06&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-          "engagement": "342K views",
-          "views": 342395
+          "handle": "unusual_whales",
+          "url": "https://x.com/unusual_whales/status/2062232093527314699",
+          "headline": "Michael Burry notes three customers account for over 60% of Nvidia's accounts receivable.",
+          "body": "Michael Burry has said that three customers account for more than 60% of Nvidia's, $NVDA, entire accounts receivable.",
+          "engagement": "751K views",
+          "views": 751432
+        },
+        {
+          "handle": "zoomerfied",
+          "url": "https://x.com/zoomerfied/status/2062288919853490553",
+          "headline": "BITMINE files for preferred stock offering with 9.5% yield.",
+          "body": "[ ZOOMER ]\n\nBITMINE FILES FOR PREFERRED STOCK OFFERING OFFERING A YIELD OF 9.5%: FILING",
+          "engagement": "525K views",
+          "views": 525759
         }
       ]
     },
@@ -226,28 +257,28 @@
     "sports": {
       "stories": [
         {
-          "handle": "FanbrizioNews",
-          "url": "https://x.com/FanbrizioNews/status/2062144098396770644",
-          "headline": "ESPN names Top 25 athletes of the 21st century",
-          "body": "\ud83d\udea8 ESPN has named the Top 25 athletes of the 21st century.\n\n1. \ud83c\udde6\ud83c\uddf7 Lionel Messi\n2. \ud83c\uddfa\ud83c\uddf8 Michael Phelps\n3. \ud83c\uddfa\ud83c\uddf8 Serena Williams\n4. \ud83c\uddfa\ud83c\uddf8 LeBron James\n5. \ud83c\uddfa\ud83c\uddf8 Tom Brady\n6. \ud83c\udde8\ud83c\udded Roger Federer\n7. \ud83c\uddfa\ud83c\uddf8 Simone Biles\n8. \ud83c\uddfa\ud83c\uddf8 Tiger Woods\n9. \ud83c\uddef\ud83c\uddf2 Usain Bolt\n10. \ud83c\uddfa\ud83c\uddf8 Kobe Bryant\n11. \ud83c\uddf7\ud83c\uddf8 Novak Djokovic\n12. \ud83c\uddea\ud83c\uddf8 Rafael Nadal\n13. \ud83c\uddf5\ud83c\uddf9 Cristiano Ronaldo\n14. \ud83c\uddfa\ud83c\uddf8 Stephen Curry\n15. \ud83c\uddfa\ud83c\uddf8 Katie Ledecky\n16. \ud83c\uddfa\ud83c\uddf8 Tim Duncan\n17. \ud83c\uddfa\ud83c\uddf8 Shaquille O\u2019Neal\n18. \ud83c\uddfa\ud83c\uddf8 Patrick Mahomes\n19. \ud83c\uddec\ud83c\udde7 Lewis Hamilton\n20. \ud83c\uddfa\ud83c\uddf8 Aaron Donald\n21. \ud83c\uddfa\ud83c\uddf8 Diana Taurasi\n22. \ud83c\udde8\ud83c\udde6 Sidney Crosby\n23. \ud83c\uddfa\ud83c\uddf8 Kevin Garnett\n24. \ud83c\udde9\ud83c\uddf4 Albert Pujols\n25. \ud83c\uddfa\ud83c\uddf8 Floyd Mayweather",
-          "engagement": "4.2M views",
-          "views": 4248564
+          "handle": "NBA",
+          "url": "https://x.com/NBA/status/2062371548506263803",
+          "headline": "Jalen Brunson scores 30 points in Game 1",
+          "body": "\"JALEN BRUNSON DOES IT AGAIN!\"\n\n13 IN THE 4Q. 30 FOR THE GAME.\n\nKNICKS LEAD BY 6. 37.8 SECONDS TO GO.",
+          "engagement": "1.4M views",
+          "views": 1416797
         },
         {
-          "handle": "AdamSchefter",
-          "url": "https://x.com/AdamSchefter/status/2062373738566320174",
-          "headline": "Knicks extend playoff winning streak to 12 games.",
-          "body": "Knicks now have won 12 straight playoff games, the second-longest single-postseason winning streak in NBA history.",
-          "engagement": "190K views",
-          "views": 189934
+          "handle": "NBA",
+          "url": "https://x.com/NBA/status/2062403367364640879",
+          "headline": "Jalen Brunson highlight reel in Game 1",
+          "body": "Create space.\nSwitch hands.\nDribble closer.\nSpin right.\nFake the shot.\nAbsorb the contact.\nSplash.\n\nJalen Brunson was in his bag tonight \ud83d\ude2e\u200d\ud83d\udca8",
+          "engagement": "614K views",
+          "views": 614294
         },
         {
-          "handle": "BleacherReport",
-          "url": "https://x.com/BleacherReport/status/2062375072019718144",
-          "headline": "Knicks defeat Spurs 105-95 in NBA Finals Game 1.",
-          "body": "KNICKS WIN GAME 1 OF THE NBA FINALS \ud83d\uddfd\ud83d\udd25\n\nBrunson: 30 PTS, 12-31 FG\nKAT: 18 PTS, 12 REB\n\nWemby: 26 PTS, 6-21 FG\n\nNew York 1-0.",
-          "engagement": "160K views",
-          "views": 162308
+          "handle": "PopBase",
+          "url": "https://x.com/PopBase/status/2062381651146182815",
+          "headline": "Knicks win Game 1 of 2026 NBA Finals",
+          "body": "The New York Knicks have won Game 1 of the NBA Finals (105-95) against the San Antonio Spurs.",
+          "engagement": "268K views",
+          "views": 267802
         }
       ]
     },
@@ -255,27 +286,27 @@
       "stories": [
         {
           "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2062400773838024882",
+          "headline": "Elon Musk shares video post",
+          "body": "https://t.co/TIYVuTTRlp",
+          "engagement": "11.9M views",
+          "views": 11947262
+        },
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2062424194219114745",
+          "headline": "Elon Musk shares video post",
+          "body": "https://t.co/8T0sVlzKQz",
+          "engagement": "5.3M views",
+          "views": 5252104
+        },
+        {
+          "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2062368716730564785",
-          "headline": "Elon Musk replies 'SpaceX' to job posting",
+          "headline": "Elon Musk replies 'SpaceX' to job post",
           "body": "SpaceX",
-          "engagement": "1.2M views",
-          "views": 1242504
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2062071886218219737",
-          "headline": "Elon Musk shares Starship highlights video",
-          "body": "Good Starship highlights video",
-          "engagement": "23.2M views",
-          "views": 23227327
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2062062058376663408",
-          "headline": "Elon Musk criticizes Western response to racism accusations",
-          "body": "The West has created an utterly evil state religion where an accusation of \u201cracism\u201d is the gravest offense that can be committed, even worse than rape or murder!\n\nSo if police show up at a crime scene and a British boy is bleeding out and an immigrant says the British boy is racist the cops will cuff the dying British boy.",
-          "engagement": "23M views",
-          "views": 22996031
+          "engagement": "7.2M views",
+          "views": 7220169
         }
       ]
     },
@@ -284,10 +315,10 @@
         {
           "handle": "joerogan",
           "url": "https://x.com/joerogan/status/2062219321536086348",
-          "headline": "Joe Rogan promotes podcast with Joe Eszterhas",
+          "headline": "Joe Rogan promotes Joe Eszterhas podcast episode",
           "body": "Joe Eszterhas is a Hollywood legend.  In the 1990\u2019s he was the highest paid writer in film, and created all time classics like \u201cBasic Instinct.\u201d\n\nHe lived through an insane coke and booze fueled ride of a life, and came out on the other end with some amazing stories. \nWe talked about his beginnings in journalism, and the time he spent with Hunter S Thompson, Jimi Hendrix, and Martin Luther King Jr. \n\nHe\u2019s a brilliant and captivating guy and I really enjoyed our conversation.  The podcast is available now on @spotify and everywhere else.",
-          "engagement": "180K views",
-          "views": 180526
+          "engagement": "214K views",
+          "views": 213501
         }
       ]
     },
@@ -295,11 +326,27 @@
       "stories": [
         {
           "handle": "21metgala",
+          "url": "https://x.com/21metgala/status/2062219149921730802",
+          "headline": "Kylie Jenner spotted relaxing on beach in Turks and Caicos",
+          "body": "Kylie Jenner was spotted relaxing on the beach in Turks and Caicos.",
+          "engagement": "4M views",
+          "views": 4002823
+        },
+        {
+          "handle": "21metgala",
           "url": "https://x.com/21metgala/status/2062247043792306529",
           "headline": "Kendall Jenner and Jacob Elordi spotted in Tokyo",
           "body": "Kendall Jenner and Jacob Elordi in Tokyo, Japan.",
           "engagement": "641K views",
           "views": 640715
+        },
+        {
+          "handle": "FilmUpdates",
+          "url": "https://x.com/FilmUpdates/status/2062245791066960316",
+          "headline": "Regina Hall on Num\u00e9ro Netherlands cover",
+          "body": "Regina Hall graces the cover of Num\u00e9ro Netherlands",
+          "engagement": "374K views",
+          "views": 373985
         }
       ]
     },
@@ -373,6 +420,14 @@
           "views": 40980
         },
         {
+          "handle": "MentisWave",
+          "url": "https://x.com/MentisWave/status/2062400526474686913",
+          "headline": "Conspiracy theory that Steam is targeted because Proton enables Linux.",
+          "body": "The conspiracy theorist in me suspects the real reason they are going after Steam is because proton makes linux more viable as a desktop OS, which is harder for the state to control.",
+          "engagement": "9K views",
+          "views": 8895
+        },
+        {
           "handle": "nextnews",
           "url": "https://x.com/nextnews/status/2062331427610325442",
           "headline": "UFO bombshell with Air Force files on National Archives servers.",
@@ -401,15 +456,15 @@
           "views": 1443320
         },
         {
-          "handle": "insidefolkative",
-          "url": "https://x.com/insidefolkative/status/2062047758375375319",
-          "headline": "Omara Esteghlal discusses viral song dominating timeline",
-          "body": "Omara Esteghlal buka suara soal satu lagu yang belakangan menguasai timeline, salah satu kalimatnya bilang,\n\n\"'Kok bisa ya perkara lagu haha hihi viral, editan dari komen yang (I thought) awalnya sarkas, menjadi narasi yang mengubah pikiran semua orang.\"",
-          "engagement": "503K views",
-          "views": 502937
+          "handle": "DOGE",
+          "url": "https://x.com/DOGE/status/2062327806336352418",
+          "headline": "DOGE roasts NYC mayor with joke about Mets tickets",
+          "body": "1. Lame joke, Commdani. 2. Stay far away from the Garden for the next few weeks; we\u2019ll buy you all the @Mets tickets your commie heart desires. 3. If you\u2019re looking for some pointers and advice, we\u2019d be happy to compare notes. We\u2019ll even do it for free, unlike NYC bus fares, you fraud.",
+          "engagement": "398K views",
+          "views": 398791
         }
       ]
     }
   },
-  "last_updated": "2026-06-04T04:04:34.027153"
+  "last_updated": "2026-06-04T11:16:03.782717"
 }
