@@ -3,37 +3,6 @@
     "world": {
       "stories": [
         {
-          "headline": "Saudi man shoots UK university lecturer with crossbow causing life-threatening injuries",
-          "url": "https://x.com/visegrad24/status/2062577745356349847",
-          "handle": "visegrad24",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "Inevitablewest",
-              "url": "https://x.com/Inevitablewest/status/2061885448067174571",
-              "body": "\ud83d\udea8BREAKING: Police in Southampton just REFUSED to kneel for Henry Nowak This is an absolute DISGRACE.",
-              "engagement": "1.1M views",
-              "views": 1104453
-            },
-            {
-              "label": "Independent",
-              "handle": "BRICSinfo",
-              "url": "https://x.com/BRICSinfo/status/2062563393253277866",
-              "body": "JUST IN: \ud83c\uddee\ud83c\uddf7 Iranian Foreign Minister Araghchi says he survived strikes that killed former Supreme Leader Ali Khamenei.",
-              "engagement": "160K views",
-              "views": 160180
-            },
-            {
-              "label": "Democrat",
-              "handle": "zhal80",
-              "url": "https://x.com/zhal80/status/2062603613860507667",
-              "body": "8 billion people in the world, yet no one hears their screams. No one even speaks of our genocide in Gaza.",
-              "engagement": "165K views",
-              "views": 165384
-            }
-          ]
-        },
-        {
           "headline": "US House passes War Powers Resolution to end Trump's war in Iran",
           "url": "https://x.com/LisaDNews/status/2062282476601413926",
           "handle": "LisaDNews",
@@ -61,6 +30,37 @@
               "body": "Trump\u2019s illegal war in Iran has descended our world and our global economy into chaos. Yesterday, the House finally met the threshold to pass a War Powers Resolution. The Senate must work quickly to advance this resolution and end this war.",
               "engagement": "12K views",
               "views": 12172
+            }
+          ]
+        },
+        {
+          "headline": "Saudi man shoots UK university lecturer with crossbow causing life-threatening injuries",
+          "url": "https://x.com/visegrad24/status/2062577745356349847",
+          "handle": "visegrad24",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "Inevitablewest",
+              "url": "https://x.com/Inevitablewest/status/2061885448067174571",
+              "body": "\ud83d\udea8BREAKING: Police in Southampton just REFUSED to kneel for Henry Nowak This is an absolute DISGRACE.",
+              "engagement": "1.1M views",
+              "views": 1104453
+            },
+            {
+              "label": "Independent",
+              "handle": "BRICSinfo",
+              "url": "https://x.com/BRICSinfo/status/2062563393253277866",
+              "body": "JUST IN: \ud83c\uddee\ud83c\uddf7 Iranian Foreign Minister Araghchi says he survived strikes that killed former Supreme Leader Ali Khamenei.",
+              "engagement": "160K views",
+              "views": 160180
+            },
+            {
+              "label": "Democrat",
+              "handle": "zhal80",
+              "url": "https://x.com/zhal80/status/2062603613860507667",
+              "body": "8 billion people in the world, yet no one hears their screams. No one even speaks of our genocide in Gaza.",
+              "engagement": "165K views",
+              "views": 165384
             }
           ]
         },
@@ -100,6 +100,68 @@
     "usa": {
       "stories": [
         {
+          "headline": "White House launches DOJ Model Cities Initiative to slash violent crime",
+          "url": "https://x.com/WhiteHouse/status/2062189195041321191",
+          "handle": "WhiteHouse",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "WhiteHouse",
+              "url": "https://x.com/WhiteHouse/status/2062189195041321191",
+              "body": "President Donald J. Trump announces the next step in the administration\u2019s successful war on crime: the Department of Justice\u2019s Model Cities Initiative, designed to slash violent crime and RESTORE LAW AND ORDER in major cities across America. \ud83c\uddfa\ud83c\uddf8",
+              "engagement": "18.3M views",
+              "views": 18255449
+            },
+            {
+              "label": "Independent",
+              "handle": "Megatron_ron",
+              "url": "https://x.com/Megatron_ron/status/2062636905859059840",
+              "body": "JUST IN: \ud83c\uddfa\ud83c\uddf8 Trump is sleeping again",
+              "engagement": "112K views",
+              "views": 111611
+            },
+            {
+              "label": "Democrat",
+              "handle": "CalltoActivism",
+              "url": "https://x.com/CalltoActivism/status/2062621953437925528",
+              "body": "\ud83d\udea8TRUMP CAN\u2019T LIFT HIS ARM? HOLY SHIT: Trump\u2019s voice sounds unusually weak, he appears to be slurring some of his words, and he barely raises his right arm throughout the clip.",
+              "engagement": "733K views",
+              "views": 733250
+            }
+          ]
+        },
+        {
+          "headline": "SAVE America Act fails in Senate after four GOP senators join Democrats",
+          "url": "https://x.com/FoxNews/status/2062682575747809622",
+          "handle": "FoxNews",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "RepClayHiggins",
+              "url": "https://x.com/RepClayHiggins/status/2062696428208542019",
+              "body": "Unbelievable. 19 Republicans just voted with all Democrats to send more money to Ukraine\u2026",
+              "engagement": "134K views",
+              "views": 133801
+            },
+            {
+              "label": "Independent",
+              "handle": "allenanalysis",
+              "url": "https://x.com/allenanalysis/status/2062705953212936527",
+              "body": "\ud83d\udd25\ud83d\udea8 MAJOR JUST IN: The SAVE America Act Just Failed In The Senate. The measure, which would have required voter ID and proof of citizenship nationwide, was rejected 48-50.",
+              "engagement": "201K views",
+              "views": 201148
+            },
+            {
+              "label": "Democrat",
+              "handle": "cnnbrk",
+              "url": "https://x.com/cnnbrk/status/2062693404723515872",
+              "body": "More than a dozen GOP lawmakers defied their own leadership \u2014 and President Donald Trump \u2014 by voting with Democrats to approve a major bill to deliver billions of dollars in aid to Ukraine",
+              "engagement": "84K views",
+              "views": 83564
+            }
+          ]
+        },
+        {
           "headline": "Trump appears to doze off during Oval Office announcement",
           "url": "https://x.com/HQNewsNow/status/2062625810276651207",
           "handle": "HQNewsNow",
@@ -129,73 +191,27 @@
               "views": 49034
             }
           ]
-        },
-        {
-          "headline": "Trump comments on Hunter Biden potentially running for president in 2028",
-          "url": "https://x.com/bennyjohnson/status/2062633337420763172",
-          "handle": "bennyjohnson",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "bennyjohnson",
-              "url": "https://x.com/bennyjohnson/status/2062633337420763172",
-              "body": "\ud83d\udea8President Trump is asked if he thinks Hunter Biden would do well if he ran for President in 2028: \u201cI would say his past is out there\u2026 if the guy from Maine can do well, I guess Hunter can do well too.\u201d",
-              "engagement": "67K views",
-              "views": 67479
-            },
-            {
-              "label": "Independent",
-              "handle": "washingtonpost",
-              "url": "https://x.com/washingtonpost/status/2062618983954554890",
-              "body": "The Kennedy Center ordered employees to remove President Trump\u2019s name from the performing arts venue, strip all references from signs, brochures, the website and other materials \u2014 and to update email signatures and letterhead immediately.",
-              "engagement": "63K views",
-              "views": 63523
-            },
-            {
-              "label": "Democrat",
-              "handle": "atrupar",
-              "url": "https://x.com/atrupar/status/2062624305565872289",
-              "body": "Trump is now sitting back in his chair and dozing off",
-              "engagement": "464K views",
-              "views": 464592
-            }
-          ]
-        },
-        {
-          "headline": "Push for SAVE America Act requiring voter ID in US elections",
-          "url": "https://x.com/RapidResponse47/status/2062618983954554890",
-          "handle": "RapidResponse47",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "DonaldJTrumpJr",
-              "url": "https://x.com/DonaldJTrumpJr/status/2062543040623861883",
-              "body": "\ud83d\udcaf\ud83d\udcaf\ud83d\udcaf",
-              "engagement": "121K views",
-              "views": 121906
-            },
-            {
-              "label": "Independent",
-              "handle": "FoxNews",
-              "url": "https://x.com/FoxNews/status/2062565897454154205",
-              "body": "NEW: Acting Attorney General Todd Blanche reacts to news that President Trump intends to formally nominate him to the job full-time",
-              "engagement": "201K views",
-              "views": 201175
-            },
-            {
-              "label": "Democrat",
-              "handle": "LauraLoomer",
-              "url": "https://x.com/LauraLoomer/status/2062640431532286176",
-              "body": "Looks like the steal is on in California. Without election integrity, we are a third world country.",
-              "engagement": "22K views",
-              "views": 22113
-            }
-          ]
         }
       ]
     },
     "business": {
       "stories": [
+        {
+          "handle": "jpmorgan",
+          "url": "https://x.com/jpmorgan/status/2062665224285470758",
+          "headline": "Jamie Dimon and Elon Musk discuss SpaceX and more.",
+          "body": "Live from our global headquarters: Jamie Dimon and Elon Musk discuss SpaceX and more. https://twitter.com/i/broadcasts/1NGarrMYjBvJj",
+          "engagement": "2.7M views",
+          "views": 2703360
+        },
+        {
+          "handle": "unusual_whales",
+          "url": "https://x.com/unusual_whales/status/2062619647514435687",
+          "headline": "Fidelity lowers minimum for SpaceX IPO access to $2,000.",
+          "body": "Fidelity has lowered the minimum account requirement for access to the SpaceX IPO from as much as $500,000 to just $2,000.",
+          "engagement": "2.7M views",
+          "views": 2689784
+        },
         {
           "handle": "saylor",
           "url": "https://x.com/saylor/status/2062500552705986704",
@@ -203,22 +219,6 @@
           "body": "Capital markets are funding the AI buildout at historic scale: ~$400B over 6 months. Bitcoin ETFs have seen ~$4B of outflows since May 14, pressuring $BTC. This is a capital rotation, not a Bitcoin impairment. Volatility creates opportunity.",
           "engagement": "1.2M views",
           "views": 1218245
-        },
-        {
-          "handle": "business",
-          "url": "https://x.com/business/status/2062567874338726250",
-          "headline": "Glazer family considers selling Manchester United stake.",
-          "body": "Members of the billionaire Glazer family have been debating whether to sell their stake in Manchester United after decades of ownership often blighted by fan protests\n\n@tiwaaadebayo explains https://www.bloomberg.com/news/articles/2026-06-03/glazer-family-members-are-said-to-study-man-united-stake-sale?taid=5893c792-53b9-47b6-b91d-bebe79e94c81&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-          "engagement": "48K views",
-          "views": 48083
-        },
-        {
-          "handle": "@WSJ",
-          "url": "https://x.com/WSJ/status/2062530572635848997",
-          "headline": "Amaryllis Fox Kennedy resigned over lack of oversight of intelligence community\u2019s use of taxpayer funds including gold bullion",
-          "body": "Amaryllis Fox Kennedy, a former senior Trump administration official, said she resigned last month in part because she was increasingly frustrated with the lack of oversight of the intelligence community\u2019s use of taxpayer funds\u2014including gold bullion. \ud83d\udd17 https://www.wsj.com/politics/national-security/the-kennedy-who-says-she-left-the-white-house-over-concerns-about-cia-spending-1d49ffe9?mod=e2tw",
-          "engagement": "45255 views",
-          "views": 45255
         }
       ]
     },
@@ -261,48 +261,48 @@
           "views": 670350
         },
         {
-          "handle": "nytimes",
-          "url": "https://x.com/nytimes/status/2062289181439631435",
-          "headline": "House votes to end war in Iran with bipartisan support against Trump",
-          "body": "Breaking News: The House voted to end the war in Iran, as four Republicans sided with Democrats in a striking rebuke to President Trump.",
-          "engagement": "868K views",
-          "views": 868799
+          "handle": "CNN",
+          "url": "https://x.com/CNN/status/2062701463546089511",
+          "headline": "Scientists warn over White House proposal to control research funding",
+          "body": "Scientists across multiple disciplines are sounding the alarm after the White House proposed taking greater control over how scientific research gets funded and allowing political appointees to decide whether to approve scientific grants. https://www.cnn.com/2026/06/04/climate/trump-omb-funding-rule-climate-science?Date=20260604&Profile=CNN&utm_content=1780599522&utm_medium=social&utm_source=twitter",
+          "engagement": "64K views",
+          "views": 64328
         },
         {
-          "handle": "AP",
-          "url": "https://x.com/AP/status/2062535784083722698",
-          "headline": "Dozens of children separated from parents at border a second time, AP finds.",
-          "body": "Dozens of children torn from their parents at the border have now been separated from their families a second time despite legal protections, an AP investigation finds. https://apnews.com/article/immigration-trump-family-separation-ice-71a610d15af5207a68f989fcafb55039?taid=6a2185c1b189380001a02e1a&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
-          "engagement": "64K views",
-          "views": 63967
+          "handle": "WSJ",
+          "url": "https://x.com/WSJ/status/2062640195640394213",
+          "headline": "Anthropic urges global pause in AI development over self-improvement risks",
+          "body": "Anthropic is calling for top AI labs to weigh slowing the pace of development, suggesting that AI systems are advancing so rapidly that they may soon be able to improve themselves without human intervention in ways that could pose societal risks. https://www.wsj.com/tech/ai/anthropic-urges-global-pause-in-ai-development-flags-self-improvement-risk-99cefb73?mod=e2tw",
+          "engagement": "137K views",
+          "views": 136976
         }
       ]
     },
     "sports": {
       "stories": [
         {
-          "handle": "nyknicks",
-          "url": "https://x.com/nyknicks/status/2062373626255385088",
-          "headline": "Knicks take 1-0 series lead in 2026 NBA Finals",
-          "body": "series 1-0.",
-          "engagement": "1.7M views",
-          "views": 1654252
+          "handle": "MLB",
+          "url": "https://x.com/MLB/status/2062730255228449062",
+          "headline": "MLB post about Wrigley Field walk-off record",
+          "body": "Wrigley Field has seen SEVEN walk-offs this year That\u2019s the most in the majors \ud83d\udc3b",
+          "engagement": "74K views",
+          "views": 74064
         },
         {
-          "handle": "NBA",
-          "url": "https://x.com/NBA/status/2062371548506263803",
-          "headline": "Jalen Brunson scores 30 points in Game 1",
-          "body": "\"JALEN BRUNSON DOES IT AGAIN!\"\n\n13 IN THE 4Q. 30 FOR THE GAME.\n\nKNICKS LEAD BY 6. 37.8 SECONDS TO GO.",
-          "engagement": "1.4M views",
-          "views": 1416797
+          "handle": "UTDTrey",
+          "url": "https://x.com/UTDTrey/status/2062566624293527594",
+          "headline": "Fan post about Zidane's panenka penalty in World Cup Final",
+          "body": "I still can\u2019t believe Zidane pulled off a panenka penalty in a World Cup Final vs Prime Buffon",
+          "engagement": "800K views",
+          "views": 800436
         },
         {
-          "handle": "SportsCenter",
-          "url": "https://x.com/SportsCenter/status/2062385671721877648",
-          "headline": "KAT locked up Wemby in Game 1 of NBA Finals",
-          "body": "KAT locked up Wemby in Game 1 \ud83d\udc40",
-          "engagement": "1.2M views",
-          "views": 1223132
+          "handle": "UTDTrey",
+          "url": "https://x.com/UTDTrey/status/2062661433129652307",
+          "headline": "Fan post about Florentino P\u00e9rez comment on Enzo Fernandez",
+          "body": "Florentino P\u00e9rez: \u201cThe official \u20ac150m bid will NOT be for a Premier League player\u201d Enzo Fernandez:",
+          "engagement": "149K views",
+          "views": 149260
         }
       ]
     },
@@ -310,11 +310,11 @@
       "stories": [
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2062337074368508253",
-          "headline": "Elon shares AI-generated Iliad trailer",
-          "body": "Iliad (Troy) trailer made by Grok Imagine 1.5, which was just released",
-          "engagement": "56.7M views",
-          "views": 56689296
+          "url": "https://x.com/elonmusk/status/2062639458508312887",
+          "headline": "Elon Musk shares a video link.",
+          "body": "https://t.co/ETfLRdGzzJ",
+          "engagement": "10.9M views",
+          "views": 10939876
         },
         {
           "handle": "elonmusk",
@@ -325,17 +325,25 @@
           "views": 11947262
         },
         {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2062368716730564785",
-          "headline": "Elon Musk highlights SpaceX hiring post",
-          "body": "SpaceX",
-          "engagement": "11.0M views",
-          "views": 11035196
+          "handle": "jpmorgan",
+          "url": "https://x.com/jpmorgan/status/2062665224285470758",
+          "headline": "J.P. Morgan announces live discussion with Jamie Dimon and Elon Musk on SpaceX.",
+          "body": "Live from our global headquarters: Jamie Dimon and Elon Musk discuss SpaceX and more. https://twitter.com/i/broadcasts/1NGarrMYjBvJj",
+          "engagement": "2.7M views",
+          "views": 2711972
         }
       ]
     },
     "pods": {
       "stories": [
+        {
+          "handle": "joeroganhq",
+          "url": "https://x.com/joeroganhq/status/2062648085369504220",
+          "headline": "Clip from Joe Rogan podcast with Sean Strickland reacting to a comment.",
+          "body": "Sean you gotta chill man \ud83e\udd23",
+          "engagement": "593K views",
+          "views": 593383
+        },
         {
           "handle": "sircalebhammer",
           "url": "https://x.com/sircalebhammer/status/2062583390843335107",
@@ -351,50 +359,59 @@
           "body": "NEW: Joe Rogan is reportedly being considered as a possible \u201c60 Minutes\u201d replacement for Anderson Cooper.",
           "engagement": "680K views",
           "views": 680353
-        },
-        {
-          "handle": "Coinvo",
-          "url": "https://x.com/Coinvo/status/2062444244418330856",
-          "headline": "Theo Von criticizes Israel as obsessed with control and satanic",
-          "body": "\ud83c\uddee\ud83c\uddf1 THEO VON: \"Israel is obsessed with control so they use American soldiers like war machines to feed their bloodlust.\"\n\n\"They're a satanic regime who just want to cause pain.\"",
-          "engagement": "212K views",
-          "views": 212442
         }
       ]
     },
     "pg6": {
       "stories": [
         {
-          "handle": "enews",
-          "url": "https://x.com/enews/status/2062542665724637578",
-          "headline": "Anna Faris joins ex Chris Pratt's son Jack at Scary Movie 6 premiere",
-          "body": "He's a natural.\ud83e\udd23 Anna Faris was joined by her and ex Chris Pratt\u2019s son Jack, 13, for the premiere of \"Scary Movie 6\" in Los Angeles.",
-          "engagement": "1.1M views",
-          "views": 1146474
-        },
-        {
-          "handle": "AboutMusicYT",
-          "url": "https://x.com/AboutMusicYT/status/2062426698528821389",
-          "headline": "Hooligan by BTS named one of the best songs of 2026 by Consequence.",
-          "body": "Hooligan by BTS was named as of the best songs of 2026 by Consequence.",
-          "engagement": "775K views",
-          "views": 775468
+          "handle": "TMZ",
+          "url": "https://x.com/TMZ/status/2062644428662018057",
+          "headline": "Kylie Jenner two-stepping on vacation",
+          "body": "Kylie getting down with a little two-step during her vacay in Turks \ud83e\udd29\ud83d\udc83",
+          "engagement": "1M views",
+          "views": 1020807
         },
         {
           "handle": "TMZ",
-          "url": "https://x.com/TMZ/status/2062538698130874658",
-          "headline": "Marlon Wayans, Shawn Wayans, Anna Faris and more at Scary Movie world premiere",
-          "body": "\ud83e\udd29 Marlon Wayans, Shawn Wayans, Anna Faris, Carmen Electra, and more attend the world premiere of \"Scary Movie\" in Los Angeles \ud83d\ude31\ud83c\udfac",
-          "engagement": "355K views",
-          "views": 355481
+          "url": "https://x.com/TMZ/status/2062633114539602254",
+          "headline": "Elon Musk's daughter Vivian Wilson storms out of interview",
+          "body": "Elon Musk's daughter Vivian Wilson storms out of interview after being asked a question about him. https://www.tmz.com/2026/06/04/elon-musk-daughter-storms-off-during-interview/",
+          "engagement": "1.1M views",
+          "views": 1122205
+        },
+        {
+          "handle": "PopBase",
+          "url": "https://x.com/PopBase/status/2062597374241816994",
+          "headline": "Taylor Swift net worth exceeds $2 billion",
+          "body": "Taylor Swift\u2019s net worth now exceeds $2 BILLION, according to Forbes.",
+          "engagement": "1.1M views",
+          "views": 1089827
         }
       ]
     },
     "recipe": {
-      "stories": []
+      "stories": [
+        {
+          "handle": "Soulfoodiiee",
+          "url": "https://x.com/Soulfoodiiee/status/2062505425912934874",
+          "headline": "Honey Cajun Blackened Salmon recipe with video",
+          "body": "\ud83c\udf7d Honey Cajun Blackened Salmon \n\ud83d\udc69\ud83c\udffb\u200d\ud83c\udf73 Anastasia D'Amario | Fit Foodie Stasia\n\n\ud83d\udcdd Recipe Link In The Comments",
+          "engagement": "47K views",
+          "views": 47207
+        }
+      ]
     },
     "science": {
       "stories": [
+        {
+          "handle": "jpmorgan",
+          "url": "https://x.com/jpmorgan/status/2062665224285470758",
+          "headline": "Elon Musk discusses SpaceX Starship reusability and orbital infrastructure breakthroughs",
+          "body": "Live from our global headquarters: Jamie Dimon and Elon Musk discuss SpaceX and more. https://twitter.com/i/broadcasts/1NGarrMYjBvJj",
+          "engagement": "2.7M views",
+          "views": 2708675
+        },
         {
           "handle": "SpaceX",
           "url": "https://x.com/SpaceX/status/2062489901007057075",
@@ -410,19 +427,27 @@
           "body": "Today we're shipping Nemotron 3 Ultra.\n\nA 550B MoE frontier-intelligence open model built for long-running agents.\n\nIt delivers 5x faster inference and lowers the cost of complex agentic tasks by up to 30% versus other open frontier models.",
           "engagement": "287K views",
           "views": 286595
-        },
-        {
-          "handle": "Cointelegraph",
-          "url": "https://x.com/Cointelegraph/status/2062358707824984175",
-          "headline": "OpenAI releases GPT-Rosalind update with GPT-5.5 agentic features for drug discovery and genomics",
-          "body": "\u26a1\ufe0f NOW: OpenAI introduces a new update to GPT-Rosalind, its life sciences model, bringing GPT-5.5 agentic capabilities for drug discovery and genomics research.",
-          "engagement": "14.4K views",
-          "views": 14423
         }
       ]
     },
     "local": {
       "stories": [
+        {
+          "handle": "OC_Scanner",
+          "url": "https://x.com/OC_Scanner/status/2062714792784326686",
+          "headline": "Military Special Ops training continues in East Long Beach",
+          "body": "BREAKING \ud83d\udea8\ud83d\udea8\n\n#LongBeach / #California \n\nMilitary Special Ops training will continue tonight somewhere in East Long Beach, further locations details are not known at this time.",
+          "engagement": "13K views",
+          "views": 13607
+        },
+        {
+          "handle": "OC_Scanner",
+          "url": "https://x.com/OC_Scanner/status/2062409384953827745",
+          "headline": "Video of intense scene in Los Angeles area",
+          "body": "Battle: Los Angeles 2026",
+          "engagement": "47K views",
+          "views": 47136
+        },
         {
           "handle": "GuntherEagleman",
           "url": "https://x.com/GuntherEagleman/status/2062479769313108150",
@@ -430,42 +455,18 @@
           "body": "THE ENEMY IS HERE: California tech executive and dual U.S.-Iranian citizen arrested for allegedly running a decades-long scheme to illegally sell critical U.S. computer equipment to Iran\u2019s military and nuclear programs.\n\nThe wealthy Orange County businessman, who lived in a $35 million mansion in Newport Beach, is accused of selling components directly to Iran\u2019s Atomic Energy Organization between 2017 and 2023, in violation of U.S. sanctions.\n\nU.S. Attorney: \u201cAiding our declared enemy\u2026 We will hold him accountable by seeking an appropriate prison sentence and seizing his assets, including the $35 million mansion.\u201d\n\nAuthorities say this highlights the need for stronger vetting and enforcement of sanctions against those helping adversarial regimes. LOCK HIM UP AND TOSS THE KEYS.",
           "engagement": "34.9K views",
           "views": 34917
-        },
-        {
-          "handle": "SteveHiltonx",
-          "url": "https://x.com/SteveHiltonx/status/2062537524954992796",
-          "headline": "Steve Hilton leads in California primary, wins Orange County and other key areas",
-          "body": "\"Steve Hilton won counties that have not voted for a Republican winner in many elections, including Napa County and Sacramento County. Hilton has also carried the populated areas of San Diego County, Fresno County and Orange County.\"",
-          "engagement": "21.1K views",
-          "views": 21139
-        },
-        {
-          "handle": "Breaking911",
-          "url": "https://x.com/Breaking911/status/2062525006618271779",
-          "headline": "Tech executive in $35M Orange County mansion charged with illegal scheme supplying Iran military",
-          "body": "A California tech executive living in a $35 million Orange County mansion has been charged with running a decades-long scheme to illegally supply U.S. computer equipment to Iran\u2019s military and nuclear programs, according to federal prosecutors.",
-          "engagement": "19.6K views",
-          "views": 19579
         }
       ]
     },
     "conspiracy": {
       "stories": [
         {
-          "handle": "TrumpDailyPosts",
-          "url": "https://x.com/TrumpDailyPosts/status/2062355624466555184",
-          "headline": "Major UFO files surfacing on National Archives servers amid official concerns.",
-          "body": "\ud83d\udea8WATCH: A major UFO bombshell is exploding right now.  \n\nReported Air Force files are appearing on National Archives servers.  \n\nWashington is visibly rattled as more whistleblowers and lawmakers get involved.  \n\nIntelligence whispers suggest this is getting impossible to hide. \n\nSomething very big is unfolding. \n\nOur Chief White House Correspondent Gary Franchi Reports @nextnews @TrumpDailyPosts",
-          "engagement": "40.9K views",
-          "views": 40980
-        },
-        {
-          "handle": "RedactedNews",
-          "url": "https://x.com/RedactedNews/status/2062367845883810270",
-          "headline": "New expos\u00e9 claims COVID shots turned body into something disturbing with Havana Syndrome symptoms",
-          "body": "A new expos\u00e9 shows that COVID shots may have turned the body into something far more DISTURBING than anyone imagined. Havana Syndrome symptoms, strange signals, whistleblower testimony, and questions they never wanted asked.",
-          "engagement": "12K views",
-          "views": 11927
+          "handle": "redpillb0t",
+          "url": "https://x.com/redpillb0t/status/2062577464145027408",
+          "headline": "Reminder about Hillary Clinton and PizzaGate as conspiracy theory.",
+          "body": "Remember: Hillary Clinton wanted us to think that PizzaGate and the Weiner laptop was just some wild conspiracy theory",
+          "engagement": "4865 views",
+          "views": 4865
         }
       ]
     },
@@ -480,14 +481,6 @@
           "views": 152546
         },
         {
-          "handle": "DOGE",
-          "url": "https://x.com/DOGE/status/2062327806336352418",
-          "headline": "DOGE roasts NYC mayor with joke about Mets tickets",
-          "body": "1. Lame joke, Commdani. 2. Stay far away from the Garden for the next few weeks; we\u2019ll buy you all the @Mets tickets your commie heart desires. 3. If you\u2019re looking for some pointers and advice, we\u2019d be happy to compare notes. We\u2019ll even do it for free, unlike NYC bus fares, you fraud.",
-          "engagement": "398K views",
-          "views": 398791
-        },
-        {
           "handle": "boysbelnboys",
           "url": "https://x.com/boysbelnboys/status/2062580141126201672",
           "headline": "Gramps funny video clip",
@@ -498,5 +491,5 @@
       ]
     }
   },
-  "last_updated": "2026-06-04T21:42:01.172163"
+  "last_updated": "2026-06-05T03:50:48.337074"
 }
