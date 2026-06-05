@@ -3,64 +3,56 @@
     "world": {
       "stories": [
         {
-          "headline": "Saudi man shoots UK university lecturer with crossbow causing life-threatening injuries",
-          "url": "https://x.com/visegrad24/status/2062577745356349847",
-          "handle": "visegrad24",
+          "headline": "Ireland issues travel bans for two Israeli ministers Itamar Ben-Gvir and Bezalel Smotrich",
+          "url": "https://x.com/BBCWorld/status/2062894474187923799",
+          "handle": "BBCWorld",
           "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "Inevitablewest",
-              "url": "https://x.com/Inevitablewest/status/2061885448067174571",
-              "body": "\ud83d\udea8BREAKING: Police in Southampton just REFUSED to kneel for Henry Nowak This is an absolute DISGRACE.",
-              "engagement": "1.1M views",
-              "views": 1104453
-            },
             {
               "label": "Independent",
               "handle": "BRICSinfo",
-              "url": "https://x.com/BRICSinfo/status/2062563393253277866",
-              "body": "JUST IN: \ud83c\uddee\ud83c\uddf7 Iranian Foreign Minister Araghchi says he survived strikes that killed former Supreme Leader Ali Khamenei.",
-              "engagement": "160K views",
-              "views": 160180
+              "url": "https://x.com/BRICSinfo/status/2062904980118348036",
+              "body": "JUST IN: \ud83c\uddee\ud83c\uddea\ud83c\uddee\ud83c\uddf1 Ireland bans Israeli ministers Itamar Ben-Gvir and Bezalel Smotrich from entering the country.",
+              "engagement": "165K views",
+              "views": 165625
             },
             {
               "label": "Democrat",
-              "handle": "zhal80",
-              "url": "https://x.com/zhal80/status/2062603613860507667",
-              "body": "8 billion people in the world, yet no one hears their screams. No one even speaks of our genocide in Gaza.",
-              "engagement": "165K views",
-              "views": 165384
+              "handle": "BBCWorld",
+              "url": "https://x.com/BBCWorld/status/2062894474187923799",
+              "body": "Ireland issues travel bans for two Israeli ministers",
+              "engagement": "150K views",
+              "views": 150514
             }
           ]
         },
         {
-          "headline": "Celebrity Border Collie with 1.5M followers stolen in China and eaten at restaurant",
-          "url": "https://x.com/Polymarket/status/2062603613860507667",
-          "handle": "Polymarket",
+          "headline": "Ukrainian drones strike St Petersburg oil terminal and Kronstadt naval base ahead of economic forum",
+          "url": "https://x.com/MarioNawfal/status/2062588985936097680",
+          "handle": "MarioNawfal",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "Inevitablewest",
-              "url": "https://x.com/Inevitablewest/status/2061929298634649791",
-              "body": "\ud83d\udea8BREAKING: Police were caught tonight kneeing a protester in the head This fucking OUTRAGEOUS.",
-              "engagement": "201K views",
-              "views": 201231
+              "handle": "clashreport",
+              "url": "https://x.com/clashreport/status/2062533053897916833",
+              "body": "Candace Owens on Ukraine funding by the U.S: Americans are really getting tired of funding \u2014 not knowing where money is going, learning that oligarchs are buying yachts.",
+              "engagement": "359K views",
+              "views": 359102
             },
             {
               "label": "Independent",
-              "handle": "AfricaFactsZone",
-              "url": "https://x.com/AfricaFactsZone/status/2061785065827229771",
-              "body": "Ghana is set to start processing its own crude oil at the Tema Oil Refinery.",
-              "engagement": "96K views",
-              "views": 96095
+              "handle": "MarioNawfal",
+              "url": "https://x.com/MarioNawfal/status/2062588985936097680",
+              "body": "\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Ukraine just droned a Russian warship inside a dry dock in Kronstadt. Kronstadt. As in 30km from Saint Petersburg. As in deep inside Russia. The radar collapsed onto the superstructure. The mast fell over. The ship is cooked.",
+              "engagement": "537K views",
+              "views": 537467
             },
             {
               "label": "Democrat",
-              "handle": "narendramodi",
-              "url": "https://x.com/narendramodi/status/2062544875275661682",
-              "body": "Pleased to meet UK Foreign Secretary Yvette Cooper. Appreciated the deepening of the India-UK partnership in recent times that has unlocked unprecedented growth opportunities for both our countries.",
-              "engagement": "459K views",
-              "views": 459247
+              "handle": "AnnaFromUA_YT",
+              "url": "https://x.com/AnnaFromUA_YT/status/2062614842633007370",
+              "body": "Gasoline crisis in 20 Russian regions, including Moscow & St. Petersburg\u2014no fuel! \ud83d\udeab\u26fd Russians might need horses and donkeys soon \ud83d\udc34 Ukrainian drones hit refineries. Millions are now against the war. Putin hides\u2014his collapse is coming.",
+              "engagement": "8K views",
+              "views": 8620
             }
           ]
         }
@@ -68,6 +60,29 @@
     },
     "usa": {
       "stories": [
+        {
+          "headline": "Senate Republicans greenlight dropping IRS investigations into Trump",
+          "url": "https://x.com/SenWarren/status/2062903951352119409",
+          "handle": "SenWarren",
+          "perspectives": [
+            {
+              "label": "Democrat",
+              "handle": "SenWarren",
+              "url": "https://x.com/SenWarren/status/2062903951352119409",
+              "body": "At 4am, Senate Republicans gave the greenlight for the IRS to drop ALL investigations into Trump and his family. That means if Trump is evading taxes, we\u2019ll never know. I have a bill to make this illegal. And I won\u2019t stop fighting to get it done.",
+              "engagement": "118K views",
+              "views": 118449
+            },
+            {
+              "label": "Independent",
+              "handle": "WhiteHouse",
+              "url": "https://x.com/WhiteHouse/status/2062318641542988097",
+              "body": "Mogged.",
+              "engagement": "4.8M views",
+              "views": 4813500
+            }
+          ]
+        },
         {
           "headline": "White House launches DOJ Model Cities Initiative to slash violent crime",
           "url": "https://x.com/WhiteHouse/status/2062189195041321191",
@@ -100,56 +115,33 @@
           ]
         },
         {
-          "headline": "May jobs report crushes expectations with 172K added under Trump economy",
-          "url": "https://x.com/KobeissiLetter/status/2062875498741387522",
-          "handle": "KobeissiLetter",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "USDOL",
-              "url": "https://x.com/USDOL/status/2062885369155064105",
-              "body": "\ud83d\udea8 BREAKING: The May Jobs Report DEMOLISHED all expectations \ud83d\udea8 \ud83d\udcc8 172,000 jobs added. The Trump economy is strong!",
-              "engagement": "36K views",
-              "views": 35762
-            },
-            {
-              "label": "Independent",
-              "handle": "KobeissiLetter",
-              "url": "https://x.com/KobeissiLetter/status/2062875498741387522",
-              "body": "BREAKING: The US economy adds 172,000 jobs in May, crushing expectations of 85,000. The unemployment rate was 4.3%, in-line with expectations of 4.3%. April's jobs number was also revised UP by +64,000 jobs. This marks the second strongest US jobs report in 13 months.",
-              "engagement": "356K views",
-              "views": 355559
-            }
-          ]
-        },
-        {
-          "headline": "Trump appears to doze off during Oval Office announcement",
+          "headline": "Trump falls asleep during Oval Office announcement",
           "url": "https://x.com/HQNewsNow/status/2062625810276651207",
           "handle": "HQNewsNow",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "MassieforKY",
-              "url": "https://x.com/MassieforKY/status/2062572591022285087",
-              "body": "Sir, we have Trump disappointment syndrome. When you said no new wars, we took it to heart, and a few of us meant it.",
-              "engagement": "576K views",
-              "views": 576632
+              "handle": "JayTC53",
+              "url": "https://x.com/JayTC53/status/2062276268976935278",
+              "body": "OMG \ud83d\udea8 KAITLIN COLLINS FALLS ASLEEP IN OVAL OFFICE DURING PRESIDENT TRUMP PRESS CONFERENCE. SHE IS NOT WELL. WHAT IS GOING ON?",
+              "engagement": "706K views",
+              "views": 706033
             },
             {
               "label": "Independent",
-              "handle": "atrupar",
-              "url": "https://x.com/atrupar/status/2062624305565872289",
-              "body": "Trump is now sitting back in his chair and dozing off",
-              "engagement": "2.1M views",
-              "views": 2089206
+              "handle": "HQNewsNow",
+              "url": "https://x.com/HQNewsNow/status/2062625810276651207",
+              "body": "Trump appears to be completely passed out asleep during his 3pm Oval Office announcement",
+              "engagement": "9.6M views",
+              "views": 9681838
             },
             {
               "label": "Democrat",
-              "handle": "CalltoActivism",
-              "url": "https://x.com/CalltoActivism/status/2062645068696047859",
-              "body": "\ud83d\udea8DONALD TRUMP HAS LOST CONSCIOUSNESS ON LIVE TV. He\u2019s about to fall out of the chair. This is ridiculous.",
-              "engagement": "203K views",
-              "views": 203671
+              "handle": "RepYassAnsari",
+              "url": "https://x.com/RepYassAnsari/status/2062644611735052552",
+              "body": "Donald Trump fell asleep multiple times in the Oval Office today. AGAIN. That\u2019s why I\u2019ve called for the 25th Amendment, and dozens of my colleagues have done the same. Donald Trump is unwell and must be removed from office. It\u2019s a national security crisis.",
+              "engagement": "343K views",
+              "views": 343053
             }
           ]
         }
@@ -157,6 +149,14 @@
     },
     "business": {
       "stories": [
+        {
+          "handle": "unusual_whales",
+          "url": "https://x.com/unusual_whales/status/2062619647514435687",
+          "headline": "Fidelity lowers minimum for SpaceX IPO access to $2,000",
+          "body": "Fidelity has lowered the minimum account requirement for access to the SpaceX IPO from as much as $500,000 to just $2,000.",
+          "engagement": "3.3M views",
+          "views": 3275206
+        },
         {
           "handle": "jpmorgan",
           "url": "https://x.com/jpmorgan/status/2062665224285470758",
@@ -166,20 +166,12 @@
           "views": 2703360
         },
         {
-          "handle": "WatcherGuru",
-          "url": "https://x.com/WatcherGuru/status/2062908184818561436",
-          "headline": "Trump comments on strong jobs report saying stocks should go up not down.",
-          "body": "JUST IN: \ud83c\uddfa\ud83c\uddf8 President Trump says \"with a great Jobs Report...stocks should go up, not down.\"",
-          "engagement": "21.7K views",
-          "views": 21714
-        },
-        {
-          "handle": "unusual_whales",
-          "url": "https://x.com/unusual_whales/status/2062619647514435687",
-          "headline": "Fidelity lowers minimum for SpaceX IPO access to $2,000.",
-          "body": "Fidelity has lowered the minimum account requirement for access to the SpaceX IPO from as much as $500,000 to just $2,000.",
-          "engagement": "2.7M views",
-          "views": 2689784
+          "handle": "business",
+          "url": "https://x.com/business/status/2062912061470851192",
+          "headline": "SpaceX IPO sees orders exceed available shares",
+          "body": "SpaceX has already received orders for more than the shares available in its record-setting $75 billion initial public offering, according to people familiar with the matter, shortly after starting to formally market the deal. https://www.bloomberg.com/news/articles/2026-06-05/spacex-s-75-billion-ipo-draws-more-orders-than-shares-available?taid=6a22e431eb9d5100012d92a0&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+          "engagement": "230K views",
+          "views": 229756
         }
       ]
     },
@@ -214,28 +206,28 @@
     "msm": {
       "stories": [
         {
+          "handle": "nytimes",
+          "url": "https://x.com/nytimes/status/2062876029878734881",
+          "headline": "NYT breaking: US added 172,000 jobs in May, unemployment at 4.3%",
+          "body": "Breaking News: The U.S. added 172,000 jobs in May and the unemployment rate stayed at 4.3%, a strong showing for the labor market. https://www.nytimes.com/live/2026/business/jobs-report-economy?smid=tw-nytimes&smtyp=cur",
+          "engagement": "80K views",
+          "views": 80188
+        },
+        {
+          "handle": "Reuters",
+          "url": "https://x.com/Reuters/status/2062933747700285712",
+          "headline": "Reuters: Iran says it fired warning missiles and drones at US warships in Gulf of Oman",
+          "body": "Iran says it fired warning missiles and drones at US warships in Gulf of Oman https://www.reuters.com/world/middle-east/iran-says-it-fired-warning-missiles-drones-us-warships-gulf-oman-2026-06-05/?taid=6a22f863a7e6970001d497d5&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter https://www.reuters.com/world/middle-east/iran-says-it-fired-warning-missiles-drones-us-warships-gulf-oman-2026-06-05/?taid=6a22f863a7e6970001d497d5&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
+          "engagement": "22K views",
+          "views": 22261
+        },
+        {
           "handle": "WSJ",
           "url": "https://x.com/WSJ/status/2062640195640394213",
           "headline": "Anthropic urges global pause in AI development over self-improvement risks",
           "body": "Anthropic is calling for top AI labs to weigh slowing the pace of development, suggesting that AI systems are advancing so rapidly that they may soon be able to improve themselves without human intervention in ways that could pose societal risks. https://www.wsj.com/tech/ai/anthropic-urges-global-pause-in-ai-development-flags-self-improvement-risk-99cefb73?mod=e2tw",
           "engagement": "137K views",
           "views": 136976
-        },
-        {
-          "handle": "ABC",
-          "url": "https://x.com/ABC/status/2062695612017942803",
-          "headline": "House passes $2B Ukraine aid and Russia sanctions despite GOP opposition.",
-          "body": "BREAKING: The House passed a measure to provide almost $2 billion in aid to Ukraine and impose new sanctions against Russia on Thursday, sending the measure to the Senate behind a 226-to-195 tally \u2014 despite GOP leadership in full opposition to the measure.",
-          "engagement": "88K views",
-          "views": 88098
-        },
-        {
-          "handle": "ABC",
-          "url": "https://x.com/ABC/status/2062695466454692323",
-          "headline": "House passes $2B Ukraine aid and Russia sanctions despite GOP opposition.",
-          "body": "BREAKING: The House passed a measure to provide almost $2 billion in aid to Ukraine and impose new sanctions against Russia on Thursday, sending the measure to the Senate behind a 226-to-195 tally \u2014 despite GOP leadership in full opposition to the measure.",
-          "engagement": "72K views",
-          "views": 72565
         }
       ]
     },
@@ -250,12 +242,12 @@
           "views": 664283
         },
         {
-          "handle": "UTDTrey",
-          "url": "https://x.com/UTDTrey/status/2062566624293527594",
-          "headline": "Fan post about Zidane's panenka penalty in World Cup Final",
-          "body": "I still can\u2019t believe Zidane pulled off a panenka penalty in a World Cup Final vs Prime Buffon",
-          "engagement": "800K views",
-          "views": 800436
+          "handle": "NBA",
+          "url": "https://x.com/NBA/status/2062867029648879695",
+          "headline": "NBA previews 2026 NBA Finals Game 2 between Knicks and Spurs.",
+          "body": "KNICKS. SPURS. GAME 2 \ud83c\udf7f\n\nJalen Brunson's late-game heroics (30p, 13 in 4Q) powered New York to a thrilling Game 1 road victory and a historic 12th straight postseason win.\n\nWill Wemby and the Spurs even the series 1-1, or will the Knicks go up 2-0?\n\nThe NBA Finals continue tonight at 8:30pm/et on ABC \ud83c\udfc6",
+          "engagement": "190K views",
+          "views": 190473
         },
         {
           "handle": "ESPNUK",
@@ -272,10 +264,18 @@
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2062639458508312887",
-          "headline": "Elon Musk posts a video link.",
+          "headline": "Elon Musk shares video post",
           "body": "https://t.co/ETfLRdGzzJ",
-          "engagement": "21.1M views",
-          "views": 21080488
+          "engagement": "22.2M views",
+          "views": 22200821
+        },
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2062638415644865024",
+          "headline": "Elon Musk comments on SpaceX IPO info",
+          "body": "SpaceX IPO info",
+          "engagement": "8.9M views",
+          "views": 8928339
         },
         {
           "handle": "elonmusk",
@@ -284,26 +284,18 @@
           "body": "This provides some sense of scale",
           "engagement": "8.8M views",
           "views": 8755987
-        },
-        {
-          "handle": "jpmorgan",
-          "url": "https://x.com/jpmorgan/status/2062665224285470758",
-          "headline": "J.P. Morgan announces live discussion with Jamie Dimon and Elon Musk on SpaceX.",
-          "body": "Live from our global headquarters: Jamie Dimon and Elon Musk discuss SpaceX and more. https://twitter.com/i/broadcasts/1NGarrMYjBvJj",
-          "engagement": "2.7M views",
-          "views": 2711972
         }
       ]
     },
     "pods": {
       "stories": [
         {
-          "handle": "sircalebhammer",
-          "url": "https://x.com/sircalebhammer/status/2062583390843335107",
-          "headline": "Caleb Hammer announces a new Rogan episode is live.",
-          "body": "Rogan episode is live, check it out!",
-          "engagement": "859K views",
-          "views": 859167
+          "handle": "joerogan",
+          "url": "https://x.com/joerogan/status/2062930931522912589",
+          "headline": "Joe Rogan promotes new episode with Caleb Hammer on Spotify.",
+          "body": "Episode #2509 @sircalebhammer \nhttps://open.spotify.com/episode/4Zuskpj6tHUtxUjtE7wV25?si=f5z8CqUbQ8WJsruIVpToNw\n \nCaleb is a very smart and  entertaining guy giving legit financial advice to a generation who desperately needs it. \nEpisode is out now on @spotify and everywhere else",
+          "engagement": "109K views",
+          "views": 109570
         },
         {
           "handle": "joeroganhq",
@@ -318,12 +310,12 @@
     "pg6": {
       "stories": [
         {
-          "handle": "FilmUpdates",
-          "url": "https://x.com/FilmUpdates/status/2062903474128322883",
-          "headline": "Marlon Wayans comments on potential Scary Movie 6 cameo with Melissa Barrera",
-          "body": "Marlon Wayans says \"I wish I\u2019d heard\" that Melissa Barrera wanted to be in \u2018SCARY MOVIE 6\u2019: \"That would have been a lot of fun. I definitely would\u2019ve tried to make that work. That would\u2019ve been a masterful cameo. Maybe for part 7!\"",
-          "engagement": "46K views",
-          "views": 46047
+          "handle": "thetopshelfmen",
+          "url": "https://x.com/thetopshelfmen/status/2062640336120234400",
+          "headline": "Poll asks which actor users would spend the night with.",
+          "body": "which actor would you spend the night with?",
+          "engagement": "1.5M views",
+          "views": 1515537
         },
         {
           "handle": "PopBase",
@@ -334,17 +326,25 @@
           "views": 189762
         },
         {
-          "handle": "thetopshelfmen",
-          "url": "https://x.com/thetopshelfmen/status/2062640336120234400",
-          "headline": "Poll asks which actor users would spend the night with.",
-          "body": "which actor would you spend the night with?",
-          "engagement": "1.5M views",
-          "views": 1515537
+          "handle": "FilmUpdates",
+          "url": "https://x.com/FilmUpdates/status/2062903474128322883",
+          "headline": "Marlon Wayans comments on potential Scary Movie 6 cameo with Melissa Barrera",
+          "body": "Marlon Wayans says \"I wish I\u2019d heard\" that Melissa Barrera wanted to be in \u2018SCARY MOVIE 6\u2019: \"That would have been a lot of fun. I definitely would\u2019ve tried to make that work. That would\u2019ve been a masterful cameo. Maybe for part 7!\"",
+          "engagement": "46K views",
+          "views": 46047
         }
       ]
     },
     "recipe": {
       "stories": [
+        {
+          "handle": "Soulfoodiiee",
+          "url": "https://x.com/Soulfoodiiee/status/2062615558462607433",
+          "headline": "Cooking video features black pepper beef chow mein recipe.",
+          "body": "\ud83c\udf7d Black Pepper Beef Chow Mein\n\ud83d\udc68\ud83c\udffb\u200d\ud83c\udf73 Genio Ng | Genius Eats | Cooking With Genius \n\n\ud83d\udcdd Recipe In The Comments",
+          "engagement": "47K views",
+          "views": 47803
+        },
         {
           "handle": "Alice_Nanase_",
           "url": "https://x.com/Alice_Nanase_/status/2062788726833758436",
@@ -380,14 +380,6 @@
           "body": "Live from our global headquarters: Jamie Dimon and Elon Musk discuss SpaceX and more. https://twitter.com/i/broadcasts/1NGarrMYjBvJj",
           "engagement": "2.7M views",
           "views": 2708675
-        },
-        {
-          "handle": "opencode",
-          "url": "https://x.com/opencode/status/2062570516586573998",
-          "headline": "NVIDIA Nemotron 3 Ultra open source model released",
-          "body": "Nemotron 3 Ultra is now free on OpenCode text \u00b7 1M context \u00b7 fully open source NVIDIA's latest open source model",
-          "engagement": "190K views",
-          "views": 190771
         }
       ]
     },
@@ -422,12 +414,12 @@
     "conspiracy": {
       "stories": [
         {
-          "handle": "redpillb0t",
-          "url": "https://x.com/redpillb0t/status/2062577464145027408",
-          "headline": "Reminder about Hillary Clinton and PizzaGate as conspiracy theory.",
-          "body": "Remember: Hillary Clinton wanted us to think that PizzaGate and the Weiner laptop was just some wild conspiracy theory",
-          "engagement": "4865 views",
-          "views": 4865
+          "handle": "emilykschrader",
+          "url": "https://x.com/emilykschrader/status/2062805693736833482",
+          "headline": "Iran pushes conspiracy theory that Israel is merging with US military",
+          "body": "\u201cIsrael is merging with the U.S. military\u201d That\u2019s what the Islamic republic is pushing into the U.S. media narrative. \n\nThe myth was invented by the Quincy Institute, founded by Trita Parsi \u2014 who himself has long been accused of working with the Islamic regime. \n\nThe goal of the smear campaign isn\u2019t to inform. It\u2019s to manufacture paranoia and convince Americans that Israel secretly controls their government. The conspiracy theory is the point, and it\u2019s straight from the playbook of the regime. \n\n@JNS_org",
+          "engagement": "40K views",
+          "views": 39977
         }
       ]
     },
@@ -440,25 +432,9 @@
           "body": "Funny movie made me laugh.",
           "engagement": "152K views",
           "views": 152546
-        },
-        {
-          "handle": "rareblurs",
-          "url": "https://x.com/rareblurs/status/2062556747701600517",
-          "headline": "Self-told joke meme",
-          "body": "me laughing at a joke i told myself in my head",
-          "engagement": "77K views",
-          "views": 77581
-        },
-        {
-          "handle": "boysbelnboys",
-          "url": "https://x.com/boysbelnboys/status/2062580141126201672",
-          "headline": "Gramps funny video clip",
-          "body": "gramps is too funny",
-          "engagement": "44K views",
-          "views": 44352
         }
       ]
     }
   },
-  "last_updated": "2026-06-05T14:52:42.401039"
+  "last_updated": "2026-06-05T17:56:09.744035"
 }
