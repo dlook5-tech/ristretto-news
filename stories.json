@@ -3,37 +3,6 @@
     "world": {
       "stories": [
         {
-          "headline": "US House passes War Powers Resolution to end Trump's war in Iran",
-          "url": "https://x.com/LisaDNews/status/2062282476601413926",
-          "handle": "LisaDNews",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "RepThomasMassie",
-              "url": "https://x.com/RepThomasMassie/status/2062286355497914659",
-              "body": "The Iran War Powers Resolution that I cosponsored (opposing the war) just passed the House of Representatives. The People\u2019s House is sending a message: end this war.",
-              "engagement": "933K views",
-              "views": 933685
-            },
-            {
-              "label": "Independent",
-              "handle": "LisaDNews",
-              "url": "https://x.com/LisaDNews/status/2062282476601413926",
-              "body": "BREAKING: House votes 215-208 to end President Trump's war in Iran.",
-              "engagement": "2M views",
-              "views": 2026884
-            },
-            {
-              "label": "Democrat",
-              "handle": "RepAOC",
-              "url": "https://x.com/RepAOC/status/2062562182743626158",
-              "body": "Trump\u2019s illegal war in Iran has descended our world and our global economy into chaos. Yesterday, the House finally met the threshold to pass a War Powers Resolution. The Senate must work quickly to advance this resolution and end this war.",
-              "engagement": "12K views",
-              "views": 12172
-            }
-          ]
-        },
-        {
           "headline": "Saudi man shoots UK university lecturer with crossbow causing life-threatening injuries",
           "url": "https://x.com/visegrad24/status/2062577745356349847",
           "handle": "visegrad24",
@@ -131,6 +100,29 @@
           ]
         },
         {
+          "headline": "May jobs report crushes expectations with 172K added under Trump economy",
+          "url": "https://x.com/KobeissiLetter/status/2062875498741387522",
+          "handle": "KobeissiLetter",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "USDOL",
+              "url": "https://x.com/USDOL/status/2062885369155064105",
+              "body": "\ud83d\udea8 BREAKING: The May Jobs Report DEMOLISHED all expectations \ud83d\udea8 \ud83d\udcc8 172,000 jobs added. The Trump economy is strong!",
+              "engagement": "36K views",
+              "views": 35762
+            },
+            {
+              "label": "Independent",
+              "handle": "KobeissiLetter",
+              "url": "https://x.com/KobeissiLetter/status/2062875498741387522",
+              "body": "BREAKING: The US economy adds 172,000 jobs in May, crushing expectations of 85,000. The unemployment rate was 4.3%, in-line with expectations of 4.3%. April's jobs number was also revised UP by +64,000 jobs. This marks the second strongest US jobs report in 13 months.",
+              "engagement": "356K views",
+              "views": 355559
+            }
+          ]
+        },
+        {
           "headline": "Trump appears to doze off during Oval Office announcement",
           "url": "https://x.com/HQNewsNow/status/2062625810276651207",
           "handle": "HQNewsNow",
@@ -160,37 +152,6 @@
               "views": 203671
             }
           ]
-        },
-        {
-          "headline": "Senate rejects SAVE America Act requiring voter ID and proof of citizenship",
-          "url": "https://x.com/FoxNews/status/2062682575747809622",
-          "handle": "FoxNews",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "BuzzPatterson",
-              "url": "https://x.com/BuzzPatterson/status/2062690966059000233",
-              "body": "The Senate just killed the SAVE Act 48-50! Voter ID + proof of U.S. citizenship to register and vote, backed by 80%+ of Americans (including most Democrats), blocked again!",
-              "engagement": "18K views",
-              "views": 18396
-            },
-            {
-              "label": "Independent",
-              "handle": "allenanalysis",
-              "url": "https://x.com/allenanalysis/status/2062705953212936527",
-              "body": "\ud83d\udd25\ud83d\udea8 MAJOR JUST IN: The SAVE America Act Just Failed In The Senate. The measure, which would have required voter ID and proof of citizenship nationwide, was rejected 48-50.",
-              "engagement": "344K views",
-              "views": 343914
-            },
-            {
-              "label": "Democrat",
-              "handle": "hakeemjeffries",
-              "url": "https://x.com/hakeemjeffries/status/2062658171492094318",
-              "body": "We are going to win back the House in November. Then forcefully stop Donald Trump and far-right extremists on the Supreme Court from rigging future elections.",
-              "engagement": "20K views",
-              "views": 19644
-            }
-          ]
         }
       ]
     },
@@ -205,20 +166,20 @@
           "views": 2703360
         },
         {
+          "handle": "WatcherGuru",
+          "url": "https://x.com/WatcherGuru/status/2062908184818561436",
+          "headline": "Trump comments on strong jobs report saying stocks should go up not down.",
+          "body": "JUST IN: \ud83c\uddfa\ud83c\uddf8 President Trump says \"with a great Jobs Report...stocks should go up, not down.\"",
+          "engagement": "21.7K views",
+          "views": 21714
+        },
+        {
           "handle": "unusual_whales",
           "url": "https://x.com/unusual_whales/status/2062619647514435687",
           "headline": "Fidelity lowers minimum for SpaceX IPO access to $2,000.",
           "body": "Fidelity has lowered the minimum account requirement for access to the SpaceX IPO from as much as $500,000 to just $2,000.",
           "engagement": "2.7M views",
           "views": 2689784
-        },
-        {
-          "handle": "saylor",
-          "url": "https://x.com/saylor/status/2062500552705986704",
-          "headline": "Capital markets fund AI buildout amid Bitcoin ETF outflows.",
-          "body": "Capital markets are funding the AI buildout at historic scale: ~$400B over 6 months. Bitcoin ETFs have seen ~$4B of outflows since May 14, pressuring $BTC. This is a capital rotation, not a Bitcoin impairment. Volatility creates opportunity.",
-          "engagement": "1.2M views",
-          "views": 1218245
         }
       ]
     },
@@ -241,33 +202,17 @@
           "views": 1134001
         },
         {
-          "handle": "shija21",
-          "url": "https://x.com/shija21/status/2062499186679902652",
-          "headline": "Discussion video on virginity in relationships",
-          "body": "Be honest\u2026 does virginity still hold value in relationships today? \ud83d\udc40",
-          "engagement": "441K views",
-          "views": 441067
+          "handle": "Wuthering_Waves",
+          "url": "https://x.com/Wuthering_Waves/status/2062878728502317187",
+          "headline": "Wuthering Waves announces Cyberpunk: Edgerunners collaboration details",
+          "body": "Wuthering Waves \u00d7 Cyberpunk: Edgerunners \u2014 Special Talk\n\nAhead of the launch of our collaboration with Cyberpunk: Edgerunners, we invite you to join us for a special talk featuring Bartosz Sztybor, VP of Franchise at CD PROJEKT RED & writer for Cyberpunk: Edgerunners, and Milena Zaj\u0105c, writer & editor at CD PROJEKT RED. Together, we will share behind-the-scenes stories of our collaboration, explore cyberpunk themes, and discuss how our dev team brought the world of Edgerunners to life in-game.\n\nWuthering Waves \u00d7 Cyberpunk: Edgerunners Collaboration is set to launch on June 8th (UTC+8).\nThe new 5-Star Resonators Lucy and Rebecca will debut, and you can snag the 5-Star Resonator Rebecca for free!\n\n#WutheringWaves\n#Edgerunners",
+          "engagement": "491K views",
+          "views": 491651
         }
       ]
     },
     "msm": {
       "stories": [
-        {
-          "handle": "NBCNews",
-          "url": "https://x.com/NBCNews/status/2062548002686841337",
-          "headline": "NBA player Terry Rozier must forfeit $26M salary over gambling scheme",
-          "body": "NBA free agent Terry Rozier must forfeit most of his $26.6 million salary for the 2025-2026 season due to his alleged role in a sports gambling scheme, an arbitrator rules.",
-          "engagement": "670K views",
-          "views": 670350
-        },
-        {
-          "handle": "CNN",
-          "url": "https://x.com/CNN/status/2062557010793484527",
-          "headline": "First case of flesh-eating New World screwworm detected in US livestock in decades in South Texas.",
-          "body": "A case of flesh-eating New World screwworm has been detected in South Texas, the US Department of Agriculture said. It is the first time this parasitic fly \u2013 whose larvae feed exclusively on the tissue of warm-blooded animals \u2013 has been detected in US livestock in decades.",
-          "engagement": "252K views",
-          "views": 252963
-        },
         {
           "handle": "WSJ",
           "url": "https://x.com/WSJ/status/2062640195640394213",
@@ -275,18 +220,34 @@
           "body": "Anthropic is calling for top AI labs to weigh slowing the pace of development, suggesting that AI systems are advancing so rapidly that they may soon be able to improve themselves without human intervention in ways that could pose societal risks. https://www.wsj.com/tech/ai/anthropic-urges-global-pause-in-ai-development-flags-self-improvement-risk-99cefb73?mod=e2tw",
           "engagement": "137K views",
           "views": 136976
+        },
+        {
+          "handle": "ABC",
+          "url": "https://x.com/ABC/status/2062695612017942803",
+          "headline": "House passes $2B Ukraine aid and Russia sanctions despite GOP opposition.",
+          "body": "BREAKING: The House passed a measure to provide almost $2 billion in aid to Ukraine and impose new sanctions against Russia on Thursday, sending the measure to the Senate behind a 226-to-195 tally \u2014 despite GOP leadership in full opposition to the measure.",
+          "engagement": "88K views",
+          "views": 88098
+        },
+        {
+          "handle": "ABC",
+          "url": "https://x.com/ABC/status/2062695466454692323",
+          "headline": "House passes $2B Ukraine aid and Russia sanctions despite GOP opposition.",
+          "body": "BREAKING: The House passed a measure to provide almost $2 billion in aid to Ukraine and impose new sanctions against Russia on Thursday, sending the measure to the Senate behind a 226-to-195 tally \u2014 despite GOP leadership in full opposition to the measure.",
+          "engagement": "72K views",
+          "views": 72565
         }
       ]
     },
     "sports": {
       "stories": [
         {
-          "handle": "ChampionsLeague",
-          "url": "https://x.com/ChampionsLeague/status/2062483192183988461",
-          "headline": "UCL atmosphere video from Galatasaray",
-          "body": "Listen to that atmosphere \ud83d\ude33\n\n#UCL | @Galatasaray",
-          "engagement": "1.20M views",
-          "views": 1204511
+          "handle": "NBA",
+          "url": "https://x.com/NBA/status/2062645568674189450",
+          "headline": "Victor Wembanyama highlights from the NBA Finals.",
+          "body": "Wemby things \ud83d\udc7d\ud83d\ude31",
+          "engagement": "664K views",
+          "views": 664283
         },
         {
           "handle": "UTDTrey",
@@ -311,10 +272,18 @@
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2062639458508312887",
-          "headline": "Elon Musk shares video link.",
+          "headline": "Elon Musk posts a video link.",
           "body": "https://t.co/ETfLRdGzzJ",
-          "engagement": "15.2M views",
-          "views": 15219382
+          "engagement": "21.1M views",
+          "views": 21080488
+        },
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2062613724523864464",
+          "headline": "Elon Musk comments on Starlink V3 satellite specs.",
+          "body": "This provides some sense of scale",
+          "engagement": "8.8M views",
+          "views": 8755987
         },
         {
           "handle": "jpmorgan",
@@ -328,14 +297,6 @@
     },
     "pods": {
       "stories": [
-        {
-          "handle": "statesman",
-          "url": "https://x.com/statesman/status/2062508428954681767",
-          "headline": "Austin Statesman reports on Joe Rogan possibly joining 60 Minutes.",
-          "body": "Austin-based podcaster Joe Rogan reportedly being considered for 60 Minutes role. https://www.statesman.com/news/politics/article/joe-rogan-60-minutes-cbs-anderson-cooper-22289351.php?taid=6a216c4795609a0001f5c7c4&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
-          "engagement": "2.3M views",
-          "views": 2261515
-        },
         {
           "handle": "sircalebhammer",
           "url": "https://x.com/sircalebhammer/status/2062583390843335107",
@@ -357,28 +318,28 @@
     "pg6": {
       "stories": [
         {
+          "handle": "FilmUpdates",
+          "url": "https://x.com/FilmUpdates/status/2062903474128322883",
+          "headline": "Marlon Wayans comments on potential Scary Movie 6 cameo with Melissa Barrera",
+          "body": "Marlon Wayans says \"I wish I\u2019d heard\" that Melissa Barrera wanted to be in \u2018SCARY MOVIE 6\u2019: \"That would have been a lot of fun. I definitely would\u2019ve tried to make that work. That would\u2019ve been a masterful cameo. Maybe for part 7!\"",
+          "engagement": "46K views",
+          "views": 46047
+        },
+        {
+          "handle": "PopBase",
+          "url": "https://x.com/PopBase/status/2062880236375531693",
+          "headline": "Prince\u2019s estate announces posthumous album \u2018Timeless\u2019 releasing August 28",
+          "body": "Prince\u2019s estate is releasing a posthumous album on August 28th. It will be titled \u2018Timeless.\u2019",
+          "engagement": "189K views",
+          "views": 189762
+        },
+        {
           "handle": "thetopshelfmen",
           "url": "https://x.com/thetopshelfmen/status/2062640336120234400",
           "headline": "Poll asks which actor users would spend the night with.",
           "body": "which actor would you spend the night with?",
           "engagement": "1.5M views",
           "views": 1515537
-        },
-        {
-          "handle": "TMZ",
-          "url": "https://x.com/TMZ/status/2062633114539602254",
-          "headline": "Elon Musk's daughter Vivian Wilson storms out of interview",
-          "body": "Elon Musk's daughter Vivian Wilson storms out of interview after being asked a question about him. https://www.tmz.com/2026/06/04/elon-musk-daughter-storms-off-during-interview/",
-          "engagement": "1.1M views",
-          "views": 1122205
-        },
-        {
-          "handle": "TMZ",
-          "url": "https://x.com/TMZ/status/2062644428662018057",
-          "headline": "Kylie Jenner two-stepping on vacation",
-          "body": "Kylie getting down with a little two-step during her vacay in Turks \ud83e\udd29\ud83d\udc83",
-          "engagement": "1M views",
-          "views": 1020807
         }
       ]
     },
@@ -391,14 +352,6 @@
           "body": "\u6628\u65e5\u5927\u962a\u306e\u30b7\u30fc\u30b7\u30e3\u5c4b\u3055\u3093\u306b\u884c\u3063\u305f\u3089\u3001 \u30c1\u30ad\u30f3\u30e9\u30fc\u30e1\u30f3\u304c\u30e1\u30cb\u30e5\u30fc\u306b\u5408\u3063\u3066\u591c\u4e2d\u306b\u983c\u3093\u3058\u3083\u3063\u305f\ud83d\ude02\ud83d\ude2b",
           "engagement": "3K views",
           "views": 3581
-        },
-        {
-          "handle": "Soulfoodiiee",
-          "url": "https://x.com/Soulfoodiiee/status/2062505425912934874",
-          "headline": "Honey Cajun Blackened Salmon recipe with video",
-          "body": "\ud83c\udf7d Honey Cajun Blackened Salmon \n\ud83d\udc69\ud83c\udffb\u200d\ud83c\udf73 Anastasia D'Amario | Fit Foodie Stasia\n\n\ud83d\udcdd Recipe Link In The Comments",
-          "engagement": "47K views",
-          "views": 47207
         },
         {
           "handle": "NikiBelokopytov",
@@ -429,12 +382,12 @@
           "views": 2708675
         },
         {
-          "handle": "SawyerMerritt",
-          "url": "https://x.com/SawyerMerritt/status/2062535123422130297",
-          "headline": "SpaceX CFO presents full IPO roadshow",
-          "body": "Here is @SpaceX's full IPO roadshow presentation from CFO Bret Johnson, who has been CFO at the company for the last 15 years.\n\nIt's worth watching.",
-          "engagement": "4.8M views",
-          "views": 4798565
+          "handle": "opencode",
+          "url": "https://x.com/opencode/status/2062570516586573998",
+          "headline": "NVIDIA Nemotron 3 Ultra open source model released",
+          "body": "Nemotron 3 Ultra is now free on OpenCode text \u00b7 1M context \u00b7 fully open source NVIDIA's latest open source model",
+          "engagement": "190K views",
+          "views": 190771
         }
       ]
     },
@@ -469,14 +422,6 @@
     "conspiracy": {
       "stories": [
         {
-          "handle": "ElfwickDraws",
-          "url": "https://x.com/ElfwickDraws/status/2062516057370132851",
-          "headline": "Police paying for DEI roles despite claims it does not exist in UK.",
-          "body": "\u201cD.E.I. DOESN\u2019T EXIST IN THE UK!\n\nPOLICE DOCUMENTS NEVER MENTION D.E.I.!\n\nIT\u2019S A FAR-RIGHT CONSPIRACY THEORY!\u201d\n\nThen why are police forces paying staff over half a million quid in wages for something that doesn\u2019t exist?",
-          "engagement": "47552 views",
-          "views": 47552
-        },
-        {
           "handle": "redpillb0t",
           "url": "https://x.com/redpillb0t/status/2062577464145027408",
           "headline": "Reminder about Hillary Clinton and PizzaGate as conspiracy theory.",
@@ -497,6 +442,14 @@
           "views": 152546
         },
         {
+          "handle": "rareblurs",
+          "url": "https://x.com/rareblurs/status/2062556747701600517",
+          "headline": "Self-told joke meme",
+          "body": "me laughing at a joke i told myself in my head",
+          "engagement": "77K views",
+          "views": 77581
+        },
+        {
           "handle": "boysbelnboys",
           "url": "https://x.com/boysbelnboys/status/2062580141126201672",
           "headline": "Gramps funny video clip",
@@ -507,5 +460,5 @@
       ]
     }
   },
-  "last_updated": "2026-06-05T08:08:00.567426"
+  "last_updated": "2026-06-05T14:52:42.401039"
 }
