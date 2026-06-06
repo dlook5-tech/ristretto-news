@@ -3,25 +3,32 @@
     "world": {
       "stories": [
         {
-          "headline": "Ireland issues travel bans for two Israeli ministers Itamar Ben-Gvir and Bezalel Smotrich",
+          "headline": "Ireland issues travel bans for two Israeli ministers",
           "url": "https://x.com/BBCWorld/status/2062894474187923799",
           "handle": "BBCWorld",
           "perspectives": [
             {
               "label": "Independent",
-              "handle": "BRICSinfo",
-              "url": "https://x.com/BRICSinfo/status/2062904980118348036",
-              "body": "JUST IN: \ud83c\uddee\ud83c\uddea\ud83c\uddee\ud83c\uddf1 Ireland bans Israeli ministers Itamar Ben-Gvir and Bezalel Smotrich from entering the country.",
-              "engagement": "165K views",
-              "views": 165625
-            },
-            {
-              "label": "Democrat",
               "handle": "BBCWorld",
               "url": "https://x.com/BBCWorld/status/2062894474187923799",
               "body": "Ireland issues travel bans for two Israeli ministers",
-              "engagement": "150K views",
-              "views": 150514
+              "engagement": "262K views",
+              "views": 262876
+            }
+          ]
+        },
+        {
+          "headline": "Iran's World Cup players granted US visas for group-stage matches",
+          "url": "https://x.com/AJENews/status/2062896746481480072",
+          "handle": "AJENews",
+          "perspectives": [
+            {
+              "label": "Independent",
+              "handle": "AJENews",
+              "url": "https://x.com/AJENews/status/2062896746481480072",
+              "body": "BREAKING: Iran's World Cup players have been granted visas to enter the United States, a White House official says, clearing the way for the team to play its group-stage matches in Los Angeles and Seattle.",
+              "engagement": "258K views",
+              "views": 258013
             }
           ]
         }
@@ -74,26 +81,19 @@
               "views": 558806
             }
           ]
-        },
-        {
-          "headline": "Rand Paul criticizes Democrats for blocking SAVE America Act",
-          "url": "https://x.com/RandPaul/status/2062676626349969545",
-          "handle": "RandPaul",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "RandPaul",
-              "url": "https://x.com/RandPaul/status/2062676626349969545",
-              "body": "Disappointed to see Democrats once again fail the American people. The SAVE America Act was a commonsense measure to strengthen confidence in our elections.",
-              "engagement": "616K views",
-              "views": 616288
-            }
-          ]
         }
       ]
     },
     "business": {
       "stories": [
+        {
+          "handle": "KobeissiLetter",
+          "url": "https://x.com/KobeissiLetter/status/2062988350613553497",
+          "headline": "S&P 500 erases nearly $2 trillion in market cap after strong jobs report while Bitcoin drops over 50% from highs.",
+          "body": "What just happened?\n\nThe S&P 500 just erased nearly -$2 TRILLION of market cap just hours after 3rd strongest US jobs report in 18 months.\n\nMeanwhile, Bitcoin is officially down over -50% from its record high in October 2025.\n\nWhat's happening? Let us explain.\n\n(a thread)",
+          "engagement": "2.55M views",
+          "views": 2554877
+        },
         {
           "handle": "TedPillows",
           "url": "https://x.com/TedPillows/status/2062939241588416843",
@@ -103,25 +103,25 @@
           "views": 927773
         },
         {
-          "handle": "jpmorgan",
-          "url": "https://x.com/jpmorgan/status/2062665224285470758",
-          "headline": "Jamie Dimon and Elon Musk discuss SpaceX and more.",
-          "body": "Live from our global headquarters: Jamie Dimon and Elon Musk discuss SpaceX and more. https://twitter.com/i/broadcasts/1NGarrMYjBvJj",
-          "engagement": "2.7M views",
-          "views": 2703360
-        },
-        {
-          "handle": "spectatorindex",
-          "url": "https://x.com/spectatorindex/status/2063006487312773230",
-          "headline": "Over $1.7 trillion wiped out from US stock market today",
-          "body": "Over $1.7 trillion in value was wiped out from the US stock market today.",
-          "engagement": "22K views",
-          "views": 22039
+          "handle": "BullTheoryio",
+          "url": "https://x.com/BullTheoryio/status/2062965545881010557",
+          "headline": "Markets see $2.5 trillion wiped out in one day as jobs report sparks rate hike fears and AI trade cracks.",
+          "body": "\ud83d\udea8 EVERYTHING THAT COULD GO WRONG FOR MARKETS WENT WRONG TODAY.\n\nS&P 500 down -1.65%, wiping out $1.14 trillion.\nNasdaq down -2.60%, wiping out $1.11 trillion.\nGold down -3.38%, wiping out $1 trillion.\nSilver down -6.9%, wiping out $280 billion.\nBitcoin down -6.31%, wiping out $80 billion.\n\nIn total $2.5 TRILLION wiped out in a single session. These were not isolated moves. Everything started breaking at the same time.\n\nIt started with the jobs report this morning.\n\nThe US economy added 172,000 jobs in May. Wall Street expected 88,000. That is almost double. \n\nOn any normal day, strong jobs is good news. But inflation is already at 3.8% and oil is sitting at $90. A labor market this strong tells the Fed it cannot cut interest rates and may actually need to raise them. \n\nThe probability of a rate hike this year went from 40% to 57% in a single day. That spooked every investor holding tech and growth stocks because higher rates mean those stocks are worth less today.\n\nThen the AI trade started cracking.\n\nYesterday Broadcom reported record earnings: revenue up 48%, AI chip sales up 143% and the stock still crashed 12.6%. The reason was simple. \n\nBroadcom did not raise its AI revenue targets for the year. Investors had expected it to. That single miss made people ask a question they had been avoiding for months: are we paying too much for AI stocks?\n\nThat question got louder today when a research firm called SemiAnalysis revealed that Nvidia's next-generation AI chips will need significantly less memory than everyone assumed, roughly half of what the market was pricing in. \n\nMemory chips are what companies like SK Hynix and Samsung make. SK Hynix fell nearly 10% today. Samsung fell over 6%. \n\nSouth Korea's entire stock market crashed 5.5% in a single session. Japan's semiconductor stocks did the same. \n\nAnd then Anthropic added fuel to the fire by publishing a report warning that AI is getting close to the point where it can improve itself without human help and calling for a global pause in AI development. \n\nComing on the same day as the memory demand news and Broadcom's miss, it fed a single growing fear across the market: what if the AI boom is moving faster than the business models can keep up with?\n\nUnderneath all of this, there is a liquidity problem nobody is talking about.\n\nSpaceX goes public next week at a $1.75 trillion valuation. Anthropic just filed to go public. OpenAI is next. \n\nThese three companies together are worth $4 to $5 trillion. Fund managers need cash to buy into these listings. \n\nBut cash levels are already at their lowest since early 2024. The only way to raise cash is to sell what they already own. That selling is happening right now.\n\nThe new Fed Chair Kevin Warsh will also hold his very first policy meeting in 11 days. He was appointed by Trump with the expectation of cutting rates. \n\nHe is now walking into a situation where inflation is high, oil is high, and the job market is running hot. Investors do not know what he will do. \n\nWhen nobody knows what the most powerful central banker in the world will decide in less than two weeks, the safest move is to reduce risk today.\n\nEverything that could go wrong, went wrong at the same time. A hot jobs report, a collapsing ceasefire, a crack in the AI trade, a trillion dollar liquidity drain, and a Fed meeting with no clear outcome.",
+          "engagement": "496K views",
+          "views": 496440
         }
       ]
     },
     "top": {
       "stories": [
+        {
+          "handle": "DiscussingFilm",
+          "url": "https://x.com/DiscussingFilm/status/2063007099425067171",
+          "headline": "First trailer for Alien Isolation 2",
+          "body": "First trailer for \u2018ALIEN ISOLATION 2\u2019. Coming soon.",
+          "engagement": "2M views",
+          "views": 2015333
+        },
         {
           "handle": "Wuthering_Waves",
           "url": "https://x.com/Wuthering_Waves/status/2062878728502317187",
@@ -129,6 +129,14 @@
           "body": "Wuthering Waves \u00d7 Cyberpunk: Edgerunners \u2014 Special Talk\n\nAhead of the launch of our collaboration with Cyberpunk: Edgerunners, we invite you to join us for a special talk featuring Bartosz Sztybor, VP of Franchise at CD PROJEKT RED & writer for Cyberpunk: Edgerunners, and Milena Zaj\u0105c, writer & editor at CD PROJEKT RED. Together, we will share behind-the-scenes stories of our collaboration, explore cyberpunk themes, and discuss how our dev team brought the world of Edgerunners to life in-game.\n\nWuthering Waves \u00d7 Cyberpunk: Edgerunners Collaboration is set to launch on June 8th (UTC+8).\nThe new 5-Star Resonators Lucy and Rebecca will debut, and you can snag the 5-Star Resonator Rebecca for free!\n\n#WutheringWaves\n#Edgerunners",
           "engagement": "491K views",
           "views": 491651
+        },
+        {
+          "handle": "kirawontmiss",
+          "url": "https://x.com/kirawontmiss/status/2063015126676975742",
+          "headline": "We all had a dream like this before",
+          "body": "we all had a dream like this before",
+          "engagement": "484K views",
+          "views": 483636
         }
       ]
     },
@@ -136,27 +144,19 @@
       "stories": [
         {
           "handle": "nytimes",
+          "url": "https://x.com/nytimes/status/2062931510953484679",
+          "headline": "Federal judge orders Trump administration to restart asylum applications",
+          "body": "Breaking News: A federal judge said the Trump administration must restart applications for asylum and other immigration processing. https://www.nytimes.com/2026/06/05/us/politics/asylum-immigration-ruling.html?smtyp=cur&smid=tw-nytimes",
+          "engagement": "307K views",
+          "views": 306855
+        },
+        {
+          "handle": "nytimes",
           "url": "https://x.com/nytimes/status/2062876029878734881",
           "headline": "NYT breaking: US added 172,000 jobs in May, unemployment at 4.3%",
           "body": "Breaking News: The U.S. added 172,000 jobs in May and the unemployment rate stayed at 4.3%, a strong showing for the labor market. https://www.nytimes.com/live/2026/business/jobs-report-economy?smid=tw-nytimes&smtyp=cur",
           "engagement": "80K views",
           "views": 80188
-        },
-        {
-          "handle": "AP",
-          "url": "https://x.com/AP/status/2062723003050246570",
-          "headline": "Xi Jinping to visit North Korea next week, first in years",
-          "body": "Chinese leader Xi Jinping will travel to North Korea next week in what will be his first visit in years. The announcement from both countries comes a day after North Korea unveiled a new facility to produce nuclear bomb fuels. https://apnews.com/article/china-xi-north-korea-kim-4def48720a7cb66f820d3efc256a941c?taid=6a22341ea7e6970001d48d63&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
-          "engagement": "89K views",
-          "views": 88706
-        },
-        {
-          "handle": "ABC",
-          "url": "https://x.com/ABC/status/2062695612017942803",
-          "headline": "House passes nearly $2B Ukraine aid package despite GOP opposition",
-          "body": "BREAKING: The House passed a measure to provide almost $2 billion in aid to Ukraine and impose new sanctions against Russia on Thursday, sending the measure to the Senate behind a 226-to-195 tally \u2014 despite GOP leadership in full opposition to the measure.\nhttps://abcnews.com/Politics/republicans-vote-democrats-pass-ukraine-aid-russia-sanctions/story?id=133595620&cid=social_twitter_abcn",
-          "engagement": "94K views",
-          "views": 94148
         }
       ]
     },
@@ -171,25 +171,33 @@
           "views": 7338974
         },
         {
-          "handle": "FabrizioRomano",
-          "url": "https://x.com/FabrizioRomano/status/2062648822711390681",
-          "headline": "Florentino P\u00e9rez says official \u20ac150m bid will NOT be for a Premier League player.",
-          "body": "\ud83d\udea8\ud83d\udca3 Florentino P\u00e9rez: \u201cThe official \u20ac150m bid will NOT be for a Premier League player\u201d.",
-          "engagement": "3.5M views",
-          "views": 3493730
+          "handle": "MLB",
+          "url": "https://x.com/MLB/status/2063090742625522044",
+          "headline": "Miguel Rojas makes barehand play with Freddie Freeman stretch",
+          "body": "PLAY OF THE YEAR?! \ud83d\ude31\n\nMIGUEL ROJAS WITH THE BAREHAND, FREDDIE FREEMAN WITH THE STRETCH!",
+          "engagement": "350K views",
+          "views": 349539
         },
         {
-          "handle": "NBA",
-          "url": "https://x.com/NBA/status/2062867029648879695",
-          "headline": "NBA previews 2026 NBA Finals Game 2 between Knicks and Spurs.",
-          "body": "KNICKS. SPURS. GAME 2 \ud83c\udf7f\n\nJalen Brunson's late-game heroics (30p, 13 in 4Q) powered New York to a thrilling Game 1 road victory and a historic 12th straight postseason win.\n\nWill Wemby and the Spurs even the series 1-1, or will the Knicks go up 2-0?\n\nThe NBA Finals continue tonight at 8:30pm/et on ABC \ud83c\udfc6",
-          "engagement": "190K views",
-          "views": 190473
+          "handle": "FCBarcelona",
+          "url": "https://x.com/FCBarcelona/status/2062883622894309781",
+          "headline": "Lamine Yamal named LaLiga Player of the Season",
+          "body": "\ud835\udddf\ud835\uddee\ud835\uddfa\ud835\uddf6\ud835\uddfb\ud835\uddf2 \ud835\uddec\ud835\uddee\ud835\uddfa\ud835\uddee\ud835\uddf9 is LaLiga\u2019s \ud835\udde3\ud835\uddf9\ud835\uddee\ud835\ude06\ud835\uddf2\ud835\uddff \ud835\uddfc\ud835\uddf3 \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\udde6\ud835\uddf2\ud835\uddee\ud835\ude00\ud835\uddfc\ud835\uddfb \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\n\nCongratulations, Lamine! \ud83d\udc8e\ud83d\udd1d",
+          "engagement": "867K views",
+          "views": 867647
         }
       ]
     },
     "elon": {
       "stories": [
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2063073142306750576",
+          "headline": "Elon Musk highlights Starlink connecting schools in Bolivia",
+          "body": "Starlink connecting schools in Bolivia",
+          "engagement": "2.8M views",
+          "views": 2809480
+        },
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2062972771487953130",
@@ -202,6 +210,14 @@
     },
     "pods": {
       "stories": [
+        {
+          "handle": "HappyPunch",
+          "url": "https://x.com/HappyPunch/status/2062973221549293910",
+          "headline": "Dana White responds to Joe Rogan calling UFC White House event a gimmick",
+          "body": "Dana White responded to Joe Rogan calling the UFC White House event a \u201cgimmick\u201d \n\n\u201cIf Alex Pereira wins the third world title that night, he jumps Jon Jones as the GOAT. There\u2019s absolutely nothing gimmicky about this event.\u201d \n\n(via @Forbes)",
+          "engagement": "1.15M views",
+          "views": 1149464
+        },
         {
           "handle": "joerogan",
           "url": "https://x.com/joerogan/status/2062930931522912589",
@@ -223,20 +239,20 @@
           "views": 903717
         },
         {
+          "handle": "WolfEntertainm2",
+          "url": "https://x.com/WolfEntertainm2/status/2063040412680679784",
+          "headline": "Scarlett Johansson is the most beautiful Avenger per fans.",
+          "body": "Not when they exist.",
+          "engagement": "86K views",
+          "views": 85830
+        },
+        {
           "handle": "PopBase",
           "url": "https://x.com/PopBase/status/2062880236375531693",
           "headline": "Prince\u2019s estate announces posthumous album \u2018Timeless\u2019 releasing August 28",
           "body": "Prince\u2019s estate is releasing a posthumous album on August 28th. It will be titled \u2018Timeless.\u2019",
           "engagement": "189K views",
           "views": 189762
-        },
-        {
-          "handle": "FilmUpdates",
-          "url": "https://x.com/FilmUpdates/status/2062903474128322883",
-          "headline": "Marlon Wayans comments on potential Scary Movie 6 cameo with Melissa Barrera",
-          "body": "Marlon Wayans says \"I wish I\u2019d heard\" that Melissa Barrera wanted to be in \u2018SCARY MOVIE 6\u2019: \"That would have been a lot of fun. I definitely would\u2019ve tried to make that work. That would\u2019ve been a masterful cameo. Maybe for part 7!\"",
-          "engagement": "46K views",
-          "views": 46047
         }
       ]
     },
@@ -271,22 +287,6 @@
     "science": {
       "stories": [
         {
-          "handle": "Huawei",
-          "url": "https://x.com/Huawei/status/2062709881669615949",
-          "headline": "AI education summit explores AI-driven learning and innovation at Huawei ICT Competition final.",
-          "body": "The AI Accelerating Education Transformation Summit is now live. Join the livestream to explore AI-driven education, insights, and real-world innovation. See what's shaping the future of learning at the Huawei ICT Competition 2025\u20132026 Global Final. https://twitter.com/i/broadcasts/1nJOLLXdnplxR",
-          "engagement": "4.7M views",
-          "views": 4711877
-        },
-        {
-          "handle": "jpmorgan",
-          "url": "https://x.com/jpmorgan/status/2062665224285470758",
-          "headline": "Elon Musk discusses SpaceX Starship reusability and orbital infrastructure breakthroughs",
-          "body": "Live from our global headquarters: Jamie Dimon and Elon Musk discuss SpaceX and more. https://twitter.com/i/broadcasts/1NGarrMYjBvJj",
-          "engagement": "2.7M views",
-          "views": 2708675
-        },
-        {
           "handle": "ProfBuehlerMIT",
           "url": "https://x.com/ProfBuehlerMIT/status/2062865983459475830",
           "headline": "MIT professor announces breakthrough in self-evolving AI scientists for principled scientific discovery.",
@@ -307,14 +307,6 @@
           "views": 83698
         },
         {
-          "handle": "OC_Scanner",
-          "url": "https://x.com/OC_Scanner/status/2062752842751058110",
-          "headline": "US Army Spec Ops training airborne in Los Angeles area",
-          "body": "#BREAKING US Army Spec Ops training is airborne once again tonight #LosAngeles",
-          "engagement": "24K views",
-          "views": 23948
-        },
-        {
           "handle": "KTLA",
           "url": "https://x.com/KTLA/status/2062979599907340404",
           "headline": "Pursuit suspect killed, passenger injured in crash into pole during Anaheim police chase in Orange County.",
@@ -327,20 +319,20 @@
     "conspiracy": {
       "stories": [
         {
-          "handle": "MarioNawfal",
-          "url": "https://x.com/MarioNawfal/status/2062985306924884040",
-          "headline": "Outgoing DNI Tulsi Gabbard to declassify intelligence on COVID origins and Havana Syndrome via weekly releases.",
-          "body": "\ud83c\uddfa\ud83c\uddf8 Outgoing DNI Tulsi Gabbard is using her final weeks in office to declassify intelligence on COVID origins and Havana Syndrome before June 30, per an ODNI official.\n\nThe releases will come in weekly installments. A CIA whistleblower recently testified that Fauci and Biden's intel chief actively suppressed evidence pointing to a Wuhan lab leak. The CIA disputes it. \n\nGabbard's office has already released over 500,000 pages of previously classified documents during her tenure.\n\nSource: The Daily Caller, @emilyakopp",
-          "engagement": "26K views",
-          "views": 26070
-        },
-        {
           "handle": "g0dfr0y",
           "url": "https://x.com/g0dfr0y/status/2062769462286438789",
           "headline": "User questions if mass recall of Jews to Israel signals preparation for a false flag event.",
           "body": "Fleeing a false flag are we?",
           "engagement": "168K views",
           "views": 168280
+        },
+        {
+          "handle": "MarioNawfal",
+          "url": "https://x.com/MarioNawfal/status/2062985306924884040",
+          "headline": "Outgoing DNI Tulsi Gabbard to declassify intelligence on COVID origins and Havana Syndrome via weekly releases.",
+          "body": "\ud83c\uddfa\ud83c\uddf8 Outgoing DNI Tulsi Gabbard is using her final weeks in office to declassify intelligence on COVID origins and Havana Syndrome before June 30, per an ODNI official.\n\nThe releases will come in weekly installments. A CIA whistleblower recently testified that Fauci and Biden's intel chief actively suppressed evidence pointing to a Wuhan lab leak. The CIA disputes it. \n\nGabbard's office has already released over 500,000 pages of previously classified documents during her tenure.\n\nSource: The Daily Caller, @emilyakopp",
+          "engagement": "26K views",
+          "views": 26070
         },
         {
           "handle": "emilykschrader",
@@ -353,8 +345,17 @@
       ]
     },
     "comedy": {
-      "stories": []
+      "stories": [
+        {
+          "handle": "charcoded",
+          "url": "https://x.com/charcoded/status/2062881618998480973",
+          "headline": "Gym etiquette joke about heavy dumbbells",
+          "body": "funny how any dumbbells above 60lbs always get put back in the correct spot",
+          "engagement": "1.4M views",
+          "views": 1417192
+        }
+      ]
     }
   },
-  "last_updated": "2026-06-05T21:26:24.060930"
+  "last_updated": "2026-06-06T03:33:48.321134"
 }
