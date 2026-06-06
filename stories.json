@@ -26,21 +26,6 @@
           ]
         },
         {
-          "headline": "Zelenskyy marks 82nd anniversary of D-Day, links to Ukraine's fight against Russia",
-          "url": "https://x.com/ZelenskyyUa/status/2063204833268519060",
-          "handle": "ZelenskyyUa",
-          "perspectives": [
-            {
-              "label": "Independent",
-              "handle": "ZelenskyyUa",
-              "url": "https://x.com/ZelenskyyUa/status/2063204833268519060",
-              "body": "Today is the 82nd anniversary of D-Day \u2013 the Allied landings in Normandy... We are working to make it happen again today... Glory to Ukraine!",
-              "engagement": "120K views",
-              "views": 120351
-            }
-          ]
-        },
-        {
           "headline": "Ukraine strikes Russian oil refinery 2000km deep in Tyumen",
           "url": "https://x.com/JayinKyiv/status/2063165133300367812",
           "handle": "JayinKyiv",
@@ -52,6 +37,21 @@
               "body": "Incredible night for Ukraine, taking out Russian oil infrastructure and military targets from St Petersburg to the Urals. 2000km from Ukraine, in Tyumen, the Antipinsky Oil Refinery, capacity 9 million tons/year burns after early morning strikes.",
               "engagement": "163K views",
               "views": 163596
+            }
+          ]
+        },
+        {
+          "headline": "Zelenskyy marks 82nd anniversary of D-Day, links to Ukraine's fight against Russia",
+          "url": "https://x.com/ZelenskyyUa/status/2063204833268519060",
+          "handle": "ZelenskyyUa",
+          "perspectives": [
+            {
+              "label": "Independent",
+              "handle": "ZelenskyyUa",
+              "url": "https://x.com/ZelenskyyUa/status/2063204833268519060",
+              "body": "Today is the 82nd anniversary of D-Day \u2013 the Allied landings in Normandy... We are working to make it happen again today... Glory to Ukraine!",
+              "engagement": "120K views",
+              "views": 120351
             }
           ]
         }
@@ -95,20 +95,12 @@
     "business": {
       "stories": [
         {
-          "handle": "KobeissiLetter",
-          "url": "https://x.com/KobeissiLetter/status/2062988350613553497",
-          "headline": "S&P 500 erases nearly $2 trillion after strong jobs report, Bitcoin down over 50% from highs",
-          "body": "What just happened?\n\nThe S&P 500 just erased nearly -$2 TRILLION of market cap just hours after 3rd strongest US jobs report in 18 months.\n\nMeanwhile, Bitcoin is officially down over -50% from its record high in October 2025.\n\nWhat's happening? Let us explain.\n\n(a thread)",
-          "engagement": "4.02M views",
-          "views": 4024200
-        },
-        {
-          "handle": "WatcherGuru",
-          "url": "https://x.com/WatcherGuru/status/2062987840934342909",
-          "headline": "$1.75 trillion wiped out from US stock market and $130B from crypto",
-          "body": "JUST IN: \ud83c\uddfa\ud83c\uddf8 $1.75 trillion wiped out from the US stock market today.\n\n$130,000,000,000 wiped out from the crypto market cap.",
-          "engagement": "2.3M views",
-          "views": 2314288
+          "handle": "saylor",
+          "url": "https://x.com/saylor/status/2063346325899358331",
+          "headline": "Bitcoin integrates with global economy, currencies, credit, securities, and institutions.",
+          "body": "Bitcoin Capitalist: Bitcoin reaches its full potential by integrating with the global economy: currencies, credit, securities, companies, banks, institutions, governments, families, and individuals. Bitcoin is an open monetary network for everyone.",
+          "engagement": "77K views",
+          "views": 77087
         },
         {
           "handle": "PeterSchiff",
@@ -117,6 +109,14 @@
           "body": "Look at this long-term Bitcoin chart. The uptrend off the Dec. 2022 low is broken. There's a huge head-and-shoulders top forming. The most likely resolution is a retest of the longer-term uptrend off the Dec. 2018 low. If it holds, that puts a bottom between $25,000 and $27,000.",
           "engagement": "242K views",
           "views": 241641
+        },
+        {
+          "handle": "Barchart",
+          "url": "https://x.com/Barchart/status/2063321284579094820",
+          "headline": "SpaceX would need 600x growth to justify its $1.75T IPO valuation.",
+          "body": "SpaceX $SPCX needs to grow 600x over the next decade to justify its $1.75 Trillion IPO Valuation \ud83d\udea8 No company has ever come close in the history of capitalism \ud83e\udd2f",
+          "engagement": "43K views",
+          "views": 43096
         }
       ]
     },
@@ -131,25 +131,33 @@
           "views": 9346570
         },
         {
-          "handle": "DiscussingFilm",
-          "url": "https://x.com/DiscussingFilm/status/2063007099425067171",
-          "headline": "First trailer for Alien Isolation 2 announced.",
-          "body": "First trailer for \u2018ALIEN ISOLATION 2\u2019. Coming soon.",
-          "engagement": "2.4M views",
-          "views": 2413464
-        },
-        {
           "handle": "MLB",
           "url": "https://x.com/MLB/status/2063090742625522044",
           "headline": "Miguel Rojas makes an incredible barehand play.",
           "body": "PLAY OF THE YEAR?! \ud83d\ude31 MIGUEL ROJAS WITH THE BAREHAND, FREDDIE FREEMAN WITH THE STRETCH!",
           "engagement": "1.4M views",
           "views": 1405685
+        },
+        {
+          "handle": "DiscussingFilm",
+          "url": "https://x.com/DiscussingFilm/status/2063345228027662403",
+          "headline": "First trailer for remastered Godzilla Destroy All Monsters Melee game",
+          "body": "First trailer for the remastered version of \u2018GODZILLA DESTORY ALL MONSTERS MELEE\u2019. Releasing on November 3.",
+          "engagement": "613K views",
+          "views": 613165
         }
       ]
     },
     "msm": {
       "stories": [
+        {
+          "handle": "nytimes",
+          "url": "https://x.com/nytimes/status/2063331456701583799",
+          "headline": "Pentagon raises counterintelligence threat level for Israel over eavesdropping concerns.",
+          "body": "The Pentagon has raised its counterintelligence threat level for Israel amid concerns about eavesdropping on U.S.-Iran talks. https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html?smtyp=cur&smid=tw-nytimes",
+          "engagement": "243K views",
+          "views": 242750
+        },
         {
           "handle": "Reuters",
           "url": "https://x.com/Reuters/status/2063199222820991288",
@@ -187,12 +195,12 @@
           "views": 2167458
         },
         {
-          "handle": "MLB",
-          "url": "https://x.com/MLB/status/2063119260600197139",
-          "headline": "Freddie Freeman hits walk-off homer in the 9th inning.",
-          "body": "FREDDIE FREEMAN CALLS GAME \n\nWALK-OFF HOMER IN THE 9TH \ud83d\ude80",
-          "engagement": "1.3M views",
-          "views": 1282768
+          "handle": "NFL",
+          "url": "https://x.com/NFL/status/2063289814749954057",
+          "headline": "NFL highlights Terrelle Pryor Sr.'s 1k receiving yards after switching to WR in 2016.",
+          "body": "Remember when Terrelle Pryor Sr. went for 1k receiving yards after switching to WR in 2016? \ud83d\ude2e\u200d\ud83d\udca8",
+          "engagement": "549K views",
+          "views": 548753
         }
       ]
     },
@@ -201,10 +209,10 @@
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2063138341822820398",
-          "headline": "Elon Musk posts video content",
+          "headline": "Elon Musk shares a video post.",
           "body": "https://t.co/Vw5QA6Y7k6",
-          "engagement": "17.9M views",
-          "views": 17919183
+          "engagement": "29.3M views",
+          "views": 29325378
         },
         {
           "handle": "elonmusk",
@@ -227,40 +235,24 @@
     "pods": {
       "stories": [
         {
-          "handle": "HappyPunch",
-          "url": "https://x.com/HappyPunch/status/2062973221549293910",
-          "headline": "Dana White responds to Joe Rogan calling UFC White House event a gimmick",
-          "body": "Dana White responded to Joe Rogan calling the UFC White House event a \u201cgimmick\u201d \n\n\u201cIf Alex Pereira wins the third world title that night, he jumps Jon Jones as the GOAT. There\u2019s absolutely nothing gimmicky about this event.\u201d \n\n(via @Forbes)",
-          "engagement": "1.15M views",
-          "views": 1149464
-        },
-        {
           "handle": "joeroganhq",
-          "url": "https://x.com/joeroganhq/status/2062962657393787161",
-          "headline": "Clip of Joe Rogan responding to a guest's self-defense question.",
-          "body": "Guest: \"Can I ever actually defend myself against someone like you?\"\n\nJoe Rogan: \"No.\"",
-          "engagement": "390K views",
-          "views": 389606
-        },
-        {
-          "handle": "theovon",
-          "url": "https://x.com/theovon/status/2062996762793832626",
-          "headline": "Theo Von posts a short video with Dr. Peter McCullough.",
-          "body": "puff puff persevere @P_McCulloughMD",
-          "engagement": "48K views",
-          "views": 47572
+          "url": "https://x.com/joeroganhq/status/2063085972493881686",
+          "headline": "Joe Rogan discussing vaccine incentives for doctors",
+          "body": "Joe Rogan: \"I had Mary Talley Bowden on the podcast \u2026 She was saying that if she vaccinated \u2026 all of her patients for COVID, she'd have made $1.5 Million. That's motivation.\"",
+          "engagement": "166K views",
+          "views": 166038
         }
       ]
     },
     "pg6": {
       "stories": [
         {
-          "handle": "TMZ",
-          "url": "https://x.com/TMZ/status/2062980379196199381",
-          "headline": "Shaun White rides bikes with new girlfriend in NYC",
-          "body": "\ud83d\udc9e Shaun White takes new girlfriend Angela Garten for bike ride in NYC.\n\nPhotos: https://www.tmz.com/2026/06/05/shaun-white-new-girlfriend-angela-garten-bike-ride/",
-          "engagement": "1.8M views",
-          "views": 1797990
+          "handle": "PopBase",
+          "url": "https://x.com/PopBase/status/2063173353964294466",
+          "headline": "Sabrina Carpenter commemorates one year anniversary of 'Manchild'.",
+          "body": "Sabrina Carpenter commemorates the one year anniversary of \u2018Manchild\u2019:\n\n\u201cone of year of hey men and they are pigs\u201d",
+          "engagement": "415K views",
+          "views": 414896
         },
         {
           "handle": "AboutMusicYT",
@@ -269,26 +261,26 @@
           "body": "I Knew It, I Knew You by Taylor Swift debuts with 10,493,923 streams on Spotify Counter.",
           "engagement": "197K views",
           "views": 196749
-        },
-        {
-          "handle": "PopBase",
-          "url": "https://x.com/PopBase/status/2063173353964294466",
-          "headline": "Sabrina Carpenter commemorates one year anniversary of 'Manchild'.",
-          "body": "Sabrina Carpenter commemorates the one year anniversary of \u2018Manchild\u2019:\n\n\u201cone of year of hey men and they are pigs\u201d",
-          "engagement": "415K views",
-          "views": 414896
         }
       ]
     },
     "recipe": {
       "stories": [
         {
-          "handle": "John3222290",
-          "url": "https://x.com/John3222290/status/2062978634005033022",
-          "headline": "User shares photos of food cooked over three days.",
-          "body": "Food is done. Starts...0.00 midnight to 6am, Boom\ud83d\udd2e\ud83e\ude81.\nTook me 3days to cook.",
-          "engagement": "123K views",
-          "views": 122606
+          "handle": "FiredUpCoug",
+          "url": "https://x.com/FiredUpCoug/status/2063097184346833147",
+          "headline": "Demonstration of a quick quesadilla cooking technique on a griddle.",
+          "body": "Life Changing Quesadillas in Exactly 60 Seconds.\n\n(Well, it'll take you longer than that, but I show you how to do it in 60 seconds)\n\nIngredients:\n\n- El Viajero Shredded Queso Quesadilla\n- Tillamook Medium Cheddar\n- Legit Mexican tortillas made with lard\n- Actual lard (I cooked hamburger at the same time and spread some of the oil on the tortilla as it was cooking, forgot to video that part) \n- Kosher salt to finish (go easy on it, I put on a little too much)",
+          "engagement": "177K views",
+          "views": 177956
+        },
+        {
+          "handle": "wolffdew",
+          "url": "https://x.com/wolffdew/status/2063279566945243378",
+          "headline": "Post showing spaghetti and meatballs made from scratch.",
+          "body": "I made spaghetti and meatballs for my mom and I",
+          "engagement": "37K views",
+          "views": 37879
         },
         {
           "handle": "boye4christ2006",
@@ -303,41 +295,17 @@
     "science": {
       "stories": [
         {
-          "handle": "theCUBE",
-          "url": "https://x.com/theCUBE/status/2062980275324281014",
-          "headline": "TensorAuto unveils prototype robo-car showcasing autonomous mobility engineering",
-          "body": "This is what the future of autonomous mobility looks like \u2014 and we brought it to Wall Street.\n\n@TensorAuto rolled their prototype robo-car into the New York Stock Exchange ahead of today's #theCUBE Wired interview, giving us a full 360\u00b0 look at what they've been building. From the sensor suite to the chassis design, it's a remarkable piece of engineering.\n\nTheir executives are joining us today from our @NYSE  Studios to break down the technology, the roadmap, and what's next for autonomous vehicles.\n\nFollow the future. \ud83d\udcf7\nhttps://t.co/yoSYUurhgT\n\n#AutonomousVehicles #Robotics #Tensor #theCUBE #NYSE #AI #Innovation\n@furrier @bjbaumann2014  @GemmaAllenSays",
-          "engagement": "878K views",
-          "views": 878398
-        },
-        {
-          "handle": "NASAaero",
-          "url": "https://x.com/NASAaero/status/2062999623359156275",
-          "headline": "NASA X-59 achieves first supersonic flight milestone.",
-          "body": "\u2708\ufe0f JUST IN: The X-59 has gone supersonic! \n\nThe X-59 achieved supersonic speeds for the first time ever today \u2014 a major milestone for NASA\u2019s Quesst mission and an important step toward upcoming flights that will demonstrate its quiet supersonic technology ahead of future community overflights. \n\nFast now. Quiet soon. \ud83d\udd0a\u27a1\ufe0f\ud83e\udd2b \n\nLearn more: https://t.co/lpVA3qRxAj\n\n#NASA #X59 #Quesst",
-          "engagement": "420K views",
-          "views": 419831
-        },
-        {
-          "handle": "forallcurious",
-          "url": "https://x.com/forallcurious/status/2062982569315156419",
-          "headline": "Scientists plan human teleportation enabled by new quantum breakthrough",
-          "body": "\ud83d\udea8: Scientists plan to teleport an entire human, and a new quantum breakthrough could finally make it a reality",
-          "engagement": "58K views",
-          "views": 58033
+          "handle": "@zeroxjf",
+          "url": "https://x.com/zeroxjf/status/2063058016031703358",
+          "headline": "AI-assisted vulnerability discovery harness forked for Codex-first automated research",
+          "body": "I forked Anthropic\u2019s new vuln-discovery harness and made it Codex-first.\n\nRecon \u2192 Find \u2192 Verify \u2192 Triage \u2192 Report \u2192 Patch\n\nSandboxed agents find bugs, prove them with crashing PoCs, dedupe, write exploitability reports, and validate patches.\n\nhttps://github.com/zeroxjf/defending-code-reference-harness-codex",
+          "engagement": "22K views",
+          "views": 22307
         }
       ]
     },
     "local": {
       "stories": [
-        {
-          "handle": "sentdefender",
-          "url": "https://x.com/sentdefender/status/2062978501087756602",
-          "headline": "Special ops training with aircraft in Long Beach and Pasadena areas of Southern California.",
-          "body": "Special operations forces conducted realistic training in an urban environment overnight in the Long Beach/Pasadena areas of Southern California, including aircraft of the U.S. Army's 160th Special Operations Aviation Regiment (SOAR). This training is conducted by U.S. Army Delta Force, U.S. Navy SEALs, and other special forces units in major cities around the country several times per year.\n\nVideo from Long Beach Local News",
-          "engagement": "83.7K views",
-          "views": 83698
-        },
         {
           "handle": "zermatist",
           "url": "https://x.com/zermatist/status/2063049954671657095",
@@ -349,15 +317,31 @@
         {
           "handle": "KTLA",
           "url": "https://x.com/KTLA/status/2063285462513394061",
-          "headline": "Classic June gloom expected across Southern California this week",
+          "headline": "National Weather Service forecasts classic June gloom for Southern California this week.",
           "body": "A series of low pressure systems will bring cloud cover to Southern California communities this week as part of a \u201cclassic June gloom\u201d before temperatures rise later on next week, the National Weather Service says. https://ktla.com/weather/classic-june-gloom-in-store-for-southern-california-before-eventual-warming-trend-nws/",
-          "engagement": "2.4K views",
-          "views": 2435
+          "engagement": "3.9K views",
+          "views": 3908
         }
       ]
     },
     "conspiracy": {
       "stories": [
+        {
+          "handle": "Real_RobN",
+          "url": "https://x.com/Real_RobN/status/2063323847907328477",
+          "headline": "Runbeck whistleblower confirms illegal ballots inserted in 2022 Arizona election",
+          "body": "Here it is:\n\nRUNBECK WHISTLEBLOWER:\n\nCONFIRMS BEYOND THE SHADOW OF A DOUBT,\n\nThat Runbeck printed approximately 300,000 ballots and illegally inserted them into the tally\u2014not coming from drop boxes, not coming from polling locations, but instead being brought in by employees\u2014for the Arizona 2022 General Election, effectively overthrowing the state government of Arizona.\n\n\ud83d\udcddKatie Hobbs and her co-conspirator, Adrian Fontes, rigged three elections in a row.",
+          "engagement": "26K views",
+          "views": 25607
+        },
+        {
+          "handle": "ryanmauro",
+          "url": "https://x.com/ryanmauro/status/2063324064077189482",
+          "headline": "Russian state media amplifies Candace Owens conspiracy theories against Erika Kirk",
+          "body": "Russian state propaganda previously attacked @MrsErikaKirk by amplifying @RealCandaceO's conspiracy theories.\n\nNow Russia is going STRAIGHT at her. Why? Because Erika Kirk represents pro-Western Christianity. Russia & Candace represent authoritarian Tsarist Christianity.\n\nRussia has been trying to influence TPUSA in 2018. It failed. Now, they have to destroy it.\n\nAnd it's a proxy battle in the broader ideological war.",
+          "engagement": "21K views",
+          "views": 21112
+        },
         {
           "handle": "DocAlienista",
           "url": "https://x.com/DocAlienista/status/2063166681417949278",
@@ -365,22 +349,6 @@
           "body": "He mejorado estas fotos/V\u00eddeos a 4K sobre Ufos y Aliens\ud83d\udc47\u2b07\ufe0f",
           "engagement": "57K views",
           "views": 57185
-        },
-        {
-          "handle": "OlenaRohoza",
-          "url": "https://x.com/OlenaRohoza/status/2063003602034077896",
-          "headline": "Epstein documents reveal alleged cannibalism and ritual abuse",
-          "body": "\ud83c\uddfa\ud83c\uddf8\ud83e\uddd0Epstein case revelations: U.S. Congresswoman Lauren Boebert stunned Newsmax after reviewing the unredacted Epstein documents:\n\u201cIt\u2019s far darker than anyone could have imagined: emails about torture, constant references to \u2018consumption,\u2019 a place literally called the \u2018Cannibal Restaurant,\u2019 and code words like \u2018jerky\u2019 and \u2018human meat\u2019 being tossed around as if it were nothing.\u201d\nYes. She directly asked whether we are dealing with cannibalism. With literal human consumption.\nThis is no longer some fringe theory. A sitting member of Congress is openly saying what no one else dares to say: these monsters not only abused and trafficked children \u2014 they may have eaten them as well.\nAnd the women? Ghislaine Maxwell, Rachel Chandler, and an entire network of female predators were deeply involved in delivering children into this nightmare machine.\nThis isn\u2019t \u201celite pedophilia.\u201d This is satanic depravity. This is ritualized evil in suits and private jets. The documents are so horrifying, she warns, that the public may not be ready for them. But you know what?\nWe are more than ready. We are furious.\nEnough redactions. Enough excuses about \u201cnational security.\u201d Enough protecting these flesh-eating demons. Release every page. Name every name. Burn their world down.\nThe American people deserve the truth \u2014 even if it makes us sick.\nEspecially if it makes us sick.",
-          "engagement": "76K views",
-          "views": 76880
-        },
-        {
-          "handle": "TheSCIF",
-          "url": "https://x.com/TheSCIF/status/2063030789009289370",
-          "headline": "Obama alleged treason in Russia collusion conspiracy",
-          "body": "Obama committed TREASON by executing Hillary Clinton's plan to frame Trump, cover up their crimes, and steal the 2016 election.\n\nHe greenlit a second fabricated ICA after no collusion was found, with Brennan overriding the CIA, injecting the fake Steele Dossier to create it.\n\nThe FBI and IC spied on Trump's campaign and spread the Russia hoax with the MSM. This is the greatest grand conspiracy in American history, still unfolding today. It's time to flush these traitors out and finish the job.",
-          "engagement": "34K views",
-          "views": 34657
         }
       ]
     },
@@ -413,5 +381,5 @@
       ]
     }
   },
-  "last_updated": "2026-06-06T17:15:43.096181"
+  "last_updated": "2026-06-06T21:05:38.028678"
 }
