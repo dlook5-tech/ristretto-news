@@ -57,102 +57,24 @@
           ]
         },
         {
-          "headline": "Ireland issues travel bans for two Israeli ministers",
-          "url": "https://x.com/BBCWorld/status/2062894474187923799",
-          "handle": "BBCWorld",
+          "headline": "Zelenskyy marks 82nd anniversary of D-Day, links to Ukraine's fight against Russia",
+          "url": "https://x.com/ZelenskyyUa/status/2063204833268519060",
+          "handle": "ZelenskyyUa",
           "perspectives": [
             {
               "label": "Independent",
-              "handle": "BBCWorld",
-              "url": "https://x.com/BBCWorld/status/2062894474187923799",
-              "body": "Ireland issues travel bans for two Israeli ministers",
-              "engagement": "262K views",
-              "views": 262876
+              "handle": "ZelenskyyUa",
+              "url": "https://x.com/ZelenskyyUa/status/2063204833268519060",
+              "body": "Today is the 82nd anniversary of D-Day \u2013 the Allied landings in Normandy... We are working to make it happen again today... Glory to Ukraine!",
+              "engagement": "120K views",
+              "views": 120351
             }
           ]
         }
       ]
     },
     "usa": {
-      "stories": [
-        {
-          "headline": "Senate Republicans greenlight dropping IRS investigations into Trump",
-          "url": "https://x.com/SenWarren/status/2062903951352119409",
-          "handle": "SenWarren",
-          "perspectives": [
-            {
-              "label": "Democrat",
-              "handle": "SenWarren",
-              "url": "https://x.com/SenWarren/status/2062903951352119409",
-              "body": "At 4am, Senate Republicans gave the greenlight for the IRS to drop ALL investigations into Trump and his family. That means if Trump is evading taxes, we\u2019ll never know. I have a bill to make this illegal. And I won\u2019t stop fighting to get it done.",
-              "engagement": "118K views",
-              "views": 118449
-            },
-            {
-              "label": "Independent",
-              "handle": "WhiteHouse",
-              "url": "https://x.com/WhiteHouse/status/2062318641542988097",
-              "body": "Mogged.",
-              "engagement": "4.8M views",
-              "views": 4813500
-            }
-          ]
-        },
-        {
-          "headline": "Senate advances SAVE America Act on election integrity with partisan votes",
-          "url": "https://x.com/BasedMikeLee/status/2062737458429575317",
-          "handle": "BasedMikeLee",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "BasedMikeLee",
-              "url": "https://x.com/BasedMikeLee/status/2062737458429575317",
-              "body": "I\u2019m about to offer the House-passed version of the SAVE America Act on the Senate floor in connection with tonight\u2019s vote-a-rama This one should get at least 51 votes Will keep you posted",
-              "engagement": "1.2M views",
-              "views": 1258100
-            },
-            {
-              "label": "Independent",
-              "handle": "RonDeSantis",
-              "url": "https://x.com/RonDeSantis/status/2062336024022274241",
-              "body": "Florida processes more than 10 million votes in a matter of hours. California takes days \u2014 or sometimes even weeks \u2014 to count the votes. It\u2019s pathetic \u2014 and it\u2019s corrosive to our civic culture.",
-              "engagement": "1.2M views",
-              "views": 1237844
-            },
-            {
-              "label": "Democrat",
-              "handle": "SenAdamSchiff",
-              "url": "https://x.com/SenAdamSchiff/status/2062890210216509734",
-              "body": "I asked Senate Republicans who among them thought Trump\u2019s slush fund was a good idea. None replied and silence filled the chamber. I then offered Republicans a chance to shut it down by voting for my amendment. They chose not to. They are simply too scared of crossing this corrupt president.",
-              "engagement": "273K views",
-              "views": 273859
-            }
-          ]
-        },
-        {
-          "headline": "White House announces strong US jobs numbers",
-          "url": "https://x.com/WhiteHouse/status/2062884560006701316",
-          "handle": "WhiteHouse",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "WhiteHouse",
-              "url": "https://x.com/WhiteHouse/status/2062884560006701316",
-              "body": "OUTSTANDING JOBS NUMBERS! \ud83d\udcc8\ud83c\uddfa\ud83c\uddf8",
-              "engagement": "600K views",
-              "views": 600362
-            },
-            {
-              "label": "Independent",
-              "handle": "washingtonpost",
-              "url": "https://x.com/washingtonpost/status/2062633009350648185",
-              "body": "More than half of the publicly identified donors to President Trump\u2019s White House ballroom project have won new or expanded federal contracts worth more than $50 billion, according to a report from a government watchdog group.",
-              "engagement": "558K views",
-              "views": 558806
-            }
-          ]
-        }
-      ]
+      "stories": []
     },
     "business": {
       "stories": [
@@ -165,20 +87,20 @@
           "views": 4024200
         },
         {
-          "handle": "TedPillows",
-          "url": "https://x.com/TedPillows/status/2062900935542575520",
-          "headline": "Markets across stocks, gold, silver, crypto, bonds and oil all dumping simultaneously",
-          "body": "Stocks are dumping.\nGold is dumping.\nSilver is dumping.\nCrypto is dumping.\nBonds are dumping.\nEven Oil is dumping.\n\nIf everything is dumping, where the hell is money going?",
-          "engagement": "4.86M views",
-          "views": 4857417
-        },
-        {
           "handle": "WatcherGuru",
           "url": "https://x.com/WatcherGuru/status/2062987840934342909",
-          "headline": "$1.75 trillion wiped out from US stock market and $130 billion from crypto in one day",
+          "headline": "$1.75 trillion wiped out from US stock market and $130B from crypto",
           "body": "JUST IN: \ud83c\uddfa\ud83c\uddf8 $1.75 trillion wiped out from the US stock market today.\n\n$130,000,000,000 wiped out from the crypto market cap.",
-          "engagement": "2.11M views",
-          "views": 2110143
+          "engagement": "2.3M views",
+          "views": 2314288
+        },
+        {
+          "handle": "TedPillows",
+          "url": "https://x.com/TedPillows/status/2062939241588416843",
+          "headline": "$1.5 trillion erased from US stock market in one day amid bloodbath",
+          "body": "$1,500,000,000,000 has been erased from the US stock market today.\n\nAbsolute bloodbath.",
+          "engagement": "2.7M views",
+          "views": 2703406
         }
       ]
     },
@@ -222,19 +144,11 @@
         },
         {
           "handle": "AP",
-          "url": "https://x.com/AP/status/2062867039396471099",
-          "headline": "Scott Pelley fantasy after blasting CBS management",
-          "body": "Scott Pelley may have lost his job after publicly blasting CBS management. But for many workers, he lived out a fantasy. https://apnews.com/article/cbs-scott-pelley-60-minutes-news-work-bosses-1f23c4cde8e2f0c5908d03d6febde363?taid=6a22ba426ddeab0001698596&utm_campaign=TrueAnthem&utm_medium=AP&utm_source=Twitter",
-          "engagement": "119K views",
-          "views": 119651
-        },
-        {
-          "handle": "nytimes",
-          "url": "https://x.com/nytimes/status/2062876029878734881",
-          "headline": "NYT breaking: US added 172,000 jobs in May, unemployment at 4.3%",
-          "body": "Breaking News: The U.S. added 172,000 jobs in May and the unemployment rate stayed at 4.3%, a strong showing for the labor market. https://www.nytimes.com/live/2026/business/jobs-report-economy?smid=tw-nytimes&smtyp=cur",
-          "engagement": "80K views",
-          "views": 80188
+          "url": "https://x.com/AP/status/2063048730362646942",
+          "headline": "Xavier Becerra advances to California governor general election.",
+          "body": "BREAKING: Former U.S. Secretary of Health and Human Services and Democrat Xavier Becerra has advanced to the general election for California governor.\nhttps://apnews.com/article/california-governor-election-primary-2026-98b2b4dcca6813c3ffeb9754bd09805d",
+          "engagement": "173K views",
+          "views": 172906
         }
       ]
     },
@@ -251,18 +165,18 @@
         {
           "handle": "MLB",
           "url": "https://x.com/MLB/status/2063090742625522044",
-          "headline": "Miguel Rojas makes incredible barehand play with Freddie Freeman stretch",
-          "body": "PLAY OF THE YEAR?! \ud83d\ude31\n\nMIGUEL ROJAS WITH THE BAREHAND, FREDDIE FREEMAN WITH THE STRETCH!",
-          "engagement": "1.4M views",
-          "views": 1405685
+          "headline": "MLB highlights Miguel Rojas barehand catch and Freddie Freeman stretch.",
+          "body": "PLAY OF THE YEAR?! \ud83d\ude31\n\nMIGUEL ROJAS WITH THE BAREHAND, FREDDIE FREEMAN WITH THE STRETCH!\n\n---",
+          "engagement": "2.2M views",
+          "views": 2167458
         },
         {
           "handle": "MLB",
           "url": "https://x.com/MLB/status/2063119260600197139",
-          "headline": "Freddie Freeman hits walk-off homer in the 9th inning",
+          "headline": "Freddie Freeman hits walk-off homer in the 9th inning.",
           "body": "FREDDIE FREEMAN CALLS GAME \n\nWALK-OFF HOMER IN THE 9TH \ud83d\ude80",
-          "engagement": "694K views",
-          "views": 694038
+          "engagement": "1.3M views",
+          "views": 1282768
         }
       ]
     },
@@ -270,11 +184,11 @@
       "stories": [
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2062905215125233995",
-          "headline": "Elon Musk announces new X feature for Community Notes corrections",
-          "body": "Users who interact with a misleading post that is subsequently corrected by @CommunityNotes will receive an \ud835\udd4f Chat message of the CN to correct any misperception",
-          "engagement": "22.3M views",
-          "views": 22289495
+          "url": "https://x.com/elonmusk/status/2063138341822820398",
+          "headline": "Elon Musk posts video content",
+          "body": "https://t.co/Vw5QA6Y7k6",
+          "engagement": "17.9M views",
+          "views": 17919183
         },
         {
           "handle": "elonmusk",
@@ -307,10 +221,10 @@
         {
           "handle": "joerogan",
           "url": "https://x.com/joerogan/status/2062930931522912589",
-          "headline": "Joe Rogan promotes new episode with Caleb Hammer",
+          "headline": "Joe Rogan promotes new episode with financial advisor Caleb Hammer",
           "body": "Episode #2509 @sircalebhammer \nhttps://open.spotify.com/episode/4Zuskpj6tHUtxUjtE7wV25?si=f5z8CqUbQ8WJsruIVpToNw\n\nCaleb is a very smart and  entertaining guy giving legit financial advice to a generation who desperately needs it. \nEpisode is out now on @spotify and everywhere else",
-          "engagement": "420K views",
-          "views": 420412
+          "engagement": "433K views",
+          "views": 433700
         },
         {
           "handle": "joeroganhq",
@@ -341,12 +255,12 @@
           "views": 1797990
         },
         {
-          "handle": "21metgala",
-          "url": "https://x.com/21metgala/status/2062968750039580677",
-          "headline": "Celebrity video clip shared by fan account",
-          "body": "\ud83e\udd79",
-          "engagement": "1.4M views",
-          "views": 1442718
+          "handle": "PopBase",
+          "url": "https://x.com/PopBase/status/2063173353964294466",
+          "headline": "Sabrina Carpenter commemorates one year anniversary of 'Manchild'.",
+          "body": "Sabrina Carpenter commemorates the one year anniversary of \u2018Manchild\u2019:\n\n\u201cone of year of hey men and they are pigs\u201d",
+          "engagement": "415K views",
+          "views": 414896
         }
       ]
     },
@@ -373,28 +287,20 @@
     "science": {
       "stories": [
         {
-          "handle": "Tesla_AI",
-          "url": "https://x.com/Tesla_AI/status/2062897227690074124",
-          "headline": "Tesla invites to CVPR booth for neural video generation, Optimus, and real FSD demos.",
-          "body": "Come visit our CVPR booth for hands-on experiences:\n\n\u2013 Neural video generation + sim drive\n\u2013 Selfies with @Tesla_Optimus \n\u2013 Real FSD test drives in Tesla models of your choice\n\nChat directly with the team behind it, including @aelluswamy & @pduan and other engineers to get answers to your questions. Recruiters are also on-site for career opportunities.\n\nWhile others talk about autonomous driving, Tesla is the only one solving it in the real world with a true long-term approach. Come experience live demos and grab some swag!",
-          "engagement": "603K views",
-          "views": 602514
-        },
-        {
-          "handle": "ProfBuehlerMIT",
-          "url": "https://x.com/ProfBuehlerMIT/status/2062865983459475830",
-          "headline": "MIT researcher unveils self-evolving AI scientist framework for principled discovery.",
-          "body": "We've made a breakthrough in self-evolving AI scientists moving from \"search\" to \"principled discovery\": Scientific discovery requires that the search space itself changes, and an AI scientist must perceive this shift without intervention. We built an AI that achieves this for the first time with the ability to discover the scientific vocabulary it reasons in. Evidence, tools, artifacts, verifiers, failures & claims become typed provenance. We show three distinct modalities: 1) retrieval, adding known objects; 2) search, exploring a fixed schema; and critically: 3) discovery, a verified regime transition. \n\nWe solve the open-endedness evaluation problem by lifting agentic workflows into a typed copresheaf and proving, via a Kan obstruction, that true discovery is not unbounded generation but a verifiable schema expansion: old evidence is transported by Left Kan extension, and genuine novelty is mathematically quantified by the pointwise residual beyond the transported image - separating discovery from mere search and making novelty objective and measurable rather than a subjective judgment or benchmark delta.\n\nOur AI scientist is built in a way that does not pre-conceive the approach it chooses; instead, we endow the system with formal power to adapt, evolve, and reason from first principles. Case studies include: \n1\u20e3Builder/Breaker model that discovers mode-conditioned compliance in proteins;\n2\u20e3CategoryScienceClaw that finds anisotropic fiber-network stiffness rules.\n\nGreat work in collaboration with my graduate student @fwang108_ @MITdeptofBE\n\nF.Y. Wang & M.J. Buehler, Self-Revising Discovery Systems for Science: A Categorical Framework for Agentic Artificial Intelligence, arXiv:2606.01444, 2026",
-          "engagement": "525K views",
-          "views": 525443
+          "handle": "theCUBE",
+          "url": "https://x.com/theCUBE/status/2062980275324281014",
+          "headline": "TensorAuto unveils prototype robo-car showcasing autonomous mobility engineering",
+          "body": "This is what the future of autonomous mobility looks like \u2014 and we brought it to Wall Street.\n\n@TensorAuto rolled their prototype robo-car into the New York Stock Exchange ahead of today's #theCUBE Wired interview, giving us a full 360\u00b0 look at what they've been building. From the sensor suite to the chassis design, it's a remarkable piece of engineering.\n\nTheir executives are joining us today from our @NYSE  Studios to break down the technology, the roadmap, and what's next for autonomous vehicles.\n\nFollow the future. \ud83d\udcf7\nhttps://t.co/yoSYUurhgT\n\n#AutonomousVehicles #Robotics #Tensor #theCUBE #NYSE #AI #Innovation\n@furrier @bjbaumann2014  @GemmaAllenSays",
+          "engagement": "878K views",
+          "views": 878398
         },
         {
           "handle": "forallcurious",
           "url": "https://x.com/forallcurious/status/2062982569315156419",
-          "headline": "Scientists plan human teleportation enabled by new quantum breakthrough.",
+          "headline": "Scientists plan human teleportation enabled by new quantum breakthrough",
           "body": "\ud83d\udea8: Scientists plan to teleport an entire human, and a new quantum breakthrough could finally make it a reality",
-          "engagement": "50.3K views",
-          "views": 50303
+          "engagement": "58K views",
+          "views": 58033
         }
       ]
     },
@@ -417,17 +323,25 @@
           "views": 83698
         },
         {
-          "handle": "hudsonwonline",
-          "url": "https://x.com/hudsonwonline/status/2063019642290085977",
-          "headline": "Update on rescued sea lion pup Hollander from Newport Beach",
-          "body": "Pacific Marina Mammal Center in California posted an update about the rescued sea lion named Hollander via Instagram \ud83e\udd7a\n\n\u201cRemember Hollander? She is the California sea lion pup who stranded on March 5th in Newport Beach, a day when Ian Slater had been invited to come for a visit to see our hospital in action. \n\nHollander was named after the famous Heated Rivalry star [Shane Hollander] and she has been a star of a patient, recovering from malnutrition, external injuries to her flippers, and an ingestion of a fishing hook, with the dedicated help from our expert team of staff and volunteers \ud83e\ude7a\n\nHollander has eaten her fair share of fish, successfully treated for injuries, gained weight, and ready to go home with her fellow rehabilitated friend, Lighthouse \ud83e\ude75\u201d\n\n\ud83d\udd17",
-          "engagement": "18K views",
-          "views": 18846
+          "handle": "zermatist",
+          "url": "https://x.com/zermatist/status/2063049954671657095",
+          "headline": "Surf punk video highlighting territorial beach culture in Southern California",
+          "body": "The Surf Punks - \"My Beach\" (1982)\n\nSurf punk is a pretty reactionary subgenre. It's highly territorial, it's all about making the non-locals go away so they can't talk to the chicks and party with them on the beach. Very good attitude, I approve.",
+          "engagement": "40.7K views",
+          "views": 40739
         }
       ]
     },
     "conspiracy": {
       "stories": [
+        {
+          "handle": "DocAlienista",
+          "url": "https://x.com/DocAlienista/status/2063166681417949278",
+          "headline": "Enhanced 4K UFO and alien photos/videos shared",
+          "body": "He mejorado estas fotos/V\u00eddeos a 4K sobre Ufos y Aliens\ud83d\udc47\u2b07\ufe0f",
+          "engagement": "57K views",
+          "views": 57185
+        },
         {
           "handle": "SSWorks",
           "url": "https://x.com/SSWorks/status/2062934657360973904",
@@ -443,26 +357,18 @@
           "body": "NEW: Rep. Luna called the White House to suggest a UAP whistleblower Executive Order\n\nLuna says UAP whistleblower protections would allow those with information to come forward without risk of violating the Espionage Act.",
           "engagement": "64K views",
           "views": 64302
-        },
-        {
-          "handle": "HQNewsNow",
-          "url": "https://x.com/HQNewsNow/status/2062904282920215014",
-          "headline": "Whistleblower claims DOGE planned to falsely mark 27 million people dead",
-          "body": "https://www.washingtonpost.com/politics/2026/06/05/doge-planned-falsely-mark-27-million-people-dead-whistleblower-says/",
-          "engagement": "40K views",
-          "views": 40037
         }
       ]
     },
     "comedy": {
       "stories": [
         {
-          "handle": "charcoded",
-          "url": "https://x.com/charcoded/status/2062881618998480973",
-          "headline": "Gym etiquette joke about heavy dumbbells",
-          "body": "funny how any dumbbells above 60lbs always get put back in the correct spot",
-          "engagement": "1.4M views",
-          "views": 1417192
+          "handle": "MemeManTweets",
+          "url": "https://x.com/MemeManTweets/status/2063039695269884086",
+          "headline": "Fortnite meme video clip",
+          "body": "#fortnite",
+          "engagement": "1.02M views",
+          "views": 1022125
         },
         {
           "handle": "Flamengo",
@@ -475,5 +381,5 @@
       ]
     }
   },
-  "last_updated": "2026-06-06T10:04:47.574123"
+  "last_updated": "2026-06-06T13:44:37.957567"
 }
