@@ -3,37 +3,6 @@
     "world": {
       "stories": [
         {
-          "headline": "Zelenskyy urges peace talks as Russia rejects ceasefire offer amid ongoing Ukraine war",
-          "url": "https://x.com/ZelenskyyUa/status/2062959415616020743",
-          "handle": "ZelenskyyUa",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "JDVance",
-              "url": "https://x.com/JDVance/status/2062938286977421755",
-              "body": "Henry Nowak died the same way a civilization dies: abandoned, handcuffed by authorities who neither trusted nor cared for him, and accused of hate crimes he did not commit.",
-              "engagement": "7.5M views",
-              "views": 7537426
-            },
-            {
-              "label": "Independent",
-              "handle": "ZelenskyyUa",
-              "url": "https://x.com/ZelenskyyUa/status/2062959415616020743",
-              "body": "Unfortunately, the Russian side once again chooses war \u2013 everyone heard the response today. Weak response. He simply does not want to end the war.",
-              "engagement": "434K views",
-              "views": 434444
-            },
-            {
-              "label": "Democrat",
-              "handle": "ZelenskyyUa",
-              "url": "https://x.com/ZelenskyyUa/status/2062616254523888081",
-              "body": "We brought the war onto your territory, and you would not have been able to cope with it without North Korea\u2019s help.",
-              "engagement": "192K views",
-              "views": 192357
-            }
-          ]
-        },
-        {
           "headline": "India secures massive $30B data center investment boosting global AI and cloud infrastructure",
           "url": "https://x.com/narendramodi/status/2062791547012382758",
           "handle": "narendramodi",
@@ -70,11 +39,58 @@
               "views": 120351
             }
           ]
+        },
+        {
+          "headline": "Ukraine strikes Russian oil refinery 2000km deep in Tyumen",
+          "url": "https://x.com/JayinKyiv/status/2063165133300367812",
+          "handle": "JayinKyiv",
+          "perspectives": [
+            {
+              "label": "Independent",
+              "handle": "JayinKyiv",
+              "url": "https://x.com/JayinKyiv/status/2063165133300367812",
+              "body": "Incredible night for Ukraine, taking out Russian oil infrastructure and military targets from St Petersburg to the Urals. 2000km from Ukraine, in Tyumen, the Antipinsky Oil Refinery, capacity 9 million tons/year burns after early morning strikes.",
+              "engagement": "163K views",
+              "views": 163596
+            }
+          ]
         }
       ]
     },
     "usa": {
-      "stories": []
+      "stories": [
+        {
+          "headline": "DC Reflecting Pool restored under Trump",
+          "url": "https://x.com/WhiteHouse/status/2062652076862157126",
+          "handle": "WhiteHouse",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "karolineleavitt",
+              "url": "https://x.com/karolineleavitt/status/2063063207372054689",
+              "body": "We took a family trip to the Lincoln Monument tonight to check out the new reflecting pool. Absolutely stunning. DC is so beautiful again, just in time for our Nation\u2019s 250th.",
+              "engagement": "1M views",
+              "views": 1002234
+            },
+            {
+              "label": "Independent",
+              "handle": "WhiteHouse",
+              "url": "https://x.com/WhiteHouse/status/2062652076862157126",
+              "body": "The water is ON, the Reflecting Pool is reflecting, and D.C. is looking better than ever. We are so back. THANK YOU, PRESIDENT TRUMP.",
+              "engagement": "4.1M views",
+              "views": 4191672
+            },
+            {
+              "label": "Democrat",
+              "handle": "washingtonpost",
+              "url": "https://x.com/washingtonpost/status/2062633009350648185",
+              "body": "More than half of the publicly identified donors to President Trump\u2019s White House ballroom project have won new or expanded federal contracts worth more than $50 billion.",
+              "engagement": "602K views",
+              "views": 602142
+            }
+          ]
+        }
+      ]
     },
     "business": {
       "stories": [
@@ -95,12 +111,12 @@
           "views": 2314288
         },
         {
-          "handle": "TedPillows",
-          "url": "https://x.com/TedPillows/status/2062939241588416843",
-          "headline": "$1.5 trillion erased from US stock market in one day amid bloodbath",
-          "body": "$1,500,000,000,000 has been erased from the US stock market today.\n\nAbsolute bloodbath.",
-          "engagement": "2.7M views",
-          "views": 2703406
+          "handle": "PeterSchiff",
+          "url": "https://x.com/PeterSchiff/status/2063236875184152932",
+          "headline": "Bitcoin long-term chart shows broken uptrend and potential head-and-shoulders top",
+          "body": "Look at this long-term Bitcoin chart. The uptrend off the Dec. 2022 low is broken. There's a huge head-and-shoulders top forming. The most likely resolution is a retest of the longer-term uptrend off the Dec. 2018 low. If it holds, that puts a bottom between $25,000 and $27,000.",
+          "engagement": "242K views",
+          "views": 241641
         }
       ]
     },
@@ -135,12 +151,12 @@
     "msm": {
       "stories": [
         {
-          "handle": "nytimes",
-          "url": "https://x.com/nytimes/status/2062931510953484679",
-          "headline": "Federal judge rules Trump administration must restart asylum applications",
-          "body": "Breaking News: A federal judge said the Trump administration must restart applications for asylum and other immigration processing. https://www.nytimes.com/2026/06/05/us/politics/asylum-immigration-ruling.html?smtyp=cur&smid=tw-nytimes",
-          "engagement": "340.6K views",
-          "views": 340641
+          "handle": "Reuters",
+          "url": "https://x.com/Reuters/status/2063199222820991288",
+          "headline": "Donald Trump says his team will look into US taking stakes in AI companies",
+          "body": "Donald Trump told reporters that his team might buy US stakes in artificial-intelligence companies and said he would host a meeting with AI executives as soon as next week https://www.reuters.com/business/trump-says-his-team-will-look-into-us-taking-stake-ai-companies-2026-06-05/?utm_medium=Social&utm_source=Facebook",
+          "engagement": "655K views",
+          "views": 655321
         },
         {
           "handle": "AP",
@@ -155,12 +171,12 @@
     "sports": {
       "stories": [
         {
-          "handle": "David_Ornstein",
-          "url": "https://x.com/David_Ornstein/status/2062925290406351260",
-          "headline": "Bayern Munich exploring move to sign Rio Ngumoha from Liverpool.",
-          "body": "\ud83d\udea8 EXCL: Bayern Munich exploring move to sign Rio Ngumoha. 17yo Liverpool winger primary #FCBayern target for left side & aware of pursuit. No contact yet between clubs. #LFC insist not for sale + plan to strengthen attack rather than weaken @TheAthleticFC https://www.nytimes.com/athletic/7335728/2026/06/05/rio-ngumoha-bayern-munich-liverpool-transfer-news/",
-          "engagement": "7.3M views",
-          "views": 7338974
+          "handle": "EASPORTSFC",
+          "url": "https://x.com/EASPORTSFC/status/2063274777335214273",
+          "headline": "EA Sports simulation predicts Spain to win 2026 World Cup.",
+          "body": "We've predicted four in a row. Now we've run the sim again.\n\nThe next champion? \ud83c\uddea\ud83c\uddf8",
+          "engagement": "1.7M views",
+          "views": 1699880
         },
         {
           "handle": "MLB",
@@ -219,33 +235,25 @@
           "views": 1149464
         },
         {
-          "handle": "joerogan",
-          "url": "https://x.com/joerogan/status/2062930931522912589",
-          "headline": "Joe Rogan promotes new episode with financial advisor Caleb Hammer",
-          "body": "Episode #2509 @sircalebhammer \nhttps://open.spotify.com/episode/4Zuskpj6tHUtxUjtE7wV25?si=f5z8CqUbQ8WJsruIVpToNw\n\nCaleb is a very smart and  entertaining guy giving legit financial advice to a generation who desperately needs it. \nEpisode is out now on @spotify and everywhere else",
-          "engagement": "433K views",
-          "views": 433700
-        },
-        {
           "handle": "joeroganhq",
           "url": "https://x.com/joeroganhq/status/2062962657393787161",
-          "headline": "Clip from Joe Rogan podcast where guest asks about defending against Rogan.",
+          "headline": "Clip of Joe Rogan responding to a guest's self-defense question.",
           "body": "Guest: \"Can I ever actually defend myself against someone like you?\"\n\nJoe Rogan: \"No.\"",
-          "engagement": "284K views",
-          "views": 283999
+          "engagement": "390K views",
+          "views": 389606
+        },
+        {
+          "handle": "theovon",
+          "url": "https://x.com/theovon/status/2062996762793832626",
+          "headline": "Theo Von posts a short video with Dr. Peter McCullough.",
+          "body": "puff puff persevere @P_McCulloughMD",
+          "engagement": "48K views",
+          "views": 47572
         }
       ]
     },
     "pg6": {
       "stories": [
-        {
-          "handle": "FilmUpdates",
-          "url": "https://x.com/FilmUpdates/status/2062952887815200801",
-          "headline": "Inde Navarrette appears on Jimmy Kimmel Live",
-          "body": "Inde Navarrette for Jimmy Kimmel Live",
-          "engagement": "3.3M views",
-          "views": 3317215
-        },
         {
           "handle": "TMZ",
           "url": "https://x.com/TMZ/status/2062980379196199381",
@@ -253,6 +261,14 @@
           "body": "\ud83d\udc9e Shaun White takes new girlfriend Angela Garten for bike ride in NYC.\n\nPhotos: https://www.tmz.com/2026/06/05/shaun-white-new-girlfriend-angela-garten-bike-ride/",
           "engagement": "1.8M views",
           "views": 1797990
+        },
+        {
+          "handle": "AboutMusicYT",
+          "url": "https://x.com/AboutMusicYT/status/2063264517493030940",
+          "headline": "Taylor Swift's 'I Knew It, I Knew You' debuts with over 10 million Spotify streams",
+          "body": "I Knew It, I Knew You by Taylor Swift debuts with 10,493,923 streams on Spotify Counter.",
+          "engagement": "197K views",
+          "views": 196749
         },
         {
           "handle": "PopBase",
@@ -295,6 +311,14 @@
           "views": 878398
         },
         {
+          "handle": "NASAaero",
+          "url": "https://x.com/NASAaero/status/2062999623359156275",
+          "headline": "NASA X-59 achieves first supersonic flight milestone.",
+          "body": "\u2708\ufe0f JUST IN: The X-59 has gone supersonic! \n\nThe X-59 achieved supersonic speeds for the first time ever today \u2014 a major milestone for NASA\u2019s Quesst mission and an important step toward upcoming flights that will demonstrate its quiet supersonic technology ahead of future community overflights. \n\nFast now. Quiet soon. \ud83d\udd0a\u27a1\ufe0f\ud83e\udd2b \n\nLearn more: https://t.co/lpVA3qRxAj\n\n#NASA #X59 #Quesst",
+          "engagement": "420K views",
+          "views": 419831
+        },
+        {
           "handle": "forallcurious",
           "url": "https://x.com/forallcurious/status/2062982569315156419",
           "headline": "Scientists plan human teleportation enabled by new quantum breakthrough",
@@ -306,14 +330,6 @@
     },
     "local": {
       "stories": [
-        {
-          "handle": "OC_Scanner",
-          "url": "https://x.com/OC_Scanner/status/2062950474991747287",
-          "headline": "US Army Special Forces conducting urban training at old Golden Sails Hotel in Long Beach.",
-          "body": "BREAKING \ud83d\udea8\ud83d\udea8 \n\n#LongBeach / #California \n\nNew video shared to social media last night shows US Army Special Forces operators conducting urban training exercises at the old golden sails hotel on PCH.",
-          "engagement": "167K views",
-          "views": 167070
-        },
         {
           "handle": "sentdefender",
           "url": "https://x.com/sentdefender/status/2062978501087756602",
@@ -329,6 +345,14 @@
           "body": "The Surf Punks - \"My Beach\" (1982)\n\nSurf punk is a pretty reactionary subgenre. It's highly territorial, it's all about making the non-locals go away so they can't talk to the chicks and party with them on the beach. Very good attitude, I approve.",
           "engagement": "40.7K views",
           "views": 40739
+        },
+        {
+          "handle": "KTLA",
+          "url": "https://x.com/KTLA/status/2063285462513394061",
+          "headline": "Classic June gloom expected across Southern California this week",
+          "body": "A series of low pressure systems will bring cloud cover to Southern California communities this week as part of a \u201cclassic June gloom\u201d before temperatures rise later on next week, the National Weather Service says. https://ktla.com/weather/classic-june-gloom-in-store-for-southern-california-before-eventual-warming-trend-nws/",
+          "engagement": "2.4K views",
+          "views": 2435
         }
       ]
     },
@@ -343,20 +367,20 @@
           "views": 57185
         },
         {
-          "handle": "SSWorks",
-          "url": "https://x.com/SSWorks/status/2062934657360973904",
-          "headline": "Whistleblower claims Trump admin planned to falsely mark millions as dead in Social Security database",
-          "body": "\ud83d\udea8HUGE NEWS: A whistleblower reveals that the Trump administration planned to falsely mark 2.7 million Americans as dead in the Social Security database.\n\nDonald Trump views Social Security as a weapon against his enemies, not an earned benefit. \ud83e\uddf5",
-          "engagement": "128K views",
-          "views": 128006
+          "handle": "OlenaRohoza",
+          "url": "https://x.com/OlenaRohoza/status/2063003602034077896",
+          "headline": "Epstein documents reveal alleged cannibalism and ritual abuse",
+          "body": "\ud83c\uddfa\ud83c\uddf8\ud83e\uddd0Epstein case revelations: U.S. Congresswoman Lauren Boebert stunned Newsmax after reviewing the unredacted Epstein documents:\n\u201cIt\u2019s far darker than anyone could have imagined: emails about torture, constant references to \u2018consumption,\u2019 a place literally called the \u2018Cannibal Restaurant,\u2019 and code words like \u2018jerky\u2019 and \u2018human meat\u2019 being tossed around as if it were nothing.\u201d\nYes. She directly asked whether we are dealing with cannibalism. With literal human consumption.\nThis is no longer some fringe theory. A sitting member of Congress is openly saying what no one else dares to say: these monsters not only abused and trafficked children \u2014 they may have eaten them as well.\nAnd the women? Ghislaine Maxwell, Rachel Chandler, and an entire network of female predators were deeply involved in delivering children into this nightmare machine.\nThis isn\u2019t \u201celite pedophilia.\u201d This is satanic depravity. This is ritualized evil in suits and private jets. The documents are so horrifying, she warns, that the public may not be ready for them. But you know what?\nWe are more than ready. We are furious.\nEnough redactions. Enough excuses about \u201cnational security.\u201d Enough protecting these flesh-eating demons. Release every page. Name every name. Burn their world down.\nThe American people deserve the truth \u2014 even if it makes us sick.\nEspecially if it makes us sick.",
+          "engagement": "76K views",
+          "views": 76880
         },
         {
-          "handle": "UAPJames",
-          "url": "https://x.com/UAPJames/status/2062945543890903302",
-          "headline": "Rep. Luna suggests UAP whistleblower Executive Order to White House",
-          "body": "NEW: Rep. Luna called the White House to suggest a UAP whistleblower Executive Order\n\nLuna says UAP whistleblower protections would allow those with information to come forward without risk of violating the Espionage Act.",
-          "engagement": "64K views",
-          "views": 64302
+          "handle": "TheSCIF",
+          "url": "https://x.com/TheSCIF/status/2063030789009289370",
+          "headline": "Obama alleged treason in Russia collusion conspiracy",
+          "body": "Obama committed TREASON by executing Hillary Clinton's plan to frame Trump, cover up their crimes, and steal the 2016 election.\n\nHe greenlit a second fabricated ICA after no collusion was found, with Brennan overriding the CIA, injecting the fake Steele Dossier to create it.\n\nThe FBI and IC spied on Trump's campaign and spread the Russia hoax with the MSM. This is the greatest grand conspiracy in American history, still unfolding today. It's time to flush these traitors out and finish the job.",
+          "engagement": "34K views",
+          "views": 34657
         }
       ]
     },
@@ -365,10 +389,18 @@
         {
           "handle": "MemeManTweets",
           "url": "https://x.com/MemeManTweets/status/2063039695269884086",
-          "headline": "Fortnite meme video clip",
+          "headline": "Fortnite meme clip",
           "body": "#fortnite",
-          "engagement": "1.02M views",
-          "views": 1022125
+          "engagement": "1.56M views",
+          "views": 1561706
+        },
+        {
+          "handle": "cyqhris",
+          "url": "https://x.com/cyqhris/status/2063071321580593445",
+          "headline": "Twitter started as a joke",
+          "body": "twitter started off as a joke for me now i deadass go on here when im bored",
+          "engagement": "244K views",
+          "views": 244288
         },
         {
           "handle": "Flamengo",
@@ -381,5 +413,5 @@
       ]
     }
   },
-  "last_updated": "2026-06-06T13:44:37.957567"
+  "last_updated": "2026-06-06T17:15:43.096181"
 }
