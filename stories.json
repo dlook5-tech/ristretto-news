@@ -1,46 +1,30 @@
 {
   "stories": {
     "world": {
-      "stories": [
-        {
-          "headline": "Zelenskyy marks 82nd anniversary of D-Day, links to Ukraine's fight against Russia",
-          "url": "https://x.com/ZelenskyyUa/status/2063204833268519060",
-          "handle": "ZelenskyyUa",
-          "perspectives": [
-            {
-              "label": "Independent",
-              "handle": "ZelenskyyUa",
-              "url": "https://x.com/ZelenskyyUa/status/2063204833268519060",
-              "body": "Today is the 82nd anniversary of D-Day \u2013 the Allied landings in Normandy... We are working to make it happen again today... Glory to Ukraine!",
-              "engagement": "120K views",
-              "views": 120351
-            }
-          ]
-        }
-      ]
+      "stories": []
     },
     "usa": {
       "stories": [
         {
-          "headline": "Pentagon raises counterintelligence threat level for Israel over espionage concerns",
+          "headline": "Pentagon raises Israel's counterintelligence threat level to critical over espionage on US-Iran talks",
           "url": "https://x.com/nytimes/status/2063331456701583799",
           "handle": "nytimes",
           "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "RealAlexJones",
+              "url": "https://x.com/RealAlexJones/status/2063226001400696873",
+              "body": "NBC News is reporting that the Pentagon has now listed Israel as a TOP national security threat facing the United States! This is a HUGE development of historic proportions.",
+              "engagement": "1.1M views",
+              "views": 1164518
+            },
             {
               "label": "Independent",
               "handle": "nytimes",
               "url": "https://x.com/nytimes/status/2063331456701583799",
               "body": "The Pentagon has raised its counterintelligence threat level for Israel amid concerns about eavesdropping on U.S.-Iran talks.",
-              "engagement": "942K views",
-              "views": 941665
-            },
-            {
-              "label": "Democrat",
-              "handle": "SenSanders",
-              "url": "https://x.com/SenSanders/status/2063300110801424660",
-              "body": "Netanyahu knows Americans are sick of funding Israel\u2019s wars. So now he\u2019s working with Congress to hide military aid inside Pentagon co-production deals. That means MORE U.S. tax dollars for Israel, with even LESS oversight. Not gonna happen!",
-              "engagement": "810K views",
-              "views": 810459
+              "engagement": "1M views",
+              "views": 1016392
             }
           ]
         },
@@ -76,33 +60,17 @@
           ]
         },
         {
-          "headline": "Rhode Island judge blocks Trump immigration and asylum policies",
-          "url": "https://x.com/America1stLegal/status/2063352727665533384",
-          "handle": "America1stLegal",
+          "headline": "Bernie Sanders slams Netanyahu and Congress for hiding Israel military aid in Pentagon deals",
+          "url": "https://x.com/SenSanders/status/2063300110801424660",
+          "handle": "SenSanders",
           "perspectives": [
             {
-              "label": "Conservative",
-              "handle": "EricLDaugh",
-              "url": "https://x.com/EricLDaugh/status/2063299869905694873",
-              "body": "\ud83d\udea8 NOW: Stephen Miller demands the US SUPREME COURT intervene ASAP after Rhode Island activist Judge John McConnell UNILATERALLY BLOCKED President Trump's policies to shield America from dangerous 3rd world migrants",
-              "engagement": "148K views",
-              "views": 148935
-            },
-            {
-              "label": "Independent",
-              "handle": "DavidJHarrisJr",
-              "url": "https://x.com/DavidJHarrisJr/status/2063256059695784303",
-              "body": "\ud83d\udea8BREAKING: Judge ordering Trump Admin to restart Asylum from 39 dangerous countries donated $700K to Democrats!",
-              "engagement": "56K views",
-              "views": 56157
-            },
-            {
               "label": "Democrat",
-              "handle": "SenWhitehouse",
-              "url": "https://x.com/SenWhitehouse/status/2063013436422828165",
-              "body": "The unthinkable has happened. DOJ lawyers in RI are under federal judicial scrutiny for misconduct, and the longstanding \u201cpresumption of regularity\u201d is lost.",
-              "engagement": "18K views",
-              "views": 18461
+              "handle": "SenSanders",
+              "url": "https://x.com/SenSanders/status/2063300110801424660",
+              "body": "Netanyahu knows Americans are sick of funding Israel\u2019s wars. So now he\u2019s working with Congress to hide military aid inside Pentagon co-production deals. That means MORE U.S. tax dollars for Israel, with even LESS oversight. Not gonna happen!",
+              "engagement": "855K views",
+              "views": 854984
             }
           ]
         }
@@ -111,20 +79,12 @@
     "business": {
       "stories": [
         {
-          "handle": "DonaldTrumpNat",
-          "url": "https://x.com/DonaldTrumpNat/status/2063198687002546625",
-          "headline": "Stocks should go up next Monday",
-          "body": "Stocks should go up next Monday.",
-          "engagement": "2.87M views",
-          "views": 2874709
-        },
-        {
           "handle": "saylor",
           "url": "https://x.com/saylor/status/2063241214552420656",
-          "headline": "AI buildout pressuring markets but strengthens Bitcoin case",
+          "headline": "AI investment surge creates market pressure but boosts Bitcoin case.",
           "body": "The AI buildout is absorbing capital at historic scale, creating temporary pressure across global markets. That does not weaken Bitcoin. It strengthens the case for scarce, liquid, digital capital. Bitcoin remains the premier asset for the long term. $BTC",
-          "engagement": "685K views",
-          "views": 685051
+          "engagement": "924K views",
+          "views": 924337
         },
         {
           "handle": "PeterSchiff",
@@ -169,18 +129,18 @@
         {
           "handle": "nytimes",
           "url": "https://x.com/nytimes/status/2063331456701583799",
-          "headline": "Pentagon raises counterintelligence threat level for Israel over eavesdropping concerns on U.S.-Iran talks.",
+          "headline": "Pentagon raises counterintelligence threat level for Israel amid espionage concerns",
           "body": "The Pentagon has raised its counterintelligence threat level for Israel amid concerns about eavesdropping on U.S.-Iran talks. https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html?smtyp=cur&smid=tw-nytimes",
-          "engagement": "942K views",
-          "views": 941685
+          "engagement": "1M views",
+          "views": 1016392
         },
         {
-          "handle": "Reuters",
-          "url": "https://x.com/Reuters/status/2063199222820991288",
-          "headline": "Trump says team will explore US stakes in AI companies",
-          "body": "Donald Trump told reporters that his team might buy US stakes in artificial-intelligence companies and said he would host a meeting with AI executives as soon as next week",
-          "engagement": "1.4M views",
-          "views": 1410615
+          "handle": "CNN",
+          "url": "https://x.com/CNN/status/2063287116537246057",
+          "headline": "Body of missing American student found outside Kyoto in Japan",
+          "body": "After a dayslong search, the body of the American student who went missing during a family vacation in Japan has been found outside Kyoto. https://www.cnn.com/2026/06/06/us/james-weston-higginbotham-found-dead?Date=20260606&Profile=CNN&utm_content=1780760929&utm_medium=social&utm_source=twitter",
+          "engagement": "976K views",
+          "views": 976187
         },
         {
           "handle": "FoxNews",
@@ -253,50 +213,66 @@
         {
           "handle": "joerogan",
           "url": "https://x.com/joerogan/status/2063320512319705234",
-          "headline": "Joe Rogan announces new podcast episode with Devon Larratt",
+          "headline": "Joe Rogan announces new episode with arm wrestler and veteran Devon Larratt.",
           "body": "Episode #2510 Devon Larratt\nhttps://open.spotify.com/episode/6AHseG7kZhsZ2lsFOCElzN?si=Mhr5euazRUi0-QDAWgrSgw\n\nDevon is a world champion arm wrestler, 16 year veteran of JTF2 - Canada\u2019s tier 1 special operations unit, and an all around unique and very interesting guy.  \n Our podcast is out now on @spotify and everywhere else.",
-          "engagement": "418K views",
-          "views": 417532
+          "engagement": "432K views",
+          "views": 432168
+        },
+        {
+          "handle": "hubermanlab",
+          "url": "https://x.com/hubermanlab/status/2063326890421813260",
+          "headline": "Andrew Huberman discusses risks and benefits of peptides and GLP medications.",
+          "body": "True that exogenous stuff (GLP & other peptides, creatine, etc) is far second to solid health behaviors. But their synergy is real. That is NOT to say there are no risks. My podcast always covers the up and downsides. The GLPs erased needle-phobia & now the floodgates are open\u2026",
+          "engagement": "132K views",
+          "views": 132081
+        },
+        {
+          "handle": "hubermanlab",
+          "url": "https://x.com/hubermanlab/status/2063323865917673852",
+          "headline": "Andrew Huberman comments on peptide episode discussion and balanced coverage.",
+          "body": "It\u2019s going to be interesting to see how people pull specific clips to wage arguments for or against specific peptides, but for those that listen to this entire episode, @AbudBakri provided the most thorough and balanced public coverage of peptides to date\u2026 by a huge margin.",
+          "engagement": "125K views",
+          "views": 125790
         }
       ]
     },
     "pg6": {
       "stories": [
         {
+          "handle": "nino_honmono",
+          "url": "https://x.com/nino_honmono/status/2063239392207278452",
+          "headline": "Arashi archive now publicly available",
+          "body": "\u53ea\u4eca\u3001\u5d50\u306e\u30a2\u30fc\u30ab\u30a4\u30d6\u304c\u7d76\u8cdb\u516c\u958b\u4e2d\u3067\u3059\u3002\n\u3088\u304f\u898b\u3066\u30dd\u30a4\u30f3\u30c8\u306f\u3001\u3001\u3001\nMC\u524d\u306e\u697d\u66f2\u3092\u3088\u304f\u307f\u308b\u3068\u30e1\u30f3\u30d0\u30fc\u306e\u904d\u6b74\u3092\n\u8fbf\u308c\u308b\u306e\u3067\u753b\u9762\u306e\u9685\u3005\u307e\u3067\u3054\u582a\u80fd\u4e0b\u3055\u3044\u307e\u305b\n\ud83d\ude47\u200d\u2642\ufe0f",
+          "engagement": "4626K views",
+          "views": 4625538
+        },
+        {
+          "handle": "PopBase",
+          "url": "https://x.com/PopBase/status/2063371052302946339",
+          "headline": "Olivia Rodrigo announces first original song collaboration",
+          "body": "Olivia Rodrigo\u2019s first career collaboration for an original song will be \u2018what\u2019s wrong with me\u2019 feat. Robert Smith of The Cure.\n\nExcluding remixes and songs intended for TV/film.",
+          "engagement": "1281K views",
+          "views": 1281411
+        },
+        {
           "handle": "PopBase",
           "url": "https://x.com/PopBase/status/2063471762243760583",
-          "headline": "Happy birthday tribute to Prince",
+          "headline": "Happy birthday to Prince, who would have turned 68",
           "body": "Happy birthday to the legendary Prince, who would've turned 68 today.",
-          "engagement": "130K views",
-          "views": 130508
-        },
-        {
-          "handle": "PopBase",
-          "url": "https://x.com/PopBase/status/2063463481253503326",
-          "headline": "Ariana Grande eternal sunshine tour opens with yes, and?",
-          "body": "The opening song for Ariana Grande\u2019s eternal sunshine tour is \u2018yes, and?\u2019",
-          "engagement": "62K views",
-          "views": 62210
-        },
-        {
-          "handle": "PopBase",
-          "url": "https://x.com/PopBase/status/2063468771508133919",
-          "headline": "Ariana Grande performs the boy is mine on tour",
-          "body": "Ariana Grande performs \u2018the boy is mine\u2019 with a whip on the eternal sunshine tour. (\ud83c\udfa5: JPASC24)",
-          "engagement": "18K views",
-          "views": 17926
+          "engagement": "165K views",
+          "views": 165305
         }
       ]
     },
     "recipe": {
       "stories": [
         {
-          "handle": "CooK02991669",
-          "url": "https://x.com/CooK02991669/status/2063209982712267154",
-          "headline": "One-pan hot sandwich recipe with egg and cheese",
-          "body": "\u3010\u307e\u3055\u304b\u306e\u4f5c\u308a\u65b9\u3011\u3010\u30ef\u30f3\u30d1\u30f3\u30db\u30c3\u30c8\u30b5\u30f3\u30c9\u3011\u3000\n\u3053\u308c\u8003\u3048\u305f\u4eba\u5929\u624d\u3059\u304e\u308b\uff01\n\n(\u6750\u6599)\n\u98df\u30d1\u30f3(\uff16\u679a\u5165\u308a)\u3001\uff11\u679a\n\u5375\u30011\u500b(\u5148\u306b\u6eb6\u3044\u3066\u304a\u304f)\n\n#\u7c21\u5358\u30ec\u30b7\u30d4\u3000#\u6642\u77ed\u30ec\u30b7\u30d4\u3000#\u30db\u30c3\u30c8\u30b5\u30f3\u30c9\u3000#\u30c1\u30fc\u30ba\u3000#\u5375",
-          "engagement": "338K views",
-          "views": 338901
+          "handle": "SW_Chief",
+          "url": "https://x.com/SW_Chief/status/2063552346584723577",
+          "headline": "Zucchini steak recipe with soy sauce and garlic",
+          "body": "\u30ba\u30c3\u30ad\u30fc\u30cb\u30b9\u30c6\u30fc\u30ad\n\u30aa\u30ea\u30fc\u30d6\u30aa\u30a4\u30eb\u3068\u306b\u3093\u306b\u304f\u3067\u3058\u3063\u304f\u308a\u713c\u3044\u3066\u3057\u3087\u3046\u3086\u3092\u304b\u3051\u3066\u98df\u3079\u307e\u3059\n\u3068\u308d\u3063\u3068\u98df\u611f\u3067\u304a\u3044\u3057\u3044",
+          "engagement": "17K views",
+          "views": 17375
         },
         {
           "handle": "CooK02991669",
@@ -305,6 +281,14 @@
           "body": "\u3010\u30ec\u30f3\u30b8\u3067\u7c21\u5358\u3011\u3010\u30bf\u30c3\u30d1\u30fc\u30b3\u30fc\u30d2\u30fc\u30bc\u30ea\u30fc\u3011\u8ab0\u3067\u3082\u30b5\u30c3\u3068\u7c21\u5358\u306b\u4f5c\u308c\u30661\u756a\u7f8e\u5473\u3057\u3044\uff01\n\n(\u6750\u6599)\n\u597d\u307f\u306e\u30d6\u30e9\u30c3\u30af\u30b3\u30fc\u30d2\u30fc\u3001400m\u2113\n\u7802\u7cd6\u3001\u5927\u3055\u30581\n\u7c89\u30bc\u30e9\u30c1\u30f3\u30015g\n\n#\u7c21\u5358\u30ec\u30b7\u30d4\u3000#\u6642\u77ed\u30ec\u30b7\u30d4\u3000#\u7bc0\u7d04\u30ec\u30b7\u30d4\u3000#\u30b3\u30fc\u30d2\u30fc\u3000#\u30bc\u30ea\u30fc",
           "engagement": "72K views",
           "views": 72660
+        },
+        {
+          "handle": "wolffdew",
+          "url": "https://x.com/wolffdew/status/2063279566945243378",
+          "headline": "Photo of homemade spaghetti and meatballs",
+          "body": "I made spaghetti and meatballs for my mom and I",
+          "engagement": "56K views",
+          "views": 56426
         }
       ]
     },
@@ -317,6 +301,22 @@
           "body": "\ud83d\udea8: Your consciousness emerges from a vast \u2018Invisible\u2019 network, a breakthrough study reveals",
           "engagement": "36K views",
           "views": 36192
+        },
+        {
+          "handle": "Briankeating",
+          "url": "https://x.com/Briankeating/status/2063261376244560184",
+          "headline": "Terence Tao says AI can't ask truly new questions yet.",
+          "body": "Terence Tao has read more math than almost anyone alive and uses AI daily.\nHe still says it can't ask a question nobody has asked before.\nNot \"can't yet.\" Can't.\nA Fields Medalist on the line between recall and discovery: \nhttps://www.youtube.com/watch?sub_confirmation=1&v=iOzi9_YakyE&feature=youtu.be",
+          "engagement": "31.9K views",
+          "views": 31976
+        },
+        {
+          "handle": "Forbes",
+          "url": "https://x.com/Forbes/status/2063372875361607739",
+          "headline": "Pfizer and Eli Lilly bet on $1.3B AI drug discovery startup.",
+          "body": "Why Pfizer And Eli Lilly Are Betting On This $1.3 Billion AI Drug Discovery Startup https://www.forbes.com/sites/amyfeldman/2026/06/04/why-pfizer-and-eli-lilly-are-betting-on-this-13-billion-ai-drug-discovery-startup/?utm_source=ForbesMainTwitter&utm_medium=social&utm_campaign=ForbesMainTwitter (\ud83d\udcf8: Cody Pickens for Forbes)",
+          "engagement": "18.4K views",
+          "views": 18416
         }
       ]
     },
@@ -325,10 +325,10 @@
         {
           "handle": "VoteHub",
           "url": "https://x.com/VoteHub/status/2063411757633110080",
-          "headline": "Orange County election vote drop for key candidates as of 6/6",
+          "headline": "Orange County election vote drop shows Steve Hilton leading",
           "body": "Orange County 6/6 Drop\n\nCandidate \u2013 Votes (Percent, Difference from 6/2 Votes)\n\ud83d\udd34 Steve Hilton \u2013 16,232 (31.2%, -6.5%)\n\ud83d\udd35 Xavier Becerra \u2013 14,800 (28.4%, +6.7%)\n\ud83d\udd35 Tom Steyer \u2013 11,170 (21.5%, +5.9%)\n\ud83d\udd34 Chad Bianco \u2013 4,238 (8.1%, -3.0%)",
-          "engagement": "296K views",
-          "views": 296694
+          "engagement": "307K views",
+          "views": 307384
         },
         {
           "handle": "KTLA",
@@ -359,25 +359,41 @@
           "views": 1689399
         },
         {
+          "handle": "UAPWixy",
+          "url": "https://x.com/UAPWixy/status/2063377039487598798",
+          "headline": "UFO disclosure reality post with future humans image",
+          "body": "\ud83d\udea8UFO disclosure reality...\n\nUs from the future!!",
+          "engagement": "306K views",
+          "views": 306041
+        },
+        {
           "handle": "ShadowofEzra",
           "url": "https://x.com/ShadowofEzra/status/2063433566344667426",
           "headline": "Thomas Massie comments on conspiracy theorists being right about NDAA",
           "body": "Thomas Massie says the conspiracy theorists were right again about Section 224 of the NDAA, which he says will merge the United States military with the IDF.\nMassie says the provision is treasonous and warns that it will force the United States to compromise its own security for Benjamin Netanyahu's demands.\n\"The difference between a conspiracy theory in Washington has been reduced from six months to six days.\"",
           "engagement": "96K views",
           "views": 95852
-        },
-        {
-          "handle": "Real_RobN",
-          "url": "https://x.com/Real_RobN/status/2063323847907328477",
-          "headline": "Runbeck whistleblower confirms illegal ballots inserted in 2022 Arizona election",
-          "body": "Here it is:\n\nRUNBECK WHISTLEBLOWER:\n\nCONFIRMS BEYOND THE SHADOW OF A DOUBT,\n\nThat Runbeck printed approximately 300,000 ballots and illegally inserted them into the tally\u2014not coming from drop boxes, not coming from polling locations, but instead being brought in by employees\u2014for the Arizona 2022 General Election, effectively overthrowing the state government of Arizona.\n\n\ud83d\udcddKatie Hobbs and her co-conspirator, Adrian Fontes, rigged three elections in a row.",
-          "engagement": "26K views",
-          "views": 25607
         }
       ]
     },
     "comedy": {
       "stories": [
+        {
+          "handle": "billsmith181172",
+          "url": "https://x.com/billsmith181172/status/2063388005256118710",
+          "headline": "User shares unexpected result from a request",
+          "body": "thought this was a joke but this is what I got",
+          "engagement": "314K views",
+          "views": 314625
+        },
+        {
+          "handle": "S_U_Network",
+          "url": "https://x.com/S_U_Network/status/2063419266419020206",
+          "headline": "User asks for recommendations of great comedy movies",
+          "body": "Superbad, Caddyshack, Borat, Step Brothers, Tropic Thunder, Wedding Crashers and Old School aren\u2019t available. Name a great comedy movie.",
+          "engagement": "127K views",
+          "views": 126966
+        },
         {
           "handle": "2winstar_hinata",
           "url": "https://x.com/2winstar_hinata/status/2063410352784613672",
@@ -385,17 +401,9 @@
           "body": "Bringing this meme back due to recent events.",
           "engagement": "117K views",
           "views": 117149
-        },
-        {
-          "handle": "richeolsooki",
-          "url": "https://x.com/richeolsooki/status/2063285791686844908",
-          "headline": "Joke about a 67 meme in a log context",
-          "body": "OFCOURSE NO NORMAL LOG BECAUSE ITS A 67 JOKE BRUH",
-          "engagement": "111K views",
-          "views": 111240
         }
       ]
     }
   },
-  "last_updated": "2026-06-07T08:00:13.469987"
+  "last_updated": "2026-06-07T10:35:13.384964"
 }
