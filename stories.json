@@ -3,44 +3,6 @@
     "world": {
       "stories": [
         {
-          "headline": "India secures massive $30B data center investment boosting global AI and cloud infrastructure",
-          "url": "https://x.com/narendramodi/status/2062791547012382758",
-          "handle": "narendramodi",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "narendramodi",
-              "url": "https://x.com/narendramodi/status/2062791547012382758",
-              "body": "India\u2019s digital infrastructure journey is gathering remarkable momentum. AirTrunk has announced plans to invest around Rs. 3 lakh crore ($30 billion) in India, and develop 5 GW of data centre capacity.",
-              "engagement": "1.6M views",
-              "views": 1602112
-            },
-            {
-              "label": "Independent",
-              "handle": "WIONews",
-              "url": "https://x.com/WIONews/status/2063131411255627920",
-              "body": "Japan is converting used cooking oil into sustainable aviation fuel to power greener flights. Cuba battles blackouts, shortages and a worsening economic crisis. India's economy grew 7.7%, but inflation and oil prices remain major concerns",
-              "engagement": "393 views",
-              "views": 393
-            }
-          ]
-        },
-        {
-          "headline": "Ukraine strikes Russian oil refinery 2000km deep in Tyumen",
-          "url": "https://x.com/JayinKyiv/status/2063165133300367812",
-          "handle": "JayinKyiv",
-          "perspectives": [
-            {
-              "label": "Independent",
-              "handle": "JayinKyiv",
-              "url": "https://x.com/JayinKyiv/status/2063165133300367812",
-              "body": "Incredible night for Ukraine, taking out Russian oil infrastructure and military targets from St Petersburg to the Urals. 2000km from Ukraine, in Tyumen, the Antipinsky Oil Refinery, capacity 9 million tons/year burns after early morning strikes.",
-              "engagement": "163K views",
-              "views": 163596
-            }
-          ]
-        },
-        {
           "headline": "Zelenskyy marks 82nd anniversary of D-Day, links to Ukraine's fight against Russia",
           "url": "https://x.com/ZelenskyyUa/status/2063204833268519060",
           "handle": "ZelenskyyUa",
@@ -59,6 +21,29 @@
     },
     "usa": {
       "stories": [
+        {
+          "headline": "Pentagon raises counterintelligence threat level for Israel over espionage concerns",
+          "url": "https://x.com/nytimes/status/2063331456701583799",
+          "handle": "nytimes",
+          "perspectives": [
+            {
+              "label": "Independent",
+              "handle": "nytimes",
+              "url": "https://x.com/nytimes/status/2063331456701583799",
+              "body": "The Pentagon has raised its counterintelligence threat level for Israel amid concerns about eavesdropping on U.S.-Iran talks.",
+              "engagement": "942K views",
+              "views": 941665
+            },
+            {
+              "label": "Democrat",
+              "handle": "SenSanders",
+              "url": "https://x.com/SenSanders/status/2063300110801424660",
+              "body": "Netanyahu knows Americans are sick of funding Israel\u2019s wars. So now he\u2019s working with Congress to hide military aid inside Pentagon co-production deals. That means MORE U.S. tax dollars for Israel, with even LESS oversight. Not gonna happen!",
+              "engagement": "810K views",
+              "views": 810459
+            }
+          ]
+        },
         {
           "headline": "Elon Musk urges passage of Save America Act to protect democracy",
           "url": "https://x.com/MAGAVoice/status/2063391981632618996",
@@ -126,6 +111,14 @@
     "business": {
       "stories": [
         {
+          "handle": "DonaldTrumpNat",
+          "url": "https://x.com/DonaldTrumpNat/status/2063198687002546625",
+          "headline": "Stocks should go up next Monday",
+          "body": "Stocks should go up next Monday.",
+          "engagement": "2.87M views",
+          "views": 2874709
+        },
+        {
           "handle": "saylor",
           "url": "https://x.com/saylor/status/2063241214552420656",
           "headline": "AI buildout pressuring markets but strengthens Bitcoin case",
@@ -140,26 +133,26 @@
           "body": "Look at this long-term Bitcoin chart. The uptrend off the Dec. 2022 low is broken. There's a huge head-and-shoulders top forming. The most likely resolution is a retest of the longer-term uptrend off the Dec. 2018 low. If it holds, that puts a bottom between $25,000 and $27,000.",
           "engagement": "242K views",
           "views": 241641
-        },
-        {
-          "handle": "saylor",
-          "url": "https://x.com/saylor/status/2063346325899358331",
-          "headline": "Bitcoin integrates with global economy, currencies, credit, securities, and institutions.",
-          "body": "Bitcoin Capitalist: Bitcoin reaches its full potential by integrating with the global economy: currencies, credit, securities, companies, banks, institutions, governments, families, and individuals. Bitcoin is an open monetary network for everyone.",
-          "engagement": "77K views",
-          "views": 77087
         }
       ]
     },
     "top": {
       "stories": [
         {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2063138341822820398",
-          "headline": "Elon Musk shares a video clip",
-          "body": "https://t.co/Vw5QA6Y7k6",
-          "engagement": "9.3M views",
-          "views": 9346570
+          "handle": "Sumire03_30",
+          "url": "https://x.com/Sumire03_30/status/2063232785184391249",
+          "headline": "Cosplayer in plug suit sweats heavily during summer outfit try-on.",
+          "body": "\u601d\u3063\u305f\u4ee5\u4e0a\u306b\u6c57\u304b\u3044\u3066\u3066\u3073\u3063\u304f\u308a\u3057\u305f\n\u590f\u3068\u30d7\u30e9\u30b0\u30b9\u30fc\u30c4\u2026\u5f37\u3059\u304e\u308b\ud83d\ude2d\ud83d\udca6",
+          "engagement": "11.9M views",
+          "views": 11871376
+        },
+        {
+          "handle": "nocontextfooty",
+          "url": "https://x.com/nocontextfooty/status/2063400248806981889",
+          "headline": "Football clip showing unexpected on-field moment.",
+          "body": "https://t.co/8EBSi86YOi",
+          "engagement": "3.6M views",
+          "views": 3595922
         },
         {
           "handle": "DiscussingFilm",
@@ -168,26 +161,18 @@
           "body": "First trailer for the remastered version of \u2018GODZILLA DESTORY ALL MONSTERS MELEE\u2019. Releasing on November 3.",
           "engagement": "2.8M views",
           "views": 2847705
-        },
-        {
-          "handle": "Awakenjp",
-          "url": "https://x.com/Awakenjp/status/2063289170299421173",
-          "headline": "Close-up video of a person",
-          "body": "real close up",
-          "engagement": "649K views",
-          "views": 649714
         }
       ]
     },
     "msm": {
       "stories": [
         {
-          "handle": "FoxNews",
-          "url": "https://x.com/FoxNews/status/2063440659973832704",
-          "headline": "Border czar Tom Homan visits ICE facility for lunch",
-          "body": "\"I was told the food was bad, so I sat in the cafeteria right along with the detainees.\" Border czar Tom Homan says he made a surprise lunch visit to an ICE detention facility after hearing complaints about the food. He says he had spaghetti and meat sauce, green beans, rolls and butter, and a fruit drink, but skipped the cake for dessert. \"I couldn't finish it all,\" he said during an interview with @LaraLeaTrump.",
-          "engagement": "310K views",
-          "views": 310082
+          "handle": "nytimes",
+          "url": "https://x.com/nytimes/status/2063331456701583799",
+          "headline": "Pentagon raises counterintelligence threat level for Israel over eavesdropping concerns on U.S.-Iran talks.",
+          "body": "The Pentagon has raised its counterintelligence threat level for Israel amid concerns about eavesdropping on U.S.-Iran talks. https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html?smtyp=cur&smid=tw-nytimes",
+          "engagement": "942K views",
+          "views": 941685
         },
         {
           "handle": "Reuters",
@@ -198,17 +183,25 @@
           "views": 1410615
         },
         {
-          "handle": "nytimes",
-          "url": "https://x.com/nytimes/status/2063331456701583799",
-          "headline": "Pentagon raises counterintelligence threat level for Israel over eavesdropping concerns.",
-          "body": "The Pentagon has raised its counterintelligence threat level for Israel amid concerns about eavesdropping on U.S.-Iran talks. https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html?smtyp=cur&smid=tw-nytimes",
-          "engagement": "243K views",
-          "views": 242750
+          "handle": "FoxNews",
+          "url": "https://x.com/FoxNews/status/2063440659973832704",
+          "headline": "Border czar Tom Homan visits ICE facility for lunch",
+          "body": "\"I was told the food was bad, so I sat in the cafeteria right along with the detainees.\" Border czar Tom Homan says he made a surprise lunch visit to an ICE detention facility after hearing complaints about the food. He says he had spaghetti and meat sauce, green beans, rolls and butter, and a fruit drink, but skipped the cake for dessert. \"I couldn't finish it all,\" he said during an interview with @LaraLeaTrump.",
+          "engagement": "310K views",
+          "views": 310082
         }
       ]
     },
     "sports": {
       "stories": [
+        {
+          "handle": "nocontextfooty",
+          "url": "https://x.com/nocontextfooty/status/2063400248806981889",
+          "headline": "Viral football clip with massive engagement",
+          "body": "https://t.co/8EBSi86YOi",
+          "engagement": "3.6M views",
+          "views": 3592107
+        },
         {
           "handle": "EASPORTSFC",
           "url": "https://x.com/EASPORTSFC/status/2063274777335214273",
@@ -218,12 +211,12 @@
           "views": 1699880
         },
         {
-          "handle": "NFL",
-          "url": "https://x.com/NFL/status/2063289814749954057",
-          "headline": "NFL highlights Terrelle Pryor Sr.'s 1k receiving yards after switching to WR in 2016.",
-          "body": "Remember when Terrelle Pryor Sr. went for 1k receiving yards after switching to WR in 2016? \ud83d\ude2e\u200d\ud83d\udca8",
-          "engagement": "549K views",
-          "views": 548753
+          "handle": "SleeperNFL",
+          "url": "https://x.com/SleeperNFL/status/2063427345491665024",
+          "headline": "Guess the NFL player quiz",
+          "body": "Can you guess this NFL player? \ud83e\uddd0",
+          "engagement": "561K views",
+          "views": 560793
         }
       ]
     },
@@ -231,11 +224,19 @@
       "stories": [
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2063138341822820398",
-          "headline": "Elon Musk posts a video.",
-          "body": "https://t.co/Vw5QA6Y7k6",
-          "engagement": "35M views",
-          "views": 35037791
+          "url": "https://x.com/elonmusk/status/2063270313933091097",
+          "headline": "Elon Musk replies to a post about early SpaceX.",
+          "body": "SpaceX was less than 10 people back then. We didn\u2019t even have office furniture.",
+          "engagement": "22.5M views",
+          "views": 22525921
+        },
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2063265575204212905",
+          "headline": "Elon Musk shares a video link.",
+          "body": "https://t.co/ViCuRSgo83",
+          "engagement": "12.5M views",
+          "views": 12474559
         },
         {
           "handle": "elonmusk",
@@ -244,14 +245,6 @@
           "body": "Humanity is disappearing \ud83d\ude14  https://www.wsj.com/health/wellness/us-fertility-rate-impact-f8024b33?st=j9Tbii",
           "engagement": "8M views",
           "views": 8216393
-        },
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2063141229504647393",
-          "headline": "Elon Musk notes X is the top social network in Japan",
-          "body": "\ud835\udd4f is strong in the east too. #1 social network of any kind in Japan.",
-          "engagement": "941K views",
-          "views": 940668
         }
       ]
     },
@@ -260,15 +253,23 @@
         {
           "handle": "joerogan",
           "url": "https://x.com/joerogan/status/2063320512319705234",
-          "headline": "Joe Rogan announces new episode featuring arm wrestler Devon Larratt.",
-          "body": "Episode #2510 Devon Larratt\nhttps://open.spotify.com/episode/6AHseG7kZhsZ2lsFOCElzN?si=Mhr5euazRUi0-QDAWgrSgw\n\nDevon is a world champion arm wrestler, 16 year veteran of JTF2 - Canada\u2019s tier 1 special operations unit, and an all around unique and very interesting guy.  \nOur podcast is out now on @spotify and everywhere else.",
-          "engagement": "379K views",
-          "views": 379835
+          "headline": "Joe Rogan announces new podcast episode with Devon Larratt",
+          "body": "Episode #2510 Devon Larratt\nhttps://open.spotify.com/episode/6AHseG7kZhsZ2lsFOCElzN?si=Mhr5euazRUi0-QDAWgrSgw\n\nDevon is a world champion arm wrestler, 16 year veteran of JTF2 - Canada\u2019s tier 1 special operations unit, and an all around unique and very interesting guy.  \n Our podcast is out now on @spotify and everywhere else.",
+          "engagement": "418K views",
+          "views": 417532
         }
       ]
     },
     "pg6": {
       "stories": [
+        {
+          "handle": "PopBase",
+          "url": "https://x.com/PopBase/status/2063471762243760583",
+          "headline": "Happy birthday tribute to Prince",
+          "body": "Happy birthday to the legendary Prince, who would've turned 68 today.",
+          "engagement": "130K views",
+          "views": 130508
+        },
         {
           "handle": "PopBase",
           "url": "https://x.com/PopBase/status/2063463481253503326",
@@ -284,27 +285,11 @@
           "body": "Ariana Grande performs \u2018the boy is mine\u2019 with a whip on the eternal sunshine tour. (\ud83c\udfa5: JPASC24)",
           "engagement": "18K views",
           "views": 17926
-        },
-        {
-          "handle": "PopBase",
-          "url": "https://x.com/PopBase/status/2063173353964294466",
-          "headline": "Sabrina Carpenter commemorates one year anniversary of 'Manchild'.",
-          "body": "Sabrina Carpenter commemorates the one year anniversary of \u2018Manchild\u2019:\n\n\u201cone of year of hey men and they are pigs\u201d",
-          "engagement": "415K views",
-          "views": 414896
         }
       ]
     },
     "recipe": {
       "stories": [
-        {
-          "handle": "CooK02991669",
-          "url": "https://x.com/CooK02991669/status/2063420337694609897",
-          "headline": "Easy microwave coffee jelly recipe with gelatin",
-          "body": "\u3010\u30ec\u30f3\u30b8\u3067\u7c21\u5358\u3011\u3010\u30bf\u30c3\u30d1\u30fc\u30b3\u30fc\u30d2\u30fc\u30bc\u30ea\u30fc\u3011\u8ab0\u3067\u3082\u30b5\u30c3\u3068\u7c21\u5358\u306b\u4f5c\u308c\u30661\u756a\u7f8e\u5473\u3057\u3044\uff01\n\n(\u6750\u6599)\n\u597d\u307f\u306e\u30d6\u30e9\u30c3\u30af\u30b3\u30fc\u30d2\u30fc\u3001400m\u2113\n\u7802\u7cd6\u3001\u5927\u3055\u30581\n\u7c89\u30bc\u30e9\u30c1\u30f3\u30015g\n\n#\u7c21\u5358\u30ec\u30b7\u30d4\u3000#\u6642\u77ed\u30ec\u30b7\u30d4\u3000#\u7bc0\u7d04\u30ec\u30b7\u30d4\u3000#\u30b3\u30fc\u30d2\u30fc\u3000#\u30bc\u30ea\u30fc",
-          "engagement": "72K views",
-          "views": 72660
-        },
         {
           "handle": "CooK02991669",
           "url": "https://x.com/CooK02991669/status/2063209982712267154",
@@ -314,12 +299,12 @@
           "views": 338901
         },
         {
-          "handle": "saerndipitous",
-          "url": "https://x.com/saerndipitous/status/2063168074191077666",
-          "headline": "Biggest fear why always ask for recipes",
-          "body": "My BIGGEST fear why I always ask for recipes",
-          "engagement": "60K views",
-          "views": 60247
+          "handle": "CooK02991669",
+          "url": "https://x.com/CooK02991669/status/2063420337694609897",
+          "headline": "Easy microwave coffee jelly recipe with gelatin",
+          "body": "\u3010\u30ec\u30f3\u30b8\u3067\u7c21\u5358\u3011\u3010\u30bf\u30c3\u30d1\u30fc\u30b3\u30fc\u30d2\u30fc\u30bc\u30ea\u30fc\u3011\u8ab0\u3067\u3082\u30b5\u30c3\u3068\u7c21\u5358\u306b\u4f5c\u308c\u30661\u756a\u7f8e\u5473\u3057\u3044\uff01\n\n(\u6750\u6599)\n\u597d\u307f\u306e\u30d6\u30e9\u30c3\u30af\u30b3\u30fc\u30d2\u30fc\u3001400m\u2113\n\u7802\u7cd6\u3001\u5927\u3055\u30581\n\u7c89\u30bc\u30e9\u30c1\u30f3\u30015g\n\n#\u7c21\u5358\u30ec\u30b7\u30d4\u3000#\u6642\u77ed\u30ec\u30b7\u30d4\u3000#\u7bc0\u7d04\u30ec\u30b7\u30d4\u3000#\u30b3\u30fc\u30d2\u30fc\u3000#\u30bc\u30ea\u30fc",
+          "engagement": "72K views",
+          "views": 72660
         }
       ]
     },
@@ -332,14 +317,6 @@
           "body": "\ud83d\udea8: Your consciousness emerges from a vast \u2018Invisible\u2019 network, a breakthrough study reveals",
           "engagement": "36K views",
           "views": 36192
-        },
-        {
-          "handle": "forallcurious",
-          "url": "https://x.com/forallcurious/status/2063141701947146340",
-          "headline": "All day Astronomy reports historic breakthrough in pancreatic cancer drug trial",
-          "body": "\ud83d\udea8: Doctors erupt into a standing ovation over this historic breakthrough.\n\nAn experimental oral drug called daraxonrasib has delivered historic, 'grand slam' clinical trial results for advanced pancreatic cancer, slashing the risk of death by 60% compared to standard chemotherapy.",
-          "engagement": "11K views",
-          "views": 10989
         }
       ]
     },
@@ -348,18 +325,18 @@
         {
           "handle": "VoteHub",
           "url": "https://x.com/VoteHub/status/2063411757633110080",
-          "headline": "Orange County election vote drop update",
+          "headline": "Orange County election vote drop for key candidates as of 6/6",
           "body": "Orange County 6/6 Drop\n\nCandidate \u2013 Votes (Percent, Difference from 6/2 Votes)\n\ud83d\udd34 Steve Hilton \u2013 16,232 (31.2%, -6.5%)\n\ud83d\udd35 Xavier Becerra \u2013 14,800 (28.4%, +6.7%)\n\ud83d\udd35 Tom Steyer \u2013 11,170 (21.5%, +5.9%)\n\ud83d\udd34 Chad Bianco \u2013 4,238 (8.1%, -3.0%)",
-          "engagement": "249K views",
-          "views": 249580
+          "engagement": "296K views",
+          "views": 296694
         },
         {
           "handle": "KTLA",
           "url": "https://x.com/KTLA/status/2063465979795874116",
-          "headline": "Man sentenced for murdering Orange County couple and arson cover-up",
+          "headline": "Man sentenced for killing Orange County couple and setting home on fire",
           "body": "A man who killed an Orange County couple and set their home on fire to cover up the murders was sentenced to prison.\nDetails: https://ktla.com/news/orange-county/man-murdered-couple-set-home-fire-sentenced/",
-          "engagement": "1.1K views",
-          "views": 1150
+          "engagement": "3.5K views",
+          "views": 3530
         },
         {
           "handle": "the_churchnews",
@@ -374,20 +351,20 @@
     "conspiracy": {
       "stories": [
         {
+          "handle": "spencerpratt",
+          "url": "https://x.com/spencerpratt/status/2063422110203261424",
+          "headline": "Speculation over LA vote counting process",
+          "body": "Me trying to figure out how votes get counted in LA",
+          "engagement": "1.7M views",
+          "views": 1689399
+        },
+        {
           "handle": "ShadowofEzra",
           "url": "https://x.com/ShadowofEzra/status/2063433566344667426",
           "headline": "Thomas Massie comments on conspiracy theorists being right about NDAA",
           "body": "Thomas Massie says the conspiracy theorists were right again about Section 224 of the NDAA, which he says will merge the United States military with the IDF.\nMassie says the provision is treasonous and warns that it will force the United States to compromise its own security for Benjamin Netanyahu's demands.\n\"The difference between a conspiracy theory in Washington has been reduced from six months to six days.\"",
           "engagement": "96K views",
           "views": 95852
-        },
-        {
-          "handle": "DocAlienista",
-          "url": "https://x.com/DocAlienista/status/2063166681417949278",
-          "headline": "Enhanced 4K UFO and alien photos/videos shared",
-          "body": "He mejorado estas fotos/V\u00eddeos a 4K sobre Ufos y Aliens\ud83d\udc47\u2b07\ufe0f",
-          "engagement": "57K views",
-          "views": 57185
         },
         {
           "handle": "Real_RobN",
@@ -400,8 +377,25 @@
       ]
     },
     "comedy": {
-      "stories": []
+      "stories": [
+        {
+          "handle": "2winstar_hinata",
+          "url": "https://x.com/2winstar_hinata/status/2063410352784613672",
+          "headline": "User revives a popular meme due to recent events",
+          "body": "Bringing this meme back due to recent events.",
+          "engagement": "117K views",
+          "views": 117149
+        },
+        {
+          "handle": "richeolsooki",
+          "url": "https://x.com/richeolsooki/status/2063285791686844908",
+          "headline": "Joke about a 67 meme in a log context",
+          "body": "OFCOURSE NO NORMAL LOG BECAUSE ITS A 67 JOKE BRUH",
+          "engagement": "111K views",
+          "views": 111240
+        }
+      ]
     }
   },
-  "last_updated": "2026-06-07T03:59:49.570267"
+  "last_updated": "2026-06-07T08:00:13.469987"
 }
