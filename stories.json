@@ -3,21 +3,6 @@
     "world": {
       "stories": [
         {
-          "headline": "Nigerian police rescue ex-Power Minister Adelabu\u2019s sister and her two children from kidnappers in gun battle",
-          "url": "https://x.com/NigeriaStories/status/2063353346065338877",
-          "handle": "NigeriaStories",
-          "perspectives": [
-            {
-              "label": "Independent",
-              "handle": "NigeriaStories",
-              "url": "https://x.com/NigeriaStories/status/2063353346065338877",
-              "body": "BREAKING NEWS: Police Rescue Ex-Power Minister Adelabu\u2019s Sister, Her Two Children. Two kidnappers were neutralised in a gun battle with police operatives",
-              "engagement": "5.8K likes",
-              "views": 914766
-            }
-          ]
-        },
-        {
           "headline": "Israel strikes terrorist headquarters in Beirut's Dahieh district in response to Hezbollah",
           "url": "https://x.com/IsraeliPM/status/2063611126680584352",
           "handle": "IsraeliPM",
@@ -99,25 +84,17 @@
           ]
         },
         {
-          "headline": "Pentagon raises Israel's counterintelligence threat level to critical over espionage on US-Iran talks",
-          "url": "https://x.com/nytimes/status/2063331456701583799",
-          "handle": "nytimes",
+          "headline": "White House releases new official presidential portrait of Trump",
+          "url": "https://x.com/IAPolls2022/status/2063612747904950432",
+          "handle": "IAPolls2022",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "RealAlexJones",
-              "url": "https://x.com/RealAlexJones/status/2063226001400696873",
-              "body": "NBC News is reporting that the Pentagon has now listed Israel as a TOP national security threat facing the United States! This is a HUGE development of historic proportions.",
-              "engagement": "1.1M views",
-              "views": 1164518
-            },
-            {
-              "label": "Independent",
-              "handle": "nytimes",
-              "url": "https://x.com/nytimes/status/2063331456701583799",
-              "body": "The Pentagon has raised its counterintelligence threat level for Israel amid concerns about eavesdropping on U.S.-Iran talks.",
-              "engagement": "1M views",
-              "views": 1016392
+              "handle": "IAPolls2022",
+              "url": "https://x.com/IAPolls2022/status/2063612747904950432",
+              "body": "The White House has released the new official presidential portrait of President Donald J. Trump.",
+              "engagement": "372061 views",
+              "views": 372061
             }
           ]
         },
@@ -155,16 +132,7 @@
       ]
     },
     "business": {
-      "stories": [
-        {
-          "handle": "saylor",
-          "url": "https://x.com/saylor/status/2063346325899358331",
-          "headline": "Bitcoin integrates with global economy as open monetary network for currencies, credit, securities, and more.",
-          "body": "Bitcoin Capitalist: Bitcoin reaches its full potential by integrating with the global economy: currencies, credit, securities, companies, banks, institutions, governments, families, and individuals. Bitcoin is an open monetary network for everyone.",
-          "engagement": "245K views",
-          "views": 245049
-        }
-      ]
+      "stories": []
     },
     "top": {
       "stories": [
@@ -185,12 +153,12 @@
           "views": 3595922
         },
         {
-          "handle": "DiscussingFilm",
-          "url": "https://x.com/DiscussingFilm/status/2063345228027662403",
-          "headline": "First trailer for remastered Godzilla Destroy All Monsters Melee game",
-          "body": "First trailer for the remastered version of \u2018GODZILLA DESTORY ALL MONSTERS MELEE\u2019. Releasing on November 3.",
-          "engagement": "2.8M views",
-          "views": 2847705
+          "handle": "asha_shar",
+          "url": "https://x.com/asha_shar/status/2063669366126956583",
+          "headline": "Xbox announces Gears as console exclusive.",
+          "body": "As we return to XBOX, we return to Gears as an XBOX CONSOLE EXCLUSIVE!",
+          "engagement": "820K views",
+          "views": 820413
         }
       ]
     },
@@ -198,11 +166,11 @@
       "stories": [
         {
           "handle": "nytimes",
-          "url": "https://x.com/nytimes/status/2063331456701583799",
-          "headline": "Pentagon raises counterintelligence threat level for Israel over eavesdropping concerns on U.S.-Iran talks.",
-          "body": "The Pentagon has raised its counterintelligence threat level for Israel amid concerns about eavesdropping on U.S.-Iran talks. https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html?smtyp=cur&smid=tw-nytimes",
-          "engagement": "1.1M views",
-          "views": 1116799
+          "url": "https://x.com/nytimes/status/2063707897364623707",
+          "headline": "Iran fires missiles at Israel, first attack since April cease-fire",
+          "body": "Breaking News: Iran fired missiles at Israel, the Israeli military said, the first such attack since a cease-fire paused the U.S.-Israeli war with Iran in April. Follow live updates.",
+          "engagement": "149K views",
+          "views": 148666
         },
         {
           "handle": "FoxNews",
@@ -225,20 +193,20 @@
     "sports": {
       "stories": [
         {
-          "handle": "FabrizioRomano",
-          "url": "https://x.com/FabrizioRomano/status/2063579677957017641",
-          "headline": "Initial agreement on personal terms between Juventus and Alexander S\u00f8rloth",
-          "body": "\ud83d\udea8\u26aa\ufe0f\u26ab\ufe0f Initial agreement on personal terms between Juventus and Alexander S\u00f8rloth\u2019s camp. Talks to continue between Juve and Atl\u00e9ti as the two sides keep discussing also about Nico Gonz\u00e1lez. @MatteMoretto \ud83c\udfa5\ud83c\uddee\ud83c\uddf9 https://www.youtube.com/watch?v=CN3lOYKKawk&feature=youtu.be",
-          "engagement": "1.2M views",
-          "views": 1235550
-        },
-        {
           "handle": "nocontextfooty",
           "url": "https://x.com/nocontextfooty/status/2063400248806981889",
           "headline": "Viral football clip with massive engagement",
           "body": "https://t.co/8EBSi86YOi",
           "engagement": "3.6M views",
           "views": 3592107
+        },
+        {
+          "handle": "FabrizioRomano",
+          "url": "https://x.com/FabrizioRomano/status/2063579677957017641",
+          "headline": "Initial agreement on personal terms between Juventus and Alexander S\u00f8rloth",
+          "body": "\ud83d\udea8\u26aa\ufe0f\u26ab\ufe0f Initial agreement on personal terms between Juventus and Alexander S\u00f8rloth\u2019s camp. Talks to continue between Juve and Atl\u00e9ti as the two sides keep discussing also about Nico Gonz\u00e1lez. @MatteMoretto \ud83c\udfa5\ud83c\uddee\ud83c\uddf9 https://www.youtube.com/watch?v=CN3lOYKKawk&feature=youtu.be",
+          "engagement": "1.2M views",
+          "views": 1235550
         },
         {
           "handle": "England",
@@ -254,19 +222,19 @@
       "stories": [
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2063333492449009867",
-          "headline": "Elon Musk shares WSJ article on declining US fertility rate",
-          "body": "Humanity is disappearing \ud83d\ude14  https://www.wsj.com/health/wellness/us-fertility-rate-impact-f8024b33?st=j9Tbii",
-          "engagement": "13.6M views",
-          "views": 13648837
-        },
-        {
-          "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2063388801330721156",
           "headline": "Elon Musk comments on AfD surge in German polls",
           "body": "Time for change in Germany",
           "engagement": "7M views",
           "views": 7013350
+        },
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2063412033266053340",
+          "headline": "Elon Musk shares update on Grok Build v0.2.31 fixing grep timeout issue.",
+          "body": "Grep timeout issue fixed in latest Grok Build",
+          "engagement": "6.2M views",
+          "views": 6238755
         }
       ]
     },
@@ -287,14 +255,6 @@
           "body": "Theo Von looked genuinely shaken hearing this on his podcast.\n\nA journalist. Shot in the face by Israeli forces. Clearly marked as press.\n\nThen Israeli soldiers showed up to her funeral and beat the pallbearers with batons and stun grenades.\n\nMultiple human rights organizations concluded she was likely targeted.\n\nHer name was Shireen Abu Akleh. \n\nThis was 2022, and most people still don't know the full story.\n\n@theovon, MiddleEastEye YT\nWriter: Val",
           "engagement": "112K views",
           "views": 111956
-        },
-        {
-          "handle": "InterstellarUAP",
-          "url": "https://x.com/InterstellarUAP/status/2063333853637267565",
-          "headline": "Devon Larratt recounts demon possession incident during Iraq deployment on Joe Rogan.",
-          "body": "Devon Larratt: \"A Special Ops Soldier became possessed by a DEMON during deployment in Iraq\" \ud83d\ude31\n\nHe told Joe Rogan: \"He started speaking in tongues. He knew everything about everybody. He could speak different languages he had never learned.\" \n\nThe soldier revealed personal secrets and childhood sins of everyone in the unit. The padre, who recognized the demon from prior exorcisms, performed the rite on site. The operator was medically retired and remains under church monitoring.  Devon knows him personally and stands by every detail.",
-          "engagement": "131K views",
-          "views": 131976
         }
       ]
     },
@@ -310,19 +270,19 @@
         },
         {
           "handle": "PopBase",
+          "url": "https://x.com/PopBase/status/2063647861661663533",
+          "headline": "Scary Movie 6 opens with record $105.5M global box office",
+          "body": "\u2018SCARY MOVIE 6\u2019 has opened with $105.5 million at the global box office. Biggest opening weekend for the franchise ever.",
+          "engagement": "891K views",
+          "views": 891466
+        },
+        {
+          "handle": "PopBase",
           "url": "https://x.com/PopBase/status/2063473859408597294",
           "headline": "Ariana Grande performs on tour",
           "body": "Ariana Grande performs \u2018eternal sunshine\u2019 on the eternal sunshine tour. \n\n(\ud83c\udfa5: JPASC24)",
           "engagement": "2.4M views",
           "views": 2400666
-        },
-        {
-          "handle": "PopBase",
-          "url": "https://x.com/PopBase/status/2063468771508133919",
-          "headline": "Ariana Grande performs on tour",
-          "body": "Ariana Grande performs \u2018the boy is mine\u2019 with a whip on the eternal sunshine tour. \n\n(\ud83c\udfa5: JPASC24)",
-          "engagement": "1.0M views",
-          "views": 1038485
         }
       ]
     },
@@ -359,10 +319,10 @@
         {
           "handle": "SpaceX",
           "url": "https://x.com/SpaceX/status/2063502527358816513",
-          "headline": "SpaceX successfully launches Falcon 9 with 21 Starlink and two Starshield satellites",
+          "headline": "Falcon 9 launches 21 Starlink satellites and two Starshield satellites from California",
           "body": "Falcon 9 launches 21 @Starlink satellites and two Starshield satellites from California",
-          "engagement": "702K views",
-          "views": 702640
+          "engagement": "881K views",
+          "views": 881721
         },
         {
           "handle": "CharlesMullins2",
@@ -413,32 +373,32 @@
           "views": 1689399
         },
         {
-          "handle": "UAPWixy",
-          "url": "https://x.com/UAPWixy/status/2063377039487598798",
-          "headline": "UFO disclosure reality post with future humans image",
-          "body": "\ud83d\udea8UFO disclosure reality...\n\nUs from the future!!",
-          "engagement": "306K views",
-          "views": 306041
+          "handle": "Timodc",
+          "url": "https://x.com/Timodc/status/2063725051979911364",
+          "headline": "Theory of election rigging in LA mayor race",
+          "body": "The theory here is that election officials working for the incumbent LA mayor rigged the election to ensure a general election opponent that has a chance to beat her? A strange conspiracy",
+          "engagement": "26018 views",
+          "views": 26018
         },
         {
-          "handle": "ShadowofEzra",
-          "url": "https://x.com/ShadowofEzra/status/2063433566344667426",
-          "headline": "Thomas Massie comments on conspiracy theorists being right about NDAA",
-          "body": "Thomas Massie says the conspiracy theorists were right again about Section 224 of the NDAA, which he says will merge the United States military with the IDF.\nMassie says the provision is treasonous and warns that it will force the United States to compromise its own security for Benjamin Netanyahu's demands.\n\"The difference between a conspiracy theory in Washington has been reduced from six months to six days.\"",
-          "engagement": "96K views",
-          "views": 95852
+          "handle": "AllisonPearson",
+          "url": "https://x.com/AllisonPearson/status/2063711357871038699",
+          "headline": "Call for immediate inquest amid cover-up claims",
+          "body": "Henry\u2019s inquest is delayed until September 2027? Surely not. More evidence the police and government want a cover up. We need an inquest asap!",
+          "engagement": "21317 views",
+          "views": 21317
         }
       ]
     },
     "comedy": {
       "stories": [
         {
-          "handle": "joshypooper",
-          "url": "https://x.com/joshypooper/status/2063366244451979730",
-          "headline": "Short joke about loving when people laugh at jokes",
-          "body": "you\u2019re laughing. i told you a joke and you\u2019re laughing. i love you",
-          "engagement": "559K views",
-          "views": 559909
+          "handle": "2winstar_hinata",
+          "url": "https://x.com/2winstar_hinata/status/2063410352784613672",
+          "headline": "Meme reposted for recent events",
+          "body": "Bringing this meme back due to recent events.",
+          "engagement": "350K views",
+          "views": 349590
         },
         {
           "handle": "billsmith181172",
@@ -459,5 +419,5 @@
       ]
     }
   },
-  "last_updated": "2026-06-07T17:16:51.196277"
+  "last_updated": "2026-06-07T21:13:35.214063"
 }
