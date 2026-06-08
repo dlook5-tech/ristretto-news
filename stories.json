@@ -1,54 +1,7 @@
 {
   "stories": {
     "world": {
-      "stories": [
-        {
-          "headline": "Israel strikes terrorist headquarters in Beirut's Dahieh district in response to Hezbollah",
-          "url": "https://x.com/IsraeliPM/status/2063611126680584352",
-          "handle": "IsraeliPM",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "FuentesUpdates",
-              "url": "https://x.com/FuentesUpdates/status/2062786104760439227",
-              "body": "This is Israel's grand strategy: the annexation of Gaza, the West Bank and Southern Lebanon",
-              "engagement": "28K views",
-              "views": 28216
-            },
-            {
-              "label": "Independent",
-              "handle": "AJEnglish",
-              "url": "https://x.com/AJEnglish/status/2063634454606708931",
-              "body": "BREAKING: US President Donald Trump has called for more attacks on Hezbollah in Lebanon effectively urging an escalation of Israel\u2019s war on the country - after pushing for a ceasefire.",
-              "engagement": "69K views",
-              "views": 69827
-            }
-          ]
-        },
-        {
-          "headline": "China launches special maritime operation east of Taiwan after Japan-Philippines talks",
-          "url": "https://x.com/Polymarket/status/2063277424075243791",
-          "handle": "Polymarket",
-          "perspectives": [
-            {
-              "label": "Independent",
-              "handle": "business",
-              "url": "https://x.com/business/status/2063272962740912170",
-              "body": "China said it launched a special maritime operation east of Taiwan, ramping up its response to a recent agreement between Japan and the Philippines to negotiate maritime borders in the area and deepen defense cooperation.",
-              "engagement": "56K views",
-              "views": 56222
-            },
-            {
-              "label": "Democrat",
-              "handle": "jacksonhinkle",
-              "url": "https://x.com/jacksonhinkle/status/2063629552962904133",
-              "body": "\ud83c\udde8\ud83c\uddf3 China has launched a special maritime traffic law enforcement operation in the waters east of the Taiwan island, Xinhua reported.",
-              "engagement": "28K views",
-              "views": 28809
-            }
-          ]
-        }
-      ]
+      "stories": []
     },
     "usa": {
       "stories": [
@@ -113,37 +66,6 @@
               "views": 444260
             }
           ]
-        },
-        {
-          "headline": "Trump walks out of NBC interview with Kristen Welker after confrontation",
-          "url": "https://x.com/johnnymaga/status/2063638116653539759",
-          "handle": "johnnymaga",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "johnnymaga",
-              "url": "https://x.com/johnnymaga/status/2063638116653539759",
-              "body": "Trump drops NBC\u2019s mic on the ground, walks off an interview with Kristen Welker. He\u2019s still got it.",
-              "engagement": "181K views",
-              "views": 181577
-            },
-            {
-              "label": "Independent",
-              "handle": "PopBase",
-              "url": "https://x.com/PopBase/status/2063644329260790105",
-              "body": "Donald Trump claims that he never insisted there would be no new wars under his leadership: \u201cFirst of all, I didn't guarantee no war. Why would I have built the strongest military in the world?\u201d",
-              "engagement": "647K views",
-              "views": 647719
-            },
-            {
-              "label": "Democrat",
-              "handle": "AZ_Brittney",
-              "url": "https://x.com/AZ_Brittney/status/2063643419407417396",
-              "body": "Trump completely lost it on Kristen Welker. He said she was crooked, stupid and walked out of the interview! I stand with Kristen Welker and all of the journalists Trump has attacked over the years. Who is with me? \u270b",
-              "engagement": "35K views",
-              "views": 35198
-            }
-          ]
         }
       ]
     },
@@ -176,16 +98,7 @@
       ]
     },
     "top": {
-      "stories": [
-        {
-          "handle": "asha_shar",
-          "url": "https://x.com/asha_shar/status/2063669366126956583",
-          "headline": "Xbox announces Gears as console exclusive.",
-          "body": "As we return to XBOX, we return to Gears as an XBOX CONSOLE EXCLUSIVE!",
-          "engagement": "820K views",
-          "views": 820413
-        }
-      ]
+      "stories": []
     },
     "msm": {
       "stories": [
@@ -208,24 +121,7 @@
       ]
     },
     "sports": {
-      "stories": [
-        {
-          "handle": "chicagobulls",
-          "url": "https://x.com/chicagobulls/status/2063670198343799000",
-          "headline": "Chicago Bulls mourn passing of 3x NBA champion Stacey King",
-          "body": "We are devastated by the passing of 3x NBA Champion and beloved broadcaster Stacey King.",
-          "engagement": "3.7M views",
-          "views": 3734214
-        },
-        {
-          "handle": "layzhis",
-          "url": "https://x.com/layzhis/status/2063693885587534115",
-          "headline": "Fan questions Brazil Copa America roster decisions",
-          "body": "algu\u00e9m me explica como se eu tivesse 5 anos porque o Wesley foi cortado da Copa por les\u00e3o e o Neymar lesionado continua convocado?",
-          "engagement": "2.0M views",
-          "views": 1994517
-        }
-      ]
+      "stories": []
     },
     "elon": {
       "stories": []
@@ -234,51 +130,10 @@
       "stories": []
     },
     "pg6": {
-      "stories": [
-        {
-          "handle": "HollywoodHandle",
-          "url": "https://x.com/HollywoodHandle/status/2063636345415749747",
-          "headline": "Masters of the Universe earned poor $29.3M domestic opening.",
-          "body": "\u2018MASTERS OF THE UNIVERSE\u2019 earned a poor $29.3M on its domestic box office opening weekend.\n\nBudget was $200M.",
-          "engagement": "3.36M views",
-          "views": 3368035
-        },
-        {
-          "handle": "espn",
-          "url": "https://x.com/espn/status/2063620533690757339",
-          "headline": "Taylor Swift\u2019s courtside seat at Knicks vs Cavaliers game listed for auction.",
-          "body": "The courtside seat that Taylor Swift sat in during Game 3 of the Eastern Conference finals between the New York Knicks and the Cleveland Cavaliers has been listed for auction. Swift attended the game with her fianc\u00e9, Kansas City Chiefs tight end Travis Kelce.",
-          "engagement": "2.2M views",
-          "views": 2185537
-        },
-        {
-          "handle": "PopBase",
-          "url": "https://x.com/PopBase/status/2063647861661663533",
-          "headline": "Scary Movie 6 opened with $105.5 million globally, franchise record.",
-          "body": "\u2018SCARY MOVIE 6\u2019 has opened with $105.5 million at the global box office.\n\nBiggest opening weekend for the franchise ever.",
-          "engagement": "1.67M views",
-          "views": 1678003
-        }
-      ]
+      "stories": []
     },
     "recipe": {
       "stories": [
-        {
-          "handle": "Rainmaker1973",
-          "url": "https://x.com/Rainmaker1973/status/2063624518757945380",
-          "headline": "Short video showcasing a Japanese chef cooking trick",
-          "body": "Amazing Japanese chef trick \n\n[\ud83c\uddef\ud83c\uddf5 appetizingtv]",
-          "engagement": "125K views",
-          "views": 125727
-        },
-        {
-          "handle": "_SmokeyGirl25",
-          "url": "https://x.com/_SmokeyGirl25/status/2063646007695437908",
-          "headline": "User shares breakfast casserole recipe with sausage.",
-          "body": "Breakfast Casserole \nWith Sausage.I have Had this \nBefore.Its really Good.Maybe \nYou all Have tried this Recipe.\nComment Below if You have!",
-          "engagement": "31599 views",
-          "views": 31599
-        },
         {
           "handle": "captainblack566",
           "url": "https://x.com/captainblack566/status/2063726582963786155",
@@ -328,5 +183,5 @@
       "stories": []
     }
   },
-  "last_updated": "2026-06-08T12:28:46.471068"
+  "last_updated": "2026-06-08T18:25:59.247642"
 }
