@@ -53,37 +53,6 @@
     "usa": {
       "stories": [
         {
-          "headline": "LA mayoral primary results spark fraud claims after late ballot dumps favor Nithya Raman over Spencer Pratt",
-          "url": "https://x.com/MeidasTouch/status/2063773940003299765",
-          "handle": "MeidasTouch",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "bennyjohnson",
-              "url": "https://x.com/bennyjohnson/status/2063807221859753984",
-              "body": "They want you to believe this happened in the LA Mayors race\u2026 3rd place jumps to 1st in *every* ballot drop *after* Election Day Defies all mathematical probability, the law of averages and has never happened in US election history No one with a functional brain believes this",
-              "engagement": "112K views",
-              "views": 112211
-            },
-            {
-              "label": "Independent",
-              "handle": "BRICSinfo",
-              "url": "https://x.com/BRICSinfo/status/2063815240819597539",
-              "body": "Timeline of events today: \ud83c\uddee\ud83c\uddf1 Israel strikes Beirut, Lebanon. \ud83c\uddee\ud83c\uddf7 Iran launches ballistic missiles towards Israel. \ud83c\uddfa\ud83c\uddf8 President Trump says he's not happy with Israel's initial strike in Beirut & tells Netanyahu not to respond right away. \ud83c\uddee\ud83c\uddf1 Israel strikes Tehran, Iran.",
-              "engagement": "137K views",
-              "views": 136862
-            },
-            {
-              "label": "Democrat",
-              "handle": "MeidasTouch",
-              "url": "https://x.com/MeidasTouch/status/2063773940003299765",
-              "body": "JUST IN: Progressive Nithya Raman will advance to the general election and face incumbent Karen Bass in the Los Angeles mayoral race, according to Decision Desk HQ projections. It\u2019s over for former reality TV villain Spencer Pratt.",
-              "engagement": "444K views",
-              "views": 444260
-            }
-          ]
-        },
-        {
           "headline": "Trump announces strategic petroleum reserve trades for 25% return adding 40M barrels without taxpayer cost",
           "url": "https://x.com/SecretaryWright/status/2063061410670633228",
           "handle": "SecretaryWright",
@@ -111,6 +80,37 @@
               "body": "This is a real photo of Donald Trump being helped off the stage today after his event in Wisconsin. This man is not healthy. 25th Amendment NOW",
               "engagement": "232K views",
               "views": 231967
+            }
+          ]
+        },
+        {
+          "headline": "LA mayoral primary results spark fraud claims after late ballot dumps favor Nithya Raman over Spencer Pratt",
+          "url": "https://x.com/MeidasTouch/status/2063773940003299765",
+          "handle": "MeidasTouch",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "bennyjohnson",
+              "url": "https://x.com/bennyjohnson/status/2063807221859753984",
+              "body": "They want you to believe this happened in the LA Mayors race\u2026 3rd place jumps to 1st in *every* ballot drop *after* Election Day Defies all mathematical probability, the law of averages and has never happened in US election history No one with a functional brain believes this",
+              "engagement": "112K views",
+              "views": 112211
+            },
+            {
+              "label": "Independent",
+              "handle": "BRICSinfo",
+              "url": "https://x.com/BRICSinfo/status/2063815240819597539",
+              "body": "Timeline of events today: \ud83c\uddee\ud83c\uddf1 Israel strikes Beirut, Lebanon. \ud83c\uddee\ud83c\uddf7 Iran launches ballistic missiles towards Israel. \ud83c\uddfa\ud83c\uddf8 President Trump says he's not happy with Israel's initial strike in Beirut & tells Netanyahu not to respond right away. \ud83c\uddee\ud83c\uddf1 Israel strikes Tehran, Iran.",
+              "engagement": "137K views",
+              "views": 136862
+            },
+            {
+              "label": "Democrat",
+              "handle": "MeidasTouch",
+              "url": "https://x.com/MeidasTouch/status/2063773940003299765",
+              "body": "JUST IN: Progressive Nithya Raman will advance to the general election and face incumbent Karen Bass in the Los Angeles mayoral race, according to Decision Desk HQ projections. It\u2019s over for former reality TV villain Spencer Pratt.",
+              "engagement": "444K views",
+              "views": 444260
             }
           ]
         },
@@ -178,14 +178,6 @@
     "top": {
       "stories": [
         {
-          "handle": "famitsu",
-          "url": "https://x.com/famitsu/status/2063516441727668551",
-          "headline": "Japanese gaming site shares mysterious glowing TV clip hinting at Xbox event.",
-          "body": "\u30de\u30e8\u30ca\u30ab\u306b\u5149\u308b\u3001\u30c6\u30ec\u30d3\u2026\u2026\uff1f\n\n\u3068\u3042\u308b\u60c5\u5831\u7b4b\u304b\u3089\u610f\u5473\u6df1\u306a\u6620\u50cf\u304c\u5230\u7740\u3002\nhttps://www.famitsu.com/article/202606/77131\n\n\u660e\u65e5\uff086\u67088\u65e5\u5348\u524d2\u6642\uff5e\uff09\u306e\u300cXbox Games Showcase 2026\u300d\u306b\u3066\u8a73\u7d30\u304c\u660e\u304b\u3055\u308c\u308b\u3068\u601d\u308f\u308c\u308b\u3002",
-          "engagement": "3.99M views",
-          "views": 3996543
-        },
-        {
           "handle": "asha_shar",
           "url": "https://x.com/asha_shar/status/2063669366126956583",
           "headline": "Xbox announces Gears as console exclusive.",
@@ -212,14 +204,6 @@
           "body": "In @nytopinion\n\n\u201cRussia\u2019s decline has given Turkey, after a decade of deference to Moscow, the freedom to pursue its interests. Ukraine is the beneficiary,\u201d Gonul Tol writes. https://www.nytimes.com/2026/06/07/opinion/russia-turkey-putin-erdogan-ukraine.html?smid=tw-nytimes&smtyp=cur",
           "engagement": "86K views",
           "views": 86057
-        },
-        {
-          "handle": "nytimes",
-          "url": "https://x.com/nytimes/status/2063611063656923265",
-          "headline": "Scott Pelley discusses firing from 60 Minutes and response to Trump comments in exclusive interview.",
-          "body": "In an exclusive interview, Scott Pelley spoke about being fired from \u201c60 Minutes,\u201d and why he thinks Bari Weiss should leave her job as the CBS News editor in chief. He also responded to President Trump\u2019s comments. Watch, read or listen to \u201cThe Interview.\u201d https://www.nytimes.com/2026/06/07/magazine/scott-pelley-interview.html?smtyp=cur&smid=tw-nytimes",
-          "engagement": "261K views",
-          "views": 260885
         }
       ]
     },
@@ -240,14 +224,6 @@
           "body": "algu\u00e9m me explica como se eu tivesse 5 anos porque o Wesley foi cortado da Copa por les\u00e3o e o Neymar lesionado continua convocado?",
           "engagement": "2.0M views",
           "views": 1994517
-        },
-        {
-          "handle": "FabrizioRomano",
-          "url": "https://x.com/FabrizioRomano/status/2063579677957017641",
-          "headline": "Initial agreement on personal terms between Juventus and Alexander S\u00f8rloth",
-          "body": "\ud83d\udea8\u26aa\ufe0f\u26ab\ufe0f Initial agreement on personal terms between Juventus and Alexander S\u00f8rloth\u2019s camp. Talks to continue between Juve and Atl\u00e9ti as the two sides keep discussing also about Nico Gonz\u00e1lez. @MatteMoretto \ud83c\udfa5\ud83c\uddee\ud83c\uddf9 https://www.youtube.com/watch?v=CN3lOYKKawk&feature=youtu.be",
-          "engagement": "1.2M views",
-          "views": 1235550
         }
       ]
     },
@@ -255,16 +231,7 @@
       "stories": []
     },
     "pods": {
-      "stories": [
-        {
-          "handle": "GodRulesIRL",
-          "url": "https://x.com/GodRulesIRL/status/2063508312809722039",
-          "headline": "Devon Larratt shares story of demon possession in Iraq on Joe Rogan podcast.",
-          "body": "Devon Larratt just told Joe Rogan that during his Military Days, he and his Team went on a Military Campaign in the Ancient City of Erbil in Iraq, which is one of the most Ancient Cities in all of World History and is historically linked to Ancient Sumer and Ancient Babylon.\n\nHe said that while they were in Erbil, one of his Comrades, who was in the Military with him, got possessed by a Demon for almost two whole Weeks.\n\nAccording to Devon Larratt, once it happened, he could instantly speak other Languages and psychically knew the deepest secrets of everyone around him, such as their Sins, as well as everything about their Childhoods, along with things that they never told anybody before, where this Ancient Sumerian Demon was apparently trying to mimic the Gifts Of The Holy Spirit.\n\nHis demonically-possessed Comrade went to several Military Medical Professionals to try to figure out what was wrong with him and they all told him that he needed to see the Military Priest that was touring with them in Iraq and then the Priest performed an Exorcism on him and successfully drove out the Demon.\n\nWhat was even stranger is that the Priest told them that he has dealt with this particular Ancient Demon  many times before and has seen multiple people start doing the exact same things that he was doing and perceiving instantly once they were possessed by it just like he did and the Priest wasn\u2019t surprised by any of these things at all once they told him about them.\n\nThe now formerly-possessed Man still has to check up with his Local Parish atleast once a Week, and, needless to say, he retired from the Military after having that insane experience.",
-          "engagement": "370K views",
-          "views": 370527
-        }
-      ]
+      "stories": []
     },
     "pg6": {
       "stories": [
@@ -325,22 +292,6 @@
     "science": {
       "stories": [
         {
-          "handle": "SpaceX",
-          "url": "https://x.com/SpaceX/status/2063502527358816513",
-          "headline": "Falcon 9 launches 21 Starlink satellites and two Starshield satellites from California",
-          "body": "Falcon 9 launches 21 @Starlink satellites and two Starshield satellites from California",
-          "engagement": "881K views",
-          "views": 881721
-        },
-        {
-          "handle": "InTheAssembly",
-          "url": "https://x.com/InTheAssembly/status/2063530939163066646",
-          "headline": "Japanese company holds patents essential for every leading-edge AI chip",
-          "body": "A $800M Japanese company holds the patents that every leading-edge AI chip on Earth depends on.\n\nSamsung tried to source around them. Samsung lost in court.\n\nHere it is:",
-          "engagement": "730K views",
-          "views": 730560
-        },
-        {
           "handle": "NVIDIAAIInfra",
           "url": "https://x.com/NVIDIAAIInfra/status/2063761362396778613",
           "headline": "NVIDIA and SK hynix announce multiyear partnership for next-gen AI memory",
@@ -351,27 +302,10 @@
       ]
     },
     "local": {
-      "stories": [
-        {
-          "handle": "CBSLosAngeles",
-          "url": "https://x.com/CBSLosAngeles/status/2063505252419067990",
-          "headline": "3 hospitalized after stabbing on San Clemente Pier",
-          "body": "3 hospitalized after stabbing on San Clemente Pier, according to Orange County deputies https://www.cbsnews.com/losangeles/news/san-clemente-pier-stabbing-avenida-victoria/",
-          "engagement": "6K views",
-          "views": 6234
-        }
-      ]
+      "stories": []
     },
     "conspiracy": {
       "stories": [
-        {
-          "handle": "Truthpole",
-          "url": "https://x.com/Truthpole/status/2063608573456760838",
-          "headline": "Brazil releases national UFO files with 893 incidents from 1952-2023",
-          "body": "\ud83d\udea8 Breaking - Brazil has released its national UFO files ahead of schedule. The collection contains 893 documented incidents spanning 1952 to 2023, organized chronologically and now publicly accessible through the SIAN National Archive platform.\n\nThis major disclosure move adds significant new data to the global UAP conversation from one of the most active regions in recent months. \n\nLink in the comments",
-          "engagement": "353K views",
-          "views": 353170
-        },
         {
           "handle": "Timodc",
           "url": "https://x.com/Timodc/status/2063725051979911364",
@@ -391,17 +325,8 @@
       ]
     },
     "comedy": {
-      "stories": [
-        {
-          "handle": "CoveredGeekly",
-          "url": "https://x.com/CoveredGeekly/status/2063608195659030641",
-          "headline": "Viral comedy clip from George of the Jungle 2 recast joke",
-          "body": "George of the Jungle 2 addressing why Brendan Fraser was recast by getting the new actor to joke about it in the movie \"Studio too cheap to pay Brendan Fraser\"",
-          "engagement": "1.7M views",
-          "views": 1702991
-        }
-      ]
+      "stories": []
     }
   },
-  "last_updated": "2026-06-08T04:04:17.075862"
+  "last_updated": "2026-06-08T12:28:46.471068"
 }
