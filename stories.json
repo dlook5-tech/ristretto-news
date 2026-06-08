@@ -1,69 +1,115 @@
 {
   "stories": {
     "world": {
-      "stories": []
-    },
-    "usa": {
       "stories": [
         {
-          "headline": "Trump announces strategic petroleum reserve trades for 25% return adding 40M barrels without taxpayer cost",
-          "url": "https://x.com/SecretaryWright/status/2063061410670633228",
-          "handle": "SecretaryWright",
+          "headline": "Albanian government halts Kushner-Ivanka resort project amid mass protests",
+          "url": "https://x.com/BronzyGuevara/status/2063225415565455619",
+          "handle": "BronzyGuevara",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "SecretaryWright",
-              "url": "https://x.com/SecretaryWright/status/2063061410670633228",
-              "body": "The Strategic Petroleum Reserve should be used strategically, not politically. Biden tapped the SPR to try to win an election. President Trump is tactically trading every barrel for a 25% return in the next year, adding 40 million barrels to the SPR without a taxpayer dollar.",
-              "engagement": "151K views",
-              "views": 151333
+              "handle": "OwenShroyer1776",
+              "url": "https://x.com/OwenShroyer1776/status/2064039421423321459",
+              "body": "Protests in Albania continue. Even Albainian Americans are protesting here. Remember when the media all wanted you to know & hear about Iran protests, which were mostly astro turf & virtually no videos of Iran? Now they ignore Albania. Why?",
+              "engagement": "2.3K likes",
+              "views": 32814
             },
             {
               "label": "Independent",
-              "handle": "WatcherGuru",
-              "url": "https://x.com/WatcherGuru/status/2063747628165222551",
-              "body": "JUST IN: Bitcoin surges 5% to $64,000 after President Trump says Israeli PM Netanyahu has \"no choice\" but to accept an Iran deal.",
-              "engagement": "671K views",
-              "views": 671349
+              "handle": "CryptoWhale",
+              "url": "https://x.com/CryptoWhale/status/2063696640649691202",
+              "body": "\ud83c\udde6\ud83c\uddf1 | After 6 days of furious protests that changed nothing, violent armed clashes have now erupted in northern Albania. Enraged Albanians are rising up against the ultimate betrayal: their only island - the strategic military outpost of Sazan - is being sold to Jared Kushner.",
+              "engagement": "2.3K likes",
+              "views": 282093
             },
             {
               "label": "Democrat",
-              "handle": "harryjsisson",
-              "url": "https://x.com/harryjsisson/status/2063089773904793995",
-              "body": "This is a real photo of Donald Trump being helped off the stage today after his event in Wisconsin. This man is not healthy. 25th Amendment NOW",
-              "engagement": "232K views",
-              "views": 231967
+              "handle": "OccupyDemocrats",
+              "url": "https://x.com/OccupyDemocrats/status/2064033911785836553",
+              "body": "BREAKING: HELL YES! The European Union strikes a CRUSHING blow against Jared Kushner's corrupt resort development by warning Albania that it could endanger their efforts to join the EU. This scandal just shot through the stratosphere...",
+              "engagement": "3.2K likes",
+              "views": 44277
             }
           ]
         },
         {
-          "headline": "LA mayoral primary results spark fraud claims after late ballot dumps favor Nithya Raman over Spencer Pratt",
-          "url": "https://x.com/MeidasTouch/status/2063773940003299765",
-          "handle": "MeidasTouch",
+          "headline": "Russian forces withdraw from Kinburn Spit due to Ukrainian drone strikes",
+          "url": "https://x.com/WarMonitor3/status/2064011164040806673",
+          "handle": "WarMonitor3",
+          "perspectives": [
+            {
+              "label": "Independent",
+              "handle": "WarMonitor3",
+              "url": "https://x.com/WarMonitor3/status/2064011164040806673",
+              "body": "Russian forces according to reports are being forced to withdraw on mass from positions around the Kinburn Spit south of the Dnipro river due to severe supply difficulties caused by continued Ukrainian drone strike campaigns on Southern logistical routes.",
+              "engagement": "8K likes",
+              "views": 189283
+            }
+          ]
+        }
+      ]
+    },
+    "usa": {
+      "stories": [
+        {
+          "headline": "Trump admin plans largest-ever denaturalization of 17 US citizens for immigration fraud",
+          "url": "https://x.com/CBSNews/status/2063991722116255928",
+          "handle": "CBSNews",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "bennyjohnson",
-              "url": "https://x.com/bennyjohnson/status/2063807221859753984",
-              "body": "They want you to believe this happened in the LA Mayors race\u2026 3rd place jumps to 1st in *every* ballot drop *after* Election Day Defies all mathematical probability, the law of averages and has never happened in US election history No one with a functional brain believes this",
-              "engagement": "112K views",
-              "views": 112211
+              "handle": "EricLDaugh",
+              "url": "https://x.com/EricLDaugh/status/2063994691989672225",
+              "body": "\ud83d\udea8 BREAKING: The Trump DOJ is set to announce the LARGEST-EVER program to DENATURALIZE US citizens accused of immigration fraud \u2014 CBS\n\nLET'S GO! Please work Ilhan Omar in there! \ud83d\udd25\n\nThese denaturalization powers were RARELY ever used so aggressively in these cases\n\nJD Vance and AG Todd Blanche are going all-out in sending foreign pirates back to their home countries! \ud83c\uddfa\ud83c\uddf8",
+              "engagement": "177K views",
+              "views": 177101
             },
             {
               "label": "Independent",
-              "handle": "BRICSinfo",
-              "url": "https://x.com/BRICSinfo/status/2063815240819597539",
-              "body": "Timeline of events today: \ud83c\uddee\ud83c\uddf1 Israel strikes Beirut, Lebanon. \ud83c\uddee\ud83c\uddf7 Iran launches ballistic missiles towards Israel. \ud83c\uddfa\ud83c\uddf8 President Trump says he's not happy with Israel's initial strike in Beirut & tells Netanyahu not to respond right away. \ud83c\uddee\ud83c\uddf1 Israel strikes Tehran, Iran.",
-              "engagement": "137K views",
-              "views": 136862
+              "handle": "CBSNews",
+              "url": "https://x.com/CBSNews/status/2063991722116255928",
+              "body": "EXCLUSIVE: The Trump administration plans to announce it is seeking to revoke the citizenship of 17 U.S. citizens accused of immigration fraud, expanding its unprecedented denaturalization campaign, CBS News has exclusively learned.",
+              "engagement": "2.26M views",
+              "views": 2256956
+            }
+          ]
+        },
+        {
+          "headline": "California election results delayed amid fraud claims after Spencer Pratt loss",
+          "url": "https://x.com/EricLDaugh/status/2064019670345109675",
+          "handle": "EricLDaugh",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "EricLDaugh",
+              "url": "https://x.com/EricLDaugh/status/2064019670345109675",
+              "body": "\ud83d\udea8 BREAKING: President Trump says it was NOT POSSIBLE for Spencer Pratt to be defeated by Nithya Raman \"after the big lead he had\"\n\n\"3rd World Nation. Rigged Elections! Now they\u2019ll be working on great guy Steve Hilton. Won\u2019t have results for, possibly, TWO WEEKS, according to officials.\" \ud83e\udd2f\n\nCalifornia Democrats legalized election fraud!\n\nIt's a worldwide embarrassment.",
+              "engagement": "214K views",
+              "views": 213934
             },
             {
               "label": "Democrat",
-              "handle": "MeidasTouch",
-              "url": "https://x.com/MeidasTouch/status/2063773940003299765",
-              "body": "JUST IN: Progressive Nithya Raman will advance to the general election and face incumbent Karen Bass in the Los Angeles mayoral race, according to Decision Desk HQ projections. It\u2019s over for former reality TV villain Spencer Pratt.",
-              "engagement": "444K views",
-              "views": 444260
+              "handle": "jacobsoboroff",
+              "url": "https://x.com/jacobsoboroff/status/2063748005656953272",
+              "body": "Trump should show up here at the L.A. County ballot processing center because he\u2019d learn within five minutes this is democracy in action, not some conspiracy.",
+              "engagement": "513K views",
+              "views": 513111
+            }
+          ]
+        },
+        {
+          "headline": "Sen. Hawley pushes SAVE America Act for nationwide voter ID requirements",
+          "url": "https://x.com/HawleyMO/status/2063967894745063846",
+          "handle": "HawleyMO",
+          "perspectives": [
+            {
+              "label": "Conservative",
+              "handle": "HawleyMO",
+              "url": "https://x.com/HawleyMO/status/2063967894745063846",
+              "body": "80% of Americans are in favor of voter ID. 95% of Missourians are in favor of voter ID \n\nPass the SAVE America Act NOW\n\nhttps://thehill.com/homenews/senate/5914534-save-america-act-fails-senate-vote/",
+              "engagement": "338K views",
+              "views": 338184
             }
           ]
         }
@@ -72,116 +118,225 @@
     "business": {
       "stories": [
         {
-          "handle": "Kalshi",
-          "url": "https://x.com/Kalshi/status/2063749468667728349",
-          "headline": "S&P 500 futures erase all losses and turn green.",
-          "body": "BREAKING: S&P 500 futures erase all losses and turn green",
-          "engagement": "1.4M views",
-          "views": 1428189
+          "handle": "WatcherGuru",
+          "url": "https://x.com/WatcherGuru/status/2063979218023960614",
+          "headline": "Nvidia CEO says AI stocks are 'very cheap' right now.",
+          "body": "JUST IN: Nvidia CEO Jensen Huang says AI stocks are \"very cheap\" right now.",
+          "engagement": "353K views",
+          "views": 353136
+        },
+        {
+          "handle": "TedPillows",
+          "url": "https://x.com/TedPillows/status/2063887824911237378",
+          "headline": "\u00a52 trillion erased from Chinese stock market amid crash.",
+          "body": "\u00a52,000,000,000,000 erased from Chinese stock market today.\n\n\"Everything Crash\" has started.",
+          "engagement": "454K views",
+          "views": 454276
         },
         {
           "handle": "BullTheoryio",
           "url": "https://x.com/BullTheoryio/status/2063802548105232609",
-          "headline": "Over \u00a548.3 trillion ($335 billion) wiped out from Japan's stock market as NIKKEI plunges 4.2%.",
+          "headline": "\u00a548.3 trillion ($335B) wiped from Japan's stock market.",
           "body": "BREAKING: Over \u00a548,300,000,000,000 ($335 BILLION) wiped out from Japan's stock market as the NIKKEI plunges 4.2%.",
-          "engagement": "108K views",
-          "views": 108921
-        },
-        {
-          "handle": "Barchart",
-          "url": "https://x.com/Barchart/status/2063755633451581562",
-          "headline": "Nasdaq with a textbook rejection off the 3-year trendline.",
-          "body": "Nasdaq with a textbook rejection off the 3-year trendline \ud83d\udea8\ud83d\udea8 Each of the prior rejections led to an eventual drop all the way down to the 200-day moving average \ud83d\udcc9\ud83d\udcc9",
-          "engagement": "99K views",
-          "views": 99679
+          "engagement": "366K views",
+          "views": 366099
         }
       ]
     },
     "top": {
-      "stories": []
+      "stories": [
+        {
+          "handle": "DiscussingFilm",
+          "url": "https://x.com/DiscussingFilm/status/2063991419107217728",
+          "headline": "Runtime for Spider-Man: Brand New Day reportedly 2 hours 30 minutes.",
+          "body": "The runtime for \u2018SPIDER-MAN: BRAND NEW DAY\u2019 is reportedly 2 hours and 30 minutes.\n\nThis would make it the longest Spider-Man film ever.",
+          "engagement": "1.5M views",
+          "views": 1455070
+        },
+        {
+          "handle": "narendramodi",
+          "url": "https://x.com/narendramodi/status/2064036761299452013",
+          "headline": "Narendra Modi attends Defence Investiture Ceremony 2026.",
+          "body": "Attended the Defence Investiture Ceremony 2026 (Phase-1) where Gallantry Awards were conferred upon our brave personnel. We are proud of their extraordinary courage, commitment and selfless service to the nation.",
+          "engagement": "516K views",
+          "views": 516470
+        },
+        {
+          "handle": "NASA",
+          "url": "https://x.com/NASA/status/2064034247065665795",
+          "headline": "NASA to announce Artemis III astronauts tomorrow.",
+          "body": "Tomorrow, we're announcing the astronauts flying aboard Artemis III, the mission that will test rendezvous and docking capabilities with commercial lunar landers in low Earth orbit.\n\nIf you could ask the Artemis III astronauts any question, what would you ask them?",
+          "engagement": "388K views",
+          "views": 387698
+        }
+      ]
     },
     "msm": {
       "stories": [
         {
           "handle": "nytimes",
-          "url": "https://x.com/nytimes/status/2063707897364623707",
-          "headline": "Iran fired missiles at Israel, first such attack since April cease-fire.",
-          "body": "Breaking News: Iran fired missiles at Israel, the Israeli military said, the first such attack since a cease-fire paused the U.S.-Israeli war with Iran in April. Follow live updates. https://www.nytimes.com/live/2026/06/07/world/iran-israel-missiles?smid=tw-nytimes&smtyp=cur",
-          "engagement": "357K views",
-          "views": 357476
+          "url": "https://x.com/nytimes/status/2064088797487206849",
+          "headline": "Trump formally nominates Todd Blanche as attorney general",
+          "body": "Breaking News: President Trump formally nominated Todd Blanche as attorney general, setting up a confirmation fight.",
+          "engagement": "55K views",
+          "views": 55184
         },
         {
-          "handle": "nytimes",
-          "url": "https://x.com/nytimes/status/2063791901375897766",
-          "headline": "Russia\u2019s decline gives Turkey freedom to pursue interests, benefiting Ukraine.",
-          "body": "In @nytopinion\n\n\u201cRussia\u2019s decline has given Turkey, after a decade of deference to Moscow, the freedom to pursue its interests. Ukraine is the beneficiary,\u201d Gonul Tol writes. https://www.nytimes.com/2026/06/07/opinion/russia-turkey-putin-erdogan-ukraine.html?smid=tw-nytimes&smtyp=cur",
-          "engagement": "86K views",
-          "views": 86057
+          "handle": "WSJ",
+          "url": "https://x.com/WSJ/status/2063975756976242921",
+          "headline": "North Korea's unlikely economic growth story with smartphones, EVs and pizza",
+          "body": "Smartphones, EVs and brick-oven pizza. North Korea is the world\u2019s most unlikely economic growth story.",
+          "engagement": "106K views",
+          "views": 106081
+        },
+        {
+          "handle": "WSJ",
+          "url": "https://x.com/WSJ/status/2063957970174497070",
+          "headline": "Nippon Steel plans $2-2.5 billion investment at Mon Valley Works",
+          "body": "Exclusive: Nippon Steel, which bought U.S. Steel last year, said it expects to spend $2 billion to $2.5 billion at Mon Valley Works over the next three years to replace the equipment that rolls steel",
+          "engagement": "45K views",
+          "views": 44605
         }
       ]
     },
     "sports": {
-      "stories": []
+      "stories": [
+        {
+          "handle": "espn",
+          "url": "https://x.com/espn/status/2063991785672565174",
+          "headline": "Texas Tech QB Brendan Sorsby granted injunction for 2026 eligibility",
+          "body": "Breaking: A judge in district court in Lubbock County, Texas, has granted the injunction requested by Texas Tech QB Brendan Sorsby. He\u2019s set to be eligible for the 2026 season.\n\nSorsby cannot play in Texas Tech's first two games, which was the penalty his legal team suggested to the NCAA.",
+          "engagement": "2.5M views",
+          "views": 2503810
+        },
+        {
+          "handle": "TheDunkCentral",
+          "url": "https://x.com/TheDunkCentral/status/2064018833250123809",
+          "headline": "Sam Presti comments on SGA facing social media pressure",
+          "body": "\u201cHe\u2019s playing against 6 people. He\u2019s got 5 defenders and the 6th defender is social media.\u201d\n\n- Sam Presti on SGA\n\n(Via @CAlmanza1007 )",
+          "engagement": "699K views",
+          "views": 699219
+        },
+        {
+          "handle": "NFL",
+          "url": "https://x.com/NFL/status/2064090088460755049",
+          "headline": "Fernando Mendoza paints Raiders logo",
+          "body": ".@fernandomendoza did his best trying to paint the @Raiders logo \ud83e\uddd1\u200d\ud83c\udfa8",
+          "engagement": "70K views",
+          "views": 70284
+        }
+      ]
     },
     "elon": {
-      "stories": []
+      "stories": [
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2063866701356089711",
+          "headline": "Elon Musk shares trivia about the name origin of the Straits of Hormuz.",
+          "body": "Straits of Hormuz are named after Ahura Mazda from Zoroastrianism",
+          "engagement": "30.8M views",
+          "views": 30834395
+        }
+      ]
     },
     "pods": {
       "stories": []
     },
     "pg6": {
-      "stories": []
+      "stories": [
+        {
+          "handle": "HollywoodHandle",
+          "url": "https://x.com/HollywoodHandle/status/2064028223743184942",
+          "headline": "Luca Guadagnino calls Top Gun: Maverick a 'very bad movie'",
+          "body": "Luca Guadagnino says \u2018TOP GUN: MAVERICK\u2019 is a \u201cvery bad movie.\u201d\n\nHe says people liked it \u201cbecause the economy of nostalgia right seems to be the only commodity that can be dominated by all types of markets.\u201d",
+          "engagement": "929K views",
+          "views": 929138
+        },
+        {
+          "handle": "PopBase",
+          "url": "https://x.com/PopBase/status/2063834905029546146",
+          "headline": "Kanye West turns 49",
+          "body": "Kanye West turned 49.",
+          "engagement": "2.9M views",
+          "views": 2906845
+        }
+      ]
     },
     "recipe": {
       "stories": [
         {
-          "handle": "captainblack566",
-          "url": "https://x.com/captainblack566/status/2063726582963786155",
-          "headline": "User demonstrates perfect round egg frying technique.",
-          "body": "Sadece beyaz k\u0131sm\u0131 \u00f6nce tavaya yayarak uzat\u0131n, sonra sar\u0131s\u0131n\u0131 ortaya damlat\u0131n... Beyaz k\u0131s\u0131m sar\u0131y\u0131 sar\u0131p m\u00fckemmel yuvarlak bir g\u00f6z yumurtas\u0131 elde edeceksiniz!",
-          "engagement": "12380 views",
-          "views": 12380
+          "handle": "syunkon0507",
+          "url": "https://x.com/syunkon0507/status/2063936783788937409",
+          "headline": "Frozen chicken chashu recipe using a pot without thawing",
+          "body": "\u51b7\u51cd\u30ac\u30c1\u30ac\u30c1\u306e\u304a\u8089\u3092\u89e3\u51cd\u305b\u305a\u305d\u306e\u307e\u307e\u4f7f\u3048\u308b\u9d8f\u30c1\u30e3\u30fc\u30b7\u30e5\u30fc(\u934b\u7248)\u3067\u3059\uff01\uff01\n\n\u304a\u934b\u306b\u7802\u7cd6\u3001\u91a4\u6cb9\u3001\u30c1\u30e5\u30fc\u30d6\u306b\u3093\u306b\u304f\u3001\u6c34\u3001\u51cd\u3063\u305f\u307e\u307e\u306e\u9d8f\u8089\u3092\u30b4\u30f3\u3068\u5165\u308c\u3066\u706b\u306b\u304b\u3051\u308b\u3060\u3051\uff01\n\n\u304a\u8089\u3082\u3081\u3063\u3061\u3083\u67d4\u3089\u304b\u304f\u3001\u3067\u304d\u3066\u3059\u3050\u98df\u3079\u3066\u3082\u5473\u304c\u67d3\u307f\u3066\u3066\u6700\u9ad8\u3067\u3059\uff01\u500b\u4eba\u7684\u306b\u306f\u30ec\u30f3\u30b8\u306e\u65b9\u304c\u30e9\u30af\u3084\u3051\u3069\u3001\u76f8\u6027\u304c\u5408\u308f\u306a\u3044\u65b9\u306f\u305c\u3072",
+          "engagement": "623K views",
+          "views": 623557
         }
       ]
     },
     "science": {
       "stories": [
         {
-          "handle": "NVIDIAAIInfra",
-          "url": "https://x.com/NVIDIAAIInfra/status/2063761362396778613",
-          "headline": "NVIDIA and SK hynix announce multiyear partnership for next-gen AI memory",
-          "body": "\ud83d\udce3 @SKhynix and @NVIDIA announce a multiyear technology partnership to codevelop next-generation memory for the global AI factory buildout.\n\nSK hynix will codevelop memory for NVIDIA's platforms \u2014 from NVIDIA Vera Rubin to Jetson Thor \u2014 while advancing fab digital twins using @NVIDIAOmniverse libraries and applying NVIDIA CUDA-X and PhysicsNeMo to accelerate semiconductor design and manufacturing.\n\nRead the press release:",
-          "engagement": "99K views",
-          "views": 98964
+          "handle": "AnthropicAI",
+          "url": "https://x.com/AnthropicAI/status/2064054837294354677",
+          "headline": "Anthropic publishes science blog on why AI has advanced faster in coding than in biology.",
+          "body": "New Science Blog: Why has AI advanced faster in coding than in biology? \n\nTo agents, bio databases are like cities built before cars\u2014maddening to drive in because they're designed for different traffic. \n\nHow do we build infrastructure agents can use?\nhttps://www.anthropic.com/research/agents-in-biology",
+          "engagement": "96K views",
+          "views": 96084
+        },
+        {
+          "handle": "business",
+          "url": "https://x.com/business/status/2063821109720486249",
+          "headline": "Nvidia CEO Jensen Huang calls global tech stocks selloff a buying opportunity as AI buildout begins.",
+          "body": "Nvidia CEO Jensen Huang calls the global tech stocks selloff that began last week a buying opportunity, saying the buildout of AI has just begun https://www.bloomberg.com/news/articles/2026-06-08/nvidia-ceo-shrugs-off-tech-stock-rout-with-ai-just-beginning?taid=6a2632cf95609a00012e47df&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+          "engagement": "425K views",
+          "views": 425079
+        },
+        {
+          "handle": "AMAZlNGNATURE",
+          "url": "https://x.com/AMAZlNGNATURE/status/2063800272405803080",
+          "headline": "Tardigrades can survive the vacuum of space and extreme conditions by entering a dormant state.",
+          "body": "This tiny creature can survive the vacuum of space\n\nTardigrades can survive extreme cold, intense radiation, the vacuum of space and years without water by entering a nearly indestructible dormant state",
+          "engagement": "113K views",
+          "views": 113305
         }
       ]
     },
     "local": {
-      "stories": []
-    },
-    "conspiracy": {
       "stories": [
         {
-          "handle": "Timodc",
-          "url": "https://x.com/Timodc/status/2063725051979911364",
-          "headline": "Theory of election rigging in LA mayor race",
-          "body": "The theory here is that election officials working for the incumbent LA mayor rigged the election to ensure a general election opponent that has a chance to beat her? A strange conspiracy",
-          "engagement": "26018 views",
-          "views": 26018
+          "handle": "EricLDaugh",
+          "url": "https://x.com/EricLDaugh/status/2063979166584676647",
+          "headline": "Voter fraud allegations involving homeless in Los Angeles and Southern California",
+          "body": "\ud83d\udea8 HOLY CRAP! It's been revealed that TENS OF THOUSANDS of homeless people in Los Angeles might be responsible for the last-minute Nithya Raman surge over Spencer Pratt\n\nRecently, voter fraud was BUSTED on Skid Row\n\nI bet many of them are ILLEGAL ALIENS and non-citizens!\n\nMany of these people don't have IDs and can't prove who they are.\n\nBut leftist activists are deployed to the streets to harvest their \"information\" so they can get mail-in ballots.\n\nFOX NEWS: \"First Assistant U.S. attorney in LA, Bill Essayli, says California has refused to give the federal government its voter rolls and allows first-time voters to use IDs like gym and debit cards.\"\n\n\"Essayli also writes, California allows third parties to collect and turn in ballots on voters' behalf, a practice known as ballot harvesting, with few restrictions.\"\n\n\"This makes it difficult to track who actually received, completed, and submitted each ballot.\"\n\n\"Now, Essayli says there are ongoing voter fraud investigations here in Southern California. He points to a recent woman who was arrested for allegedly paying people on Skid Row to register to vote.\" \u2014 @MattFinnFNC",
+          "engagement": "425K views",
+          "views": 425727
         },
         {
-          "handle": "AllisonPearson",
-          "url": "https://x.com/AllisonPearson/status/2063711357871038699",
-          "headline": "Call for immediate inquest amid cover-up claims",
-          "body": "Henry\u2019s inquest is delayed until September 2027? Surely not. More evidence the police and government want a cover up. We need an inquest asap!",
-          "engagement": "21317 views",
-          "views": 21317
+          "handle": "WallStreetApes",
+          "url": "https://x.com/WallStreetApes/status/2063973066573504721",
+          "headline": "Video of illegal border crossing into Southern California near San Diego",
+          "body": "Illegals are seen using a ladder to illegal enter America from Tijuana into San Diego\n\nThis location is at Border Field State Park. The border wall stretches about 300 feet into the ocean to stop illegals from entering America\n\nAs you can see, California does nothing to stop them and actually this has been encouraged for decades. Anyone in Southern California knows illegals pour into America at this location\n\nThere were lots of videos of this happening during the Biden Admin too\n\nMore illegal Democrats voters headed into California to sign up for benefits",
+          "engagement": "360K views",
+          "views": 360282
         }
       ]
     },
-    "comedy": {
+    "conspiracy": {
       "stories": []
+    },
+    "comedy": {
+      "stories": [
+        {
+          "handle": "depressionlesss",
+          "url": "https://x.com/depressionlesss/status/2063841699818873309",
+          "headline": "Observation on anger as universal fun with video",
+          "body": "It is fascinating that provoking anger is a universal form of fun",
+          "engagement": "1.3M views",
+          "views": 1291545
+        }
+      ]
     }
   },
-  "last_updated": "2026-06-08T18:25:59.247642"
+  "last_updated": "2026-06-08T21:50:38.556468"
 }
