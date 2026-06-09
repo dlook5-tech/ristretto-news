@@ -47,6 +47,21 @@
               "views": 189283
             }
           ]
+        },
+        {
+          "headline": "Israel and Iran exchange missile strikes and air defense attacks in major escalation",
+          "url": "https://x.com/Vikspeaks1/status/2063835996664586347",
+          "handle": "Vikspeaks1",
+          "perspectives": [
+            {
+              "label": "Independent",
+              "handle": "Vikspeaks1",
+              "url": "https://x.com/Vikspeaks1/status/2063835996664586347",
+              "body": "Past 12 hours 1. Iran attacked Israel, Israel attacks at three different locations in Iran. 2. Iran launched an attack on Saudi and Bahrain. 3. POJK protests Pakistani forces kills 200 civilians 4. Earthquake of magnitude 9.0 hits Phillipines. 5. South Korea closes their stock market after crashing -8.4 percent on opening.",
+              "engagement": "20K views",
+              "views": 20676
+            }
+          ]
         }
       ]
     },
@@ -118,6 +133,14 @@
     "business": {
       "stories": [
         {
+          "handle": "zerohedge",
+          "url": "https://x.com/zerohedge/status/2064182468656165352",
+          "headline": "Apollo and Blackstone raise $35B for Anthropic in major private credit deal",
+          "body": "Apollo And Blackstone Raise $35 Billion For Anthropic In One Of The Biggest Ever Private Credit SPV Deals https://www.zerohedge.com/markets/apollo-and-blackstone-raise-35-billion-anthropic-one-biggest-ever-private-credit-spv-deals",
+          "engagement": "58K views",
+          "views": 58467
+        },
+        {
           "handle": "WatcherGuru",
           "url": "https://x.com/WatcherGuru/status/2063979218023960614",
           "headline": "Nvidia CEO says AI stocks are 'very cheap' right now.",
@@ -132,14 +155,6 @@
           "body": "\u00a52,000,000,000,000 erased from Chinese stock market today.\n\n\"Everything Crash\" has started.",
           "engagement": "454K views",
           "views": 454276
-        },
-        {
-          "handle": "BullTheoryio",
-          "url": "https://x.com/BullTheoryio/status/2063802548105232609",
-          "headline": "\u00a548.3 trillion ($335B) wiped from Japan's stock market.",
-          "body": "BREAKING: Over \u00a548,300,000,000,000 ($335 BILLION) wiped out from Japan's stock market as the NIKKEI plunges 4.2%.",
-          "engagement": "366K views",
-          "views": 366099
         }
       ]
     },
@@ -154,53 +169,69 @@
           "views": 1455070
         },
         {
+          "handle": "tim_cook",
+          "url": "https://x.com/tim_cook/status/2064107489847816292",
+          "headline": "Apple CEO unveils next-gen Apple Intelligence and new Siri capabilities.",
+          "body": "The next generation of Apple Intelligence powers an entirely new Siri: making the apps and experiences you rely on across iPhone, iPad, Mac, and Apple Vision Pro more personal and helpful than ever.",
+          "engagement": "729K views",
+          "views": 729282
+        },
+        {
           "handle": "narendramodi",
           "url": "https://x.com/narendramodi/status/2064036761299452013",
           "headline": "Narendra Modi attends Defence Investiture Ceremony 2026.",
           "body": "Attended the Defence Investiture Ceremony 2026 (Phase-1) where Gallantry Awards were conferred upon our brave personnel. We are proud of their extraordinary courage, commitment and selfless service to the nation.",
           "engagement": "516K views",
           "views": 516470
-        },
-        {
-          "handle": "NASA",
-          "url": "https://x.com/NASA/status/2064034247065665795",
-          "headline": "NASA to announce Artemis III astronauts tomorrow.",
-          "body": "Tomorrow, we're announcing the astronauts flying aboard Artemis III, the mission that will test rendezvous and docking capabilities with commercial lunar landers in low Earth orbit.\n\nIf you could ask the Artemis III astronauts any question, what would you ask them?",
-          "engagement": "388K views",
-          "views": 387698
         }
       ]
     },
     "msm": {
       "stories": [
         {
-          "handle": "nytimes",
-          "url": "https://x.com/nytimes/status/2064088797487206849",
-          "headline": "Trump formally nominates Todd Blanche as attorney general",
-          "body": "Breaking News: President Trump formally nominated Todd Blanche as attorney general, setting up a confirmation fight.",
-          "engagement": "55K views",
-          "views": 55184
+          "handle": "CBSNews",
+          "url": "https://x.com/CBSNews/status/2063991722116255928",
+          "headline": "Trump administration seeks to revoke citizenship of 17 accused of immigration fraud",
+          "body": "EXCLUSIVE: The Trump administration plans to announce it is seeking to revoke the citizenship of 17 U.S. citizens accused of immigration fraud, expanding its unprecedented denaturalization campaign, CBS News has exclusively learned.  https://www.cbsnews.com/news/denaturalization-us-citizens-fraud-crimes-trump-administration/?ftag=CNM-00-10aab7e&linkId=957760092",
+          "engagement": "3.2M views",
+          "views": 3248996
         },
         {
-          "handle": "WSJ",
-          "url": "https://x.com/WSJ/status/2063975756976242921",
-          "headline": "North Korea's unlikely economic growth story with smartphones, EVs and pizza",
-          "body": "Smartphones, EVs and brick-oven pizza. North Korea is the world\u2019s most unlikely economic growth story.",
-          "engagement": "106K views",
-          "views": 106081
+          "handle": "ABC",
+          "url": "https://x.com/ABC/status/2064134079604494485",
+          "headline": "Lawsuit seeks to block UFC event at White House South Lawn",
+          "body": "Less than a week before the White House is set to host a UFC event on the South Lawn, a public interest law firm is attempting to stop the high-profile sports event from taking place.",
+          "engagement": "35K views",
+          "views": 34903
         },
         {
-          "handle": "WSJ",
-          "url": "https://x.com/WSJ/status/2063957970174497070",
-          "headline": "Nippon Steel plans $2-2.5 billion investment at Mon Valley Works",
-          "body": "Exclusive: Nippon Steel, which bought U.S. Steel last year, said it expects to spend $2 billion to $2.5 billion at Mon Valley Works over the next three years to replace the equipment that rolls steel",
-          "engagement": "45K views",
-          "views": 44605
+          "handle": "Reuters",
+          "url": "https://x.com/Reuters/status/2064043272146923830",
+          "headline": "Kenyan police fire tear gas at Nairobi National Park protest, arrest ex-chief justice",
+          "body": "Kenyan police fired tear gas to disperse people marching against plans to build on part of Nairobi National Park, arresting at least nine protesters, witnesses said, including David Maraga, the country's former chief justice https://www.reuters.com/business/environment/kenya-police-fire-tear-gas-arrest-ex-chief-justice-national-park-protest-2026-06-08/?utm_source=Facebook&utm_medium=Social",
+          "engagement": "88K views",
+          "views": 88423
         }
       ]
     },
     "sports": {
       "stories": [
+        {
+          "handle": "TheDunkCentral",
+          "url": "https://x.com/TheDunkCentral/status/2064151025427058762",
+          "headline": "Wemby shoves Brunson during NBA Finals Game 3",
+          "body": "Wemby SHOVES Brunson \ud83d\udc40",
+          "engagement": "1.69M views",
+          "views": 1685849
+        },
+        {
+          "handle": "espn",
+          "url": "https://x.com/espn/status/2064151327723123022",
+          "headline": "Brunson frustrated at Wemby in NBA Finals",
+          "body": "Brunson frustrated at Wemby \ud83d\ude33",
+          "engagement": "899K views",
+          "views": 898613
+        },
         {
           "handle": "espn",
           "url": "https://x.com/espn/status/2063991785672565174",
@@ -208,22 +239,6 @@
           "body": "Breaking: A judge in district court in Lubbock County, Texas, has granted the injunction requested by Texas Tech QB Brendan Sorsby. He\u2019s set to be eligible for the 2026 season.\n\nSorsby cannot play in Texas Tech's first two games, which was the penalty his legal team suggested to the NCAA.",
           "engagement": "2.5M views",
           "views": 2503810
-        },
-        {
-          "handle": "TheDunkCentral",
-          "url": "https://x.com/TheDunkCentral/status/2064018833250123809",
-          "headline": "Sam Presti comments on SGA facing social media pressure",
-          "body": "\u201cHe\u2019s playing against 6 people. He\u2019s got 5 defenders and the 6th defender is social media.\u201d\n\n- Sam Presti on SGA\n\n(Via @CAlmanza1007 )",
-          "engagement": "699K views",
-          "views": 699219
-        },
-        {
-          "handle": "NFL",
-          "url": "https://x.com/NFL/status/2064090088460755049",
-          "headline": "Fernando Mendoza paints Raiders logo",
-          "body": ".@fernandomendoza did his best trying to paint the @Raiders logo \ud83e\uddd1\u200d\ud83c\udfa8",
-          "engagement": "70K views",
-          "views": 70284
         }
       ]
     },
@@ -231,11 +246,27 @@
       "stories": [
         {
           "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2064061331418828888",
+          "headline": "Elon Musk celebrates Tesla Model Y as top-selling car in South Korea",
+          "body": "\ud83c\uddf0\ud83c\uddf7\ud83c\uddf0\ud83c\uddf7 Korea is Awesome \ud83c\uddf0\ud83c\uddf7\ud83c\uddf0\ud83c\uddf7",
+          "engagement": "14.4M views",
+          "views": 14423956
+        },
+        {
+          "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2063866701356089711",
-          "headline": "Elon Musk shares trivia about the name origin of the Straits of Hormuz.",
+          "headline": "Elon Musk comments on the origin of the name Straits of Hormuz",
           "body": "Straits of Hormuz are named after Ahura Mazda from Zoroastrianism",
-          "engagement": "30.8M views",
-          "views": 30834395
+          "engagement": "33.8M views",
+          "views": 33816713
+        },
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2063996166983848059",
+          "headline": "Elon Musk replies to post about Peru ballot counting",
+          "body": "That\u2019s because fraud at scale takes time!",
+          "engagement": "9.8M views",
+          "views": 9799207
         }
       ]
     },
@@ -253,12 +284,20 @@
           "views": 929138
         },
         {
-          "handle": "PopBase",
-          "url": "https://x.com/PopBase/status/2063834905029546146",
-          "headline": "Kanye West turns 49",
-          "body": "Kanye West turned 49.",
-          "engagement": "2.9M views",
-          "views": 2906845
+          "handle": "dom_lucre",
+          "url": "https://x.com/dom_lucre/status/2064168205183062120",
+          "headline": "Palm Beach Pete courtside at NBA Finals with Ben Stiller and Timoth\u00e9e Chalamet",
+          "body": "\ud83d\udd25\ud83d\udea8LATEST: Palm Beach Pete is sitting court side at the NBA finals Knicks versus Spurs game with Hollywood actors Ben Stiller and Timoth\u00e9e Chalamet.",
+          "engagement": "55.9K views",
+          "views": 55858
+        },
+        {
+          "handle": "ABC",
+          "url": "https://x.com/ABC/status/2064166954865242328",
+          "headline": "Celebrities attend Knicks vs Spurs NBA Finals Game 3",
+          "body": "The New York Knicks' return to the NBA Finals brought out some of the biggest names in entertainment, sports and politics on Monday night for Game 3.\n\nRead more: https://www.goodmorningamerica.com/culture/story/celebrities-attended-knicks-spurs-nba-finals-game-3-133699266?cid=social_twitter_abcn",
+          "engagement": "29.5K views",
+          "views": 29497
         }
       ]
     },
@@ -277,33 +316,41 @@
     "science": {
       "stories": [
         {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2064187087184650253",
+          "headline": "Elon Musk posts about SpaceX AI Satellites with video.",
+          "body": "SpaceX AI Satellites",
+          "engagement": "170K views",
+          "views": 170415
+        },
+        {
           "handle": "AnthropicAI",
           "url": "https://x.com/AnthropicAI/status/2064054837294354677",
-          "headline": "Anthropic publishes science blog on why AI has advanced faster in coding than in biology.",
+          "headline": "Anthropic shares new science blog on why AI advances faster in coding than biology.",
           "body": "New Science Blog: Why has AI advanced faster in coding than in biology? \n\nTo agents, bio databases are like cities built before cars\u2014maddening to drive in because they're designed for different traffic. \n\nHow do we build infrastructure agents can use?\nhttps://www.anthropic.com/research/agents-in-biology",
-          "engagement": "96K views",
-          "views": 96084
+          "engagement": "235K views",
+          "views": 235681
         },
         {
-          "handle": "business",
-          "url": "https://x.com/business/status/2063821109720486249",
-          "headline": "Nvidia CEO Jensen Huang calls global tech stocks selloff a buying opportunity as AI buildout begins.",
-          "body": "Nvidia CEO Jensen Huang calls the global tech stocks selloff that began last week a buying opportunity, saying the buildout of AI has just begun https://www.bloomberg.com/news/articles/2026-06-08/nvidia-ceo-shrugs-off-tech-stock-rout-with-ai-just-beginning?taid=6a2632cf95609a00012e47df&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-          "engagement": "425K views",
-          "views": 425079
-        },
-        {
-          "handle": "AMAZlNGNATURE",
-          "url": "https://x.com/AMAZlNGNATURE/status/2063800272405803080",
-          "headline": "Tardigrades can survive the vacuum of space and extreme conditions by entering a dormant state.",
-          "body": "This tiny creature can survive the vacuum of space\n\nTardigrades can survive extreme cold, intense radiation, the vacuum of space and years without water by entering a nearly indestructible dormant state",
-          "engagement": "113K views",
-          "views": 113305
+          "handle": "techguyumar",
+          "url": "https://x.com/techguyumar/status/2063979353562632608",
+          "headline": "Tech guide on making money online using Canva, AI tools, and digital products.",
+          "body": "\u2022 open canva \n\u2022 search ebook templates\n\u2022 click on customize \n\u2022 edit the template \n\u2022 click share \n\u2022 download as pdf \n\u2022 search beacons. ai \n\u2022 open an account \n\u2022 click digital products \n\u2022 upload the file \n\u2022 hit publish \n\u2022 sell it 100 times at $27\n\u2022 make $2.7k monthly",
+          "engagement": "38K views",
+          "views": 38141
         }
       ]
     },
     "local": {
       "stories": [
+        {
+          "handle": "VoteHub",
+          "url": "https://x.com/VoteHub/status/2064139650906603832",
+          "headline": "Orange County election vote drop update for 6/8",
+          "body": "Orange County 6/8 Drop \nCandidate \u2013 Votes (Percent, Difference from 6/2 Votes)\n\n\ud83d\udd35 Xavier Becerra \u2013 13,807 (29.6%, +7.8%) \n\ud83d\udd34 Steve Hilton \u2013 13,156 (28.2%, -9.5%) \n\ud83d\udd35 Tom Steyer \u2013 10,583 (22.7%, +7.1%) \n\ud83d\udd34 Chad Bianco \u2013 3,815 (8.2%, -3.0%)",
+          "engagement": "161K views",
+          "views": 160818
+        },
         {
           "handle": "EricLDaugh",
           "url": "https://x.com/EricLDaugh/status/2063979166584676647",
@@ -323,20 +370,45 @@
       ]
     },
     "conspiracy": {
-      "stories": []
+      "stories": [
+        {
+          "handle": "MrWhiplash_",
+          "url": "https://x.com/MrWhiplash_/status/2064057760623301053",
+          "headline": "RFK Jr. confirms conspiracy theories on COVID, chemtrails and government deception were true.",
+          "body": "\ud83d\udea8\ud83d\udd25SHOCKING EXPOSURE: RFK JUST SAID IT..\n\nTHE \u201cCONSPIRACY THEORISTS\u201d WERE RIGHT ALL ALONG \u2014 ABOUT EVERYTHING. UNREAL. BOOOM! [VIDEO]\n\n\ud83d\udea8 \ud83d\udd25 Robert F. Kennedy Jr. has detonated a political earthquake by confirming that the so-called \u201cconspiracy theories\u201d about COVID, chemical trails, and government deception were not theories at all \u2014 they were the cold, hard truth, deliberately hidden from the public.\n\n\ud83d\udea8\ud83d\udd25 THE MOMENT THE LIES COLLAPSED\n\nFOLLOW ME, THE NEXT DROP WILL BE SHOCKING",
+          "engagement": "92K views",
+          "views": 92147
+        },
+        {
+          "handle": "IV_Musketeer",
+          "url": "https://x.com/IV_Musketeer/status/2064037742707638582",
+          "headline": "QAnon allegedly created by Steve Bannon and Jeffrey Epstein, preceded by Cicada 3301.",
+          "body": "#QAnon was created by Steve Bannon and Jeffrey Epstein?\n\nPreceded by Cicada/Cicada 3301?",
+          "engagement": "50K views",
+          "views": 49577
+        },
+        {
+          "handle": "FreeStateWill",
+          "url": "https://x.com/FreeStateWill/status/2063970023786651703",
+          "headline": "More Jan 6 video shows FBI agents clapping than evidence of Capitol poop incident.",
+          "body": "FUN FACT: There is more January 6 video of FBI agents in the crowd clapping as people ran up the steps to the Capitol than there is of poop being smeared on the walls of the Capitol (because the poop was a fake conspiracy theory made up by democrats)!",
+          "engagement": "62K views",
+          "views": 62281
+        }
+      ]
     },
     "comedy": {
       "stories": [
         {
-          "handle": "depressionlesss",
-          "url": "https://x.com/depressionlesss/status/2063841699818873309",
-          "headline": "Observation on anger as universal fun with video",
-          "body": "It is fascinating that provoking anger is a universal form of fun",
-          "engagement": "1.3M views",
-          "views": 1291545
+          "handle": "bourglor",
+          "url": "https://x.com/bourglor/status/2063934999963799743",
+          "headline": "Cute cat meme video of tiny kitty on man's seat",
+          "body": "Get out my seat you little thing / father dad old grown man with big beer belly holding a donut plate is about to sit on his couch but the tiniest cutest cute cat kitty ever is on his seat / video meme awh kawaii cute",
+          "engagement": "133K views",
+          "views": 133967
         }
       ]
     }
   },
-  "last_updated": "2026-06-08T21:50:38.556468"
+  "last_updated": "2026-06-09T03:34:37.106721"
 }
