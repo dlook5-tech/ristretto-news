@@ -34,21 +34,6 @@
           ]
         },
         {
-          "headline": "Russian forces withdraw from Kinburn Spit due to Ukrainian drone strikes",
-          "url": "https://x.com/WarMonitor3/status/2064011164040806673",
-          "handle": "WarMonitor3",
-          "perspectives": [
-            {
-              "label": "Independent",
-              "handle": "WarMonitor3",
-              "url": "https://x.com/WarMonitor3/status/2064011164040806673",
-              "body": "Russian forces according to reports are being forced to withdraw on mass from positions around the Kinburn Spit south of the Dnipro river due to severe supply difficulties caused by continued Ukrainian drone strike campaigns on Southern logistical routes.",
-              "engagement": "8K likes",
-              "views": 189283
-            }
-          ]
-        },
-        {
           "headline": "Protests against Jared Kushner\u2019s Albania resort project escalate into sovereignty and corruption battle",
           "url": "https://x.com/allenanalysis/status/2064126497623826561",
           "handle": "allenanalysis",
@@ -62,31 +47,38 @@
               "views": 49714
             }
           ]
+        },
+        {
+          "headline": "Fire at steel plant in India kills at least eight people",
+          "url": "https://x.com/nexta_tv/status/2064200911883305120",
+          "handle": "nexta_tv",
+          "perspectives": [
+            {
+              "label": "Independent",
+              "handle": "nexta_tv",
+              "url": "https://x.com/nexta_tv/status/2064200911883305120",
+              "body": "1\ufe0f\u20e3 At least eight people were killed in a fire at a steel plant in India (video).",
+              "engagement": "26K views",
+              "views": 26014
+            }
+          ]
         }
       ]
     },
     "usa": {
       "stories": [
         {
-          "headline": "Trump admin plans largest-ever denaturalization of 17 US citizens for immigration fraud",
-          "url": "https://x.com/CBSNews/status/2063991722116255928",
-          "handle": "CBSNews",
+          "headline": "President Trump becomes first sitting US president to attend NBA Finals game",
+          "url": "https://x.com/WhiteHouse/status/2064160712025411903",
+          "handle": "WhiteHouse",
           "perspectives": [
             {
               "label": "Conservative",
-              "handle": "EricLDaugh",
-              "url": "https://x.com/EricLDaugh/status/2063994691989672225",
-              "body": "\ud83d\udea8 BREAKING: The Trump DOJ is set to announce the LARGEST-EVER program to DENATURALIZE US citizens accused of immigration fraud \u2014 CBS\n\nLET'S GO! Please work Ilhan Omar in there! \ud83d\udd25\n\nThese denaturalization powers were RARELY ever used so aggressively in these cases\n\nJD Vance and AG Todd Blanche are going all-out in sending foreign pirates back to their home countries! \ud83c\uddfa\ud83c\uddf8",
-              "engagement": "177K views",
-              "views": 177101
-            },
-            {
-              "label": "Independent",
-              "handle": "CBSNews",
-              "url": "https://x.com/CBSNews/status/2063991722116255928",
-              "body": "EXCLUSIVE: The Trump administration plans to announce it is seeking to revoke the citizenship of 17 U.S. citizens accused of immigration fraud, expanding its unprecedented denaturalization campaign, CBS News has exclusively learned.",
-              "engagement": "2.26M views",
-              "views": 2256956
+              "handle": "WhiteHouse",
+              "url": "https://x.com/WhiteHouse/status/2064160712025411903",
+              "body": "Trust.",
+              "engagement": "1.1M views",
+              "views": 1141855
             }
           ]
         },
@@ -112,33 +104,18 @@
               "views": 236485
             }
           ]
-        },
-        {
-          "headline": "GOP Oversight releases report on $9B Medicaid fraud in Minnesota under Walz and Ellison",
-          "url": "https://x.com/GOPoversight/status/2063955924251738432",
-          "handle": "GOPoversight",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "GOPoversight",
-              "url": "https://x.com/GOPoversight/status/2063955924251738432",
-              "body": "BREAKING: We just released a BOMBSHELL report exposing how Governor Tim Walz and AG Keith Ellison fueled Minnesota's fraud explosion. $9 billion in Medicaid lost. $300 million in federal child nutrition funds were placed at serious risk.",
-              "engagement": "1.2M views",
-              "views": 1208559
-            }
-          ]
         }
       ]
     },
     "business": {
       "stories": [
         {
-          "handle": "kskgroup2017",
-          "url": "https://x.com/kskgroup2017/status/2064298764412534791",
-          "headline": "Most organizations fail because HR and money operate independently of core principles",
-          "body": "\u307b\u3068\u3093\u3069\u306e\u7d44\u7e54\u306e\u7406\u5ff5\u304c\u6a5f\u80fd\u3057\u306a\u3044\u306e\u306f\u3001\u4eba\u4e8b\u3068\u304a\u91d1\u304c\u7406\u5ff5\u3068\u306f\u7121\u95a2\u4fc2\u306b\u52d5\u304f\u304b\u3089\u3002",
-          "engagement": "115K views",
-          "views": 115280
+          "handle": "zerohedge",
+          "url": "https://x.com/zerohedge/status/2064349824183304277",
+          "headline": "US existing home sales rose unexpectedly in May.",
+          "body": "US Existing Home Sales Unexpectedly Jumped In May, Inventories Surge https://www.zerohedge.com/markets/us-existing-home-sales-unexpectedly-jumped-may-inventories-surge",
+          "engagement": "43.8K views",
+          "views": 43829
         },
         {
           "handle": "Kalshi",
@@ -149,12 +126,12 @@
           "views": 1002456
         },
         {
-          "handle": "Kalshi",
-          "url": "https://x.com/Kalshi/status/2063970370340762042",
-          "headline": "Nvidia CEO says AI stocks are very cheap right now.",
-          "body": "BREAKING: Nvidia CEO says AI stocks are \u201cvery cheap\u201d right now",
-          "engagement": "1.3M views",
-          "views": 1311791
+          "handle": "BullTheoryio",
+          "url": "https://x.com/BullTheoryio/status/2064344060316577831",
+          "headline": "US stocks gain $700 billion at market open.",
+          "body": "BREAKING: US stocks added $700 billion in the first 15 minutes of trading as the S&P 500 jumped +0.95% at market open.",
+          "engagement": "33.0K views",
+          "views": 32975
         }
       ]
     },
@@ -189,14 +166,6 @@
     "msm": {
       "stories": [
         {
-          "handle": "CBSNews",
-          "url": "https://x.com/CBSNews/status/2063991722116255928",
-          "headline": "Trump administration seeks to revoke citizenship of 17 accused of immigration fraud",
-          "body": "EXCLUSIVE: The Trump administration plans to announce it is seeking to revoke the citizenship of 17 U.S. citizens accused of immigration fraud, expanding its unprecedented denaturalization campaign, CBS News has exclusively learned.  https://www.cbsnews.com/news/denaturalization-us-citizens-fraud-crimes-trump-administration/?ftag=CNM-00-10aab7e&linkId=957760092",
-          "engagement": "3.2M views",
-          "views": 3248996
-        },
-        {
           "handle": "nytimes",
           "url": "https://x.com/nytimes/status/2064088797487206849",
           "headline": "President Trump nominates Todd Blanche as attorney general",
@@ -207,22 +176,22 @@
         {
           "handle": "nytimes",
           "url": "https://x.com/nytimes/status/2064062299212558557",
-          "headline": "Judge rejects Trump administration visa fee policy",
-          "body": "Breaking News: A federal judge rejected the Trump administration\u2019s policy of imposing $100,000 fees on employers for skilled worker visas.",
-          "engagement": "152K views",
-          "views": 151963
+          "headline": "Federal judge rejects Trump administration policy on $100,000 fees for skilled worker visas.",
+          "body": "Breaking News: A federal judge rejected the Trump administration\u2019s policy of imposing $100,000 fees on employers for skilled worker visas. https://www.nytimes.com/2026/06/08/us/politics/judge-visa-skilled-workers-fee-trump.html?smid=tw-nytimes&smtyp=cur",
+          "engagement": "169K views",
+          "views": 169869
         }
       ]
     },
     "sports": {
       "stories": [
         {
-          "handle": "NBA",
-          "url": "https://x.com/NBA/status/2064193663781998828",
-          "headline": "NBA Finals update on Spurs win",
-          "body": "AREA 51'S FIRST NBA FINALS WIN \ud83d\udc7d\ud83c\udff0\n\nWemby: 32 PTS\nCastle: 23 PTS\n\nFirst teammates, age 22 or younger, to score 20+ PTS in an NBA Finals game!",
-          "engagement": "1.7M views",
-          "views": 1650704
+          "handle": "espn",
+          "url": "https://x.com/espn/status/2064205013493137851",
+          "headline": "ESPN quotes Jalen Brunson on Wemby shoving incident in NBA Finals Game 3",
+          "body": "Brunson on Wemby shoving him in Game 3:\n\n\"Whatever you saw is what you saw.\"",
+          "engagement": "1.9M views",
+          "views": 1900507
         },
         {
           "handle": "ArtButSports",
@@ -233,12 +202,12 @@
           "views": 2031643
         },
         {
-          "handle": "TheDunkCentral",
-          "url": "https://x.com/TheDunkCentral/status/2064151025427058762",
-          "headline": "Wemby shoves Brunson during NBA Finals Game 3",
-          "body": "Wemby SHOVES Brunson \ud83d\udc40",
-          "engagement": "1.69M views",
-          "views": 1685849
+          "handle": "NBA",
+          "url": "https://x.com/NBA/status/2064193663781998828",
+          "headline": "NBA Finals update on Spurs win",
+          "body": "AREA 51'S FIRST NBA FINALS WIN \ud83d\udc7d\ud83c\udff0\n\nWemby: 32 PTS\nCastle: 23 PTS\n\nFirst teammates, age 22 or younger, to score 20+ PTS in an NBA Finals game!",
+          "engagement": "1.7M views",
+          "views": 1650704
         }
       ]
     },
@@ -246,19 +215,19 @@
       "stories": [
         {
           "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2064228172166512905",
-          "headline": "Elon Musk agrees with post on rushed vote counting",
-          "body": "\ud83c\udfaf",
-          "engagement": "7.8M views",
-          "views": 7758079
-        },
-        {
-          "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2064061331418828888",
           "headline": "Elon Musk celebrates Tesla Model Y success in South Korea.",
           "body": "\ud83c\uddf0\ud83c\uddf7\ud83c\uddf0\ud83c\uddf7 Korea is Awesome \ud83c\uddf0\ud83c\uddf7\ud83c\uddf0\ud83c\uddf7",
           "engagement": "18.5M views",
           "views": 18496202
+        },
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2064228172166512905",
+          "headline": "Elon Musk agrees with post on rushed vote counting",
+          "body": "\ud83c\udfaf",
+          "engagement": "7.8M views",
+          "views": 7758079
         },
         {
           "handle": "elonmusk",
@@ -281,12 +250,20 @@
           "views": 730810
         },
         {
+          "handle": "JewishWarrior13",
+          "url": "https://x.com/JewishWarrior13/status/2064169012624281667",
+          "headline": "Criticism of VP's public attack on Israel and recommendation of Theo Von podcast.",
+          "body": "\u2b55\ufe0f So the WH sends the VP to attack Israel publicly and prepare the public for what is about to be an Obama deal 2.0.  And the VP didn't even push back about the lie that Israel is spying on the US. No wonder the VP recommended Theo Von as a \"good podcast\" for young people. Just disgusting.",
+          "engagement": "178K views",
+          "views": 178500
+        },
+        {
           "handle": "joeroganhq",
           "url": "https://x.com/joeroganhq/status/2064018363907744141",
-          "headline": "Clip from Joe Rogan podcast discussing average Facebook salaries and financial habits.",
+          "headline": "Michael Zuber highlights average Facebook salary and employee finances.",
           "body": "Michael Zuber: \"A salary at Facebook is 386 grand. 386 grand is the average salary at Facebook and most of them are living paycheck to paycheck because they do dumb sh*t with money.\"",
-          "engagement": "70K views",
-          "views": 70270
+          "engagement": "71K views",
+          "views": 71651
         }
       ]
     },
@@ -295,10 +272,10 @@
         {
           "handle": "PopBase",
           "url": "https://x.com/PopBase/status/2064105688700469731",
-          "headline": "Ariana Grande and Ethan Slater have broken up according to TMZ.",
-          "body": "Ariana Grande and Ethan Slater have broken up, TMZ reports.",
-          "engagement": "19.7M views",
-          "views": 19701026
+          "headline": "Ariana Grande and Ethan Slater have broken up",
+          "body": "Ariana Grande and Ethan Slater have broken up, TMZ reports. (https://www.tmz.com/2026/06/08/ariana-grande-and-ethan-slater-split/)",
+          "engagement": "24M views",
+          "views": 24203032
         },
         {
           "handle": "TheCriticalDri2",
@@ -323,15 +300,23 @@
         {
           "handle": "morganamooo",
           "url": "https://x.com/morganamooo/status/2064049171460395254",
-          "headline": "Mom's brown butter chocolate chip cookie recipe shared via text.",
+          "headline": "Brown butter chocolate chip cookie recipe shared.",
           "body": "texted my mom for her brown butter chocolate chip cookie recipe and she replied in under a minute",
-          "engagement": "154K views",
-          "views": 154310
+          "engagement": "162K views",
+          "views": 161828
         }
       ]
     },
     "science": {
       "stories": [
+        {
+          "handle": "elonmusk",
+          "url": "https://x.com/elonmusk/status/2064199840087605403",
+          "headline": "SpaceX CFO discusses company updates in interview",
+          "body": "Interview with SpaceX CFO",
+          "engagement": "12.3M views",
+          "views": 12354418
+        },
         {
           "handle": "SpaceX",
           "url": "https://x.com/SpaceX/status/2064099405758906727",
@@ -341,41 +326,17 @@
           "views": 5593908
         },
         {
-          "handle": "yuji_ikegaya",
-          "url": "https://x.com/yuji_ikegaya/status/2063974581082501559",
-          "headline": "Nature Neuroscience study shows artificial induction of sleep-like brain activity refreshes the brain without actual sleep.",
-          "body": "\u3010\u8d77\u304d\u305f\u307e\u307e\u7761\u7720!?\u3011\u7720\u3089\u306a\u304f\u3066\u3082\u3001\u7761\u7720\u4e2d\u3068\u540c\u3058\u8133\u6d3b\u52d5\u30d1\u30bf\u30fc\u30f3\u3092\u4eba\u5de5\u7684\u306b\u4f5c\u308a\u51fa\u305b\u3070\u3001\u3042\u305f\u304b\u3082\u7761\u7720\u3092\u3068\u3063\u305f\u304b\u306e\u3088\u3046\u306b\u8133\u304c\u30ea\u30d5\u30ec\u30c3\u30b7\u30e5\uff08\u7761\u7720\u5727\u304c\u4f4e\u4e0b\u3057\u8a18\u61b6\u529b\u3082\u56de\u5fa9\uff09\u3059\u308b\u305d\u3046\u3067\u3059\u3002\u30de\u30a6\u30b9\u3067\u306e\u5b9f\u8a3c\u3002\u4eca\u65e5\u306e\u300e\u30cd\u30a4\u30c1\u30e3\u30fc\u795e\u7d4c\u79d1\u5b66\u300f\u8a8c\u3088\u308a\u2192 https://www.nature.com/articles/s41593-026-02318-9?error=cookies_not_supported&code=f74c3464-bc43-4498-95ba-9dca89fcb4c9",
-          "engagement": "2.1M views",
-          "views": 2095246
-        },
-        {
-          "handle": "PolymarketMoney",
-          "url": "https://x.com/PolymarketMoney/status/2064174573487058989",
-          "headline": "Anthropic reportedly set to release new AI model Mythos tomorrow.",
-          "body": "JUST IN: Anthropic will reportedly release its new AI model \u201cMythos\u201d tomorrow.",
-          "engagement": "685K views",
-          "views": 685330
+          "handle": "tim_cook",
+          "url": "https://x.com/tim_cook/status/2064107489847816292",
+          "headline": "Apple announces next generation of Apple Intelligence with new Siri",
+          "body": "The next generation of Apple Intelligence powers an entirely new Siri: making the apps and experiences you rely on across iPhone, iPad, Mac, and Apple Vision Pro more personal and helpful than ever.",
+          "engagement": "1.5M views",
+          "views": 1532546
         }
       ]
     },
     "local": {
       "stories": [
-        {
-          "handle": "EricLDaugh",
-          "url": "https://x.com/EricLDaugh/status/2063979166584676647",
-          "headline": "Voter fraud allegations involving homeless in Los Angeles and Southern California",
-          "body": "\ud83d\udea8 HOLY CRAP! It's been revealed that TENS OF THOUSANDS of homeless people in Los Angeles might be responsible for the last-minute Nithya Raman surge over Spencer Pratt\n\nRecently, voter fraud was BUSTED on Skid Row\n\nI bet many of them are ILLEGAL ALIENS and non-citizens!\n\nMany of these people don't have IDs and can't prove who they are.\n\nBut leftist activists are deployed to the streets to harvest their \"information\" so they can get mail-in ballots.\n\nFOX NEWS: \"First Assistant U.S. attorney in LA, Bill Essayli, says California has refused to give the federal government its voter rolls and allows first-time voters to use IDs like gym and debit cards.\"\n\n\"Essayli also writes, California allows third parties to collect and turn in ballots on voters' behalf, a practice known as ballot harvesting, with few restrictions.\"\n\n\"This makes it difficult to track who actually received, completed, and submitted each ballot.\"\n\n\"Now, Essayli says there are ongoing voter fraud investigations here in Southern California. He points to a recent woman who was arrested for allegedly paying people on Skid Row to register to vote.\" \u2014 @MattFinnFNC",
-          "engagement": "425K views",
-          "views": 425727
-        },
-        {
-          "handle": "WallStreetApes",
-          "url": "https://x.com/WallStreetApes/status/2063973066573504721",
-          "headline": "Video of illegal border crossing into Southern California near San Diego",
-          "body": "Illegals are seen using a ladder to illegal enter America from Tijuana into San Diego\n\nThis location is at Border Field State Park. The border wall stretches about 300 feet into the ocean to stop illegals from entering America\n\nAs you can see, California does nothing to stop them and actually this has been encouraged for decades. Anyone in Southern California knows illegals pour into America at this location\n\nThere were lots of videos of this happening during the Biden Admin too\n\nMore illegal Democrats voters headed into California to sign up for benefits",
-          "engagement": "360K views",
-          "views": 360282
-        },
         {
           "handle": "VoteHub",
           "url": "https://x.com/VoteHub/status/2064139650906603832",
@@ -383,11 +344,35 @@
           "body": "Orange County 6/8 Drop \nCandidate \u2013 Votes (Percent, Difference from 6/2 Votes)\n\n\ud83d\udd35 Xavier Becerra \u2013 13,807 (29.6%, +7.8%) \n\ud83d\udd34 Steve Hilton \u2013 13,156 (28.2%, -9.5%) \n\ud83d\udd35 Tom Steyer \u2013 10,583 (22.7%, +7.1%) \n\ud83d\udd34 Chad Bianco \u2013 3,815 (8.2%, -3.0%)",
           "engagement": "161K views",
           "views": 160818
+        },
+        {
+          "handle": "KTLA",
+          "url": "https://x.com/KTLA/status/2064114109071950231",
+          "headline": "Garden Grove officials request GKN Aerospace meeting after chemical emergency",
+          "body": "Garden Grove officials said Monday that GKN Aerospace has agreed to attend a special city council meeting on Tuesday, following the city\u2019s request for company representatives to address last month\u2019s chemical emergency. https://ktla.com/news/orange-county/gkn-aerospace-garden-grove-special-meeting/",
+          "engagement": "3.8K views",
+          "views": 3769
+        },
+        {
+          "handle": "Surfer",
+          "url": "https://x.com/Surfer/status/2064212338262102326",
+          "headline": "Emergency sand work underway in Newport Beach ahead of high surf",
+          "body": "As of Monday evening, emergency sand work was underway in Newport Beach to in anticipation of high surf and coastal surges. https://www.surfer.com/news/big-swell-the-wedge-newport-beach-swell-erosion?taid=6a279f2bfd9a3200015c4907&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+          "engagement": "803 views",
+          "views": 803
         }
       ]
     },
     "conspiracy": {
       "stories": [
+        {
+          "handle": "MrWhiplash_",
+          "url": "https://x.com/MrWhiplash_/status/2064057760623301053",
+          "headline": "RFK Jr. confirms conspiracy theorists were right about COVID, chemtrails, and government deception",
+          "body": "\ud83d\udea8\ud83d\udd25SHOCKING EXPOSURE: RFK JUST SAID IT..\n\nTHE \u201cCONSPIRACY THEORISTS\u201d WERE RIGHT ALL ALONG \u2014 ABOUT EVERYTHING. UNREAL. BOOOM! [VIDEO]\n\n\ud83d\udea8 \ud83d\udd25 Robert F. Kennedy Jr. has detonated a political earthquake by confirming that the so-called \u201cconspiracy theories\u201d about COVID, chemical trails, and government deception were not theories at all \u2014 they were the cold, hard truth, deliberately hidden from the public.\n\n\ud83d\udea8\ud83d\udd25 THE MOMENT THE LIES COLLAPSED\n\nFOLLOW ME, THE NEXT DROP WILL BE SHOCKING",
+          "engagement": "133K views",
+          "views": 132988
+        },
         {
           "handle": "DarkOddCon",
           "url": "https://x.com/DarkOddCon/status/2064155334143246390",
@@ -395,14 +380,6 @@
           "body": "https://t.co/whmQMrQjCc",
           "engagement": "85K views",
           "views": 84917
-        },
-        {
-          "handle": "MrWhiplash_",
-          "url": "https://x.com/MrWhiplash_/status/2064057760623301053",
-          "headline": "RFK Jr. confirms conspiracy theories on COVID, chemtrails and government deception were true.",
-          "body": "\ud83d\udea8\ud83d\udd25SHOCKING EXPOSURE: RFK JUST SAID IT..\n\nTHE \u201cCONSPIRACY THEORISTS\u201d WERE RIGHT ALL ALONG \u2014 ABOUT EVERYTHING. UNREAL. BOOOM! [VIDEO]\n\n\ud83d\udea8 \ud83d\udd25 Robert F. Kennedy Jr. has detonated a political earthquake by confirming that the so-called \u201cconspiracy theories\u201d about COVID, chemical trails, and government deception were not theories at all \u2014 they were the cold, hard truth, deliberately hidden from the public.\n\n\ud83d\udea8\ud83d\udd25 THE MOMENT THE LIES COLLAPSED\n\nFOLLOW ME, THE NEXT DROP WILL BE SHOCKING",
-          "engagement": "92K views",
-          "views": 92147
         },
         {
           "handle": "SternDrewCrypto",
@@ -443,5 +420,5 @@
       ]
     }
   },
-  "last_updated": "2026-06-09T11:16:18.448342"
+  "last_updated": "2026-06-09T14:52:38.894994"
 }
