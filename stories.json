@@ -3,37 +3,6 @@
     "world": {
       "stories": [
         {
-          "headline": "Iran launches ballistic missiles at Israel in escalation over Lebanon and Hezbollah",
-          "url": "https://x.com/BRICSinfo/status/2063702710113775990",
-          "handle": "BRICSinfo",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "PahlaviReza",
-              "url": "https://x.com/PahlaviReza/status/2064027031298277606",
-              "body": "The Islamic Republic, in its support for Hezbollah terrorists in Lebanon, has started yet another military conflict and further revealed its anti-Iranian nature.",
-              "engagement": "246K views",
-              "views": 246871
-            },
-            {
-              "label": "Independent",
-              "handle": "EthanLevins2",
-              "url": "https://x.com/EthanLevins2/status/2064066178952405041",
-              "body": "Israel has given us OnlyFans, War, Debt, and illegal nuclear weapons that threaten the world. Iran has given us algebra, chemistry, and Medicine.",
-              "engagement": "515K views",
-              "views": 515782
-            },
-            {
-              "label": "Democrat",
-              "handle": "IRANinMumbai",
-              "url": "https://x.com/IRANinMumbai/status/2063651576984797651",
-              "body": "Tel Aviv, the world is watching: Your genocidal attacks on #Lebanon won't go unpunished much longer. Accountability is coming.",
-              "engagement": "179K views",
-              "views": 179965
-            }
-          ]
-        },
-        {
           "headline": "Protests against Jared Kushner\u2019s Albania resort project escalate into sovereignty and corruption battle",
           "url": "https://x.com/allenanalysis/status/2064126497623826561",
           "handle": "allenanalysis",
@@ -128,29 +97,6 @@
               "views": 4212
             }
           ]
-        },
-        {
-          "headline": "Senate fails to advance SAVE America Act as California blocks federal voter roll audit",
-          "url": "https://x.com/ScottPresler/status/2063820894238363925",
-          "handle": "ScottPresler",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "ScottPresler",
-              "url": "https://x.com/ScottPresler/status/2063820894238363925",
-              "body": "If we\u2019ve learned anything from the California elections, we MUST pass the SAVE America Act before November 2026.",
-              "engagement": "1.1M views",
-              "views": 1147821
-            },
-            {
-              "label": "Independent",
-              "handle": "RandPaul",
-              "url": "https://x.com/RandPaul/status/2064085916059115955",
-              "body": "Voting with a gym membership or prescription label? That\u2019s absolutely insane, and yet another reason that we must pass the SAVE America Act.",
-              "engagement": "236K views",
-              "views": 236485
-            }
-          ]
         }
       ]
     },
@@ -165,14 +111,6 @@
           "views": 209346
         },
         {
-          "handle": "Kalshi",
-          "url": "https://x.com/Kalshi/status/2064067636338512324",
-          "headline": "Berkshire Hathaway cash could buy nearly every S&P 500 company.",
-          "body": "JUST IN: Berkshire Hathaway has enough cash to acquire nearly every company in the S&P 500",
-          "engagement": "1M views",
-          "views": 1002456
-        },
-        {
           "handle": "WhaleInsider",
           "url": "https://x.com/WhaleInsider/status/2064344664648339516",
           "headline": "Moody's economist warns U.S. economy is on the brink of recession.",
@@ -184,14 +122,6 @@
     },
     "top": {
       "stories": [
-        {
-          "handle": "KaiCenat",
-          "url": "https://x.com/KaiCenat/status/2064063062319968732",
-          "headline": "Kai Cenat promotes Streamer University 2026 event",
-          "body": "Streamer University 2026",
-          "engagement": "24.9M views",
-          "views": 24898093
-        },
         {
           "handle": "elonmusk",
           "url": "https://x.com/elonmusk/status/2064199840087605403",
@@ -219,22 +149,6 @@
           "body": "Pope Leo sat with the pilots of a flight from Madrid to Barcelona on the second leg of his Spain tour. The pontiff was invited aboard by one of the captains, and waved at Spanish Air Force fighter jet pilots escorting the plane",
           "engagement": "141K views",
           "views": 140505
-        },
-        {
-          "handle": "CNN",
-          "url": "https://x.com/CNN/status/2064054982437978532",
-          "headline": "Federal judge voids Trump\u2019s $100,000 H-1B visa application fee requirement.",
-          "body": "A federal judge has voided President Donald Trump\u2019s requirement of a $100,000 application fee for H-1B visas, ruling that he lacked authority to impose the new policy for a program used by companies to hire highly skilled foreign workers in specialized fields.",
-          "engagement": "472K views",
-          "views": 472027
-        },
-        {
-          "handle": "nytimes",
-          "url": "https://x.com/nytimes/status/2064088797487206849",
-          "headline": "President Trump formally nominated Todd Blanche as attorney general.",
-          "body": "Breaking News: President Trump formally nominated Todd Blanche as attorney general, setting up a confirmation fight.",
-          "engagement": "390K views",
-          "views": 389907
         }
       ]
     },
@@ -315,16 +229,7 @@
       ]
     },
     "pg6": {
-      "stories": [
-        {
-          "handle": "PopBase",
-          "url": "https://x.com/PopBase/status/2064105688700469731",
-          "headline": "Ariana Grande and Ethan Slater have broken up, TMZ reports.",
-          "body": "Ariana Grande and Ethan Slater have broken up, TMZ reports. \n\n(https://www.tmz.com/2026/06/08/ariana-grande-and-ethan-slater-split/",
-          "engagement": "28.5M views",
-          "views": 28501737
-        }
-      ]
+      "stories": []
     },
     "recipe": {
       "stories": []
@@ -338,22 +243,6 @@
           "body": "Interview with SpaceX CFO",
           "engagement": "12.3M views",
           "views": 12354418
-        },
-        {
-          "handle": "SpaceX",
-          "url": "https://x.com/SpaceX/status/2064099405758906727",
-          "headline": "SpaceX shares technical update on manufacturing and operating AI satellites at scale.",
-          "body": "Watch @ElonMusk provide a technical update on SpaceX\u2019s capability to manufacture, launch, and operate AI satellites at scale \u2192 https://spacexipo.com/",
-          "engagement": "5.6M views",
-          "views": 5593908
-        },
-        {
-          "handle": "tim_cook",
-          "url": "https://x.com/tim_cook/status/2064107489847816292",
-          "headline": "Apple announces next generation of Apple Intelligence with new Siri",
-          "body": "The next generation of Apple Intelligence powers an entirely new Siri: making the apps and experiences you rely on across iPhone, iPad, Mac, and Apple Vision Pro more personal and helpful than ever.",
-          "engagement": "1.5M views",
-          "views": 1532546
         }
       ]
     },
@@ -394,27 +283,11 @@
           "body": "https://t.co/whmQMrQjCc",
           "engagement": "85K views",
           "views": 84917
-        },
-        {
-          "handle": "SternDrewCrypto",
-          "url": "https://x.com/SternDrewCrypto/status/2064093982871970000",
-          "headline": "Declassified CIA files confirm weather manipulation plans via chemtrails",
-          "body": "\ud83d\udea8\u203c\ufe0f BREAKING: Declassified CIA files expose U.S. plans to control the world by manipulating the weather.\n\nAll those chemtrails in the sky\u2026 100% now confirmed real.",
-          "engagement": "61.7K views",
-          "views": 61651
         }
       ]
     },
     "comedy": {
       "stories": [
-        {
-          "handle": "FearedBuck",
-          "url": "https://x.com/FearedBuck/status/2064096739888422946",
-          "headline": "Knicks fan explains viral NBA Finals catchphrase",
-          "body": "The Knicks fan who went viral after Game 2 of the NBA Finals breaks down the story behind the phrase\n\n\u201cMy mayor\u2019s Muslim. My bagels Jewish. My Christian Dior.\u201d",
-          "engagement": "1.3M views",
-          "views": 1310208
-        },
         {
           "handle": "MikeBeauvais",
           "url": "https://x.com/MikeBeauvais/status/2064164880945430684",
@@ -426,5 +299,5 @@
       ]
     }
   },
-  "last_updated": "2026-06-09T18:06:47.264636"
+  "last_updated": "2026-06-09T21:47:45.874177"
 }
