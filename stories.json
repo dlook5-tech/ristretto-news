@@ -4,105 +4,16 @@
       "stories": []
     },
     "usa": {
-      "stories": [
-        {
-          "headline": "President Trump attends NBA Finals Game 3 in New York, first sitting president to do so",
-          "url": "https://x.com/WhiteHouse/status/2064160712025411903",
-          "handle": "WhiteHouse",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "WhiteHouse",
-              "url": "https://x.com/WhiteHouse/status/2064160712025411903",
-              "body": "Trust.",
-              "engagement": "1.37M views",
-              "views": 1378020
-            },
-            {
-              "label": "Independent",
-              "handle": "espn",
-              "url": "https://x.com/espn/status/2064145404988461187",
-              "body": "President Trump is in attendance for Game 3 in New York. He's the first sitting U.S. President to attend an NBA Finals game.",
-              "engagement": "9.64M views",
-              "views": 9643991
-            },
-            {
-              "label": "Democrat",
-              "handle": "sam_d_1995",
-              "url": "https://x.com/sam_d_1995/status/2064336193051865376",
-              "body": "getting depressed thinking about the timeline where Kamala won, the whole world is excited to be here for the World Cup, and Trump is in prison instead of shutting down midtown so he can fall asleep at the Knicks game",
-              "engagement": "56K views",
-              "views": 56895
-            }
-          ]
-        },
-        {
-          "headline": "Republicans favored to win US House majority in 2026 midterms per latest forecast",
-          "url": "https://x.com/EricLDaugh/status/2064336193051865376",
-          "handle": "EricLDaugh",
-          "perspectives": [
-            {
-              "label": "Conservative",
-              "handle": "EricLDaugh",
-              "url": "https://x.com/EricLDaugh/status/2064336193051865376",
-              "body": "\ud83d\udea8 HOLY CRAP! Republicans are now favored to WIN THE US HOUSE in the 2026 midterms by the latest Inside Elections forecast",
-              "engagement": "454K views",
-              "views": 454590
-            },
-            {
-              "label": "Independent",
-              "handle": "PunchbowlNews",
-              "url": "https://x.com/PunchbowlNews/status/2063939102609658344",
-              "body": "TOP in @PunchbowlNews \u2600\ufe0f AM: From Trump\u2019s Middle East headaches and a looming FISA showdown to House Republicans gearing up for reconciliation 2.0",
-              "engagement": "3K views",
-              "views": 3432
-            },
-            {
-              "label": "Democrat",
-              "handle": "Rep_Stansbury",
-              "url": "https://x.com/Rep_Stansbury/status/2064104933968806019",
-              "body": "It\u2019s Monday\u2014and we\u2019re already at it! With a busy big week ahead: -Trump\u2019s $70 billion ICE slush fund -Epstein case interviews -DOD spending -Supporting families and students",
-              "engagement": "4K views",
-              "views": 4212
-            }
-          ]
-        }
-      ]
+      "stories": []
     },
     "business": {
-      "stories": [
-        {
-          "handle": "business",
-          "url": "https://x.com/business/status/2064341043181400379",
-          "headline": "India freezes Starlink approvals over security concerns tied to Iran.",
-          "body": "India has effectively frozen approvals for Elon Musk\u2019s space-based internet service Starlink to begin commercial operations, citing concerns over the use of its satellite terminals in the Iran war, according to people familiar.",
-          "engagement": "209K views",
-          "views": 209346
-        },
-        {
-          "handle": "WhaleInsider",
-          "url": "https://x.com/WhaleInsider/status/2064344664648339516",
-          "headline": "Moody's economist warns U.S. economy is on the brink of recession.",
-          "body": "JUST IN: \ud83c\uddfa\ud83c\uddf8 U.S. economy is on the precipice of a recession says Moody's top economist.",
-          "engagement": "126K views",
-          "views": 125894
-        }
-      ]
+      "stories": []
     },
     "top": {
       "stories": []
     },
     "msm": {
-      "stories": [
-        {
-          "handle": "Reuters",
-          "url": "https://x.com/Reuters/status/2064376985930138079",
-          "headline": "Pope Leo sat with pilots on flight from Madrid to Barcelona during Spain tour.",
-          "body": "Pope Leo sat with the pilots of a flight from Madrid to Barcelona on the second leg of his Spain tour. The pontiff was invited aboard by one of the captains, and waved at Spanish Air Force fighter jet pilots escorting the plane",
-          "engagement": "141K views",
-          "views": 140505
-        }
-      ]
+      "stories": []
     },
     "sports": {
       "stories": []
@@ -132,5 +43,5 @@
       "stories": []
     }
   },
-  "last_updated": "2026-06-10T08:08:23.982288"
+  "last_updated": "2026-06-10T15:35:53.031178"
 }
