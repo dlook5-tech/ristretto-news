@@ -108,16 +108,7 @@
       "stories": []
     },
     "elon": {
-      "stories": [
-        {
-          "handle": "elonmusk",
-          "url": "https://x.com/elonmusk/status/2064228172166512905",
-          "headline": "Elon Musk agrees with post on rushed vote counting",
-          "body": "\ud83c\udfaf",
-          "engagement": "7.8M views",
-          "views": 7758079
-        }
-      ]
+      "stories": []
     },
     "pods": {
       "stories": []
@@ -141,5 +132,5 @@
       "stories": []
     }
   },
-  "last_updated": "2026-06-10T03:46:38.944681"
+  "last_updated": "2026-06-10T08:08:23.982288"
 }
